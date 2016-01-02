@@ -1,0 +1,214 @@
+{
+  "version": 1,
+  "width": 160,
+  "height": 50,
+  "duration": 16.117608,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "linux",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.005996,
+      "bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)\r\n"
+    ],
+    [
+      0.060463,
+      "bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)\r\n"
+    ],
+    [
+      0.058298,
+      "\u001b[0;90m\u001b[0m\u001b[0;33m\u001b[0m09:52:47 Sat Jan 02 {0}$ "
+    ],
+    [
+      1.639337,
+      "q"
+    ],
+    [
+      0.113219,
+      "u"
+    ],
+    [
+      0.124763,
+      "a"
+    ],
+    [
+      0.052751,
+      "d"
+    ],
+    [
+      0.303198,
+      " "
+    ],
+    [
+      0.525584,
+      "\r\n"
+    ],
+    [
+      0.014862,
+      "\u001b[0;10m\u001b[H\u001b[J\u001b[?25h\u001b[?0c\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[c\u001b[\u003e4;1m\u001b[?1004h\u001b[34m\u001b[40m\u001b[1;80H│\u001b[2;80H│\u001b[3;80H│\u001b[4;80H│\u001b[5;80H│\u001b[6;80H│\u001b[7;80H│\u001b[8;80H│\u001b[9;80H│\u001b[10;80H│\u001b[11;80H│\u001b[12;80H│\u001b[13;80H│\u001b[14;80H│\u001b[15;80H│\u001b[16;80H│\u001b[17;80H│\u001b[18;80H│\u001b[19;80H│\u001b[20;80H│\u001b[21;80H│\u001b[22;80H│\u001b[23;80H│\u001b[24;80H│\r\n───────────────────────────────────────────────────────────────────────────────\u001b[37m\u001b[44m┼────────────────────────────────────────────────────────────────────────────────\u001b[26;80H│\u001b[27;80H│\u001b[28;80H│\u001b[29;80H│\u001b[30;80H│\u001b[31;80H│\u001b[32;80H│\u001b[33;80H│\u001b[34;80H│\u001b[35;80H│\u001b[36;80H│\u001b[37;80H│\u001b[38;80H│\u001b[39;80H\ufffd\ufffd"
+    ],
+    [
+      0.005137,
+      "\ufffd\u001b[40;80H│\u001b[41;80H│\u001b[42;80H│\u001b[43;80H│\u001b[44;80H│\u001b[45;80H│\u001b[46;80H│\u001b[47;80H│\u001b[48;80H│\u001b[49;80H│\u001b[?25l\u001b[?1c\u001b[H\u001b[0;10m                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \u001b[1;81H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[26;1H                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                 "
+    ],
+    [
+      0.000428,
+      "                              \u001b[26;81H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\r\n\u001b[37m\u001b[40mArranging in: tiled                                                                                                                                             \u001b[0;10m\u001b[50;1H\u001b[1;50r\u001b[H\u001b[26;81H\u001b[69C"
+    ],
+    [
+      0.000014,
+      "\u001b[27;81H"
+    ],
+    [
+      0.057811,
+      "\u001b[69C"
+    ],
+    [
+      0.000027,
+      "\u001b[28;81H"
+    ],
+    [
+      0.098112,
+      "\n"
+    ],
+    [
+      0.109220,
+      "\u001b[25C"
+    ],
+    [
+      0.480354,
+      "\u001b[34m\u001b[40m\u001b[1;80H│\u001b[2;80H│\u001b[3;80H│\u001b[4;80H│\u001b[5;80H│\u001b[6;80H│\u001b[7;80H│\u001b[8;80H│\u001b[9;80H│\u001b[10;80H│\u001b[11;80H│\u001b[12;80H│\u001b[13;80H│\u001b[14;80H│\u001b[15;80H│\u001b[16;80H│\u001b[17;80H│\u001b[18;80H│\u001b[19;80H│\u001b[20;80H│\u001b[21;80H│\u001b[22;80H│\u001b[23;80H│\u001b[24;80H│\r\n───────────────────────────────────────────────────────────────────────────────\u001b[37m\u001b[44m┼────────────────────────────────────────────────────────────────────────────────\u001b[26;80H│\u001b[27;80H│\u001b[28;80H│\u001b[29;80H│\u001b[30;80H│\u001b[31;80H│\u001b[32;80H│\u001b[33;80H│\u001b[34;80H│\u001b[35;80H│\u001b[36;80H│\u001b[37;80H│\u001b[38;80H│\u001b[39;80H│\u001b[40;80H│\u001b[41;80H│\u001b[42;80H│\u001b[43;80H│\u001b[44;80H│\u001b[45;80H│\u001b[46;80H│\u001b[47;80H│\u001b[48;80H│\u001b[49;80H│\u001b[H\u001b[0;10m-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)          \r\n-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)          \r\n-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)          \r\n09:52:50 Sat Jan 02 {0}$                                                       \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \u001b[1;81H-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)\u001b[K\u001b[2;81H-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)\u001b[K\u001b[3;81H-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)\u001b[K\u001b[4;81H09:52:50 Sat Jan 02 {0}$ \u001b[K\u001b[5;81H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[26;1H-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)          \r\n-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)          \r\n-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)          \r\n09:52:50 Sat Jan 02 {0}$                                                       \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                            "
+    ],
+    [
+      0.002398,
+      "                                                   \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \u001b[26;81H-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)\u001b[K\u001b[27;81H-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)\u001b[K\u001b[28;81H-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)\u001b[K\u001b[29;81H09:52:50 Sat Jan 02 {0}$ \u001b[K\u001b[30;81H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\r\n\u001b[37m\u001b[44m[quad] 0:bash*                                                                                                                        \"syracuse\" 09:52 02-Jan-16\u001b[0;10m\u001b[29;106H\u001b[?25h\u001b[?0c"
+    ],
+    [
+      4.076835,
+      "\u001b[26;49r\u001b[H\u001b[29;106H3\u001b[1;50r\u001b[H\u001b[29;107H"
+    ],
+    [
+      0.628481,
+      "\u001b[26;49r\u001b[H\u001b[29;106H \u001b[1;50r\u001b[H\u001b[29;106H"
+    ],
+    [
+      0.148716,
+      "\u001b[26;49r\u001b[H\u001b[29;106He\u001b[1;50r\u001b[H\u001b[29;107H"
+    ],
+    [
+      0.162671,
+      "\u001b[26;49r\u001b[H\u001b[29;107Hc\u001b[1;50r\u001b[H\u001b[29;108H"
+    ],
+    [
+      0.082131,
+      "\u001b[26;49r\u001b[H\u001b[29;108Hh\u001b[1;50r\u001b[H\u001b[29;109H"
+    ],
+    [
+      0.126964,
+      "\u001b[26;49r\u001b[H\u001b[29;109Ho\u001b[1;50r\u001b[H\u001b[29;110H"
+    ],
+    [
+      0.070758,
+      "\u001b[26;49r\u001b[H\u001b[29;110H \u001b[1;50r\u001b[H\u001b[29;111H"
+    ],
+    [
+      0.758280,
+      "\u001b[26;49r\u001b[H\u001b[29;111H'\u001b[1;50r\u001b[H\u001b[29;112H"
+    ],
+    [
+      0.198888,
+      "\u001b[26;49r\u001b[H\u001b[29;112Hf\u001b[1;50r\u001b[H\u001b[29;113H"
+    ],
+    [
+      0.146733,
+      "\u001b[26;49r\u001b[H\u001b[29;113Ha\u001b[1;50r\u001b[H\u001b[29;114H"
+    ],
+    [
+      0.069578,
+      "\u001b[26;49r\u001b[H\u001b[29;114Hc\u001b[1;50r\u001b[H\u001b[29;115H"
+    ],
+    [
+      0.050646,
+      "\u001b[26;49r\u001b[H\u001b[29;115He\u001b[1;50r\u001b[H\u001b[29;116H"
+    ],
+    [
+      0.129583,
+      "\u001b[26;49r\u001b[H\u001b[29;116Hp\u001b[1;50r\u001b[H\u001b[29;117H"
+    ],
+    [
+      0.172543,
+      "\u001b[26;49r\u001b[H\u001b[29;117Ha\u001b[1;50r\u001b[H\u001b[29;118H"
+    ],
+    [
+      0.138067,
+      "\u001b[26;49r\u001b[H\u001b[29;118Hl\u001b[1;50r\u001b[H\u001b[29;119H"
+    ],
+    [
+      0.286201,
+      "\u001b[26;49r\u001b[H\u001b[29;119Hm\u001b[1;50r\u001b[H\u001b[29;120H"
+    ],
+    [
+      0.452172,
+      "\u001b[26;49r\u001b[H\u001b[29;120H'\u001b[1;50r\u001b[H\u001b[29;121H"
+    ],
+    [
+      0.236000,
+      "\u001b[26;49r\u001b[H\u001b[30;81Hfacepalm\u001b[1;50r\u001b[H\u001b[31;81H"
+    ],
+    [
+      0.011042,
+      "\u001b[26;49r\u001b[H\u001b[31;81H09:52:58 Sat Jan 02 {0}$ \u001b[1;50r\u001b[H\u001b[31;106H"
+    ],
+    [
+      2.337192,
+      "\u001b[26;49r\u001b[H\u001b[31;106Hlogout\u001b[1;50r\u001b[H\u001b[32;81H\u001b[34m\u001b[40m\u001b[1;80H│\u001b[2;80H│\u001b[3;80H│\u001b[4;80H│\u001b[5;80H│\u001b[6;80H│\u001b[7;80H│\u001b[8;80H│\u001b[9;80H│\u001b[10;80H│\u001b[11;80H│\u001b[12;80H│\u001b[13;80H│\u001b[14;80H│\u001b[15;80H│\u001b[16;80H│\u001b[17;80H│\u001b[18;80H│\u001b[19;80H│\u001b[20;80H│\u001b[21;80H│\u001b[22;80H│\u001b[23;80H│\u001b[24;80H│\u001b[37m\u001b[44m\r\n───────────────────────────────────────────────────────────────────────────────┴────────────────────────────────────────────────────────────────────────────────\u001b[?25l\u001b[?1c\u001b[1;1H\u001b[0;10m-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)          \r\n-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)          \r\n-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)          \r\n09:52:50 Sat Jan 02 {0}$                                                       \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \u001b[1;81H-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)\u001b[K\u001b[2;81H-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)\u001b[K\u001b[3;81H-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)\u001b[K\u001b[4;81H09:52:50 Sat Jan 02 {0}$ \u001b[K\u001b[5;81H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[26;1H-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)\u001b[K\r\n-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)\u001b[K\r\n-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)\u001b[K\r\n09:52:50 Sat Jan 02 {0}$ \u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[37m\u001b[44m[quad] 0:bash*                                                                                                                        \"syracuse\" 09:53 02-Jan-16\u001b[0;10m\u001b[29;26H\u001b[?25h\u001b[?0c"
+    ],
+    [
+      0.957777,
+      "\r\u001b[K\u001b[26;49r\u001b[H\u001b[29d09:52:50 Sat Jan 02 {0}$ logout\u001b[1;50r\u001b[H\u001b[30d"
+    ],
+    [
+      0.003520,
+      "\u001b[34m\u001b[40m\u001b[1;80H│\u001b[2;80H│\u001b[3;80H│\u001b[4;80H│\u001b[5;80H│\u001b[6;80H│\u001b[7;80H│\u001b[8;80H│\u001b[9;80H│\u001b[10;80H│\u001b[11;80H│\u001b[12;80H│\u001b[13;80H│\u001b[14;80H│\u001b[15;80H│\u001b[16;80H│\u001b[17;80H│\u001b[18;80H│\u001b[19;80H│\u001b[20;80H│\u001b[21;80H│\u001b[22;80H│\u001b[23;80H│\u001b[24;80H│\u001b[25;80H│\u001b[37m\u001b[44m\u001b[26;80H│\u001b[27;80H│\u001b[28;80H│\u001b[29;80H│\u001b[30;80H│\u001b[31;80H│\u001b[32;80H│\u001b[33;80H│\u001b[34;80H│\u001b[35;80H│\u001b[36;80H│\u001b[37;80H│\u001b[38;80H│\u001b[39;80H│\u001b[40;80H│\u001b[41;80H│\u001b[42;80H│\u001b[43;80H│\u001b[44;80H│\u001b[45;80H│\u001b[46;80H│\u001b[47;80H│\u001b[48;80H│\u001b[49;80H│\u001b[?25l\u001b[?1c\u001b[H\u001b[0;10m-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)          \r\n-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)          \r\n-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)          \r\n09:52:50 Sat Jan 02 {0}$                                                       \r\n                                                                               \r\n"
+    ],
+    [
+      0.005629,
+      "                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \r\n                                                                               \u001b[1;81H-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)\u001b[K\u001b[2;81H-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)\u001b[K\u001b[3;81H-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)\u001b[K\u001b[4;81H09:52:50 Sat Jan 02 {0}$ \u001b[K\u001b[5;81H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\r\n\u001b[37m\u001b[44m[quad] 0:bash*                                                 "
+    ],
+    [
+      0.000169,
+      "                                                                       \"syracuse\" 09:53 02-Jan-16\u001b[0;10m\u001b[4;106H\u001b[?25h\u001b[?0c"
+    ],
+    [
+      0.439096,
+      "\u001b[25D                                                                                \u001b[4;1H\u001b[1;49r\u001b[H\u001b[4;81H09:52:50 Sat Jan 02 {0}$ logout\u001b[1;50r\u001b[H\u001b[5;81H"
+    ],
+    [
+      0.003611,
+      "\u001b[?25l\u001b[?1c\u001b[H-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)\u001b[K\r\n-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)\u001b[K\r\n-bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)\u001b[K\r\n09:52:50 Sat Jan 02 {0}$ \u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[K\r\n\u001b[37m\u001b[44m[quad] 0:bash*                                                                                                                        \"syracuse\" 09:53 02-Jan-16\u001b[0;10m\u001b[4;26H\u001b[?25h\u001b[?0c"
+    ],
+    [
+      0.340645,
+      "\r\u001b[K\u001b[1;49r\u001b[H\u001b[3B09:52:50 Sat Jan 02 {0}$ logout\u001b[1;50r\u001b[H\u001b[4B"
+    ],
+    [
+      0.002477,
+      "\u001b[1;50r\u001b[0;10m\u001b[H\u001b[J\u001b[?25h\u001b[?0c\u001b[?1000l\u001b[?1006l\u001b[?1005l\u001b[\u003e4m\u001b[?1004l"
+    ],
+    [
+      0.000042,
+      "[exited]\r\n"
+    ],
+    [
+      0.010246,
+      "\u001b[0;90m\u001b[0m\u001b[0;33m\u001b[0m09:53:02 Sat Jan 02 {0}$ "
+    ],
+    [
+      0.418552,
+      "exit\r\n"
+    ]
+  ]
+}
