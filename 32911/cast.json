@@ -1,0 +1,410 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 96.723789,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-termite",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.167013,
+      "\u001b]0;mike@iridium:~/code/sdaio\u0007"
+    ],
+    [
+      0.056958,
+      "[mike\u001b(B\u001b[m\u001b[32m:\u001b(B\u001b[m\u001b[1m~/code/sdaio\u001b(B\u001b[m] \u001b[32mmaster\u001b[31m*\u001b(B\u001b[m \u001b[35m1\u001b(B\u001b[m \u001b[1m±\u001b(B\u001b[m "
+    ],
+    [
+      2.314892,
+      "."
+    ],
+    [
+      0.215971,
+      "/"
+    ],
+    [
+      0.399814,
+      "b"
+    ],
+    [
+      0.328145,
+      "u"
+    ],
+    [
+      0.200188,
+      "i"
+    ],
+    [
+      0.199840,
+      "l"
+    ],
+    [
+      0.136110,
+      "d"
+    ],
+    [
+      0.247840,
+      "."
+    ],
+    [
+      0.496281,
+      "s"
+    ],
+    [
+      0.471962,
+      "h "
+    ],
+    [
+      2.608472,
+      "\r\n"
+    ],
+    [
+      0.303867,
+      "8d4a9156f040e30c368ba0d7a7cca91234502d83d48e7d384194170c7d9b7b5b\r\n"
+    ],
+    [
+      0.544453,
+      "    Updating registry `https://github.com/rust-lang/crates.io-index`\r\n"
+    ],
+    [
+      14.417366,
+      " Downloading cfg-if v0.1.0\r\n"
+    ],
+    [
+      1.890056,
+      " Downloading tempdir v0.3.4\r\n"
+    ],
+    [
+      0.455458,
+      " Downloading pnacl-build-helper v1.4.10\r\n"
+    ],
+    [
+      0.462429,
+      " Downloading log v0.3.4\r\n"
+    ],
+    [
+      0.621023,
+      " Downloading mime v0.1.1\r\n"
+    ],
+    [
+      0.464670,
+      " Downloading bufstream v0.1.1\r\n"
+    ],
+    [
+      0.453956,
+      " Downloading typeable v0.1.2\r\n"
+    ],
+    [
+      0.455335,
+      " Downloading time v0.1.34\r\n"
+    ],
+    [
+      0.652388,
+      " Downloading advapi32-sys v0.1.2\r\n"
+    ],
+    [
+      0.457932,
+      " Downloading libc v0.2.4\r\n"
+    ],
+    [
+      0.874744,
+      " Downloading rand v0.3.12\r\n"
+    ],
+    [
+      0.653859,
+      " Downloading gcc v0.3.21\r\n"
+    ],
+    [
+      0.653302,
+      " Downloading cookie v0.2.2\r\n"
+    ],
+    [
+      0.463243,
+      " Downloading phf v0.7.9\r\n"
+    ],
+    [
+      0.443016,
+      " Downloading error v0.1.9\r\n"
+    ],
+    [
+      0.468074,
+      " Downloading typemap v0.3.3\r\n"
+    ],
+    [
+      0.470749,
+      " Downloading num_cpus v0.2.10\r\n"
+    ],
+    [
+      0.459692,
+      " Downloading lazy_static v0.1.15\r\n"
+    ],
+    [
+      0.478232,
+      " Downloading bitflags v0.3.3\r\n"
+    ],
+    [
+      0.475912,
+      " Downloading traitobject v0.0.1\r\n"
+    ],
+    [
+      0.466871,
+      " Downloading semver v0.1.20\r\n"
+    ],
+    [
+      0.662544,
+      " Downloading hpack v0.2.0\r\n"
+    ],
+    [
+      0.652083,
+      " Downloading libressl-pnacl-sys v2.1.6\r\n"
+    ],
+    [
+      3.306546,
+      " Downloading traitobject v0.0.3\r\n"
+    ],
+    [
+      0.486628,
+      " Downloading kernel32-sys v0.2.1\r\n"
+    ],
+    [
+      0.823673,
+      " Downloading openssl v0.7.4\r\n"
+    ],
+    [
+      0.813822,
+      " Downloading gdi32-sys v0.1.1\r\n"
+    ],
+    [
+      0.495394,
+      " Downloading openssl-sys-extras v0.7.4\r\n"
+    ],
+    [
+      0.471049,
+      " Downloading phf_shared v0.7.9\r\n"
+    ],
+    [
+      0.460845,
+      " Downloading language-tags v0.2.0\r\n"
+    ],
+    [
+      0.467018,
+      " Downloading postgres v0.10.2\r\n"
+    ],
+    [
+      0.827341,
+      " Downloading httparse v1.1.0\r\n"
+    ],
+    [
+      0.462332,
+      " Downloading url v0.5.2\r\n"
+    ],
+    [
+      0.868431,
+      " Downloading modifier v0.1.0\r\n"
+    ],
+    [
+      0.463461,
+      " Downloading route-recognizer v0.1.11\r\n"
+    ],
+    [
+      0.460451,
+      " Downloading persistent v0.0.8\r\n"
+    ],
+    [
+      0.504815,
+      " Downloading unsafe-any v0.4.1\r\n"
+    ],
+    [
+      0.457455,
+      " Downloading urlencoded v0.2.0\r\n"
+    ],
+    [
+      0.463253,
+      " Downloading hyper v0.7.1\r\n"
+    ],
+    [
+      1.048620,
+      " Downloading byteorder v0.4.2\r\n"
+    ],
+    [
+      0.470474,
+      " Downloading uuid v0.1.18\r\n"
+    ],
+    [
+      0.556224,
+      " Downloading rustc_version v0.1.4\r\n"
+    ],
+    [
+      0.459343,
+      " Downloading net2 v0.2.20\r\n"
+    ],
+    [
+      0.644622,
+      " Downloading winapi v0.2.5\r\n"
+    ],
+    [
+      1.652018,
+      " Downloading rustc-serialize v0.3.16\r\n"
+    ],
+    [
+      0.521394,
+      " Downloading conduit-mime-types v0.7.3\r\n"
+    ],
+    [
+      0.481799,
+      " Downloading winapi-build v0.1.1\r\n"
+    ],
+    [
+      0.431325,
+      " Downloading unicase v1.1.1\r\n"
+    ],
+    [
+      0.479673,
+      " Downloading ws2_32-sys v0.2.1\r\n"
+    ],
+    [
+      0.444149,
+      " Downloading phf_generator v0.7.9\r\n"
+    ],
+    [
+      0.448482,
+      " Downloading num v0.1.29\r\n"
+    ],
+    [
+      0.898062,
+      " Downloading pkg-config v0.3.6\r\n"
+    ],
+    [
+      0.496324,
+      " Downloading router v0.1.0\r\n"
+    ],
+    [
+      0.477596,
+      " Downloading matches v0.1.2\r\n"
+    ],
+    [
+      0.494119,
+      " Downloading solicit v0.4.4\r\n"
+    ],
+    [
+      0.843041,
+      " Downloading openssl-sys v0.7.4\r\n"
+    ],
+    [
+      0.457791,
+      " Downloading phf_codegen v0.7.9\r\n"
+    ],
+    [
+      0.483009,
+      " Downloading user32-sys v0.1.2\r\n"
+    ],
+    [
+      0.523735,
+      " Downloading iron v0.2.6\r\n"
+    ],
+    [
+      0.655762,
+      " Downloading serde v0.6.7\r\n"
+    ],
+    [
+      0.692526,
+      " Downloading bodyparser v0.0.6\r\n"
+    ],
+    [
+      0.489040,
+      " Downloading plugin v0.2.6\r\n"
+    ],
+    [
+      0.607599,
+      "   Compiling sdaio v0.1.0 (file:///root/build)\r\n"
+    ],
+    [
+      14.096666,
+      "sdaio-build\r\n"
+    ],
+    [
+      3.006317,
+      "sdaio-build\r\n"
+    ],
+    [
+      0.002953,
+      "\u001b]0;mike@iridium:~/code/sdaio\u0007"
+    ],
+    [
+      0.070269,
+      "[mike\u001b(B\u001b[m\u001b[32m:\u001b(B\u001b[m\u001b[1m~/code/sdaio\u001b(B\u001b[m] \u001b[32mmaster\u001b[31m*\u001b(B\u001b[m \u001b[33m1m12s\u001b(B\u001b[m \u001b[1m±\u001b(B\u001b[m "
+    ],
+    [
+      6.264384,
+      "l"
+    ],
+    [
+      0.071645,
+      "s"
+    ],
+    [
+      0.160125,
+      " "
+    ],
+    [
+      0.616126,
+      "-"
+    ],
+    [
+      0.343963,
+      "l"
+    ],
+    [
+      0.168115,
+      "h"
+    ],
+    [
+      0.175752,
+      " "
+    ],
+    [
+      0.672188,
+      "s"
+    ],
+    [
+      0.247990,
+      "d"
+    ],
+    [
+      0.184046,
+      "a"
+    ],
+    [
+      0.223787,
+      "i"
+    ],
+    [
+      0.127896,
+      "o"
+    ],
+    [
+      0.312460,
+      "\r\n"
+    ],
+    [
+      0.004018,
+      "-rwxr-xr-x 1 mike mike 1.8M Jan  4 22:39 \u001b[0m\u001b[01;32msdaio\u001b[0m\r\n"
+    ],
+    [
+      0.000746,
+      "\u001b]0;mike@iridium:~/code/sdaio\u0007"
+    ],
+    [
+      0.069886,
+      "[mike\u001b(B\u001b[m\u001b[32m:\u001b(B\u001b[m\u001b[1m~/code/sdaio\u001b(B\u001b[m] \u001b[32mmaster\u001b[31m*\u001b(B\u001b[m \u001b[1m±\u001b(B\u001b[m "
+    ],
+    [
+      7.070251,
+      "exit\r\n"
+    ]
+  ]
+}
