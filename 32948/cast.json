@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "width": 79,
+  "height": 23,
+  "duration": 7.750131,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.258718,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                              \r \r"
+    ],
+    [
+      0.000073,
+      "\u001b]7;file://ur/Users/ghostbar/tmp\u0007"
+    ],
+    [
+      0.041227,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mghostbar\u001b[39m at \u001b[38;5;166mur\u001b[39m in \u001b[38;5;118m~/tmp\u001b[39m \r\n$ \u001b[K"
+    ],
+    [
+      0.000059,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000627,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mghostbar\u001b[39m at \u001b[38;5;166mur\u001b[39m in \u001b[38;5;118m~/tmp\u001b[39m \r\n$ \u001b[K"
+    ],
+    [
+      0.603144,
+      "\u001b[4m\u001b[33mn\u001b[24m\u001b[39m"
+    ],
+    [
+      0.079474,
+      "\u0008\u001b[24m\u001b[1m\u001b[31mn\u001b[1m\u001b[31mo\u001b[0m\u001b[39m"
+    ],
+    [
+      0.111520,
+      "\u0008\u0008\u001b[1m\u001b[31mn\u001b[1m\u001b[31mo\u001b[1m\u001b[31md\u001b[0m\u001b[39m"
+    ],
+    [
+      0.071889,
+      "\u0008\u0008\u0008\u001b[0m\u001b[39m\u001b[44mn\u001b[0m\u001b[39m\u001b[44mo\u001b[0m\u001b[39m\u001b[44md\u001b[44me\u001b[49m"
+    ],
+    [
+      0.096594,
+      " "
+    ],
+    [
+      0.215097,
+      "\u001b[4mt\u001b[24m"
+    ],
+    [
+      0.160601,
+      "\u0008\u001b[4mt\u001b[4mi\u001b[24m"
+    ],
+    [
+      0.133606,
+      "\u001b[33m\u001b[39m\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mghostbar\u001b[39m at \u001b[38;5;166mur\u001b[39m in \u001b[38;5;118m~/tmp\u001b[39m \r\n$ \u001b[44mnode\u001b[49m \u001b[4mtimeouts.js\u001b[24m\u001b[1m \u001b[0m\u001b[K"
+    ],
+    [
+      0.474640,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000023,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000701,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mghostbar\u001b[39m at \u001b[38;5;166mur\u001b[39m in \u001b[38;5;118m~/tmp\u001b[39m \r\n$ "
+    ],
+    [
+      0.000005,
+      "\u001b[44mnode\u001b[49m \u001b[4mtimeouts.js\u001b[24m\u001b[K"
+    ],
+    [
+      0.000119,
+      "\r\r\n"
+    ],
+    [
+      2.605066,
+      "I'm being called! Timeout! 1451948189385\r\n"
+    ],
+    [
+      0.004527,
+      "[ { _called: false,\r\n    _idleTimeout: 2892,\r\n    _idlePrev: \r\n     Timer {\r\n       '0': [Function: listOnTimeout],\r\n       _idleNext: [Circular],\r\n       _idlePrev: [Circular],\r\n       msecs: 2892 },\r\n    _idleNext: \r\n     Timer {\r\n       '0': [Function: listOnTimeout],\r\n       _idleNext: [Circular],\r\n       _idlePrev: [Circular],\r\n       msecs: 2892 },\r\n    _idleStart: 173,\r\n    _onTimeout: [Function: toBeSent],\r\n    _repeat: null },\r\n  { _called: true,\r\n    _idleTimeout: 2362,\r\n    _idlePrev: null,\r\n    _idleNext: null,\r\n    _idleStart: 174,\r\n    _onTimeout: [Function: toBeSent],\r\n    _repeat: null } ]\r\n"
+    ],
+    [
+      0.506894,
+      "I'm being called! Timeout! 1451948189898\r\n"
+    ],
+    [
+      0.000360,
+      "[ { _called: true,\r\n    _idleTimeout: 2892,\r\n    _idlePrev: null,\r\n    _idleNext: null,\r\n    _idleStart: 173,\r\n    _onTimeout: [Function: toBeSent],\r\n    _repeat: null },\r\n  { _called: true,\r\n    _idleTimeout: 2362,\r\n    _idlePrev: null,\r\n    _idleNext: null,\r\n    _idleStart: 174,\r\n    _onTimeout: [Function: toBeSent],\r\n    _repeat: null } ]\r\n"
+    ],
+    [
+      0.003469,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                              \r \r"
+    ],
+    [
+      0.000030,
+      "\u001b]7;file://ur/Users/ghostbar/tmp\u0007"
+    ],
+    [
+      0.051430,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mghostbar\u001b[39m at \u001b[38;5;166mur\u001b[39m in \u001b[38;5;118m~/tmp\u001b[39m \r\n$ \u001b[K"
+    ],
+    [
+      0.000026,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000672,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mghostbar\u001b[39m at \u001b[38;5;166mur\u001b[39m in \u001b[38;5;118m~/tmp\u001b[39m \r\n$ "
+    ],
+    [
+      0.000005,
+      "\u001b[K"
+    ],
+    [
+      1.709056,
+      "\u001b[32me\u001b[39m"
+    ],
+    [
+      0.215217,
+      "\u0008\u001b[39m\u001b[44me\u001b[44mx\u001b[49m"
+    ],
+    [
+      0.094768,
+      "\u0008\u0008\u001b[49m\u001b[1m\u001b[31me\u001b[49m\u001b[1m\u001b[31mx\u001b[1m\u001b[31mi\u001b[0m\u001b[39m"
+    ],
+    [
+      0.160808,
+      "\u0008\u0008\u0008\u001b[0m\u001b[39m\u001b[44me\u001b[0m\u001b[39m\u001b[44mx\u001b[0m\u001b[39m\u001b[44mi\u001b[44mt\u001b[49m"
+    ],
+    [
+      0.106526,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000882,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mghostbar\u001b[39m at \u001b[38;5;166mur\u001b[39m in \u001b[38;5;118m~/tmp\u001b[39m \r\n$ "
+    ],
+    [
+      0.000006,
+      "\u001b[44mexit\u001b[49m\u001b[K"
+    ],
+    [
+      0.000093,
+      "\r\r\n"
+    ]
+  ]
+}
