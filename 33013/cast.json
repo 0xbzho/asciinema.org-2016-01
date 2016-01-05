@@ -1,0 +1,434 @@
+{
+  "version": 1,
+  "width": 68,
+  "height": 25,
+  "duration": 39.663682,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.033391,
+      "\u001b(B\u001b[m"
+    ],
+    [
+      0.095768,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000015,
+      "\u001b]2;/Users/kensho/git/test-copi\u0001\u0007\u001b]1;git/test-copi\u0007\u001b[1m\u001b[91mkensho \u001b[38;5;256mat \u001b[38;5;172mKenshos-MacBook-Air.local  \u001b[38;5;190m~/git/test-copi\u001b[38;5;256m on \u001b[38;5;141mmaster\u001b[38;5;256m\r\r\n$ \u001b(B\u001b[m"
+    ],
+    [
+      2.030547,
+      "l"
+    ],
+    [
+      0.417518,
+      "\r\n"
+    ],
+    [
+      0.008317,
+      "total 8\r\n"
+    ],
+    [
+      0.000282,
+      "-rw-r--r--  1 kensho  staff  248 Jan  5 16:48 package.json\r\n"
+    ],
+    [
+      0.025801,
+      "\u001b]2;/Users/kensho/git/test-copi\u0001\u0007\u001b]1;git/test-copi\u0007\u001b[1m\u001b[91mkensho \u001b[38;5;256mat \u001b[38;5;172mKenshos-MacBook-Air.local  \u001b[38;5;190m~/git/test-copi\u001b[38;5;256m on \u001b[38;5;141mmaster\u001b[38;5;256m\r\r\n"
+    ],
+    [
+      0.000012,
+      "$ \u001b(B\u001b[m"
+    ],
+    [
+      1.383847,
+      "c"
+    ],
+    [
+      0.204820,
+      " "
+    ],
+    [
+      0.227028,
+      "p"
+    ],
+    [
+      0.099134,
+      "a"
+    ],
+    [
+      0.234055,
+      "ckage.json "
+    ],
+    [
+      0.364788,
+      "\r\n"
+    ],
+    [
+      0.337260,
+      "\r\n\r\n\r\n\r\n\r\n     \u001b[33m{\u001b[39m\r\n       \u001b[32m\"name\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"test-copi\"\u001b[39m\u001b[32m,\u001b[39m\r\n       \u001b[32m\"version\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"1.0.0\"\u001b[39m\u001b[32m,\u001b[39m\r\n       \u001b[32m\"description\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"\"\u001b[39m\u001b[32m,\u001b[39m\r\n       \u001b[32m\"main\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"index.js\"\u001b[39m\u001b[32m,\u001b[39m\r\n       \u001b[32m\"scripts\"\u001b[39m\u001b[93m:\u001b[39m \u001b[33m{\u001b[39m\r\n         \u001b[32m\"test\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"echo \\\"Error: no test specified\\\" \u0026\u0026 exit 1\"\u001b[39m\r\n       \u001b[33m}\u001b[39m\u001b[32m,\u001b[39m\r\n       \u001b[32m\"keywords\"\u001b[39m\u001b[93m:\u001b[39m \u001b[33m[\u001b[39m\u001b[33m]\u001b[39m\u001b[32m,\u001b[39m\r\n       \u001b[32m\"author\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"\"\u001b[39m\u001b[32m,\u001b[39m\r\n       \u001b[32m\"license\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"ISC\"\u001b[39m\u001b[32m,\u001b[39m\r\n       \u001b[32m\"dependencies\"\u001b[39m\u001b[93m:\u001b[39m \u001b[33m{\u001b[39m\r\n       \u001b[33m}\u001b[39m\r\n     \u001b[33m}\u001b[39m\r\n     \r\n\r\n\r\n\r\n\r\n"
+    ],
+    [
+      0.029131,
+      "\u001b]2;/Users/kensho/git/test-copi\u0001\u0007\u001b]1;git/test-copi\u0007\u001b[1m\u001b[91mkensho \u001b[38;5;256mat \u001b[38;5;172mKenshos-MacBook-Air.local  \u001b[38;5;190m~/git/test-copi\u001b[38;5;256m on \u001b[38;5;141mmaster\u001b[38;5;256m\r\r\n$ \u001b(B\u001b[m"
+    ],
+    [
+      2.636098,
+      "c"
+    ],
+    [
+      0.171563,
+      "o"
+    ],
+    [
+      0.108068,
+      "p"
+    ],
+    [
+      0.198922,
+      "i"
+    ],
+    [
+      0.156100,
+      " "
+    ],
+    [
+      1.023877,
+      "-"
+    ],
+    [
+      0.381035,
+      "S"
+    ],
+    [
+      0.792961,
+      " "
+    ],
+    [
+      0.228051,
+      "l"
+    ],
+    [
+      0.155013,
+      "o"
+    ],
+    [
+      0.075992,
+      "d"
+    ],
+    [
+      0.218911,
+      "a"
+    ],
+    [
+      0.192662,
+      "s"
+    ],
+    [
+      0.164303,
+      "h"
+    ],
+    [
+      0.327992,
+      "\r\n"
+    ],
+    [
+      0.514719,
+      "installing lodash\r\n"
+    ],
+    [
+      0.018551,
+      "elapsed 2372077 ms, maxAge 3600000\r\n"
+    ],
+    [
+      0.036234,
+      "could not read /Users/kensho/git/test-copi/node_modules/lodash/package.json\r\n"
+    ],
+    [
+      0.003219,
+      "found lodash@3.10.1 among 61 candidate(s)\r\n"
+    ],
+    [
+      0.000582,
+      "  installing /Users/kensho/git/1-2-3-linted/node_modules/lodash\r\n"
+    ],
+    [
+      1.960963,
+      "test-copi@1.0.0 /Users/kensho/git/test-copi\r\n└── lodash@3.10.1 \r\n\r\n"
+    ],
+    [
+      0.000887,
+      "npm"
+    ],
+    [
+      0.000418,
+      " "
+    ],
+    [
+      0.000204,
+      "WARN"
+    ],
+    [
+      0.000109,
+      " test-copi@1.0.0 No description\r\n"
+    ],
+    [
+      0.000365,
+      "npm"
+    ],
+    [
+      0.000130,
+      " WARN test-copi@1.0.0 No repository field.\r\n"
+    ],
+    [
+      0.087956,
+      "\u001b]2;/Users/kensho/git/test-copi\u0001\u0007\u001b]1;git/test-copi\u0007\u001b[1m\u001b[91mkensho \u001b[38;5;256mat \u001b[38;5;172mKenshos-MacBook-Air.local  \u001b[38;5;190m~/git/test-copi\u001b[38;5;256m on \u001b[38;5;141mmaster\u001b[38;5;256m\r\r\n"
+    ],
+    [
+      0.000007,
+      "$ \u001b(B\u001b[m"
+    ],
+    [
+      0.949960,
+      "l"
+    ],
+    [
+      0.131443,
+      " "
+    ],
+    [
+      0.167156,
+      "n"
+    ],
+    [
+      0.032058,
+      "o"
+    ],
+    [
+      0.131006,
+      "de_modules/"
+    ],
+    [
+      0.341841,
+      "\r\n"
+    ],
+    [
+      0.015812,
+      "total 0\r\n"
+    ],
+    [
+      0.000440,
+      "drwxr-xr-x  30 kensho  staff  1020 Jan  5 16:49 \u001b[34mlodash\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.029154,
+      "\u001b]2;/Users/kensho/git/test-copi\u0001\u0007\u001b]1;git/test-copi\u0007\u001b[1m\u001b[91mkensho \u001b[38;5;256mat \u001b[38;5;172mKenshos-MacBook-Air.local  \u001b[38;5;190m~/git/test-copi\u001b[38;5;256m on \u001b[38;5;141mmaster\u001b[38;5;256m\r\r\n"
+    ],
+    [
+      0.000008,
+      "$ \u001b(B\u001b[m"
+    ],
+    [
+      1.572793,
+      "c"
+    ],
+    [
+      0.306040,
+      " "
+    ],
+    [
+      0.177868,
+      "p"
+    ],
+    [
+      0.063881,
+      "a"
+    ],
+    [
+      0.327191,
+      "ckage.json "
+    ],
+    [
+      0.416811,
+      "\r\n"
+    ],
+    [
+      0.342606,
+      "\r\n\r\n\r\n\r\n\r\n     \u001b[33m{\u001b[39m\r\n       \u001b[32m\"name\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"test-copi\"\u001b[39m\u001b[32m,\u001b[39m\r\n       \u001b[32m\"version\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"1.0.0\"\u001b[39m\u001b[32m,\u001b[39m\r\n       \u001b[32m\"description\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"\"\u001b[39m\u001b[32m,\u001b[39m\r\n       \u001b[32m\"main\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"index.js\"\u001b[39m\u001b[32m,\u001b[39m\r\n       \u001b[32m\"scripts\"\u001b[39m\u001b[93m:\u001b[39m \u001b[33m{\u001b[39m\r\n         \u001b[32m\"test\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"echo \\\"Error: no test specified\\\" \u0026\u0026 exit 1\"\u001b[39m\r\n       \u001b[33m}\u001b[39m\u001b[32m,\u001b[39m\r\n       \u001b[32m\"keywords\"\u001b[39m\u001b[93m:\u001b[39m \u001b[33m[\u001b[39m\u001b[33m]\u001b[39m\u001b[32m,\u001b[39m\r\n       \u001b[32m\"author\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"\"\u001b[39m\u001b[32m,\u001b[39m\r\n       \u001b[32m\"license\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"ISC\"\u001b[39m\u001b[32m,\u001b[39m\r\n       \u001b[32m\"dependencies\"\u001b[39m\u001b[93m:\u001b[39m \u001b[33m{\u001b[39m\r\n         \u001b[32m\"lodash\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"3.10.1\"\u001b[39m\r\n       \u001b[33m}\u001b[39m\r\n     \u001b[33m}\u001b[39m\r\n\r\n\r\n\r\n\r\n"
+    ],
+    [
+      0.028969,
+      "\u001b]2;/Users/kensho/git/test-copi\u0001\u0007\u001b]1;git/test-copi\u0007\u001b[1m\u001b[91mkensho \u001b[38;5;256mat \u001b[38;5;172mKenshos-MacBook-Air.local  \u001b[38;5;190m~/git/test-copi\u001b[38;5;256m on \u001b[38;5;141mmaster\u001b[38;5;256m\r\r\n$ \u001b(B\u001b[m"
+    ],
+    [
+      3.366905,
+      "c"
+    ],
+    [
+      0.112570,
+      "o"
+    ],
+    [
+      0.051916,
+      "p"
+    ],
+    [
+      0.209234,
+      "i"
+    ],
+    [
+      0.147798,
+      " "
+    ],
+    [
+      0.873079,
+      "-"
+    ],
+    [
+      0.350999,
+      "S"
+    ],
+    [
+      0.265953,
+      " "
+    ],
+    [
+      0.283988,
+      "f"
+    ],
+    [
+      0.154833,
+      "o"
+    ],
+    [
+      0.113415,
+      "o"
+    ],
+    [
+      0.404493,
+      "\r\n"
+    ],
+    [
+      0.334338,
+      "installing foo\r\n"
+    ],
+    [
+      0.012863,
+      "elapsed 2385886 ms, maxAge 3600000\r\n"
+    ],
+    [
+      0.002365,
+      "Could not find locally installed \"foo\", using NPM to install\r\n"
+    ],
+    [
+      0.000327,
+      "  installing foo\r\n"
+    ],
+    [
+      1.537691,
+      "test-copi@1.0.0 /Users/kensho/git/test-copi\r\n└── foo@1.0.0 \r\n\r\n"
+    ],
+    [
+      0.000799,
+      "npm"
+    ],
+    [
+      0.000321,
+      " "
+    ],
+    [
+      0.000163,
+      "WARN test-copi@1.0.0 No description\r\n"
+    ],
+    [
+      0.000311,
+      "npm "
+    ],
+    [
+      0.000072,
+      "WARN test-copi@1.0.0 No repository field.\r\n"
+    ],
+    [
+      0.062726,
+      "\u001b]2;/Users/kensho/git/test-copi\u0001\u0007\u001b]1;git/test-copi\u0007\u001b[1m\u001b[91mkensho \u001b[38;5;256mat \u001b[38;5;172mKenshos-MacBook-Air.local  \u001b[38;5;190m~/git/test-copi\u001b[38;5;256m on \u001b[38;5;141mmaster\u001b[38;5;256m\r\r\n"
+    ],
+    [
+      0.000021,
+      "$ \u001b(B\u001b[m"
+    ],
+    [
+      3.606289,
+      "c"
+    ],
+    [
+      0.196034,
+      " "
+    ],
+    [
+      0.236486,
+      "p"
+    ],
+    [
+      0.083694,
+      "a"
+    ],
+    [
+      0.224210,
+      "ckage.json "
+    ],
+    [
+      0.315688,
+      "\r\n"
+    ],
+    [
+      0.344907,
+      "\r\n\r\n\r\n\r\n     \u001b[33m{\u001b[39m\r\n       \u001b[32m\"name\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"test-copi\"\u001b[39m\u001b[32m,\u001b[39m\r\n       \u001b[32m\"version\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"1.0.0\"\u001b[39m\u001b[32m,\u001b[39m\r\n       \u001b[32m\"description\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"\"\u001b[39m\u001b[32m,\u001b[39m\r\n       \u001b[32m\"main\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"index.js\"\u001b[39m\u001b[32m,\u001b[39m\r\n       \u001b[32m\"scripts\"\u001b[39m\u001b[93m:\u001b[39m \u001b[33m{\u001b[39m\r\n         \u001b[32m\"test\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"echo \\\"Error: no test specified\\\" \u0026\u0026 exit 1\"\u001b[39m\r\n       \u001b[33m}\u001b[39m\u001b[32m,\u001b[39m\r\n       \u001b[32m\"keywords\"\u001b[39m\u001b[93m:\u001b[39m \u001b[33m[\u001b[39m\u001b[33m]\u001b[39m\u001b[32m,\u001b[39m\r\n       \u001b[32m\"author\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"\"\u001b[39m\u001b[32m,\u001b[39m\r\n       \u001b[32m\"license\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"ISC\"\u001b[39m\u001b[32m,\u001b[39m\r\n       \u001b[32m\"dependencies\"\u001b[39m\u001b[93m:\u001b[39m \u001b[33m{\u001b[39m\r\n         \u001b[32m\"foo\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"1.0.0\"\u001b[39m\u001b[32m,\u001b[39m\r\n         \u001b[32m\"lodash\"\u001b[39m\u001b[93m:\u001b[39m \u001b[92m\"3.10.1\"\u001b[39m\r\n       \u001b[33m}\u001b[39m\r\n     \u001b[33m}\u001b[39m\r\n     \r\n\r\n\r\n\r\n"
+    ],
+    [
+      0.027861,
+      "\u001b]2;/Users/kensho/git/test-copi\u0001\u0007\u001b]1;git/test-copi\u0007\u001b[1m\u001b[91mkensho \u001b[38;5;256mat \u001b[38;5;172mKenshos-MacBook-Air.local  \u001b[38;5;190m~/git/test-copi\u001b[38;5;256m on \u001b[38;5;141mmaster\u001b[38;5;256m\r\r\n$ \u001b(B\u001b[m"
+    ],
+    [
+      1.347904,
+      "c"
+    ],
+    [
+      0.177598,
+      "o"
+    ],
+    [
+      0.071895,
+      "p"
+    ],
+    [
+      0.283061,
+      "i"
+    ],
+    [
+      1.006867,
+      "\r\n"
+    ],
+    [
+      0.260823,
+      "copi@0.0.0-semantic-release\r\n \u003e Installs NPM package by finding it and copying from another \r\n \u003e local folder. Completely offline ;)\r\n"
+    ],
+    [
+      0.001490,
+      "use: copi \u003cnpm package name\u003e\r\n"
+    ],
+    [
+      0.028458,
+      "\u001b]2;/Users/kensho/git/test-copi\u0001\u0007\u001b]1;git/test-copi\u0007\u001b[1m\u001b[91mkensho \u001b[38;5;256mat \u001b[38;5;172mKenshos-MacBook-Air.local  \u001b[38;5;190m~/git/test-copi\u001b[38;5;256m on \u001b[38;5;141mmaster\u001b[38;5;256m\r\r\n$ \u001b(B\u001b[m"
+    ],
+    [
+      3.168718,
+      "exit\r\n"
+    ]
+  ]
+}
