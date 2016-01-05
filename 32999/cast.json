@@ -1,0 +1,1570 @@
+{
+  "version": 1,
+  "width": 134,
+  "height": 36,
+  "duration": 66.616980,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.660987,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                     \r \r"
+    ],
+    [
+      0.000133,
+      "\u001b]2;balasankarc@sasalam: ~/git\u0007"
+    ],
+    [
+      0.000035,
+      "\u001b]1;~/git\u0007"
+    ],
+    [
+      0.060103,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m balasankarc@sasalam \u001b[44m\u001b[30m\u001b[30m ~/git \u001b[49m\u001b[34m\u001b[39m \u001b[K\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      0.639987,
+      "\u001b[32mg\u001b[39m"
+    ],
+    [
+      0.065575,
+      "\u0008\u001b[39m\u001b[4mg\u001b[4mi\u001b[24m"
+    ],
+    [
+      0.113389,
+      "\u0008\u0008\u001b[24m\u001b[32mg\u001b[24m\u001b[32mi\u001b[32mt\u001b[39m"
+    ],
+    [
+      0.084045,
+      " "
+    ],
+    [
+      1.172424,
+      "clone https://github.com/fog/fog-xenserver.git"
+    ],
+    [
+      1.064017,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000056,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.000795,
+      "\u001b]2;git clone https://github.com/fog/fog-xenserver.git\u0007"
+    ],
+    [
+      0.000013,
+      "\u001b]1;git\u0007"
+    ],
+    [
+      0.001676,
+      "Cloning into 'fog-xenserver'...\r\n"
+    ],
+    [
+      2.722126,
+      "remote: Counting objects: 3323, done.\u001b[K"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.734985,
+      "Receiving objects:   0% (1/3323)   \r"
+    ],
+    [
+      0.002087,
+      "Receiving objects:   1% (34/3323)   \r"
+    ],
+    [
+      0.034262,
+      "Receiving objects:   2% (67/3323)   \r"
+    ],
+    [
+      0.001928,
+      "Receiving objects:   3% (100/3323)   \r"
+    ],
+    [
+      0.001881,
+      "Receiving objects:   4% (133/3323)   \r"
+    ],
+    [
+      0.019393,
+      "Receiving objects:   5% (167/3323)   \r"
+    ],
+    [
+      0.289587,
+      "Receiving objects:   6% (200/3323)   \r"
+    ],
+    [
+      0.001246,
+      "Receiving objects:   7% (233/3323)   \r"
+    ],
+    [
+      0.095001,
+      "Receiving objects:   8% (266/3323)   \r"
+    ],
+    [
+      0.331204,
+      "Receiving objects:   9% (300/3323), 68.01 KiB | 82.00 KiB/s   \r"
+    ],
+    [
+      0.037719,
+      "Receiving objects:  10% (333/3323), 68.01 KiB | 82.00 KiB/s   \r"
+    ],
+    [
+      0.038736,
+      "Receiving objects:  11% (366/3323), 68.01 KiB | 82.00 KiB/s   \r"
+    ],
+    [
+      0.242624,
+      "Receiving objects:  11% (378/3323), 68.01 KiB | 82.00 KiB/s   \r"
+    ],
+    [
+      0.000185,
+      "Receiving objects:  12% (399/3323), 68.01 KiB | 82.00 KiB/s   \r"
+    ],
+    [
+      0.000499,
+      "Receiving objects:  13% (432/3323), 68.01 KiB | 82.00 KiB/s   \r"
+    ],
+    [
+      0.069121,
+      "Receiving objects:  14% (466/3323), 68.01 KiB | 82.00 KiB/s   \r"
+    ],
+    [
+      0.000291,
+      "Receiving objects:  15% (499/3323), 68.01 KiB | 82.00 KiB/s   \r"
+    ],
+    [
+      0.000419,
+      "Receiving objects:  16% (532/3323), 68.01 KiB | 82.00 KiB/s   \r"
+    ],
+    [
+      0.000452,
+      "Receiving objects:  17% (565/3323), 68.01 KiB | 82.00 KiB/s   \r"
+    ],
+    [
+      0.000376,
+      "Receiving objects:  18% (599/3323), 68.01 KiB | 82.00 KiB/s   \r"
+    ],
+    [
+      0.037324,
+      "Receiving objects:  19% (632/3323), 68.01 KiB | 82.00 KiB/s   \r"
+    ],
+    [
+      0.679939,
+      "Receiving objects:  20% (665/3323), 124.01 KiB | 79.00 KiB/s   \r"
+    ],
+    [
+      0.107932,
+      "Receiving objects:  21% (698/3323), 124.01 KiB | 79.00 KiB/s   \r"
+    ],
+    [
+      0.234628,
+      "Receiving objects:  21% (703/3323), 180.01 KiB | 79.00 KiB/s   \r"
+    ],
+    [
+      0.055339,
+      "Receiving objects:  22% (732/3323), 180.01 KiB | 79.00 KiB/s   \r"
+    ],
+    [
+      0.057724,
+      "Receiving objects:  23% (765/3323), 180.01 KiB | 79.00 KiB/s   \r"
+    ],
+    [
+      0.598717,
+      "Receiving objects:  24% (798/3323), 204.01 KiB | 68.00 KiB/s   \r"
+    ],
+    [
+      0.080107,
+      "Receiving objects:  24% (823/3323), 204.01 KiB | 68.00 KiB/s   \r"
+    ],
+    [
+      0.000099,
+      "Receiving objects:  25% (831/3323), 204.01 KiB | 68.00 KiB/s   \r"
+    ],
+    [
+      0.000243,
+      "Receiving objects:  26% (864/3323), 204.01 KiB | 68.00 KiB/s   \r"
+    ],
+    [
+      0.000524,
+      "Receiving objects:  27% (898/3323), 204.01 KiB | 68.00 KiB/s   \r"
+    ],
+    [
+      0.000096,
+      "Receiving objects:  28% (931/3323), 204.01 KiB | 68.00 KiB/s   \r"
+    ],
+    [
+      0.000057,
+      "Receiving objects:  29% (964/3323), 204.01 KiB | 68.00 KiB/s   \r"
+    ],
+    [
+      0.000089,
+      "Receiving objects:  30% (997/3323), 204.01 KiB | 68.00 KiB/s   \r"
+    ],
+    [
+      0.000108,
+      "Receiving objects:  31% (1031/3323), 204.01 KiB | 68.00 KiB/s   \r"
+    ],
+    [
+      0.000108,
+      "Receiving objects:  32% (1064/3323), 204.01 KiB | 68.00 KiB/s   \r"
+    ],
+    [
+      0.052614,
+      "Receiving objects:  33% (1097/3323), 204.01 KiB | 68.00 KiB/s   \r"
+    ],
+    [
+      0.220727,
+      "Receiving objects:  34% (1130/3323), 204.01 KiB | 68.00 KiB/s   \r"
+    ],
+    [
+      0.000356,
+      "Receiving objects:  35% (1164/3323), 204.01 KiB | 68.00 KiB/s   \r"
+    ],
+    [
+      0.080925,
+      "Receiving objects:  36% (1197/3323), 204.01 KiB | 68.00 KiB/s   \r"
+    ],
+    [
+      0.073949,
+      "Receiving objects:  37% (1230/3323), 268.01 KiB | 76.00 KiB/s   \r"
+    ],
+    [
+      0.000271,
+      "Receiving objects:  38% (1263/3323), 268.01 KiB | 76.00 KiB/s   \r"
+    ],
+    [
+      0.193551,
+      "Receiving objects:  39% (1296/3323), 268.01 KiB | 76.00 KiB/s   \r"
+    ],
+    [
+      0.088235,
+      "Receiving objects:  40% (1330/3323), 268.01 KiB | 76.00 KiB/s   \r"
+    ],
+    [
+      0.429884,
+      "Receiving objects:  40% (1354/3323), 292.01 KiB | 69.00 KiB/s   \r"
+    ],
+    [
+      0.000228,
+      "Receiving objects:  41% (1363/3323), 292.01 KiB | 69.00 KiB/s   \r"
+    ],
+    [
+      0.000390,
+      "Receiving objects:  42% (1396/3323), 292.01 KiB | 69.00 KiB/s   \r"
+    ],
+    [
+      0.000529,
+      "Receiving objects:  43% (1429/3323), 292.01 KiB | 69.00 KiB/s   \r"
+    ],
+    [
+      0.170695,
+      "Receiving objects:  44% (1463/3323), 292.01 KiB | 69.00 KiB/s   \r"
+    ],
+    [
+      0.521475,
+      "Receiving objects:  45% (1496/3323), 324.01 KiB | 65.00 KiB/s   \rReceiving objects:  46% (1529/3323), 324.01 KiB | 65.00 KiB/s   \r"
+    ],
+    [
+      0.193774,
+      "Receiving objects:  46% (1532/3323), 324.01 KiB | 65.00 KiB/s   \rReceiving objects:  47% (1562/3323), 324.01 KiB | 65.00 KiB/s   \rReceiving objects:  48% (1596/3323), 324.01 KiB | 65.00 KiB/s   \rReceiving objects:  49% (1629/3323), 324.01 KiB | 65.00 KiB/s   \rReceiving objects:  50% (1662/3323), 324.01 KiB | 65.00 KiB/s   \rReceiving objects:  51% (1695/3323), 324.01 KiB | 65.00 KiB/s   \r"
+    ],
+    [
+      0.125531,
+      "Receiving objects:  52% (1728/3323), 324.01 KiB | 65.00 KiB/s   \r"
+    ],
+    [
+      0.293361,
+      "Receiving objects:  53% (1762/3323), 364.01 KiB | 65.00 KiB/s   \rReceiving objects:  54% (1795/3323), 364.01 KiB | 65.00 KiB/s   \r"
+    ],
+    [
+      0.488313,
+      "Receiving objects:  55% (1828/3323), 364.01 KiB | 65.00 KiB/s   \r"
+    ],
+    [
+      0.659264,
+      "Receiving objects:  55% (1839/3323), 380.01 KiB | 56.00 KiB/s   \rReceiving objects:  56% (1861/3323), 380.01 KiB | 56.00 KiB/s   \rReceiving objects:  57% (1895/3323), 380.01 KiB | 56.00 KiB/s   \rReceiving objects:  58% (1928/3323), 380.01 KiB | 56.00 KiB/s   \rReceiving objects:  59% (1961/3323), 380.01 KiB | 56.00 KiB/s   \r"
+    ],
+    [
+      0.397957,
+      "Receiving objects:  59% (1976/3323), 380.01 KiB | 56.00 KiB/s   \rReceiving objects:  60% (1994/3323), 380.01 KiB | 56.00 KiB/s   \r"
+    ],
+    [
+      0.000226,
+      "Receiving objects:  61% (2028/3323), 380.01 KiB | 56.00 KiB/s   \r"
+    ],
+    [
+      0.363334,
+      "Receiving objects:  62% (2061/3323), 420.01 KiB | 53.00 KiB/s   \rReceiving objects:  63% (2094/3323), 420.01 KiB | 53.00 KiB/s   \r"
+    ],
+    [
+      1.046669,
+      "Receiving objects:  63% (2123/3323), 428.01 KiB | 43.00 KiB/s   \rReceiving objects:  64% (2127/3323), 428.01 KiB | 43.00 KiB/s   \rReceiving objects:  65% (2160/3323), 428.01 KiB | 43.00 KiB/s   \rReceiving objects:  66% (2194/3323), 428.01 KiB | 43.00 KiB/s   \rReceiving objects:  67% (2227/3323), 428.01 KiB | 43.00 KiB/s   \r"
+    ],
+    [
+      1.069091,
+      "Receiving objects:  67% (2238/3323), 444.01 KiB | 36.00 KiB/s   \rReceiving objects:  68% (2260/3323), 444.01 KiB | 36.00 KiB/s   \rReceiving objects:  69% (2293/3323), 444.01 KiB | 36.00 KiB/s   \rReceiving objects:  70% (2327/3323), 444.01 KiB | 36.00 KiB/s   \r"
+    ],
+    [
+      0.045924,
+      "Receiving objects:  71% (2360/3323), 444.01 KiB | 36.00 KiB/s   \r"
+    ],
+    [
+      1.089520,
+      "Receiving objects:  71% (2380/3323), 460.01 KiB | 33.00 KiB/s   \rReceiving objects:  72% (2393/3323), 460.01 KiB | 33.00 KiB/s   \rReceiving objects:  73% (2426/3323), 460.01 KiB | 33.00 KiB/s   \rReceiving objects:  74% (2460/3323), 460.01 KiB | 33.00 KiB/s   \r"
+    ],
+    [
+      0.706795,
+      "Receiving objects:  74% (2478/3323), 468.01 KiB | 25.00 KiB/s   \r"
+    ],
+    [
+      1.087605,
+      "Receiving objects:  74% (2478/3323), 484.01 KiB | 23.00 KiB/s   \r"
+    ],
+    [
+      1.089917,
+      "Receiving objects:  74% (2478/3323), 500.01 KiB | 20.00 KiB/s   \r"
+    ],
+    [
+      0.726674,
+      "Receiving objects:  74% (2478/3323), 516.01 KiB | 17.00 KiB/s   \r"
+    ],
+    [
+      1.484049,
+      "Receiving objects:  74% (2478/3323), 564.01 KiB | 17.00 KiB/s   \r"
+    ],
+    [
+      0.781954,
+      "Receiving objects:  74% (2478/3323), 604.01 KiB | 21.00 KiB/s   \r"
+    ],
+    [
+      0.663031,
+      "Receiving objects:  74% (2479/3323), 636.01 KiB | 25.00 KiB/s   \r"
+    ],
+    [
+      0.425606,
+      "Receiving objects:  75% (2493/3323), 636.01 KiB | 25.00 KiB/s   \r"
+    ],
+    [
+      0.000567,
+      "Receiving objects:  76% (2526/3323), 636.01 KiB | 25.00 KiB/s   \r"
+    ],
+    [
+      0.078474,
+      "Receiving objects:  77% (2559/3323), 676.01 KiB | 30.00 KiB/s   \rReceiving objects:  78% (2592/3323), 676.01 KiB | 30.00 KiB/s   \rReceiving objects:  79% (2626/3323), 676.01 KiB | 30.00 KiB/s   \r"
+    ],
+    [
+      0.264821,
+      "Receiving objects:  80% (2659/3323), 676.01 KiB | 30.00 KiB/s   \rReceiving objects:  81% (2692/3323), 676.01 KiB | 30.00 KiB/s   \rReceiving objects:  82% (2725/3323), 676.01 KiB | 30.00 KiB/s   \r"
+    ],
+    [
+      0.036144,
+      "Receiving objects:  83% (2759/3323), 676.01 KiB | 30.00 KiB/s   \r"
+    ],
+    [
+      0.061945,
+      "Receiving objects:  83% (2785/3323), 676.01 KiB | 30.00 KiB/s   \r"
+    ],
+    [
+      0.000536,
+      "Receiving objects:  84% (2792/3323), 676.01 KiB | 30.00 KiB/s   \r"
+    ],
+    [
+      0.263669,
+      "Receiving objects:  85% (2825/3323), 708.01 KiB | 34.00 KiB/s   \r"
+    ],
+    [
+      0.145661,
+      "Receiving objects:  86% (2858/3323), 708.01 KiB | 34.00 KiB/s   \r"
+    ],
+    [
+      0.000805,
+      "Receiving objects:  87% (2892/3323), 708.01 KiB | 34.00 KiB/s   \r"
+    ],
+    [
+      0.223859,
+      "Receiving objects:  88% (2925/3323), 708.01 KiB | 34.00 KiB/s   \r"
+    ],
+    [
+      0.041818,
+      "Receiving objects:  89% (2958/3323), 708.01 KiB | 34.00 KiB/s   \r"
+    ],
+    [
+      0.000272,
+      "Receiving objects:  90% (2991/3323), 708.01 KiB | 34.00 KiB/s   \r"
+    ],
+    [
+      0.095503,
+      "Receiving objects:  91% (3024/3323), 748.01 KiB | 41.00 KiB/s   \r"
+    ],
+    [
+      0.000190,
+      "Receiving objects:  92% (3058/3323), 748.01 KiB | 41.00 KiB/s   \r"
+    ],
+    [
+      0.000133,
+      "Receiving objects:  93% (3091/3323), 748.01 KiB | 41.00 KiB/s   \r"
+    ],
+    [
+      0.231964,
+      "Receiving objects:  93% (3099/3323), 748.01 KiB | 41.00 KiB/s   \r"
+    ],
+    [
+      0.000172,
+      "Receiving objects:  94% (3124/3323), 748.01 KiB | 41.00 KiB/s   \r"
+    ],
+    [
+      0.000201,
+      "Receiving objects:  95% (3157/3323), 748.01 KiB | 41.00 KiB/s   \r"
+    ],
+    [
+      0.428353,
+      "Receiving objects:  96% (3191/3323), 764.01 KiB | 44.00 KiB/s   \rReceiving objects:  97% (3224/3323), 764.01 KiB | 44.00 KiB/s   \rremote: Total 3323 (delta 0), reused 0 (delta 0), pack-reused 3323\u001b[K\r\nReceiving objects:  98% (3257/3323), 764.01 KiB | 44.00 KiB/s   \rReceiving objects:  99% (3290/3323), 764.01 KiB | 44.00 KiB/s   \rReceiving objects: 100% (3323/3323), 764.01 KiB | 44.00 KiB/s   \rReceiving objects: 100% (3323/3323), 774.24 KiB | 47.00 KiB/s, done.\r\n"
+    ],
+    [
+      0.001938,
+      "Resolving deltas:   0% (0/2374)   \rResolving deltas:   1% (25/2374)   \r"
+    ],
+    [
+      0.000306,
+      "Resolving deltas:   2% (53/2374)   \r"
+    ],
+    [
+      0.000524,
+      "Resolving deltas:   3% (79/2374)   \r"
+    ],
+    [
+      0.000562,
+      "Resolving deltas:   5% (129/2374)   \r"
+    ],
+    [
+      0.001122,
+      "Resolving deltas:  10% (249/2374)   \r"
+    ],
+    [
+      0.000212,
+      "Resolving deltas:  11% (272/2374)   \r"
+    ],
+    [
+      0.001142,
+      "Resolving deltas:  15% (367/2374)   \r"
+    ],
+    [
+      0.000193,
+      "Resolving deltas:  17% (407/2374)   \r"
+    ],
+    [
+      0.000882,
+      "Resolving deltas:  19% (464/2374)   \r"
+    ],
+    [
+      0.000269,
+      "Resolving deltas:  20% (482/2374)   \r"
+    ],
+    [
+      0.000211,
+      "Resolving deltas:  21% (501/2374)   \r"
+    ],
+    [
+      0.000679,
+      "Resolving deltas:  24% (580/2374)   \r"
+    ],
+    [
+      0.000416,
+      "Resolving deltas:  26% (636/2374)   \r"
+    ],
+    [
+      0.000215,
+      "Resolving deltas:  27% (661/2374)   \r"
+    ],
+    [
+      0.000245,
+      "Resolving deltas:  29% (701/2374)   \r"
+    ],
+    [
+      0.000325,
+      "Resolving deltas:  31% (752/2374)   \r"
+    ],
+    [
+      0.000351,
+      "Resolving deltas:  34% (809/2374)   \r"
+    ],
+    [
+      0.000222,
+      "Resolving deltas:  35% (835/2374)   \r"
+    ],
+    [
+      0.000178,
+      "Resolving deltas:  36% (856/2374)   \r"
+    ],
+    [
+      0.000294,
+      "Resolving deltas:  37% (887/2374)   \r"
+    ],
+    [
+      0.000145,
+      "Resolving deltas:  38% (903/2374)   \r"
+    ],
+    [
+      0.000430,
+      "Resolving deltas:  39% (927/2374)   \r"
+    ],
+    [
+      0.001148,
+      "Resolving deltas:  41% (986/2374)   \r"
+    ],
+    [
+      0.002427,
+      "Resolving deltas:  42% (1004/2374)   \rResolving deltas:  44% (1058/2374)   \r"
+    ],
+    [
+      0.000384,
+      "Resolving deltas:  46% (1100/2374)   \r"
+    ],
+    [
+      0.003754,
+      "Resolving deltas:  53% (1261/2374)   \r"
+    ],
+    [
+      0.002446,
+      "Resolving deltas:  56% (1333/2374)   \r"
+    ],
+    [
+      0.000513,
+      "Resolving deltas:  57% (1354/2374)   \r"
+    ],
+    [
+      0.002123,
+      "Resolving deltas:  59% (1407/2374)   \rResolving deltas:  60% (1431/2374)   \rResolving deltas:  61% (1452/2374)   \rResolving deltas:  62% (1483/2374)   \r"
+    ],
+    [
+      0.000502,
+      "Resolving deltas:  63% (1499/2374)   \r"
+    ],
+    [
+      0.000304,
+      "Resolving deltas:  64% (1520/2374)   \r"
+    ],
+    [
+      0.000224,
+      "Resolving deltas:  65% (1545/2374)   \r"
+    ],
+    [
+      0.000276,
+      "Resolving deltas:  66% (1568/2374)   \r"
+    ],
+    [
+      0.000249,
+      "Resolving deltas:  67% (1594/2374)   \r"
+    ],
+    [
+      0.000743,
+      "Resolving deltas:  68% (1616/2374)   \rResolving deltas:  69% (1642/2374)   \r"
+    ],
+    [
+      0.000555,
+      "Resolving deltas:  70% (1662/2374)   \rResolving deltas:  71% (1695/2374)   \r"
+    ],
+    [
+      0.000693,
+      "Resolving deltas:  72% (1710/2374)   \r"
+    ],
+    [
+      0.000017,
+      "Resolving deltas:  74% (1774/2374)   \r"
+    ],
+    [
+      0.000316,
+      "Resolving deltas:  76% (1814/2374)   \r"
+    ],
+    [
+      0.000225,
+      "Resolving deltas:  77% (1840/2374)   \r"
+    ],
+    [
+      0.001215,
+      "Resolving deltas:  79% (1893/2374)   \r"
+    ],
+    [
+      0.000115,
+      "Resolving deltas:  80% (1902/2374)   \r"
+    ],
+    [
+      0.000488,
+      "Resolving deltas:  81% (1924/2374)   \r"
+    ],
+    [
+      0.000071,
+      "Resolving deltas:  82% (1948/2374)   \r"
+    ],
+    [
+      0.000288,
+      "Resolving deltas:  83% (1980/2374)   \r"
+    ],
+    [
+      0.000120,
+      "Resolving deltas:  84% (1996/2374)   \r"
+    ],
+    [
+      0.000395,
+      "Resolving deltas:  85% (2037/2374)   \r"
+    ],
+    [
+      0.000138,
+      "Resolving deltas:  86% (2048/2374)   \r"
+    ],
+    [
+      0.000296,
+      "Resolving deltas:  87% (2087/2374)   \r"
+    ],
+    [
+      0.000140,
+      "Resolving deltas:  88% (2101/2374)   \r"
+    ],
+    [
+      0.000138,
+      "Resolving deltas:  89% (2117/2374)   \r"
+    ],
+    [
+      0.000217,
+      "Resolving deltas:  90% (2139/2374)   \r"
+    ],
+    [
+      0.000212,
+      "Resolving deltas:  91% (2161/2374)   \r"
+    ],
+    [
+      0.000273,
+      "Resolving deltas:  92% (2186/2374)   \r"
+    ],
+    [
+      0.000326,
+      "Resolving deltas:  93% (2210/2374)   \r"
+    ],
+    [
+      0.000193,
+      "Resolving deltas:  94% (2232/2374)   \r"
+    ],
+    [
+      0.000279,
+      "Resolving deltas:  95% (2257/2374)   \r"
+    ],
+    [
+      0.000492,
+      "Resolving deltas:  96% (2289/2374)   \rResolving deltas:  97% (2303/2374)   \r"
+    ],
+    [
+      0.000658,
+      "Resolving deltas:  98% (2348/2374)   \rResolving deltas:  99% (2351/2374)   \r"
+    ],
+    [
+      0.013500,
+      "Resolving deltas: 100% (2374/2374)   \r"
+    ],
+    [
+      0.001696,
+      "Resolving deltas: 100% (2374/2374), done.\r\n"
+    ],
+    [
+      0.153462,
+      "Checking connectivity... "
+    ],
+    [
+      0.002141,
+      "done.\r\n"
+    ],
+    [
+      0.112046,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                     \r \r\u001b]2;balasankarc@sasalam: ~/git\u0007\u001b]1;~/git\u0007"
+    ],
+    [
+      0.097217,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m balasankarc@sasalam \u001b[44m\u001b[30m\u001b[30m ~/git \u001b[49m\u001b[34m\u001b[39m \u001b[K\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      1.770147,
+      "\u001b[4m\u001b[33mc\u001b[24m\u001b[39m"
+    ],
+    [
+      0.086881,
+      "\u0008\u001b[24m\u001b[32mc\u001b[32md\u001b[39m"
+    ],
+    [
+      0.430471,
+      " "
+    ],
+    [
+      0.211464,
+      "\u001b[4mf\u001b[24m"
+    ],
+    [
+      0.116111,
+      "\u0008\u001b[4mf\u001b[4mo\u001b[24m"
+    ],
+    [
+      0.094116,
+      "\u0008\u001b[4mo\u001b[4mg\u001b[24m"
+    ],
+    [
+      0.141985,
+      "\u0008\u001b[4mg\u001b[4m-\u001b[24m"
+    ],
+    [
+      0.139102,
+      "\u0008\u001b[4m-\u001b[4mx\u001b[24m"
+    ],
+    [
+      0.216371,
+      "\u0008\u001b[4mx\u001b[4me\u001b[24m"
+    ],
+    [
+      0.193175,
+      "\u0008\u001b[4me\u001b[4mn\u001b[24m"
+    ],
+    [
+      0.199520,
+      "\u0008\u001b[4mn\u001b[4ms\u001b[24m"
+    ],
+    [
+      0.286888,
+      "\u0008\u001b[4ms\u001b[4merver\u001b[1m\u001b[4m/\u001b[0m\u001b[24m"
+    ],
+    [
+      0.387362,
+      "\u0008\u0008\u001b[4mr\u001b[24m\u001b[0m\u001b[24m \u0008"
+    ],
+    [
+      0.000078,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000109,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000007,
+      "\r"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.001808,
+      "\u001b]2;cd fog-xenserver\u0007"
+    ],
+    [
+      0.000038,
+      "\u001b]1;cd\u0007"
+    ],
+    [
+      0.107884,
+      "ruby-2.1.2 is not installed."
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "To install do: 'rvm install ruby-2.1.2'"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.026712,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                     \r \r"
+    ],
+    [
+      0.000138,
+      "\u001b]2;balasankarc@sasalam: ~/git/fog-xenserver\u0007"
+    ],
+    [
+      0.000051,
+      "\u001b]1;..fog-xenserver\u0007"
+    ],
+    [
+      0.354652,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m balasankarc@sasalam \u001b[44m\u001b[30m\u001b[30m ~/git/fog-xenserver \u001b[42m\u001b[34m\u001b[30m  master \u001b[49m\u001b[32m\u001b[39m \u001b[K\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      1.289610,
+      "\u001b[32mr\u001b[39m"
+    ],
+    [
+      0.047735,
+      "\u0008\u001b[1m\u001b[31mr\u001b[1m\u001b[31mv\u001b[0m\u001b[39m"
+    ],
+    [
+      0.124459,
+      "\u0008\u0008\u001b[0m\u001b[32mr\u001b[0m\u001b[32mv\u001b[32mm\u001b[39m"
+    ],
+    [
+      0.133889,
+      " "
+    ],
+    [
+      0.129690,
+      "\u001b[4m\u001b[33mu\u001b[24m\u001b[39m"
+    ],
+    [
+      0.019641,
+      "\u0008\u001b[4m\u001b[33mu\u001b[4m\u001b[33ms\u001b[24m\u001b[39m"
+    ],
+    [
+      0.213184,
+      "\u0008\u0008\u001b[24m\u001b[39mu\u001b[24m\u001b[39mse"
+    ],
+    [
+      0.106518,
+      " "
+    ],
+    [
+      0.100442,
+      "\u001b[4ms\u001b[24m"
+    ],
+    [
+      0.201942,
+      "\u0008\u001b[4m\u001b[33ms\u001b[4m\u001b[33ms\u001b[24m\u001b[39m"
+    ],
+    [
+      0.016952,
+      "\u0008\u0008\u001b[24m\u001b[39ms\u001b[24m\u001b[39msy"
+    ],
+    [
+      0.503377,
+      "\u0008\u0008\u0008\u001b[4m\u001b[33ms\u001b[4m\u001b[33ms\u001b[24m\u001b[39m \u0008"
+    ],
+    [
+      0.163162,
+      "\u0008\u0008\u001b[39m\u001b[4ms\u001b[24m\u001b[24m\u001b[39m \u0008"
+    ],
+    [
+      0.248792,
+      "\u0008\u001b[4m\u001b[33ms\u001b[4m\u001b[33my\u001b[24m\u001b[39m"
+    ],
+    [
+      0.088069,
+      "\u0008\u0008\u001b[24m\u001b[39ms\u001b[24m\u001b[39mys"
+    ],
+    [
+      0.178211,
+      "t"
+    ],
+    [
+      0.073542,
+      "e"
+    ],
+    [
+      0.272910,
+      "m"
+    ],
+    [
+      0.198437,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000049,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000011,
+      "\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.001669,
+      "\u001b]2;rvm use system\u0007"
+    ],
+    [
+      0.000051,
+      "\u001b]1;rvm\u0007"
+    ],
+    [
+      0.022864,
+      "Warning! PATH is not properly set up, '/home/balasankarc/.rvm/gems/ruby-2.0.0-p643/bin' is not at first place,\r\n"
+    ],
+    [
+      0.000021,
+      "         usually this is caused by shell initialization files - check them for 'PATH=...' entries,\r\n         it might also help to re-add RVM to your dotfiles: 'rvm get stable --auto-dotfiles',\r\n         to fix temporarily in this shell session run: 'rvm use ruby-2.0.0-p643'.\r\n"
+    ],
+    [
+      0.251355,
+      "\u001b[32mNow using system ruby.\u001b[0m\r\n"
+    ],
+    [
+      0.015061,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                     \r \r"
+    ],
+    [
+      0.000112,
+      "\u001b]2;balasankarc@sasalam: ~/git/fog-xenserver\u0007"
+    ],
+    [
+      0.000037,
+      "\u001b]1;..fog-xenserver\u0007"
+    ],
+    [
+      0.127082,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m balasankarc@sasalam \u001b[44m\u001b[30m\u001b[30m ~/git/fog-xenserver \u001b[42m\u001b[34m\u001b[30m  master \u001b[49m\u001b[32m\u001b[39m \u001b[K\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      0.369256,
+      "\u001b[4m\u001b[33mb\u001b[24m\u001b[39m"
+    ],
+    [
+      0.083792,
+      "\u0008\u001b[24m\u001b[32mb\u001b[32mu\u001b[39m"
+    ],
+    [
+      0.069507,
+      "\u0008\u0008\u001b[1m\u001b[31mb\u001b[1m\u001b[31mu\u001b[1m\u001b[31mn\u001b[0m\u001b[39m"
+    ],
+    [
+      0.104900,
+      "\u0008\u001b[1m\u001b[31mn\u001b[1m\u001b[31md\u001b[0m\u001b[39m"
+    ],
+    [
+      0.102140,
+      "\u0008\u001b[1m\u001b[31md\u001b[1m\u001b[31ml\u001b[0m\u001b[39m"
+    ],
+    [
+      0.108507,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[0m\u001b[32mb\u001b[0m\u001b[32mu\u001b[0m\u001b[32mn\u001b[0m\u001b[32md\u001b[0m\u001b[32ml\u001b[32me\u001b[39m"
+    ],
+    [
+      0.047079,
+      " "
+    ],
+    [
+      0.127274,
+      "\u001b[4m\u001b[33mi\u001b[24m\u001b[39m"
+    ],
+    [
+      0.069167,
+      "\u0008\u001b[24m\u001b[39min"
+    ],
+    [
+      0.074893,
+      "s"
+    ],
+    [
+      0.129726,
+      "t"
+    ],
+    [
+      0.067466,
+      "a"
+    ],
+    [
+      0.120713,
+      "l"
+    ],
+    [
+      0.155172,
+      "l"
+    ],
+    [
+      0.154035,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000078,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000011,
+      "\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.001737,
+      "\u001b]2;bundle install\u0007"
+    ],
+    [
+      0.000056,
+      "\u001b]1;bundle\u0007"
+    ],
+    [
+      3.927417,
+      "Fetching gem metadata from https://rubygems.org/"
+    ],
+    [
+      0.001555,
+      "."
+    ],
+    [
+      0.465370,
+      "."
+    ],
+    [
+      0.453803,
+      "."
+    ],
+    [
+      0.466851,
+      "."
+    ],
+    [
+      0.444450,
+      "."
+    ],
+    [
+      0.502878,
+      "."
+    ],
+    [
+      0.371078,
+      "."
+    ],
+    [
+      0.365080,
+      "."
+    ],
+    [
+      0.379587,
+      "."
+    ],
+    [
+      0.363890,
+      "."
+    ],
+    [
+      0.375070,
+      "."
+    ],
+    [
+      0.365025,
+      "."
+    ],
+    [
+      0.222526,
+      "\r\n"
+    ],
+    [
+      0.000025,
+      "Fetching version metadata from https://rubygems.org/"
+    ],
+    [
+      0.008320,
+      "."
+    ],
+    [
+      1.879373,
+      "."
+    ],
+    [
+      0.064909,
+      "\r\n"
+    ],
+    [
+      0.508933,
+      "Resolving dependencies..."
+    ],
+    [
+      0.243911,
+      "."
+    ],
+    [
+      0.119099,
+      "\r\n"
+    ],
+    [
+      0.028130,
+      "Using rake 10.4.2\r\n"
+    ],
+    [
+      0.029233,
+      "Using addressable 2.3.8"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000293,
+      "Using ansi 1.5.0"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000322,
+      "Using builder 3.2.2"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000334,
+      "Using coderay 1.1.0\r\n"
+    ],
+    [
+      0.000350,
+      "Using json 1.8.3"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000283,
+      "Using unf_ext 0.0.7.1"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000282,
+      "Using unf 0.1.4"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000289,
+      "Using domain_name 0.5.25"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000346,
+      "Using http-cookie 1.0.2"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000503,
+      "Using mime-types 2.99"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000456,
+      "Using netrc 0.11.0"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000457,
+      "Using rest-client 1.8.0"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000277,
+      "Using docile 1.1.5"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000277,
+      "Using simplecov-html 0.10.0"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000299,
+      "Using simplecov 0.11.1\r\n"
+    ],
+    [
+      0.000357,
+      "Using tins 1.6.0\r\n"
+    ],
+    [
+      0.000439,
+      "Using term-ansicolor 1.3.2"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000302,
+      "Using thor 0.19.1"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000254,
+      "Using coveralls 0.8.10"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000317,
+      "Using safe_yaml 1.0.4\r\n"
+    ],
+    [
+      0.000294,
+      "Using crack 0.4.3"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000288,
+      "Using excon 0.45.4\r\n"
+    ],
+    [
+      0.000271,
+      "Using formatador 0.2.5\r\n"
+    ],
+    [
+      0.000304,
+      "Using fog-core 1.35.0\r\n"
+    ],
+    [
+      0.000249,
+      "Using mini_portile2 2.0.0\r\n"
+    ],
+    [
+      0.000311,
+      "Using nokogiri 1.6.7.1\r\n"
+    ],
+    [
+      0.000287,
+      "Using fog-xml 0.1.2\r\n"
+    ],
+    [
+      0.000259,
+      "Using fog-xenserver 0.2.2 from source at ."
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.118691,
+      "Using hashdiff 0.2.3\r\n"
+    ],
+    [
+      0.000180,
+      "Using method_source 0.8.2"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000164,
+      "Using minitest 4.7.5"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000168,
+      "Using slop 3.6.0"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000183,
+      "Using pry 0.10.3"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000155,
+      "Using turn 0.9.7"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000156,
+      "Using vcr 3.0.1"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000190,
+      "Using webmock 1.22.5"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000157,
+      "Using bundler 1.10.6"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.006181,
+      "\u001b[32mBundle complete! 8 Gemfile dependencies, 38 gems now installed.\u001b[0m\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[32mUse `bundle show [gemname]` to see where a bundled gem is installed.\u001b[0m\r\n"
+    ],
+    [
+      0.016602,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                     \r \r\u001b]2;balasankarc@sasalam: ~/git/fog-xenserver\u0007\u001b]1;..fog-xenserver\u0007"
+    ],
+    [
+      0.131942,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m balasankarc@sasalam \u001b[44m\u001b[30m\u001b[30m ~/git/fog-xenserver \u001b[42m\u001b[34m\u001b[30m  master \u001b[49m\u001b[32m\u001b[39m \u001b[K\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      1.326181,
+      "\u001b[4m\u001b[33mb\u001b[24m\u001b[39m"
+    ],
+    [
+      0.116222,
+      "\u0008\u001b[24m\u001b[32mb\u001b[32mu\u001b[39m"
+    ],
+    [
+      0.045941,
+      "\u0008\u0008\u001b[1m\u001b[31mb\u001b[1m\u001b[31mu\u001b[1m\u001b[31mn\u001b[0m\u001b[39m"
+    ],
+    [
+      0.134510,
+      "\u0008\u001b[1m\u001b[31mn\u001b[1m\u001b[31md\u001b[0m\u001b[39m"
+    ],
+    [
+      0.124680,
+      "\u0008\u001b[1m\u001b[31md\u001b[1m\u001b[31ml\u001b[0m\u001b[39m"
+    ],
+    [
+      0.138164,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[0m\u001b[32mb\u001b[0m\u001b[32mu\u001b[0m\u001b[32mn\u001b[0m\u001b[32md\u001b[0m\u001b[32ml\u001b[32me\u001b[39m"
+    ],
+    [
+      0.107527,
+      " "
+    ],
+    [
+      0.111222,
+      "\u001b[4m\u001b[33me\u001b[24m\u001b[39m"
+    ],
+    [
+      0.235714,
+      "\u0008\u001b[24m\u001b[39mex"
+    ],
+    [
+      0.210340,
+      "e"
+    ],
+    [
+      0.209131,
+      "c"
+    ],
+    [
+      0.106653,
+      " "
+    ],
+    [
+      0.146713,
+      "\u001b[32mr\u001b[39m"
+    ],
+    [
+      0.043648,
+      "\u0008\u001b[4m\u001b[33mr\u001b[4m\u001b[33ma\u001b[24m\u001b[39m"
+    ],
+    [
+      0.181468,
+      "\u0008\u001b[4m\u001b[33ma\u001b[4m\u001b[33mk\u001b[24m\u001b[39m"
+    ],
+    [
+      0.144112,
+      "\u0008\u0008\u0008\u001b[24m\u001b[32mr\u001b[24m\u001b[32ma\u001b[24m\u001b[32mk\u001b[32me\u001b[39m"
+    ],
+    [
+      0.086704,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000087,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000023,
+      "\r"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.001726,
+      "\u001b]2;bundle exec rake\u0007"
+    ],
+    [
+      0.000064,
+      "\u001b]1;bundle\u0007"
+    ],
+    [
+      1.236045,
+      "/usr/bin/ruby2.1 -I\"lib:spec\" -I\"/var/lib/gems/2.1.0/gems/rake-10.4.2/lib\" \"/var/lib/gems/2.1.0/gems/rake-10.4.2/lib/rake/rake_test_loader.rb\" \"spec/fog/compute/xen_server/models/blob_spec.rb\" \"spec/fog/compute/xen_server/models/blobs_spec.rb\" \"spec/fog/compute/xen_server/models/bond_spec.rb\" \"spec/fog/compute/xen_server/models/bonds_spec.rb\" \"spec/fog/compute/xen_server/models/console_spec.rb\" \"spec/fog/compute/xen_server/models/consoles_spec.rb\" \"spec/fog/compute/xen_server/models/crash_dump_spec.rb\" \"spec/fog/compute/xen_server/models/crash_dumps_spec.rb\" \"spec/fog/compute/xen_server/models/dr_task_spec.rb\" \"spec/fog/compute/xen_server/models/dr_tasks_spec.rb\" \"spec/fog/compute/xen_server/models/gpu_group_spec.rb\" \"spec/fog/compute/xen_server/models/gpu_groups_spec.rb\" \"spec/fog/compute/xen_server/models/guest_metrics_spec.rb\" \"spec/fog/compute/xen_server/models/guests_metrics_spec.rb\" \"spec/fog/compute/xen_server/models/host_cpu_spec.rb\" \"spec/fog/compute/xen_server/models/host_cpus_spec.rb\" \"spec/fog/compute/xen_server/models/host_crash_dump_spec.rb\" \"spec/fog/compute/xen_server/models/host_crash_dumps_spec.rb\" \"spec/fog/compute/xen_server/models/host_metrics_spec.rb\" \"spec/fog/compute/xen_server/models/host_patch_spec.rb\" \"spec/fog/compute/xen_server/models/host_patchs_spec.rb\" \"spec/fog/compute/xen_server/models/host_spec.rb\" \"spec/fog/compute/xen_server/models/hosts_metrics_spec.rb\" \"spec/fog/compute/xen_server/models/hosts_spec.rb\" \"spec/fog/compute/xen_server/models/network_spec.rb\" \"spec/fog/compute/xen_server/models/networks_spec.rb\" \"spec/fog/compute/xen_server/models/pbd_spec.rb\" \"spec/fog/compute/xen_server/models/pbds_spec.rb\" \"spec/fog/compute/xen_server/models/pci_spec.rb\" \"spec/fog/compute/xen_server/models/pcis_spec.rb\" \"spec/fog/compute/xen_server/models/pgpu_spec.rb\" \"spec/fog/compute/xen_server/models/pgpus_spec.rb\" \"spec/fog/compute/xen_server/models/pif_metrics_spec.rb\" \"spec/fog/compute/xen_server/models/pif_spec.rb\" \"spec/fog/compute/xen_server/models/pifs_metrics_spec.rb\" \"spec/fog/com"
+    ],
+    [
+      0.000014,
+      "pute/xen_server/models/pifs_spec.rb\" \"spec/fog/compute/xen_server/models/pool_patch_spec.rb\" \"spec/fog/compute/xen_server/models/pool_patchs_spec.rb\" \"spec/fog/compute/xen_server/models/pool_spec.rb\" \"spec/fog/compute/xen_server/models/pools_spec.rb\" \"spec/fog/compute/xen_server/models/role_spec.rb\" \"spec/fog/compute/xen_server/models/roles_spec.rb\" \"spec/fog/compute/xen_server/models/server_appliance_spec.rb\" \"spec/fog/compute/xen_server/models/server_appliances_spec.rb\" \"spec/fog/compute/xen_server/models/server_metrics_spec.rb\" \"spec/fog/compute/xen_server/models/server_spec.rb\" \"spec/fog/compute/xen_server/models/servers_metrics_spec.rb\" \"spec/fog/compute/xen_server/models/servers_spec.rb\" \"spec/fog/compute/xen_server/models/storage_manager_spec.rb\" \"spec/fog/compute/xen_server/models/storage_managers_spec.rb\" \"spec/fog/compute/xen_server/models/storage_repositories_spec.rb\" \"spec/fog/compute/xen_server/models/storage_repository_spec.rb\" \"spec/fog/compute/xen_server/models/tunnel_spec.rb\" \"spec/fog/compute/xen_server/models/tunnels_spec.rb\" \"spec/fog/compute/xen_server/models/vbd_metrics_spec.rb\" \"spec/fog/compute/xen_server/models/vbd_spec.rb\" \"spec/fog/compute/xen_server/models/vbds_metrics_spec.rb\" \"spec/fog/compute/xen_server/models/vbds_spec.rb\" \"spec/fog/compute/xen_server/models/vdi_spec.rb\" \"spec/fog/compute/xen_server/models/vdis_spec.rb\" \"spec/fog/compute/xen_server/models/vif_metrics_spec.rb\" \"spec/fog/compute/xen_server/models/vif_spec.rb\" \"spec/fog/compute/xen_server/models/vifs_metrics_spec.rb\" \"spec/fog/compute/xen_server/models/vifs_spec.rb\" \"spec/fog/compute/xen_server/models/vlan_spec.rb\" \"spec/fog/compute/xen_server/models/vlans_spec.rb\" \"spec/fog/compute/xen_server/models/vmpp_spec.rb\" \"spec/fog/compute/xen_server/models/vmpps_spec.rb\" \"spec/fog/compute/xen_server/models/vtpm_spec.rb\" \"spec/fog/compute/xen_server/models/vtpms_spec.rb\" \"spec/fog/compute/xen_server/requests/builtin_templates_spec.rb\" \"spec/fog/compute/xen_server/requests/clone_server_spec.rb\" \"spec/fog/compute/xen_server/requests/create_network_spec.rb\" \"spec/fog/compute/xen_server/requests/create_server_spec.rb\" \"spec/fog/compute/xen_server/requests/create_vbd_spec.rb\" \"spec/fog/compute/xen_server/requests/create_vdi_spec.rb\" \"spec/fog/compute/xen_server/requests/create_vif_spec.rb\" \"spec/fog/compute/xen_server/requests/sync_database_pool_spec.rb\" \"spec/fog/compute/xen_server_spec.rb\" \r\n"
+    ],
+    [
+      0.750291,
+      "/var/lib/gems/2.1.0/gems/turn-0.9.7/lib/turn/minitest.rb:22:in `\u003ctop (required)\u003e'"
+    ],
+    [
+      0.000029,
+      ": "
+    ],
+    [
+      0.000007,
+      "MiniTest v5.8.3 is out of date. (RuntimeError)"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "Please update to a newer version, but version 5.0.0 or above will not work. ."
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "\t"
+    ],
+    [
+      0.000005,
+      "from /var/lib/gems/2.1.0/gems/turn-0.9.7/lib/turn.rb:13:in `require'\r\n"
+    ],
+    [
+      0.000010,
+      "\tfrom /var/lib/gems/2.1.0/gems/turn-0.9.7/lib/turn.rb:13:in `\u003ctop (required)\u003e'\r\n"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000004,
+      "from /home/balasankarc/git/fog-xenserver/spec/minitest_helper.rb:3:in `require'"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\tfrom /home/balasankarc/git/fog-xenserver/spec/minitest_helper.rb:3:in `\u003ctop (required)\u003e'"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000005,
+      "from /home/balasankarc/git/fog-xenserver/spec/fog/compute/xen_server/models/blob_spec.rb:1:in `require'\r\n"
+    ],
+    [
+      0.000027,
+      "\tfrom /home/balasankarc/git/fog-xenserver/spec/fog/compute/xen_server/models/blob_spec.rb:1:in `\u003ctop (required)\u003e'\r\n\tfrom /var/lib/gems/2.1.0/gems/rake-10.4.2/lib/rake/rake_test_loader.rb:15:in `require'"
+    ],
+    [
+      0.000006,
+      "\r\n\t"
+    ],
+    [
+      0.000005,
+      "from /var/lib/gems/2.1.0/gems/rake-10.4.2/lib/rake/rake_test_loader.rb:15:in `block in \u003cmain\u003e'\r\n"
+    ],
+    [
+      0.000005,
+      "\t"
+    ],
+    [
+      0.000004,
+      "from /var/lib/gems/2.1.0/gems/rake-10.4.2/lib/rake/rake_test_loader.rb:4:in `select'\r\n"
+    ],
+    [
+      0.000015,
+      "\tfrom /var/lib/gems/2.1.0/gems/rake-10.4.2/lib/rake/rake_test_loader.rb:4:in `\u003cmain\u003e'"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.017573,
+      "rake aborted!\r\nCommand failed with status (1): [ruby -I\"lib:spec\" -I\"/var/lib/gems/2.1.0/gems/rake-10.4.2/lib\" \"/var/lib/gems/2.1.0/gems/rake-10.4.2/lib/rake/rake_test_loader.rb\" \"spec/fog/compute/xen_server/models/blob_spec.rb\" \"spec/fog/compute/xen_server/models/blobs_spec.rb\" \"spec/fog/compute/xen_server/models/bond_spec.rb\" \"spec/fog/compute/xen_server/models/bonds_spec.rb\" \"spec/fog/compute/xen_server/models/console_spec.rb\" \"spec/fog/compute/xen_server/models/consoles_spec.rb\" \"spec/fog/compute/xen_server/models/crash_dump_spec.rb\" \"spec/fog/compute/xen_server/models/crash_dumps_spec.rb\" \"spec/fog/compute/xen_server/models/dr_task_spec.rb\" \"spec/fog/compute/xen_server/models/dr_tasks_spec.rb\" \"spec/fog/compute/xen_server/models/gpu_group_spec.rb\" \"spec/fog/compute/xen_server/models/gpu_groups_spec.rb\" \"spec/fog/compute/xen_server/models/guest_metrics_spec.rb\" \"spec/fog/compute/xen_server/models/guests_metrics_spec.rb\" \"spec/fog/compute/xen_server/models/host_cpu_spec.rb\" \"spec/fog/compute/xen_server/models/host_cpus_spec.rb\" \"spec/fog/compute/xen_server/models/host_crash_dump_spec.rb\" \"spec/fog/compute/xen_server/models/host_crash_dumps_spec.rb\" \"spec/fog/compute/xen_server/models/host_metrics_spec.rb\" \"spec/fog/compute/xen_server/models/host_patch_spec.rb\" \"spec/fog/compute/xen_server/models/host_patchs_spec.rb\" \"spec/fog/compute/xen_server/models/host_spec.rb\" \"spec/fog/compute/xen_server/models/hosts_metrics_spec.rb\" \"spec/fog/compute/xen_server/models/hosts_spec.rb\" \"spec/fog/compute/xen_server/models/network_spec.rb\" \"spec/fog/compute/xen_server/models/networks_spec.rb\" \"spec/fog/compute/xen_server/models/pbd_spec.rb\" \"spec/fog/compute/xen_server/models/pbds_spec.rb\" \"spec/fog/compute/xen_server/models/pci_spec.rb\" \"spec/fog/compute/xen_server/models/pcis_spec.rb\" \"spec/fog/compute/xen_server/models/pgpu_spec.rb\" \"spec/fog/compute/xen_server/models/pgpus_spec.rb\" \"spec/fog/compute/xen_server/models/pif_metrics_spec.rb\" \"spec/fog/compute/xen_server/models/pif_spec.rb\" \"spec/fog/compute/xen_server/models/pifs_metrics_spec.rb\" \"spec/fog/compute/xen_server/models/pifs_spec.rb\" \"spec/fog/compute/xen_server/models/pool_patch_spec.rb\" \"spec/fog/compute/xen_server/models/pool_patchs_spec.rb\" \"spec/fog/compute/xen_server/models/pool_spec.rb\" \"spec/fog/compute/xen_server/models/pools_spec.rb\" \"spec/fog/compute/xen_server/models/role_spec.rb\" \"spec/fog/compute/xen_server/models/roles_spec.rb\" \"spec/fog/compute/xen_server/models/server_appliance_spec.rb\" \"spec/fog/compute/xen_server/models/server_appliances_spec.rb\" \"spec/fog/compute/xen_server/models/server_metrics_spec.rb\" \"spec/fog/compute/xen_server/models/server_spec.rb\" \"spec/fog/compute/xen_server/models/servers_metrics_spec.rb\" \"spec/fog/compute/xen_server/models/servers_spec.rb\" \"spec/fog/compute/xen_server/models/storage_manager_spec.rb\" \"spec/fog/compute/xen_server/models/storage_managers_spec.rb\" \"spec/fog/compute/xen_server/models/storage_repositories_spec.rb\" \"spec/fog/compute/xen_server/models/storage_repository_spec.rb\" \"spec/fog/compute/xen_server/models/tunnel_spec.rb\" \"spec/fog/compute/xen_server/models/tunnels_spec.rb\" \"spec/fog/compute/xen_server/models/vbd_metrics_spec.rb\" \"spec/fog/compute/xen_server/models/vbd_spec.rb\" \"spec/fog/compute/xen_server/models/vbds_metrics_spec.rb\" \"spec/fog/compute/xen_server/models/vbds_spec.rb\" \"spec/fog/compute/xen_server/models/vdi_spec.rb\" \"spec/fog/compute/xen_server/models/vdis_spec.rb\" \"spec/fog/compute/xen_server/models/vif_metrics_spec.rb\" \"spec/fog/compute/xen_server/models/vif_spec.rb\" \"spec/fog/compute/xen_server/models/vifs_metrics_spec.rb\" \"spec/fog/compute/xen_server/models/vifs_spec.rb\" \"spec/fog/compute/xen_server/models/vlan_spec.rb\" \"spec/fog/compute/xen_server/models/vlans_spec.rb\" \"spec/fog/compute/xen_server/models/vmpp_spec.rb\" \"spec/fog/compute/xen_server/models/vmpps_spec.rb\" \"spec/fog/compute/xen_server/models/vtpm_spec.rb\" \"spec/fog/compute/xen_server/models/vtpms_spec.rb\" \"spec/fog/compute/xen_server/requests/builtin_templates_spec.rb\" \"spec/fog/compute/xen_server/requests/clone_server_spec"
+    ],
+    [
+      0.000024,
+      ".rb\" \"spec/fog/compute/xen_server/requests/create_network_spec.rb\" \"spec/fog/compute/xen_server/requests/create_server_spec.rb\" \"spec/fog/compute/xen_server/requests/create_vbd_spec.rb\" \"spec/fog/compute/xen_server/requests/create_vdi_spec.rb\" \"spec/fog/compute/xen_server/requests/create_vif_spec.rb\" \"spec/fog/compute/xen_server/requests/sync_database_pool_spec.rb\" \"spec/fog/compute/xen_server_spec.rb\" ]\r\n\r\nTasks: TOP =\u003e default =\u003e test\r\n(See full trace by running task with --trace)\r\n"
+    ],
+    [
+      0.016433,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                     \r \r\u001b]2;balasankarc@sasalam: ~/git/fog-xenserver\u0007\u001b]1;..fog-xenserver\u0007"
+    ],
+    [
+      0.144252,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[39m\u001b[0m\u001b[49m\u001b[40m\u001b[39m \u001b[31m✘\u001b[40m\u001b[39m balasankarc@sasalam \u001b[44m\u001b[30m\u001b[30m ~/git/fog-xenserver \u001b[42m\u001b[34m\u001b[30m  master \u001b[49m\u001b[32m\u001b[39m \u001b[K\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      10.743245,
+      "\u001b[?2004l\r\r\n"
+    ]
+  ]
+}
