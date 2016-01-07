@@ -1,0 +1,654 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 217.047253,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-termite",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.230056,
+      "\u001b]0;mike@iridium:~/code/sdaio\u0007"
+    ],
+    [
+      0.064931,
+      "[mike\u001b(B\u001b[m\u001b[32m:\u001b(B\u001b[m\u001b[1m~/code/sdaio\u001b(B\u001b[m] \u001b[32mmaster\u001b(B\u001b[m \u001b[35m1\u001b(B\u001b[m \u001b[1m±\u001b(B\u001b[m "
+    ],
+    [
+      1.593401,
+      "."
+    ],
+    [
+      0.223388,
+      "/"
+    ],
+    [
+      0.456104,
+      "b"
+    ],
+    [
+      0.448044,
+      "u"
+    ],
+    [
+      0.183755,
+      "i"
+    ],
+    [
+      0.191913,
+      "l"
+    ],
+    [
+      0.256005,
+      "d"
+    ],
+    [
+      0.688590,
+      "."
+    ],
+    [
+      0.167568,
+      "s"
+    ],
+    [
+      0.504016,
+      "h"
+    ],
+    [
+      1.672635,
+      "\r\n"
+    ],
+    [
+      0.006679,
+      "\u001b[0;32m:: Starting build instance.\u001b[0m\r\n"
+    ],
+    [
+      0.675661,
+      "8b9bdb42771dd16013e4e7a7ea0ecb564c47b948c1a8b35bd8fc9763daa23a09\r\n"
+    ],
+    [
+      2.633345,
+      "\u001b[0;32m:: Building...\u001b[0m\r\n"
+    ],
+    [
+      0.624284,
+      "    Updating registry `https://github.com/rust-lang/crates.io-index`\r\n"
+    ],
+    [
+      15.432392,
+      " Downloading phf_generator v0.7.9\r\n"
+    ],
+    [
+      2.040067,
+      " Downloading bodyparser v0.0.6\r\n"
+    ],
+    [
+      0.474960,
+      " Downloading postgres v0.10.2\r\n"
+    ],
+    [
+      0.862493,
+      " Downloading rustc-serialize v0.3.16\r\n"
+    ],
+    [
+      0.652345,
+      " Downloading hyper v0.7.1\r\n"
+    ],
+    [
+      1.200190,
+      " Downloading gdi32-sys v0.1.1\r\n"
+    ],
+    [
+      0.455612,
+      " Downloading net2 v0.2.20\r\n"
+    ],
+    [
+      0.645480,
+      " Downloading byteorder v0.4.2\r\n"
+    ],
+    [
+      0.493358,
+      " Downloading hpack v0.2.0\r\n"
+    ],
+    [
+      0.646028,
+      " Downloading cookie v0.2.2\r\n"
+    ],
+    [
+      0.478218,
+      " Downloading matches v0.1.2\r\n"
+    ],
+    [
+      0.498438,
+      " Downloading serde v0.6.7\r\n"
+    ],
+    [
+      0.649452,
+      " Downloading typeable v0.1.2\r\n"
+    ],
+    [
+      0.492282,
+      " Downloading ws2_32-sys v0.2.1\r\n"
+    ],
+    [
+      0.474558,
+      " Downloading traitobject v0.0.1\r\n"
+    ],
+    [
+      0.479050,
+      " Downloading unsafe-any v0.4.1\r\n"
+    ],
+    [
+      0.455305,
+      " Downloading conduit-mime-types v0.7.3\r\n"
+    ],
+    [
+      0.627444,
+      " Downloading openssl v0.7.4\r\n"
+    ],
+    [
+      0.847865,
+      " Downloading libressl-pnacl-sys v2.1.6\r\n"
+    ],
+    [
+      8.180984,
+      " Downloading phf_codegen v0.7.9\r\n"
+    ],
+    [
+      0.457943,
+      " Downloading num_cpus v0.2.10\r\n"
+    ],
+    [
+      0.462915,
+      " Downloading pkg-config v0.3.6\r\n"
+    ],
+    [
+      0.513998,
+      " Downloading httparse v1.1.0\r\n"
+    ],
+    [
+      0.473027,
+      " Downloading gcc v0.3.21\r\n"
+    ],
+    [
+      0.645218,
+      " Downloading urlencoded v0.2.0\r\n"
+    ],
+    [
+      0.553496,
+      " Downloading typemap v0.3.3\r\n"
+    ],
+    [
+      0.509882,
+      " Downloading phf v0.7.9\r\n"
+    ],
+    [
+      0.509013,
+      " Downloading uuid v0.1.18\r\n"
+    ],
+    [
+      0.646725,
+      " Downloading bitflags v0.3.3\r\n"
+    ],
+    [
+      0.479163,
+      " Downloading cfg-if v0.1.0\r\n"
+    ],
+    [
+      0.458689,
+      " Downloading language-tags v0.2.0\r\n"
+    ],
+    [
+      0.474742,
+      " Downloading route-recognizer v0.1.11\r\n"
+    ],
+    [
+      0.465881,
+      " Downloading kernel32-sys v0.2.1\r\n"
+    ],
+    [
+      0.642284,
+      " Downloading lazy_static v0.1.15\r\n"
+    ],
+    [
+      0.476175,
+      " Downloading router v0.1.0\r\n"
+    ],
+    [
+      0.475580,
+      " Downloading rand v0.3.12\r\n"
+    ],
+    [
+      0.826659,
+      " Downloading winapi v0.2.5\r\n"
+    ],
+    [
+      2.196985,
+      " Downloading phf_shared v0.7.9\r\n"
+    ],
+    [
+      0.463163,
+      " Downloading modifier v0.1.0\r\n"
+    ],
+    [
+      0.450148,
+      " Downloading plugin v0.2.6\r\n"
+    ],
+    [
+      0.462630,
+      " Downloading num v0.1.29\r\n"
+    ],
+    [
+      0.857981,
+      " Downloading advapi32-sys v0.1.2\r\n"
+    ],
+    [
+      0.446390,
+      " Downloading user32-sys v0.1.2\r\n"
+    ],
+    [
+      0.470928,
+      " Downloading persistent v0.0.8\r\n"
+    ],
+    [
+      0.474965,
+      " Downloading time v0.1.34\r\n"
+    ],
+    [
+      0.699838,
+      " Downloading mime v0.1.1\r\n"
+    ],
+    [
+      0.449270,
+      " Downloading url v0.5.2\r\n"
+    ],
+    [
+      0.822024,
+      " Downloading winapi-build v0.1.1\r\n"
+    ],
+    [
+      0.491001,
+      " Downloading openssl-sys v0.7.4\r\n"
+    ],
+    [
+      0.500686,
+      " Downloading libc v0.2.4\r\n"
+    ],
+    [
+      0.847671,
+      " Downloading solicit v0.4.4\r\n"
+    ],
+    [
+      0.801401,
+      " Downloading pnacl-build-helper v1.4.10\r\n"
+    ],
+    [
+      0.451683,
+      " Downloading bufstream v0.1.1\r\n"
+    ],
+    [
+      0.538286,
+      " Downloading log v0.3.4\r\n"
+    ],
+    [
+      0.634107,
+      " Downloading traitobject v0.0.3\r\n"
+    ],
+    [
+      0.488235,
+      " Downloading rustc_version v0.1.4\r\n"
+    ],
+    [
+      0.449839,
+      " Downloading unicase v1.1.1\r\n"
+    ],
+    [
+      0.465943,
+      " Downloading error v0.1.9\r\n"
+    ],
+    [
+      0.458439,
+      " Downloading semver v0.1.20\r\n"
+    ],
+    [
+      0.641663,
+      " Downloading iron v0.2.6\r\n"
+    ],
+    [
+      0.658674,
+      " Downloading tempdir v0.3.4\r\n"
+    ],
+    [
+      0.463264,
+      " Downloading openssl-sys-extras v0.7.4\r\n"
+    ],
+    [
+      0.909911,
+      "   Compiling winapi v0.2.5\r\n"
+    ],
+    [
+      0.003825,
+      "   Compiling matches v0.1.2\r\n"
+    ],
+    [
+      0.001258,
+      "   Compiling httparse v1.1.0\r\n"
+    ],
+    [
+      0.003037,
+      "   Compiling gcc v0.3.21\r\n"
+    ],
+    [
+      0.553715,
+      "   Compiling traitobject v0.0.1\r\n"
+    ],
+    [
+      0.155745,
+      "   Compiling traitobject v0.0.3\r\n"
+    ],
+    [
+      0.263166,
+      "   Compiling phf_shared v0.7.9\r\n"
+    ],
+    [
+      0.043949,
+      "   Compiling libc v0.2.4\r\n"
+    ],
+    [
+      0.375513,
+      "   Compiling phf v0.7.9\r\n"
+    ],
+    [
+      0.482983,
+      "   Compiling unsafe-any v0.4.1\r\n"
+    ],
+    [
+      0.130519,
+      "   Compiling typemap v0.3.3\r\n"
+    ],
+    [
+      0.013675,
+      "   Compiling lazy_static v0.1.15\r\n"
+    ],
+    [
+      0.090031,
+      "   Compiling cfg-if v0.1.0\r\n"
+    ],
+    [
+      0.095171,
+      "   Compiling semver v0.1.20\r\n"
+    ],
+    [
+      0.311848,
+      "   Compiling log v0.3.4\r\n"
+    ],
+    [
+      0.106645,
+      "   Compiling rustc-serialize v0.3.16\r\n"
+    ],
+    [
+      0.729297,
+      "   Compiling hpack v0.2.0\r\n"
+    ],
+    [
+      3.183409,
+      "   Compiling openssl v0.7.4\r\n"
+    ],
+    [
+      0.019435,
+      "   Compiling rustc_version v0.1.4\r\n"
+    ],
+    [
+      1.120448,
+      "   Compiling openssl-sys-extras v0.7.4\r\n"
+    ],
+    [
+      0.514407,
+      "   Compiling solicit v0.4.4\r\n"
+    ],
+    [
+      0.663114,
+      "   Compiling bufstream v0.1.1\r\n"
+    ],
+    [
+      0.229081,
+      "   Compiling pkg-config v0.3.6\r\n"
+    ],
+    [
+      0.113483,
+      "   Compiling unicase v1.1.1\r\n"
+    ],
+    [
+      0.642822,
+      "   Compiling winapi-build v0.1.1\r\n"
+    ],
+    [
+      0.794911,
+      "   Compiling ws2_32-sys v0.2.1\r\n"
+    ],
+    [
+      0.307626,
+      "   Compiling advapi32-sys v0.1.2\r\n"
+    ],
+    [
+      0.454585,
+      "   Compiling kernel32-sys v0.2.1\r\n"
+    ],
+    [
+      0.608074,
+      "   Compiling net2 v0.2.20\r\n"
+    ],
+    [
+      1.466157,
+      "   Compiling time v0.1.34\r\n"
+    ],
+    [
+      0.763938,
+      "   Compiling openssl-sys v0.7.4\r\n"
+    ],
+    [
+      4.299534,
+      "   Compiling num_cpus v0.2.10\r\n"
+    ],
+    [
+      0.693083,
+      "   Compiling rand v0.3.12\r\n"
+    ],
+    [
+      3.718914,
+      "   Compiling bitflags v0.3.3\r\n"
+    ],
+    [
+      4.256705,
+      "   Compiling phf_generator v0.7.9\r\n"
+    ],
+    [
+      0.358819,
+      "   Compiling phf_codegen v0.7.9\r\n"
+    ],
+    [
+      0.507510,
+      "   Compiling postgres v0.10.2\r\n"
+    ],
+    [
+      3.462604,
+      "   Compiling byteorder v0.4.2\r\n"
+    ],
+    [
+      0.770683,
+      "   Compiling modifier v0.1.0\r\n"
+    ],
+    [
+      0.171634,
+      "   Compiling plugin v0.2.6\r\n"
+    ],
+    [
+      0.312531,
+      "   Compiling language-tags v0.2.0\r\n"
+    ],
+    [
+      0.573836,
+      "   Compiling typeable v0.1.2\r\n"
+    ],
+    [
+      0.151735,
+      "   Compiling error v0.1.9\r\n"
+    ],
+    [
+      0.222918,
+      "   Compiling route-recognizer v0.1.11\r\n"
+    ],
+    [
+      5.821776,
+      "   Compiling conduit-mime-types v0.7.3\r\n"
+    ],
+    [
+      0.000281,
+      "   Compiling uuid v0.1.18\r\n"
+    ],
+    [
+      0.982968,
+      "   Compiling num v0.1.29\r\n"
+    ],
+    [
+      0.572132,
+      "   Compiling url v0.5.2\r\n"
+    ],
+    [
+      9.345635,
+      "   Compiling cookie v0.2.2\r\n"
+    ],
+    [
+      3.944860,
+      "   Compiling serde v0.6.7\r\n"
+    ],
+    [
+      10.557942,
+      "   Compiling mime v0.1.1\r\n"
+    ],
+    [
+      1.487288,
+      "   Compiling hyper v0.7.1\r\n"
+    ],
+    [
+      26.719123,
+      "   Compiling iron v0.2.6\r\n"
+    ],
+    [
+      5.176179,
+      "   Compiling router v0.1.0\r\n"
+    ],
+    [
+      0.000167,
+      "   Compiling persistent v0.0.8\r\n"
+    ],
+    [
+      0.310334,
+      "   Compiling bodyparser v0.0.6\r\n"
+    ],
+    [
+      2.351391,
+      "   Compiling urlencoded v0.2.0\r\n"
+    ],
+    [
+      2.331656,
+      "   Compiling sdaio v0.1.0 (file:///home/build)\r\n"
+    ],
+    [
+      15.041925,
+      "\u001b[0;32m:: Build complete.\u001b[0m\r\n"
+    ],
+    [
+      0.264563,
+      "\u001b[0;32m:: Stopping and killing build instance.\u001b[0m\r\n"
+    ],
+    [
+      0.300389,
+      "sdaio-build\r\n"
+    ],
+    [
+      3.137714,
+      "sdaio-build\r\n"
+    ],
+    [
+      0.001979,
+      "\u001b]0;mike@iridium:~/code/sdaio\u0007"
+    ],
+    [
+      0.146441,
+      "[mike\u001b(B\u001b[m\u001b[32m:\u001b(B\u001b[m\u001b[1m~/code/sdaio\u001b(B\u001b[m] \u001b[32mmaster\u001b[31m*\u001b(B\u001b[m \u001b[33m3m8s\u001b(B\u001b[m \u001b[1m±\u001b(B\u001b[m "
+    ],
+    [
+      13.558803,
+      "l"
+    ],
+    [
+      0.045161,
+      "s"
+    ],
+    [
+      0.175984,
+      " "
+    ],
+    [
+      0.632217,
+      "-"
+    ],
+    [
+      0.431842,
+      "l"
+    ],
+    [
+      0.175916,
+      "h"
+    ],
+    [
+      0.224122,
+      " "
+    ],
+    [
+      0.567904,
+      "s"
+    ],
+    [
+      0.386342,
+      "d"
+    ],
+    [
+      0.237626,
+      "a"
+    ],
+    [
+      0.216109,
+      "i"
+    ],
+    [
+      0.191905,
+      "o"
+    ],
+    [
+      0.464324,
+      "\r\n"
+    ],
+    [
+      0.010097,
+      "-rwxr-xr-x 1 mike mike 1.8M Jan  8 01:12 \u001b[0m\u001b[01;32msdaio\u001b[0m\r\n"
+    ],
+    [
+      0.000898,
+      "\u001b]0;mike@iridium:~/code/sdaio\u0007"
+    ],
+    [
+      0.065199,
+      "[mike\u001b(B\u001b[m\u001b[32m:\u001b(B\u001b[m\u001b[1m~/code/sdaio\u001b(B\u001b[m] \u001b[32mmaster\u001b[31m*\u001b(B\u001b[m \u001b[1m±\u001b(B\u001b[m "
+    ],
+    [
+      5.035622,
+      "exit\r\n"
+    ]
+  ]
+}
