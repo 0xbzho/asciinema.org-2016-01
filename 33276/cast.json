@@ -1,0 +1,1270 @@
+{
+  "version": 1,
+  "width": 95,
+  "height": 25,
+  "duration": 257.971156,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.283899,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                              \r \r"
+    ],
+    [
+      0.006131,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mbcnjr5@MB\u001b[49m \u001b[1m\u001b[36m~/Projects\u001b[37m % \u001b[0m\u001b[39m\u001b[49m"
+    ],
+    [
+      0.000526,
+      "\u001b[K"
+    ],
+    [
+      0.000686,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.287045,
+      "q"
+    ],
+    [
+      0.215388,
+      "\u0008qe"
+    ],
+    [
+      0.225269,
+      "m"
+    ],
+    [
+      0.290918,
+      "u"
+    ],
+    [
+      0.410615,
+      "-"
+    ],
+    [
+      1.217411,
+      "i"
+    ],
+    [
+      0.260349,
+      "m"
+    ],
+    [
+      0.611039,
+      "g"
+    ],
+    [
+      0.357769,
+      " "
+    ],
+    [
+      1.557867,
+      "c"
+    ],
+    [
+      0.300947,
+      "r"
+    ],
+    [
+      0.250380,
+      "e"
+    ],
+    [
+      0.331082,
+      "a"
+    ],
+    [
+      0.591049,
+      "t"
+    ],
+    [
+      0.280730,
+      "e"
+    ],
+    [
+      0.596036,
+      " "
+    ],
+    [
+      2.394642,
+      "-"
+    ],
+    [
+      0.255530,
+      "f"
+    ],
+    [
+      0.180245,
+      " "
+    ],
+    [
+      0.438815,
+      "q"
+    ],
+    [
+      0.282482,
+      "c"
+    ],
+    [
+      0.300962,
+      "o"
+    ],
+    [
+      0.185362,
+      "w"
+    ],
+    [
+      0.210229,
+      " "
+    ],
+    [
+      1.107013,
+      "s"
+    ],
+    [
+      0.235568,
+      "l"
+    ],
+    [
+      0.170179,
+      "a"
+    ],
+    [
+      0.290712,
+      "c"
+    ],
+    [
+      0.320539,
+      "k"
+    ],
+    [
+      0.335622,
+      "w"
+    ],
+    [
+      0.290509,
+      "a"
+    ],
+    [
+      0.225326,
+      "r"
+    ],
+    [
+      0.210384,
+      "e"
+    ],
+    [
+      0.376049,
+      "."
+    ],
+    [
+      0.435775,
+      "q"
+    ],
+    [
+      0.305457,
+      "c"
+    ],
+    [
+      0.295581,
+      "o"
+    ],
+    [
+      0.370671,
+      "w"
+    ],
+    [
+      2.960564,
+      " "
+    ],
+    [
+      0.666115,
+      "2"
+    ],
+    [
+      0.535750,
+      "G"
+    ],
+    [
+      0.321094,
+      "\u001b[?1l\u001b\u003e\r\r\n"
+    ],
+    [
+      0.086653,
+      "Formatting 'slackware.qcow', fmt=qcow size=2147483648 encryption=off "
+    ],
+    [
+      0.000347,
+      "\r\n"
+    ],
+    [
+      0.791592,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                              \r \r"
+    ],
+    [
+      0.003462,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mbcnjr5@MB\u001b[49m \u001b[1m\u001b[36m~/Projects\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      6.674068,
+      "q"
+    ],
+    [
+      0.270447,
+      "\u0008qe"
+    ],
+    [
+      0.290603,
+      "m"
+    ],
+    [
+      0.245788,
+      "u"
+    ],
+    [
+      1.607791,
+      "-"
+    ],
+    [
+      1.843080,
+      "s"
+    ],
+    [
+      0.360888,
+      "y"
+    ],
+    [
+      0.190441,
+      "s"
+    ],
+    [
+      0.290381,
+      "t"
+    ],
+    [
+      0.240470,
+      "e"
+    ],
+    [
+      0.205343,
+      "m"
+    ],
+    [
+      0.445688,
+      "-"
+    ],
+    [
+      0.190417,
+      "-"
+    ],
+    [
+      0.601300,
+      "\u0008 \u0008"
+    ],
+    [
+      0.555944,
+      "i"
+    ],
+    [
+      0.706178,
+      "3"
+    ],
+    [
+      0.460771,
+      "8"
+    ],
+    [
+      0.320758,
+      "6"
+    ],
+    [
+      0.350755,
+      " "
+    ],
+    [
+      1.467917,
+      "-"
+    ],
+    [
+      0.385537,
+      "c"
+    ],
+    [
+      0.430800,
+      "d"
+    ],
+    [
+      0.310756,
+      "r"
+    ],
+    [
+      0.325500,
+      "o"
+    ],
+    [
+      0.376104,
+      "m"
+    ],
+    [
+      0.411089,
+      " "
+    ],
+    [
+      4.252804,
+      "s"
+    ],
+    [
+      0.185426,
+      "l"
+    ],
+    [
+      0.200199,
+      "a"
+    ],
+    [
+      0.302565,
+      "c"
+    ],
+    [
+      0.311543,
+      "k"
+    ],
+    [
+      0.295411,
+      "w"
+    ],
+    [
+      0.255151,
+      "a"
+    ],
+    [
+      0.280568,
+      "r"
+    ],
+    [
+      0.441469,
+      "e"
+    ],
+    [
+      0.804581,
+      "\u0007"
+    ],
+    [
+      0.000670,
+      "\r"
+    ],
+    [
+      0.000273,
+      "\r\n"
+    ],
+    [
+      0.000755,
+      "Completing disk image"
+    ],
+    [
+      0.000031,
+      "\r\n\u001b[0mslackware-14.1-install-dvd.iso      slackware.qcow                    \r\n\u001b[Jslackware-14.1-install-dvd.iso.bak  \u001b[J                                  \u001b[3A\u001b[0m\u001b[27m\u001b[24m\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m\r\u001b[23C"
+    ],
+    [
+      0.000107,
+      "qemu-system-i386 -cdrom slackware\u001b[K\u001b[0m\u001b[27m\u001b[24m\u001b[39m\u001b[49m"
+    ],
+    [
+      2.138848,
+      "\u0007"
+    ],
+    [
+      0.000407,
+      "-14.1-install-dvd.iso"
+    ],
+    [
+      1.487872,
+      " "
+    ],
+    [
+      3.828492,
+      "-"
+    ],
+    [
+      0.861301,
+      "h"
+    ],
+    [
+      0.270723,
+      "d"
+    ],
+    [
+      0.295425,
+      "a"
+    ],
+    [
+      0.335752,
+      " "
+    ],
+    [
+      4.994372,
+      "s"
+    ],
+    [
+      0.400858,
+      "l"
+    ],
+    [
+      0.205365,
+      "a"
+    ],
+    [
+      0.415865,
+      "c"
+    ],
+    [
+      0.340628,
+      "k"
+    ],
+    [
+      0.300641,
+      "w"
+    ],
+    [
+      0.430881,
+      "a"
+    ],
+    [
+      0.360940,
+      "r"
+    ],
+    [
+      0.195253,
+      "e"
+    ],
+    [
+      0.290485,
+      "."
+    ],
+    [
+      0.481603,
+      "q"
+    ],
+    [
+      0.580832,
+      "c \r\u001b[K"
+    ],
+    [
+      0.837030,
+      "o"
+    ],
+    [
+      0.340658,
+      "\row"
+    ],
+    [
+      3.120638,
+      " "
+    ],
+    [
+      0.636329,
+      "-"
+    ],
+    [
+      0.325513,
+      "b"
+    ],
+    [
+      0.390651,
+      "o"
+    ],
+    [
+      0.150388,
+      "o"
+    ],
+    [
+      0.420744,
+      "t"
+    ],
+    [
+      0.210674,
+      " "
+    ],
+    [
+      0.235402,
+      "d"
+    ],
+    [
+      2.901967,
+      " "
+    ],
+    [
+      0.585280,
+      "-"
+    ],
+    [
+      0.751679,
+      "c"
+    ],
+    [
+      0.240466,
+      "u"
+    ],
+    [
+      0.225354,
+      "r"
+    ],
+    [
+      0.280503,
+      "s"
+    ],
+    [
+      0.245527,
+      "e"
+    ],
+    [
+      0.245534,
+      "s"
+    ],
+    [
+      0.352289,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b[J"
+    ],
+    [
+      0.230469,
+      "\u001b[?1049h\u001b[1;25r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?1h\u001b="
+    ],
+    [
+      0.008900,
+      "\u001b[39;49m\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J"
+    ],
+    [
+      0.000467,
+      "\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J"
+    ],
+    [
+      0.000168,
+      "\u001b[?25l"
+    ],
+    [
+      0.000413,
+      "\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J"
+    ],
+    [
+      0.000684,
+      "\u001b[13;41H\u001b(B\u001b[0;1m\u001b[34m\u001b[40mVGA Blank mode\u001b[H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.601667,
+      "\u001b[39;49m\u001b[37m\u001b[40m\u001b[H\u001b[2J\u001b[?12l\u001b[?25h\u001b[8G"
+    ],
+    [
+      0.029477,
+      "\u001b[37m\u001b[40mSeaBIOS (version 1.7.5-20140531_083030-gandalf)\u001b[2;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.119979,
+      "\u001b[4d\u001b[37m\u001b[40miPXE (http://ipxe.org) 00:03.0 C980 PCI2.10\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.032686,
+      "\u001b[C\u001b[37m\u001b[40mPnP PMM+07F93BA0+07EF3BA0 C980\u001b[8;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.094363,
+      "\u001b[37m\u001b[40mBooting from DVD/CD...\u001b[9;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.031635,
+      "\u001b[10d\u001b[37m\u001b[40mISOLINUX 4.06 0x513e7151 ETCD\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.060021,
+      "\u001b[C\u001b[37m\u001b[40mCopyright (C) 1994-2012 H. Peter Anvin et al\u001b[11;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.060433,
+      "\u001b[12d\u001b[37m\u001b[40mWelcome to \u001b(B\u001b[0;1m\u001b[34m\u001b[40mSlackware\u001b(B\u001b[0m\u001b[37m\u001b[40m version 14.1 (Linux kernel 3.10.17)!\u001b[14;8HIf you need to pass extra parameters to the kernel, enter them at the prompt\u001b[15;8Hbelow after the name \u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.033213,
+      "\u001b[37m\u001b[40mof the kernel to boot (huge.s etc).  NOTE: If your machine\u001b[16;8His not at least a Pentium-III, you *must* boot and install with the huge.s\u001b[17;8Hkernel, not the hugesmp.s kernel!  For older machines, use \"huge.s\" at the\u001b[18;8Hboo\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.033848,
+      "\u001b[1;17r\u001b[17;1H\n\u001b[1;25r\u001b[17;8H\u001b[37m\u001b[40mboot prompt.\u001b[18;8H   \u001b[19;8HIn a pinch, you can boot your system from here with a command like:\u001b[21;8Hboot: hugesmp.s root=/dev/sda1 rdinit= ro\u001b[23;8HIn the example above, /dev/sda1 is the / Linux partition.\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.025860,
+      "\u001b[1;24r\u001b[24;1H\u001b[2S\u001b[1;25r\u001b[23;8H\u001b[37m\u001b[40mTo test your memory with memtest86+, enter memtest on the boot line below.\u001b[25;8HThis prompt is\u0008\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030109,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mThis prompt is just for entering extra parameters.  If you don't need to enter\u001b[25;8Hany parameters, hi\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.032832,
+      "\u001b[1;13r\u001b[13;1H\u001b[2S\u001b[1;25r\u001b[12;1H\u001b[M\u001b[8G\u001b[37m\u001b[40mboot prompt.\u001b[12;49Hder machines, use \"huge.s\" at the\u001b[24;26Ht ENTER to boot the default kernel \"hugesmp.s\" or press [F2]\u001b[25;8Hfor a listing of more kernel choices.  Default kernel will boot in 2 minutes.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030072,
+      "\u001b[1;11r\u001b[11;1H\n\u001b[1;25r\u001b[11;1H\u001b[2M\u001b[25;8H\u001b[37m\u001b[40mboot: \u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.741963,
+      "\r\n\u001b[8G"
+    ],
+    [
+      0.062862,
+      "\u001b[37m\u001b[40mLoading /kernels/hugesmp.s/bzImage..\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.874043,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.870936,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.870965,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.869926,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.901019,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.698094,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030782,
+      "\r\n\u001b[8G\u001b[37m\u001b[40mLoading initrd.img...\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.925252,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.869834,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.840052,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.901000,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.876030,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.870065,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.869961,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.874051,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.839657,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.870381,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.848929,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.839735,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.841995,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.870032,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.876177,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.811655,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.811092,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.870070,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.842090,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.904951,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.872121,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.810718,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.850256,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.872871,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.840285,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.899626,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.954240,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.869909,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.845951,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.871127,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.871057,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.900943,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.872158,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.840502,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.840370,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.872089,
+      "\u001b[37m\u001b[40m.\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.241073,
+      "\r\n\u001b[24;65H\u001b[37m\u001b[40mready.\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.517279,
+      "\u001b[2d\u001b[37m\u001b[40m\u001b[57X\u001b[4d\u001b[76X\u001b[5d\u001b[79X\u001b[6d\u001b[74X\u001b[7d\u001b[74X\u001b[8d            \u001b[10;8H\u001b[67X\u001b[12d\u001b[41X\u001b[14d\u001b[57X\u001b[16d\u001b[74X\u001b[18d\u001b[78X\u001b[19d\u001b[78X\u001b[20d\u001b[77X\u001b[22d     \u001b[23;8H\u001b[42X\u001b[24d\u001b[63X\u001b[1d\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030143,
+      "\u001b[2d\u001b[37m\u001b[40mWelcome to \u001b(B\u001b[0;1m\u001b[34m\u001b[40mSlackware\u001b(B\u001b[0m\u001b[37m\u001b[40m version 14.1 (Linux kernel 3.10.17)!\u001b[4;8HIf you need to pass extra parameters to the kernel, enter them at the prompt\u001b[5;8Hbelow after the name of the kernel to boot (huge.s etc).  NOTE: If your machine\u001b[6;8His not at least a Pentium-III, you *must* boot and install with the huge.s\u001b[7;8Hkernel, not the hugesmp.s kernel!  For older machines, use \"huge.s\" at the\u001b[8;8Hboot prompt.\u001b[10;8HIn a pinch, you can boot your system from here with a command like:\u001b[12;8Hboot: hugesmp.s root=/dev/sda1 rdinit= ro\u001b[14;8HIn the example above, /dev/sda1 is the / Linux partition.\u001b[16;8HTo test your memory with memtest86+, enter memtest on the boot line below.\u001b[18;8HThis prompt is just for entering extra parameters.  If you don't need to enter\u001b[19;8Hany parameters, hit ENTER to boot the default kernel \"hugesmp.s\" or press [F2]\u001b[20;8Hfor a listing of more kernel choices.  Default kernel will boot in 2 minutes.\u001b[22;8Hboot:\u001b[23;8HLoading /kernels/hugesmp.s/bzImage........\u001b[24;8HLoading initrd.img.......................................ready.\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.059669,
+      "\u001b[1;24r\u001b[24;1H\u001b[2S\u001b[1;25r\u001b[23;8H\u001b[37m\u001b[40mearly console in decompress_kernel\u001b[25;8HDecompressing Linux... \u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      30.814836,
+      "\u001b[37m\u001b[40mParsing ELF... \u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.151131,
+      "\r\u001b[2S\u001b[23;46H\u001b[37m\u001b[40mdone.\u001b[24;8HBooting the kernel.\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.719718,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mInitializing cgroup subsys cpuset\u001b[8G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030364,
+      "\u001b[1d\u001b[37m\u001b[40mPolicy zone: Normal\u001b[55X\u001b[2;8HKernel command line: initrd=initrd.img load_ramdisk=1 prompt_ramdisk=0 rw printk\u001b[3;8H.time=0 nomodeset SLACK_KERNEL=hugesmp.s BOOT_IMAGE=/kernels/hugesmp.s/bzImage\u001b[4;8HPID hash table entries: 512 (order: -1, 2048 bytes)\u001b[5;8HDentry cache hash table entries: 16384 (order: 4, 65536 bytes)     \u001b[6;8HInode-cache hash table entries: 8192 (order: 3, 32768 bytes)\u001b[7;8HInitializing CPU#0\u001b[23X\u001b[8;8HInitializing HighMem for node 0 (00000000:00000000)\u001b[9;8HMemory: 76056k/130944k available (10841k kernel code, 54496k reserved, 3474k dat\u001b[10;8Ha, 796k init, 0k highmem)\u001b[11;8Hvirtual kernel memory layout:\u001b[45X\u001b[12;12Hfixmap  : 0xffd36000 - 0xfffff000   (2852 kB)\u001b[13;8H    pkmap   : 0xffa00000 - 0xffc00000   (2048 kB)\u001b[29X\u001b[14;8H    vmalloc : 0xc87e0000 - 0xff9fe000   ( 882 MB)\u001b[29X\u001b[15;8H    lowmem  : 0xc0000000 - 0xc7fe0000   ( 127 MB)\u001b[28X\u001b[16;14H.init : 0xc1dfc000 - 0xc1ec3000   ( 796 kB)\u001b[17;8H      .data : 0xc1a96766 - 0xc1dfb280   (3474 kB)\u001b[18;8H      .text : 0xc1000000 - 0xc1a96766   (10841 kB)\u001b[19;8HChecking if this processor honours the WP bit even in supervisor mode...Ok.\u001b[20;8HSLUB: HWalign=32, Order=0-3, MinObjects=0, CPUs=1, Nodes=1\u001b[21;8HHierarchical RCU implementation.\u001b[22;8H\t"
+    ],
+    [
+      0.000040,
+      "RCU restricting CPUs from NR_CPUS=32 to nr_cpu_ids=1.\u001b[23;8HNR_IRQS:2304 nr_irqs:256 16\u001b[24;8HConsole: colour VGA+ 80x25       \u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030471,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mconsole [tty0] enabled\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.059856,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mtsc: Fast TSC calibration failed\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.090092,
+      "\u001b[1;24r\u001b[24;1H\u001b[3S\u001b[1;25r\u001b[22;8H\u001b[37m\u001b[40mtsc: Unable to calibrate against PIT\u001b[23;8Htsc: using HPET reference calibration\u001b[24;8Htsc: Detected 1662.344 MHz processor\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030942,
+      "\u001b[1;24r\u001b[24;1H\u001b[3S\u001b[1;25r\u001b[22;8H\u001b[37m\u001b[40mCalibrating delay loop (skipped), value calculated using timer frequency.. 3324.\u001b[23;8H68 BogoMIPS (lpj=1662344)\u001b[24;8Hpid_max: default: 32768 minimum: 301\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.028971,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mSecurity Framework initialized\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.059984,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mMount-cache hash table entries: 512\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.242030,
+      "\u001b[1;24r\u001b[24;1H\u001b[2S\u001b[1;25r\u001b[23;8H\u001b[37m\u001b[40mInitializing cgroup subsys devices\u001b[24;8HInitializing cgroup subsys freezer\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.031543,
+      "\u001b[1;24r\u001b[24;1H\u001b[3S\u001b[1;25r\u001b[22;8H\u001b[37m\u001b[40mInitializing cgroup subsys net_cls\u001b[23;8HInitializing cgroup subsys blkio\u001b[24;8HInitializing cgroup subsys perf_event\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.059469,
+      "\u001b[1;24r\u001b[24;1H\u001b[3S\u001b[1;25r\u001b[22;8H\u001b[37m\u001b[40mLast level iTLB entries: 4KB 0, 2MB 0, 4MB 0\u001b[23;8HLast level dTLB entries: 4KB 0, 2MB 0, 4MB 0\u001b[24;8Htlb_flushall_shift: 6\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      6.152951,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mFreeing SMP alternatives: 36k freed\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.094007,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mACPI: Core revision 20130328\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.879044,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mACPI: All ACPI Tables successfully acquired\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.032338,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mftrace: allocating 36203 entries in 71 pages\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      3.251678,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mEnabling APIC mode:  Flat.  Using 1 I/O APICs\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.032874,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40m..TIMER: vector=0x30 apic1=0 pin1=2 apic2=-1 pin2=-1\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.028934,
+      "\u001b[37m\u001b[40msmpboot: CPU0: Intel QEMU Virtual CPU version 2.1.2\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030789,
+      "\r\u001b[2S\u001b[23;60H\u001b[37m\u001b[40m(fam: 06, model: 06, steppin\u001b[24;8Hg: 03)\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.119566,
+      "\u001b[1;24r\u001b[24;1H\u001b[2S\u001b[1;25r\u001b[23;8H\u001b[37m\u001b[40mAPIC calibration not consistent with PM-Timer: 103ms instead of 100ms\u001b[24;8HAPIC delta adjusted to PM-Timer: 6250567 (6446613)\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.036502,
+      "\u001b[1;24r\u001b[24;1H\u001b[2S\u001b[1;25r\u001b[23;8H\u001b[37m\u001b[40mPerformance Events: Broken PMU hardware detected, using software events only.\u001b[24;8HFailed to access perfctr msr (MSR c1 is 0)\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.239870,
+      "\u001b[1;24r\u001b[24;1H\u001b[2S\u001b[1;25r\u001b[23;8H\u001b[37m\u001b[40mBrought up 1 CPUs\u001b[24;8Hsmpboot: Total of 1 processors activated (3324.68 BogoMIPS)\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.329489,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mdevtmpfs: initialized\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.300080,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mxor: measuring software checksum speed\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.089995,
+      "\u001b[1;24r\u001b[24;1H\u001b[3S\u001b[1;25r\u001b[22;11H\u001b[37m\u001b[40mpIII_sse  :    40.000 MB/sec\u001b[23;11Hprefetch64-sse:    44.000 MB/sec\u001b[24;8Hxor: using function: prefetch64-sse (44.000 MB/sec)\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030417,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40matomic64 test passed for i586+ platform with CX8 and with SSE\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.089760,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mregulator-dummy: no parameters\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.033265,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mNET: Registered protocol family 16\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.149435,
+      "\u001b[1;24r\u001b[24;1H\u001b[2S\u001b[1;25r\u001b[23;8H\u001b[37m\u001b[40mACPI: bus type PCI registered\u001b[24;8Hacpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.031034,
+      "\u001b[1;24r\u001b[24;1H\u001b[2S\u001b[1;25r\u001b[23;8H\u001b[37m\u001b[40mPCI: PCI BIOS revision 2.10 entry at 0xfd456, last bus=0\u001b[24;8HPCI: Using configuration type 1 for base access\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.319952,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mbio: create slab \u003cbio-0\u003e at 0\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.059999,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mraid6: mmxx1\u001b[24;28H3 MB/s\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030579,
+      "\u001b[1;24r\u001b[24;1H\u001b[2S\u001b[1;25r\u001b[23;8H\u001b[37m\u001b[40mraid6: mmxx2\u001b[23;28H3 MB/s\u001b[24;8Hraid6: sse1x1\u001b[27G15 MB/s\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.029596,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mraid6: sse1x2\u001b[28G7 MB/s\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.029861,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mraid6: sse2x1\u001b[28G7 MB/s\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030616,
+      "\u001b[1;24r\u001b[24;1H\u001b[2S\u001b[1;25r\u001b[23;8H\u001b[37m\u001b[40mraid6: sse2x2\u001b[27G31 MB/s\u001b[24;8Hraid6: using algorithm sse2x2 (31 MB/s)\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.029374,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mraid6: using intx1 recovery algorithm\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030208,
+      "\u001b[1;24r\u001b[24;1H\u001b[4S\u001b[1;25r\u001b[21;8H\u001b[37m\u001b[40mACPI: Added _OSI(Module Device)\u001b[22;8HACPI: Added _OSI(Processor Device)\u001b[23;8HACPI: Added _OSI(3.0 _SCP Extensions)\u001b[24;8HACPI: Added _OSI(Processor Aggregator Device)\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.690062,
+      "\u001b[1;24r\u001b[24;1H\u001b[5S\u001b[1;25r\u001b[20;8H\u001b[37m\u001b[40mACPI: Interpreter enabled\u001b[21;8HACPI Exception: AE_NOT_FOUND, While evaluating Sleep State [\\_S1_] (20130328/hwx\u001b[22;8Hface-568)\u001b[23;8HACPI Exception: AE_NOT_FOUND, While evaluating Sleep State [\\_S2_] (20130328/hwx\u001b[24;8Hface-568)\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.029786,
+      "\u001b[1;24r\u001b[24;1H\u001b[4S\u001b[1;25r\u001b[21;8H\u001b[37m\u001b[40mACPI: (supports S0 S3 S4 S5)\u001b[22;8HACPI: Using IOAPIC for interrupt routing\u001b[23;8HPCI: Using host bridge windows from ACPI; if necessary, use \"pci=nocrs\" and repo\u001b[24;8Hrt a bug\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.210046,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mACPI: No dock devices found.\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.448063,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.089984,
+      "\u001b[1;24r\u001b[24;1H\u001b[2S\u001b[1;25r\u001b[23;8H\u001b[37m\u001b[40macpi PNP0A03:00: fail to add MMCONFIG information, can't access extended PCI con\u001b[24;8Hfiguration space under this bridge.\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.179976,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40macpiphp: Slot [3] registered\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030490,
+      "\u001b[1;24r\u001b[24;1H\u001b[3S\u001b[1;25r\u001b[22;8H\u001b[37m\u001b[40macpiphp: Slot [4] registered\u001b[23;8Hacpiphp: Slot [5] registered\u001b[24;8Hacpiphp: Slot [6] registered\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.029611,
+      "\u001b[1;24r\u001b[24;1H\u001b[4S\u001b[1;25r\u001b[21;8H\u001b[37m\u001b[40macpiphp: Slot [7] registered\u001b[22;8Hacpiphp: Slot [8] registered\u001b[23;8Hacpiphp: Slot [9] registered\u001b[24;8Hacpiphp: Slot [10] registered\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.029983,
+      "\u001b[1;24r\u001b[24;1H\u001b[2S\u001b[1;25r\u001b[23;8H\u001b[37m\u001b[40macpiphp: Slot [11] registered\u001b[24;8Hacpiphp: Slot [12] registered\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030261,
+      "\u001b[1;24r\u001b[24;1H\u001b[3S\u001b[1;25r\u001b[22;8H\u001b[37m\u001b[40macpiphp: Slot [13] registered\u001b[23;8Hacpiphp: Slot [14] registered\u001b[24;8Hacpiphp: Slot [15] registered\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.029921,
+      "\r\u001b[3S\u001b[22;8H\u001b[37m\u001b[40macpiphp: Slot [16] registered\u001b[23;8Hacpiphp: Slot [17] registered\u001b[24;8Hacpiphp: Slot [18] registered\u001b[25;8Hacpiphp: Slot [19] registered\u001b[8G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.029718,
+      "\r\n\u001b[8G"
+    ],
+    [
+      0.030180,
+      "\u001b[1;24r\u001b[24;1H\u001b[3S\u001b[1;25r\u001b[22;8H\u001b[37m\u001b[40macpiphp: Slot [20] registered\u001b[23;8Hacpiphp: Slot [21] registered\u001b[24;8Hacpiphp: Slot [22] registered\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030099,
+      "\r\u001b[3S\u001b[22;8H\u001b[37m\u001b[40macpiphp: Slot [23] registered\u001b[23;8Hacpiphp: Slot [24] registered\u001b[24;8Hacpiphp: Slot [25] registered\u001b[25;8Hacpiphp: Slot [26] registered\u001b[8G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.029958,
+      "\r\u001b[4S\u001b[22;8H\u001b[37m\u001b[40macpiphp: Slot [27] registered\u001b[23;8Hacpiphp: Slot [28] registered\u001b[24;8Hacpiphp: Slot [29] registered\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.029816,
+      "\u001b[1;24r\u001b[24;1H\u001b[8S\u001b[1;25r\u001b[17;8H\u001b[37m\u001b[40macpiphp: Slot [30] registered\u001b[18;8Hacpiphp: Slot [31] registered\u001b[19;8HPCI host bridge to bus 0000:00\u001b[20;8Hpci_bus 0000:00: root bus resource [bus 00-ff]\u001b[21;8Hpci_bus 0000:00: root bus resource [io  0x0000-0x0cf7]\u001b[22;8Hpci_bus 0000:00: root bus resource [io  0x0d00-0xadff]\u001b[23;8Hpci_bus 0000:00: root bus resource [io  0xae0f-0xaeff]\u001b[24;8Hpci_bus 0000:00: root bus resource [io  0xaf20-0xafdf]\u001b[25;8Hpci_bus 0000:00: root b\u001b[8G\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030317,
+      "\u001b[1;24r\u001b[24;1H\u001b[3S\u001b[1;25r\u001b[22;8H\u001b[37m\u001b[40mpci_bus 0000:00: root bus resource [io  0xafe4-0xffff]\u001b[23;8Hpci_bus 0000:00: root bus resource [mem 0x000a0000-0x000bffff]\u001b[24;8Hpci_bus 0000:00: root bus resource [mem 0x08000000-0xfebfffff]\u001b[25;8H\u001b[23X\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.210732,
+      "\u001b[1;24r\u001b[24;1H\u001b[2S\u001b[1;25r\u001b[23;8H\u001b[37m\u001b[40mpci 0000:00:01.3: quirk: [io  0x0600-0x063f] claimed by PIIX4 ACPI\u001b[24;8Hpci 0000:00:01.3: quirk: [io  0x0700-0x070f] claimed by PIIX4 SMB\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.215122,
+      "\u001b[1;24r\u001b[24;1H\u001b[2S\u001b[1;25r\u001b[23;8H\u001b[37m\u001b[40macpi PNP0A03:00: ACPI _OSC support notification failed, disabling PCIe ASPM\u001b[24;8Hacpi PNP0A03:00: Unable to request _OSC control (_OSC support mask: 0x08)\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.119921,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mACPI: PCI Interrupt Link [LNKA] (IRQs 5 *10 11)\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.029921,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mACPI: PCI Interrupt Link [LNKB] (IRQs 5 *10 11)\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030095,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mACPI: PCI Interrupt Link [LNKC] (IRQs 5 10 *11)\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.060022,
+      "\u001b[1;24r\u001b[24;1H\u001b[2S\u001b[1;25r\u001b[23;8H\u001b[37m\u001b[40mACPI: PCI Interrupt Link [LNKD] (IRQs 5 10 *11)\u001b[24;8HACPI: PCI Interrupt Link [LNKS] (IRQs *9)\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.060431,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mACPI: Enabled 16 GPEs in block 00 to 0F\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.089786,
+      "\u001b[1;24r\u001b[24;1H\u001b[3S\u001b[1;25r\u001b[22;8H\u001b[37m\u001b[40mvgaarb: device added: PCI:0000:00:02.0,decodes=io+mem,owns=io+mem,locks=none\u001b[23;8Hvgaarb: loaded\u001b[24;8Hvgaarb: bridge control possible 0000:00:02.0\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.061932,
+      "\u001b[1;24r\u001b[24;1H\u001b[2S\u001b[1;25r\u001b[23;8H\u001b[37m\u001b[40mSCSI subsystem initialized\u001b[24;8HACPI: bus type ATA registered\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.029653,
+      "\u001b[1;24r\u001b[24;1H\u001b[2S\u001b[1;25r\u001b[23;8H\u001b[37m\u001b[40mACPI: bus type USB registered\u001b[24;8Husbcore: registered new interface driver usbfs\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.031383,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40musbcore: registered new interface driver hub\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.028704,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40musbcore: registered new device driver usb\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.060105,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mPCI: Using ACPI for IRQ routing\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.210028,
+      "\u001b[1;24r\u001b[24;1H\u001b[3S\u001b[1;25r\u001b[22;8H\u001b[37m\u001b[40mHPET: 3 timers in total, 0 timers will be used for per-cpu timer\u001b[23;8Hhpet0: at MMIO 0xfed00000, IRQs 2, 8, 0\u001b[24;8Hhpet0: 3 comparators, 64-bit 100.000000 MHz counter\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.060041,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mSwitching to clocksource hpet\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      6.969972,
+      "\u001b[1;24r\u001b[24;1H\u001b[2S\u001b[1;25r\u001b[23;8H\u001b[37m\u001b[40mpnp: PnP ACPI init\u001b[24;8HACPI: bus type PNP registered\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.276043,
+      "\u001b[1;24r\u001b[24;1H\u001b[2S\u001b[1;25r\u001b[23;8H\u001b[37m\u001b[40mpnp: PnP ACPI: found 8 devices\u001b[24;8HACPI: bus type PNP unregistered\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.455769,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mNET: Registered protocol family 2\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.300233,
+      "\u001b[1;24r\u001b[24;1H\u001b[3S\u001b[1;25r\u001b[22;8H\u001b[37m\u001b[40mTCP established hash table entries: 1024 (order: 1, 8192 bytes)\u001b[23;8HTCP bind hash table entries: 1024 (order: 1, 8192 bytes)\u001b[24;8HTCP: Hash tables configured (established 1024 bind 1024)\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.030152,
+      "\u001b[1;24r\u001b[24;1H\u001b[3S\u001b[1;25r\u001b[22;8H\u001b[37m\u001b[40mTCP: reno registered\u001b[23;8HUDP hash table entries: 256 (order: 1, 8192 bytes)\u001b[24;8HUDP-Lite hash table entries: 256 (order: 1, 8192 bytes)\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.119478,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mNET: Registered protocol family 1\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.182386,
+      "\u001b[1;24r\u001b[24;1H\u001b[6S\u001b[1;25r\u001b[19;8H\u001b[37m\u001b[40mRPC: Registered named UNIX socket transport module.\u001b[20;8HRPC: Registered udp transport module.\u001b[21;8HRPC: Registered tcp transport module.\u001b[22;8HRPC: Registered tcp NFSv4.1 backchannel transport module.\u001b[23;8Hpci 0000:00:00.0: Limiting direct PCI/PCI transfers\u001b[24;8Hpci 0000:00:01.0: PIIX3: Enabling Passive Release\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.031371,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mpci 0000:00:01.0: Activating ISA DMA hang workarounds\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.239439,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mTrying to unpack rootfs image as initramfs...\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      27.395150,
+      "\u001b[1;24r\u001b[24;1H\n\u001b[1;25r\u001b[24;8H\u001b[37m\u001b[40mhrtimer: interrupt took 16792570 ns\u001b[25;8H\u001b(B\u001b[m\u001b[39;49m\u001b[37m\u001b[40m"
+    ],
+    [
+      31.272311,
+      "zsh: killed     qemu-system-i386 -cdrom slackware-14.1-install-dvd.iso -hda slackware.qcow  d\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                              \r \r"
+    ],
+    [
+      0.008003,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mbcnjr5@MB\u001b[49m \u001b[1m\u001b[36m~/Projects\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      3.095296,
+      "e"
+    ],
+    [
+      0.240535,
+      "\u0008ec"
+    ],
+    [
+      0.196092,
+      "h"
+    ],
+    [
+      0.249775,
+      "o"
+    ],
+    [
+      0.004842,
+      "p"
+    ],
+    [
+      0.270876,
+      " "
+    ],
+    [
+      0.485914,
+      "\u0008"
+    ],
+    [
+      0.155296,
+      "\u0008 \u0008"
+    ],
+    [
+      0.320716,
+      " "
+    ],
+    [
+      4.289740,
+      "c"
+    ],
+    [
+      0.325739,
+      "t"
+    ],
+    [
+      0.335795,
+      "r"
+    ],
+    [
+      0.806687,
+      "l"
+    ],
+    [
+      0.360761,
+      "-"
+    ],
+    [
+      0.265571,
+      "c"
+    ],
+    [
+      0.203528,
+      " "
+    ],
+    [
+      0.235493,
+      "f"
+    ],
+    [
+      0.220405,
+      "a"
+    ],
+    [
+      0.315744,
+      "i"
+    ],
+    [
+      0.235564,
+      "l"
+    ],
+    [
+      0.275665,
+      "e"
+    ],
+    [
+      0.215099,
+      "d"
+    ],
+    [
+      0.384279,
+      "\u001b[?1l\u001b\u003e\r\r\nctrl-c failed\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                              \r \r"
+    ],
+    [
+      0.005710,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[44mbcnjr5@MB\u001b[49m \u001b[1m\u001b[36m~/Projects\u001b[37m % \u001b[0m\u001b[39m\u001b[49m\u001b[K"
+    ],
+    [
+      0.000481,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.543082,
+      "e"
+    ],
+    [
+      0.170436,
+      "\u0008ex"
+    ],
+    [
+      0.235587,
+      "i"
+    ],
+    [
+      0.190420,
+      "t"
+    ],
+    [
+      0.285923,
+      "\u001b[?1l\u001b\u003e\r\r\n"
+    ]
+  ]
+}
