@@ -1,0 +1,126 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 13.489746,
+  "command": "/bin/bash -l",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.875666,
+      "\u001b]7;file://mbps.local/Users/sergio\u0007"
+    ],
+    [
+      0.000147,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000025,
+      "sergio@mbps ~ \u001b[36m\u001b[31m\u001b(B\u001b[0m$ "
+    ],
+    [
+      2.186422,
+      "t"
+    ],
+    [
+      0.215099,
+      "l"
+    ],
+    [
+      0.289717,
+      "c"
+    ],
+    [
+      0.245666,
+      "r"
+    ],
+    [
+      0.428140,
+      "\r\n"
+    ],
+    [
+      0.007139,
+      "Usage: tlcr [options] [command]\r\n    -u, --update                     Force update (default: cache for 30 days)\r\n    -r, --render                     Render local file (for authors)\r\n    -d, --download                   Download the whole TLDR archive\r\n    -v, --version                    Show version\r\n"
+    ],
+    [
+      0.000420,
+      "    -h, --help                       Show this help\r\n"
+    ],
+    [
+      0.031607,
+      "\u001b]7;file://mbps.local/Users/sergio\u0007"
+    ],
+    [
+      0.000049,
+      "sergio@mbps ~ \u001b[36m\u001b[31m\u001b(B\u001b[0m$ "
+    ],
+    [
+      1.704492,
+      "t"
+    ],
+    [
+      0.282077,
+      "l"
+    ],
+    [
+      0.314363,
+      "c"
+    ],
+    [
+      0.329024,
+      "r"
+    ],
+    [
+      0.195337,
+      " "
+    ],
+    [
+      0.411035,
+      "l"
+    ],
+    [
+      0.439196,
+      "\u0007"
+    ],
+    [
+      0.239703,
+      "\r\nless    ln      locate  lp      lpstat  ls      lsof    \r\nsergio@mbps ~ \u001b[36m\u001b[31m\u001b(B\u001b[0m$ tlcr l"
+    ],
+    [
+      0.907709,
+      "n"
+    ],
+    [
+      0.293377,
+      " "
+    ],
+    [
+      0.617981,
+      "\r\n"
+    ],
+    [
+      0.009336,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      " \u001b[7m \u001b[0m\u001b[4;7mLN\u001b[0m\u001b[7m \u001b[0m\r\n\r\n\u003e Creates links to files and folders.\r\n\r\n\u001b[1mCreate a symbolic link to a file or folder:\u001b[0m\r\n\r\n  \u001b[2mln -s {{path/to/original/file}} {{path/to/link}}\u001b[0m\r\n\r\n\u001b[1mOverwrite a symbolic link to a file:\u001b[0m\r\n\r\n  \u001b[2mln -sf {{path/to/new/original/file}} {{path/to/file/link}}\u001b[0m\r\n\r\n\u001b[1mCreate a hard link to a file:\u001b[0m\r\n\r\n"
+    ],
+    [
+      0.000014,
+      "  \u001b[2mln {{path/to/original/file}} {{path/to/link}}\u001b[0m\r\n\r\n"
+    ],
+    [
+      0.025510,
+      "\u001b]7;file://mbps.local/Users/sergio\u0007"
+    ],
+    [
+      0.000083,
+      "sergio@mbps ~ \u001b[36m\u001b[31m\u001b(B\u001b[0m$ "
+    ]
+  ]
+}
