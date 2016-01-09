@@ -1,0 +1,1482 @@
+{
+  "version": 1,
+  "width": 117,
+  "height": 22,
+  "duration": 101.833744,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.061790,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                    \r \r"
+    ],
+    [
+      0.000266,
+      "\u001b]2;r00t@r00t-H81H3-M4: ~/Desktop/cagin.me/deploy\u0007\u001b]1;..gin.me/deploy\u0007"
+    ],
+    [
+      0.005162,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m⬢  \u001b[01;33mdeploy  \u001b[00m\u001b[K"
+    ],
+    [
+      0.000024,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.286171,
+      "h"
+    ],
+    [
+      0.058637,
+      "\u0008hu"
+    ],
+    [
+      0.139922,
+      "g"
+    ],
+    [
+      0.090501,
+      "o"
+    ],
+    [
+      0.095078,
+      " "
+    ],
+    [
+      0.190131,
+      "n"
+    ],
+    [
+      0.069368,
+      "e"
+    ],
+    [
+      0.170172,
+      "w"
+    ],
+    [
+      0.115816,
+      " "
+    ],
+    [
+      1.188180,
+      "p"
+    ],
+    [
+      0.166345,
+      "o"
+    ],
+    [
+      0.046234,
+      "s"
+    ],
+    [
+      0.143364,
+      "t"
+    ],
+    [
+      0.303283,
+      "/"
+    ],
+    [
+      1.499461,
+      "h"
+    ],
+    [
+      0.119168,
+      "e"
+    ],
+    [
+      0.044154,
+      "l"
+    ],
+    [
+      0.145221,
+      "l"
+    ],
+    [
+      0.156896,
+      "o"
+    ],
+    [
+      0.443535,
+      "."
+    ],
+    [
+      0.315831,
+      "m"
+    ],
+    [
+      0.244948,
+      "d"
+    ],
+    [
+      0.107570,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;hugo new post/hello.md\u0007\u001b]1;hugo\u0007"
+    ],
+    [
+      0.014763,
+      "/home/r00t/Desktop/cagin.me/deploy/content/post/hello.md created"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.005122,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                    \r \r\u001b]2;r00t@r00t-H81H3-M4: ~/Desktop/cagin.me/deploy\u0007\u001b]1;..gin.me/deploy\u0007"
+    ],
+    [
+      0.006933,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m⬢  \u001b[01;33mdeploy  \u001b[00m\u001b[K"
+    ],
+    [
+      0.000026,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.244399,
+      "h"
+    ],
+    [
+      0.058782,
+      "\u0008hu"
+    ],
+    [
+      0.135044,
+      "g"
+    ],
+    [
+      0.101592,
+      "o"
+    ],
+    [
+      0.261886,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;hugo\u0007\u001b]1;hugo\u0007"
+    ],
+    [
+      0.060460,
+      "0 draft content\r\n"
+    ],
+    [
+      0.000005,
+      "0 future content\r\n11 pages created\r\n2 paginator pages created\r\n"
+    ],
+    [
+      0.000002,
+      "19 tags created"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "9 categories created\r\n"
+    ],
+    [
+      0.000002,
+      "in 34 ms\r\n"
+    ],
+    [
+      0.000753,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                    \r \r"
+    ],
+    [
+      0.000074,
+      "\u001b]2;r00t@r00t-H81H3-M4: ~/Desktop/cagin.me/deploy\u0007"
+    ],
+    [
+      0.000001,
+      "\u001b]1;..gin.me/deploy\u0007"
+    ],
+    [
+      0.002726,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m⬢  \u001b[01;33mdeploy  \u001b[00m\u001b[K"
+    ],
+    [
+      0.000010,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.330830,
+      "c"
+    ],
+    [
+      0.160556,
+      "\u0008cd"
+    ],
+    [
+      0.069661,
+      " "
+    ],
+    [
+      0.225454,
+      "p"
+    ],
+    [
+      0.393088,
+      "ublic\u001b[1m/\u001b[0m"
+    ],
+    [
+      0.302747,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000029,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000034,
+      "\r\r\n"
+    ],
+    [
+      0.000275,
+      "\u001b]2;cd public\u0007"
+    ],
+    [
+      0.000003,
+      "\u001b]1;cd\u0007"
+    ],
+    [
+      0.000062,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                    \r \r"
+    ],
+    [
+      0.000040,
+      "\u001b]2;r00t@r00t-H81H3-M4: ~/Desktop/cagin.me/deploy/public\u0007"
+    ],
+    [
+      0.000019,
+      "\u001b]1;..deploy/public\u0007"
+    ],
+    [
+      0.008901,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m⬢  \u001b[01;33mpublic  \u001b[01;36mmaster \u001b[01;31m⦿ \u001b[00m"
+    ],
+    [
+      0.000005,
+      "\u001b[K"
+    ],
+    [
+      0.000043,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.352170,
+      "l"
+    ],
+    [
+      0.104848,
+      "\u0008ls"
+    ],
+    [
+      0.084367,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000031,
+      "\r\r\n"
+    ],
+    [
+      0.000249,
+      "\u001b]2;ls --color=tty\u0007\u001b]1;ls\u0007"
+    ],
+    [
+      0.001187,
+      "404.html  \u001b[0m\u001b[01;34mcategories\u001b[0m  \u001b[01;34mcss\u001b[0m    \u001b[01;34mimg\u001b[0m         index.xml  \u001b[01;34mpage\u001b[0m      \u001b[01;34mpost\u001b[0m         \u001b[01;34mtags\u001b[0m\r\n\u001b[01;34mblog\u001b[0m      \u001b[01;34mcode\u001b[0m        \u001b[01;34mfonts\u001b[0m  index.html  \u001b[01;34mjs\u001b[0m         \u001b[01;34mpgp-keys\u001b[0m  sitemap.xml\r\n"
+    ],
+    [
+      0.000040,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                    \r \r"
+    ],
+    [
+      0.000047,
+      "\u001b]2;r00t@r00t-H81H3-M4: ~/Desktop/cagin.me/deploy/public\u0007"
+    ],
+    [
+      0.000002,
+      "\u001b]1;..deploy/public\u0007"
+    ],
+    [
+      0.005483,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m⬢  \u001b[01;33mpublic  \u001b[01;36mmaster \u001b[01;31m⦿ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000022,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.939328,
+      "g"
+    ],
+    [
+      0.098814,
+      "\u0008gi"
+    ],
+    [
+      0.105898,
+      "t"
+    ],
+    [
+      0.075274,
+      " "
+    ],
+    [
+      0.265905,
+      "a"
+    ],
+    [
+      0.112475,
+      "d"
+    ],
+    [
+      0.139885,
+      "d"
+    ],
+    [
+      0.083148,
+      " "
+    ],
+    [
+      0.204716,
+      "*"
+    ],
+    [
+      0.382948,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;git add *\u0007\u001b]1;git\u0007"
+    ],
+    [
+      0.006977,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                    \r \r\u001b]2;r00t@r00t-H81H3-M4: ~/Desktop/cagin.me/deploy/public\u0007\u001b]1;..deploy/public\u0007"
+    ],
+    [
+      0.010300,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m⬢  \u001b[01;33mpublic  \u001b[01;36mmaster \u001b[01;31m⦿ \u001b[00m"
+    ],
+    [
+      0.000017,
+      "\u001b[K"
+    ],
+    [
+      0.000028,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.348182,
+      "g"
+    ],
+    [
+      0.079890,
+      "\u0008gi"
+    ],
+    [
+      0.109527,
+      "t"
+    ],
+    [
+      0.039976,
+      " "
+    ],
+    [
+      0.161359,
+      "c"
+    ],
+    [
+      0.064864,
+      "o"
+    ],
+    [
+      0.179752,
+      "m"
+    ],
+    [
+      0.110074,
+      "m"
+    ],
+    [
+      0.225788,
+      "i"
+    ],
+    [
+      0.055139,
+      "t"
+    ],
+    [
+      0.079916,
+      " "
+    ],
+    [
+      0.451277,
+      "-"
+    ],
+    [
+      0.240816,
+      "m"
+    ],
+    [
+      0.084755,
+      " "
+    ],
+    [
+      0.241344,
+      "\""
+    ],
+    [
+      0.391087,
+      "n"
+    ],
+    [
+      0.099605,
+      "e"
+    ],
+    [
+      0.140195,
+      "w"
+    ],
+    [
+      0.104791,
+      " "
+    ],
+    [
+      0.333433,
+      "p"
+    ],
+    [
+      0.158665,
+      "o"
+    ],
+    [
+      0.035166,
+      "s"
+    ],
+    [
+      0.099793,
+      "t"
+    ],
+    [
+      0.200083,
+      "\""
+    ],
+    [
+      0.852624,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;git commit -m \"new post\"\u0007\u001b]1;git\u0007"
+    ],
+    [
+      0.004346,
+      "[master 9f4775e] new post\r\n"
+    ],
+    [
+      0.000839,
+      " 15 files changed, 1046 insertions(+), 3 deletions(-)\r\n create mode 100644 blog/2016/01/09/hello/index.html\r\n create mode 100644 categories/category1/index.html\r\n create mode 100644 categories/category1/index.xml\r\n"
+    ],
+    [
+      0.000002,
+      " create mode 100644 categories/category2/index.html\r\n create mode 100644 categories/category2/index.xml\r\n create mode 100644 page/2/index.html"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000001,
+      " create mode 100644 tags/tag1/index.html"
+    ],
+    [
+      0.000001,
+      "\r\n"
+    ],
+    [
+      0.000024,
+      " create mode 100644 tags/tag1/index.xml\r\n create mode 100644 tags/tag2/index.html\r\n create mode 100644 tags/tag2/index.xml\r\n"
+    ],
+    [
+      0.000334,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                    \r \r\u001b]2;r00t@r00t-H81H3-M4: ~/Desktop/cagin.me/deploy/public\u0007\u001b]1;..deploy/public\u0007"
+    ],
+    [
+      0.005128,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m⬢  \u001b[01;33mpublic  \u001b[01;36mmaster \u001b[01;32m⦾ \u001b[00m\u001b[K\u001b[?1h\u001b="
+    ],
+    [
+      1.074309,
+      "g"
+    ],
+    [
+      0.084911,
+      "\u0008gi"
+    ],
+    [
+      0.110750,
+      "t"
+    ],
+    [
+      0.079100,
+      " "
+    ],
+    [
+      1.113685,
+      "p"
+    ],
+    [
+      0.749094,
+      "u"
+    ],
+    [
+      0.074753,
+      "s"
+    ],
+    [
+      0.100912,
+      "h"
+    ],
+    [
+      0.216051,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;git push\u0007\u001b]1;git\u0007"
+    ],
+    [
+      0.001536,
+      "warning: push.default is unset; its implicit value is changing in\r\nGit 2.0 from 'matching' to 'simple'. To squelch this message\r\nand maintain the current behavior after the default changes, use:\r\n\r\n  git config --global push.default matching\r\n\r\nTo squelch this message and adopt the new behavior now, use:\r\n\r\n  git config --global push.default simple\r\n\r\nWhen push.default is set to 'matching', git will push local branches\r\nto the remote branches that already exist with the same name.\r\n\r\nIn Git 2.0, Git will default to the more conservative 'simple'\r\nbehavior, which only pushes the current branch to the corresponding\r\nremote branch that 'git pull' uses to update the current branch.\r\n\r\nSee 'git help config' and search for 'push.default' for further information.\r\n(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode\r\n'current' instead of 'simple' if you sometimes use older versions of Git)\r\n\r\n"
+    ],
+    [
+      5.244324,
+      "Username for 'https://github.com': "
+    ],
+    [
+      1.004300,
+      "C"
+    ],
+    [
+      0.142197,
+      "a"
+    ],
+    [
+      0.130012,
+      "g"
+    ],
+    [
+      0.070934,
+      "i"
+    ],
+    [
+      0.205129,
+      "n"
+    ],
+    [
+      0.069872,
+      "d"
+    ],
+    [
+      0.113312,
+      "o"
+    ],
+    [
+      0.149400,
+      "n"
+    ],
+    [
+      0.141677,
+      "m"
+    ],
+    [
+      0.059256,
+      "e"
+    ],
+    [
+      0.175057,
+      "z"
+    ],
+    [
+      0.069956,
+      "\r\n"
+    ],
+    [
+      0.000083,
+      "Password for 'https://Cagindonmez@github.com': "
+    ],
+    [
+      4.568882,
+      "\r\n"
+    ],
+    [
+      1.431626,
+      "Counting objects: 45, done.\r\n"
+    ],
+    [
+      0.000800,
+      "Delta compression using up to 8 threads.\r\n"
+    ],
+    [
+      0.005886,
+      "Compressing objects:   3% (1/27)   \rCompressing objects:   7% (2/27)   \rCompressing objects:  11% (3/27)   \rCompressing objects:  14% (4/27)   \rCompressing objects:  18% (5/27)   \rCompressing objects:  22% (6/27)   \rCompressing objects:  25% (7/27)   \rCompressing objects:  29% (8/27)   \rCompressing objects:  33% (9/27)   \rCompressing objects:  37% (10/27)   \rCompressing objects:  40% (11/27)   \rCompressing objects:  44% (12/27)   \rCompressing objects:  48% (13/27)   \rCompressing objects:  51% (14/27)   \r"
+    ],
+    [
+      0.001254,
+      "Compressing objects:  55% (15/27)   \r"
+    ],
+    [
+      0.000257,
+      "Compressing objects:  59% (16/27)   \r"
+    ],
+    [
+      0.000032,
+      "Compressing objects:  62% (17/27)   \r"
+    ],
+    [
+      0.000036,
+      "Compressing objects:  66% (18/27)   \r"
+    ],
+    [
+      0.000045,
+      "Compressing objects:  70% (19/27)   \r"
+    ],
+    [
+      0.000071,
+      "Compressing objects:  74% (20/27)   \r"
+    ],
+    [
+      0.000081,
+      "Compressing objects:  77% (21/27)   \r"
+    ],
+    [
+      0.000018,
+      "Compressing objects:  81% (22/27)   \r"
+    ],
+    [
+      0.000025,
+      "Compressing objects:  85% (23/27)   \r"
+    ],
+    [
+      0.000022,
+      "Compressing objects:  88% (24/27)   \r"
+    ],
+    [
+      0.000016,
+      "Compressing objects:  92% (25/27)   \r"
+    ],
+    [
+      0.000024,
+      "Compressing objects:  96% (26/27)   \r"
+    ],
+    [
+      0.000048,
+      "Compressing objects: 100% (27/27)   \r"
+    ],
+    [
+      0.000126,
+      "Compressing objects: 100% (27/27), done."
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000205,
+      "Writing objects:   3% (1/31)   \r"
+    ],
+    [
+      0.000167,
+      "Writing objects:   6% (2/31)   \r"
+    ],
+    [
+      0.000071,
+      "Writing objects:   9% (3/31)   \r"
+    ],
+    [
+      0.000092,
+      "Writing objects:  12% (4/31)   \r"
+    ],
+    [
+      0.000080,
+      "Writing objects:  16% (5/31)   \r"
+    ],
+    [
+      0.000096,
+      "Writing objects:  19% (6/31)   \r"
+    ],
+    [
+      0.000077,
+      "Writing objects:  22% (7/31)   \r"
+    ],
+    [
+      0.000372,
+      "Writing objects:  25% (8/31)   \r"
+    ],
+    [
+      0.000095,
+      "Writing objects:  29% (9/31)   \r"
+    ],
+    [
+      0.000078,
+      "Writing objects:  32% (10/31)   \r"
+    ],
+    [
+      0.000209,
+      "Writing objects:  41% (13/31)   \r"
+    ],
+    [
+      0.000223,
+      "Writing objects:  48% (15/31)   \r"
+    ],
+    [
+      0.000120,
+      "Writing objects:  51% (16/31)   \r"
+    ],
+    [
+      0.000400,
+      "Writing objects:  58% (18/31)   \r"
+    ],
+    [
+      0.000091,
+      "Writing objects:  64% (20/31)   \r"
+    ],
+    [
+      0.000062,
+      "Writing objects:  67% (21/31)   \r"
+    ],
+    [
+      0.000059,
+      "Writing objects:  70% (22/31)   \r"
+    ],
+    [
+      0.000067,
+      "Writing objects:  74% (23/31)   \r"
+    ],
+    [
+      0.000049,
+      "Writing objects:  77% (24/31)   \r"
+    ],
+    [
+      0.000072,
+      "Writing objects:  80% (25/31)   \r"
+    ],
+    [
+      0.000087,
+      "Writing objects:  83% (26/31)   \r"
+    ],
+    [
+      0.000096,
+      "Writing objects:  90% (28/31)   \r"
+    ],
+    [
+      0.000082,
+      "Writing objects:  96% (30/31)   \r"
+    ],
+    [
+      0.000065,
+      "Writing objects: 100% (31/31)   \r"
+    ],
+    [
+      0.000048,
+      "Writing objects: 100% (31/31), 4.63 KiB | 0 bytes/s, done.\r\n"
+    ],
+    [
+      0.000003,
+      "Total 31 (delta 16), reused 0 (delta 0)"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      1.142256,
+      "To https://github.com/Cagindonmez/cagin-me.git\r\n"
+    ],
+    [
+      0.000120,
+      "   5904076..9f4775e  master -\u003e master\r\n"
+    ],
+    [
+      0.013804,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                    \r \r\u001b]2;r00t@r00t-H81H3-M4: ~/Desktop/cagin.me/deploy/public\u0007\u001b]1;..deploy/public\u0007"
+    ],
+    [
+      0.012100,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m⬢  \u001b[01;33mpublic  \u001b[01;36mmaster \u001b[01;32m⦾ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000057,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.027726,
+      "s"
+    ],
+    [
+      0.144757,
+      "\u0008ss"
+    ],
+    [
+      0.175104,
+      "h"
+    ],
+    [
+      0.131128,
+      " "
+    ],
+    [
+      0.931908,
+      "r"
+    ],
+    [
+      0.059290,
+      "o"
+    ],
+    [
+      0.142061,
+      "o"
+    ],
+    [
+      0.075265,
+      "t"
+    ],
+    [
+      0.176495,
+      "@"
+    ],
+    [
+      5.385018,
+      "185.92.222.11"
+    ],
+    [
+      0.537356,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;ssh root@185.92.222.11\u0007\u001b]1;root@185.92.222.11\u0007"
+    ],
+    [
+      0.718141,
+      "root@185.92.222.11's password: "
+    ],
+    [
+      4.133502,
+      "\r\n"
+    ],
+    [
+      0.216040,
+      "Welcome to Ubuntu 14.04.3 LTS (GNU/Linux 3.13.0-68-generic x86_64)\r\n\r\n * Documentation:  https://help.ubuntu.com/\r\nLast login: Sat Jan  9 03:14:21 2016 from 176.42.126.9\r\r\n"
+    ],
+    [
+      0.035689,
+      "\u001b]0;root@vultr: ~\u0007root@vultr:~# "
+    ],
+    [
+      1.810384,
+      "c"
+    ],
+    [
+      0.167694,
+      "d"
+    ],
+    [
+      0.090588,
+      " "
+    ],
+    [
+      0.561189,
+      "."
+    ],
+    [
+      0.152898,
+      "."
+    ],
+    [
+      0.104501,
+      "\r\n"
+    ],
+    [
+      0.000303,
+      "\u001b]0;root@vultr: /\u0007root@vultr:/# "
+    ],
+    [
+      0.179235,
+      "l"
+    ],
+    [
+      0.083992,
+      "s"
+    ],
+    [
+      0.064129,
+      "\r\n"
+    ],
+    [
+      0.002175,
+      "\u001b[0m\u001b[01;34mbin\u001b[0m   \u001b[01;34mdev\u001b[0m  \u001b[01;34mhome\u001b[0m        \u001b[01;36minitrd.img.old\u001b[0m  \u001b[01;34mlib64\u001b[0m       \u001b[01;34mmedia\u001b[0m  \u001b[01;34mopt\u001b[0m   \u001b[01;34mroot\u001b[0m  \u001b[01;34msbin\u001b[0m  \u001b[01;34msys\u001b[0m  \u001b[01;34musr\u001b[0m  \u001b[01;36mvmlinuz\u001b[0m\r\n\u001b[01;34mboot\u001b[0m  \u001b[01;34metc\u001b[0m  \u001b[01;36minitrd.img\u001b[0m  \u001b[01;34mlib\u001b[0m             \u001b[01;34mlost+found\u001b[0m  \u001b[01;34mmnt\u001b[0m    \u001b[01;34mproc\u001b[0m  \u001b[01;34mrun\u001b[0m   \u001b[01;34msrv\u001b[0m   \u001b[30;42mtmp\u001b[0m  \u001b[01;34mvar\u001b[0m  \u001b[01;36mvmlinuz.old\u001b[0m"
+    ],
+    [
+      0.000178,
+      "\r\n"
+    ],
+    [
+      0.000514,
+      "\u001b]0;root@vultr: /\u0007root@vultr:/# "
+    ],
+    [
+      0.218852,
+      "c"
+    ],
+    [
+      0.180010,
+      "d"
+    ],
+    [
+      0.097755,
+      " "
+    ],
+    [
+      0.577813,
+      "v"
+    ],
+    [
+      0.148492,
+      "a"
+    ],
+    [
+      0.053702,
+      "r"
+    ],
+    [
+      0.053567,
+      "\r\n"
+    ],
+    [
+      0.000158,
+      "\u001b]0;root@vultr: /var\u0007root@vultr:/var# "
+    ],
+    [
+      0.171872,
+      "l"
+    ],
+    [
+      0.064822,
+      "s"
+    ],
+    [
+      0.069581,
+      "\r\n"
+    ],
+    [
+      0.001371,
+      "\u001b[0m\u001b[01;34mbackups\u001b[0m  \u001b[01;34mcache\u001b[0m  \u001b[01;34mlib\u001b[0m  \u001b[01;34mlocal\u001b[0m  \u001b[01;36mlock\u001b[0m  \u001b[01;34mlog\u001b[0m  \u001b[01;34mmail\u001b[0m  \u001b[01;34mopt\u001b[0m  \u001b[01;36mrun\u001b[0m  \u001b[01;34mspool\u001b[0m  \u001b[30;42mtmp\u001b[0m"
+    ],
+    [
+      0.000123,
+      "\r\n\u001b]0;root@vultr: /var\u0007root@vultr:/var# "
+    ],
+    [
+      0.254895,
+      "c"
+    ],
+    [
+      0.215154,
+      "d"
+    ],
+    [
+      0.144493,
+      " "
+    ],
+    [
+      1.544640,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.145023,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.355937,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.160062,
+      "c"
+    ],
+    [
+      0.115322,
+      "d"
+    ],
+    [
+      0.185213,
+      " "
+    ],
+    [
+      0.240637,
+      "."
+    ],
+    [
+      0.134661,
+      "."
+    ],
+    [
+      0.096212,
+      "\r\n"
+    ],
+    [
+      0.000309,
+      "\u001b]0;root@vultr: /\u0007root@vultr:/# "
+    ],
+    [
+      0.169991,
+      "l"
+    ],
+    [
+      0.095313,
+      "s"
+    ],
+    [
+      0.034092,
+      "\r\n"
+    ],
+    [
+      0.004970,
+      "\u001b[0m\u001b[01;34mbin\u001b[0m   \u001b[01;34mdev\u001b[0m  \u001b[01;34mhome\u001b[0m        \u001b[01;36minitrd.img.old\u001b[0m  \u001b[01;34mlib64\u001b[0m       \u001b[01;34mmedia\u001b[0m  \u001b[01;34mopt\u001b[0m   \u001b[01;34mroot\u001b[0m  \u001b[01;34msbin\u001b[0m  \u001b[01;34msys\u001b[0m  \u001b[01;34musr\u001b[0m  \u001b[01;36mvmlinuz\u001b[0m\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[01;34mboot\u001b[0m  \u001b[01;34metc\u001b[0m  \u001b[01;36minitrd.img\u001b[0m  \u001b[01;34mlib\u001b[0m             \u001b[01;34mlost+found\u001b[0m  \u001b[01;34mmnt\u001b[0m    \u001b[01;34mproc\u001b[0m  \u001b[01;34mrun\u001b[0m   \u001b[01;34msrv\u001b[0m   \u001b[30;42mtmp\u001b[0m  \u001b[01;34mvar\u001b[0m  \u001b[01;36mvmlinuz.old\u001b[0m\r\n"
+    ],
+    [
+      0.001031,
+      "\u001b]0;root@vultr: /\u0007root@vultr:/# "
+    ],
+    [
+      0.165251,
+      "c"
+    ],
+    [
+      0.154925,
+      "d"
+    ],
+    [
+      0.064838,
+      " "
+    ],
+    [
+      0.537362,
+      "s"
+    ],
+    [
+      0.471121,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.433777,
+      "u"
+    ],
+    [
+      0.842552,
+      "s"
+    ],
+    [
+      0.058596,
+      "r"
+    ],
+    [
+      0.125906,
+      "\r\n"
+    ],
+    [
+      0.000294,
+      "\u001b]0;root@vultr: /usr\u0007root@vultr:/usr# "
+    ],
+    [
+      0.236747,
+      "l"
+    ],
+    [
+      0.073751,
+      "s"
+    ],
+    [
+      0.465460,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.150294,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.136019,
+      "c"
+    ],
+    [
+      0.132689,
+      "d"
+    ],
+    [
+      0.060080,
+      " "
+    ],
+    [
+      0.333693,
+      "s"
+    ],
+    [
+      0.169198,
+      "h"
+    ],
+    [
+      0.161683,
+      "a"
+    ],
+    [
+      0.079098,
+      "r"
+    ],
+    [
+      0.100932,
+      "e"
+    ],
+    [
+      0.073988,
+      "\r\n"
+    ],
+    [
+      0.000473,
+      "\u001b]0;root@vultr: /usr/share\u0007root@vultr:/usr/share# "
+    ],
+    [
+      0.639902,
+      "l"
+    ],
+    [
+      0.089152,
+      "s"
+    ],
+    [
+      0.085046,
+      "\r\n"
+    ],
+    [
+      0.002319,
+      "\u001b[0m\u001b[01;34mGeoIP\u001b[0m              \u001b[01;34mconsoletrans\u001b[0m         \u001b[01;34mglib-2.0\u001b[0m               \u001b[01;34mlocale\u001b[0m              \u001b[01;34mpython-apt\u001b[0m\r\n\u001b[01;34mX11\u001b[0m                \u001b[01;34mdbus-1\u001b[0m               \u001b[01;34mgnupg\u001b[0m                  \u001b[01;34mlocale-langpack\u001b[0m     \u001b[01;34mpython3\u001b[0m\r\n\u001b[01;34madduser\u001b[0m            \u001b[01;34mdebconf\u001b[0m              \u001b[01;34mgroff\u001b[0m                  \u001b[01;34mlocales\u001b[0m             \u001b[01;34mreadline\u001b[0m\r\n\u001b[01;34mapplications\u001b[0m       \u001b[01;34mdebhelper\u001b[0m            \u001b[01;34mgrub\u001b[0m                   \u001b[01;34mman\u001b[0m                 \u001b[01;36mrecovery-mode\u001b[0m\r\n"
+    ],
+    [
+      0.000689,
+      "\u001b[01;34mapport\u001b[0m             \u001b[01;34mdebianutils\u001b[0m          \u001b[01;34mgrub-gfxpayload-lists\u001b[0m  \u001b[01;34mman-db\u001b[0m              \u001b[01;34mrsyslog\u001b[0m"
+    ],
+    [
+      0.068507,
+      "\r\n\u001b[01;34mapps\u001b[0m               \u001b[01;34mdh-python\u001b[0m            \u001b[01;34mhal\u001b[0m                    \u001b[01;34mmenu\u001b[0m                \u001b[01;34msgml\u001b[0m\r\n\u001b[01;34mapt\u001b[0m                \u001b[01;34mdict\u001b[0m                 \u001b[01;34mhelp-langpack\u001b[0m          \u001b[01;34mmime\u001b[0m                \u001b[01;34msgml-base\u001b[0m\r\n\u001b[01;34maptitude\u001b[0m           \u001b[01;34mdictionaries-common\u001b[0m  \u001b[01;34mi18n\u001b[0m                   \u001b[01;34mmisc\u001b[0m                \u001b[01;34msysv-rc\u001b[0m\r\n\u001b[01;34mbase-files\u001b[0m         \u001b[01;34mdiscover\u001b[0m             \u001b[01;34minfo\u001b[0m                   \u001b[01;34mnano\u001b[0m                \u001b[01;34mtabset\u001b[0m\r\n\u001b[01;34mbase-passwd\u001b[0m        \u001b[01;34mdoc\u001b[0m                  \u001b[01;34minitramfs-tools\u001b[0m        \u001b[01;34mnginx\u001b[0m               \u001b[01;34mtasksel\u001b[0m\r\n\u001b[01;34mbash-completion\u001b[0m    \u001b[01;34mdoc-base\u001b[0m             \u001b[01;34minsserv\u001b[0m                \u001b[01;34mpam\u001b[0m                 \u001b[01;34mtools\u001b[0m\r\n\u001b[01;34mbinfmts\u001b[0m            \u001b[01;34mdpkg\u001b[0m                 \u001b[01;34minstallation-report\u001b[0m    \u001b[01;34mpam-configs\u001b[0m         \u001b[01;34mubuntu-release-upgrader\u001b[0m\r\n\u001b[01;34mbug\u001b[0m                \u001b[01;34memacs\u001b[0m                \u001b[01;34miptables\u001b[0m               \u001b[01;34mperl\u001b[0m                \u001b[01;34mufw\u001b[0m\r\n\u001b[01;34mbuild-essential\u001b[0m    \u001b[01;34mfile\u001b[0m                 \u001b[01;34mjava\u001b[0m                   \u001b[01;34mperl5\u001b[0m               \u001b[01;34munattended-upgrades\u001b[0m\r\n\u001b[01;34mca-certificates\u001b[0m    \u001b[01;34mfonts\u001b[0m                \u001b[01;34mkeyrings\u001b[0m               \u001b[01;34mpixmaps\u001b[0m             \u001b[01;34mupstart\u001b[0m\r\n\u001b[01;34mcalendar\u001b[0m           \u001b[01;34mgcc-4.8\u001b[0m              \u001b[01;34mlanguage-selector\u001b[0m      \u001b[01;34mpkgconfig\u001b[0m           \u001b[01;34mvim\u001b[0m\r\n\u001b[01;34mcommand-not-found\u001b[0m  \u001b[01;34mgcr-3\u001b[0m                \u001b[01;34mlanguage-support\u001b[0m       \u001b[01;34mpolkit-1\u001b[0m            \u001b[01;34mxml\u001b[0m\r\n\u001b[01;34mcommon-licenses\u001b[0m    \u001b[01;34mgdb\u001b[0m                  \u001b[01;34mlanguage-tools\u001b[0m         \u001b[01;34mpopularity-contest\u001b[0m  \u001b[01;34mxml-core\u001b[0m\r\n\u001b[01;34mconsole-setup\u001b[0m      \u001b[01;34mgit-core\u001b[0m             \u001b[01;34mlibc-bin\u001b[0m               \u001b[01;34mppp\u001b[0m                 \u001b[01;34mzoneinfo\u001b[0m\r\n\u001b[01;34mconsolefonts\u001b[0m       \u001b[01;34mgitweb\u001b[0m               \u001b[01;34mlintian\u001b[0m                \u001b[01;34mpython\u001b[0m\r\n\u001b]0;root@vultr: /usr/share\u0007root@vultr:/usr/share# "
+    ],
+    [
+      0.064956,
+      "c"
+    ],
+    [
+      0.160259,
+      "d"
+    ],
+    [
+      0.089388,
+      " "
+    ],
+    [
+      1.153829,
+      "g"
+    ],
+    [
+      0.448229,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.160521,
+      "n"
+    ],
+    [
+      0.053564,
+      "g"
+    ],
+    [
+      0.214370,
+      "i"
+    ],
+    [
+      0.228102,
+      "n"
+    ],
+    [
+      0.094466,
+      "x"
+    ],
+    [
+      0.539341,
+      "\r\n"
+    ],
+    [
+      0.000565,
+      "\u001b]0;root@vultr: /usr/share/nginx\u0007root@vultr:/usr/share/nginx# "
+    ],
+    [
+      0.230093,
+      "l"
+    ],
+    [
+      0.085119,
+      "s"
+    ],
+    [
+      0.076464,
+      "\r\n"
+    ],
+    [
+      0.001346,
+      "\u001b[0m\u001b[01;34mhtml\u001b[0m\r\n"
+    ],
+    [
+      0.000720,
+      "\u001b]0;root@vultr: /usr/share/nginx\u0007root@vultr:/usr/share/nginx# "
+    ],
+    [
+      0.510790,
+      "c"
+    ],
+    [
+      0.211283,
+      "d"
+    ],
+    [
+      0.103962,
+      " "
+    ],
+    [
+      0.596668,
+      "h"
+    ],
+    [
+      0.185650,
+      "t"
+    ],
+    [
+      0.060372,
+      "m"
+    ],
+    [
+      0.188564,
+      "kl"
+    ],
+    [
+      0.562133,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.238828,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.246189,
+      "l"
+    ],
+    [
+      0.165670,
+      "\r\n"
+    ],
+    [
+      0.000443,
+      "\u001b]0;root@vultr: /usr/share/nginx/html\u0007root@vultr:/usr/share/nginx/html# "
+    ],
+    [
+      0.229096,
+      "l"
+    ],
+    [
+      0.140032,
+      "s"
+    ],
+    [
+      0.116968,
+      "\r\n"
+    ],
+    [
+      0.001156,
+      "404.html  \u001b[0m\u001b[01;34mcategories\u001b[0m  \u001b[01;34mcss\u001b[0m    \u001b[01;34mimg\u001b[0m         index.xml  \u001b[01;34mpage\u001b[0m      \u001b[01;34mpost\u001b[0m         \u001b[01;34mtags\u001b[0m\r\n"
+    ],
+    [
+      0.000481,
+      "\u001b[01;34mblog\u001b[0m      \u001b[01;34mcode\u001b[0m        \u001b[01;34mfonts\u001b[0m  index.html  \u001b[01;34mjs\u001b[0m         \u001b[01;34mpgp-keys\u001b[0m  sitemap.xml\r\n"
+    ],
+    [
+      0.000146,
+      "\u001b]0;root@vultr: /usr/share/nginx/html\u0007root@vultr:/usr/share/nginx/html# "
+    ],
+    [
+      0.905341,
+      "c"
+    ],
+    [
+      0.291098,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.110054,
+      "g"
+    ],
+    [
+      0.088536,
+      "i"
+    ],
+    [
+      0.085847,
+      "t"
+    ],
+    [
+      0.044728,
+      " "
+    ],
+    [
+      0.156103,
+      "s"
+    ],
+    [
+      0.427338,
+      "a"
+    ],
+    [
+      0.123112,
+      "t"
+    ],
+    [
+      0.306368,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.125283,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.056862,
+      "t"
+    ],
+    [
+      0.105051,
+      "a"
+    ],
+    [
+      0.073947,
+      "t"
+    ],
+    [
+      0.070052,
+      "u"
+    ],
+    [
+      0.104758,
+      "s"
+    ],
+    [
+      0.094504,
+      "\r\n"
+    ],
+    [
+      0.006074,
+      "On branch master\r\nYour branch is up-to-date with 'origin/master'.\r\n\r\n"
+    ],
+    [
+      0.000234,
+      "nothing to commit, working directory clean\r\n"
+    ],
+    [
+      0.000445,
+      "\u001b]0;root@vultr: /usr/share/nginx/html\u0007root@vultr:/usr/share/nginx/html# "
+    ],
+    [
+      1.892596,
+      "g"
+    ],
+    [
+      0.064029,
+      "i"
+    ],
+    [
+      0.119730,
+      "t"
+    ],
+    [
+      0.075366,
+      " "
+    ],
+    [
+      3.581678,
+      "p"
+    ],
+    [
+      0.250329,
+      "u"
+    ],
+    [
+      0.316049,
+      "l"
+    ],
+    [
+      0.136116,
+      "l"
+    ],
+    [
+      0.174559,
+      "\r\n"
+    ],
+    [
+      1.233319,
+      "remote: Counting objects: 31, done.\u001b[K\r\n"
+    ],
+    [
+      0.000243,
+      "remote: Compressing objects:   9% (1/11)   \u001b[K\r"
+    ],
+    [
+      0.082488,
+      "remote: Compressing objects:  18% (2/11)   \u001b[K\rremote: Compressing objects:  27% (3/11)   \u001b[K\rremote: Compressing objects:  36% (4/11)   \u001b[K\rremote: Compressing objects:  45% (5/11)   \u001b[K\rremote: Compressing objects:  54% (6/11)   \u001b[K\rremote: Compressing objects:  63% (7/11)   \u001b[K\rremote: Compressing objects:  72% (8/11)   \u001b[K\rremote: Compressing objects:  81% (9/11)   \u001b[K\rremote: Compressing objects:  90% (10/11)   \u001b[K\rremote: Compressing objects: 100% (11/11)   \u001b[K\r"
+    ],
+    [
+      0.069283,
+      "remote: Compressing objects: 100% (11/11), done.\u001b[K\r\nremote: Total 31 (delta 16), reused 31 (delta 16), pack-reused 0\u001b[K\r\nUnpacking objects:   3% (1/31)   \rUnpacking objects:   6% (2/31)   \rUnpacking objects:   9% (3/31)   \rUnpacking objects:  12% (4/31)   \rUnpacking objects:  16% (5/31)   \rUnpacking objects:  19% (6/31)   \rUnpacking objects:  22% (7/31)   \rUnpacking objects:  25% (8/31)   \rUnpacking objects:  29% (9/31)   \rUnpacking objects:  32% (10/31)   \rUnpacking objects:  35% (11/31)   \rUnpacking objects:  38% (12/31)   \rUnpacking objects:  41% (13/31)   \rUnpacking objects:  45% (14/31)   \rUnpacking objects:  48% (15/31)   \rUnpacking objects:  51% (16/31)   \rUnpacking objects:  54% (17/31)   \rUnpacking objects:  58% (18/31)   \rUnpacking objects:  61% (19/31)   \rUnpacking objects:  64% (20/31)   \rUnpacking objects:  67% (21/31)   \rUnpacking objects:  70% (22/31)   \rUnpacking objects:  74% (23/31)   \rUnpacking objects:  77% (24/31)   \rUnpacking objects:  80% (25/31)   \rUnpacking objects:  83% (26/31)   \rUnpacking objects:  87% (27/31)   \rUnpacking objects:  90% (28/31)   \rUnpacking objects:  93% (29/31)   \rUnpacking objects:  96% (30/31)   \rUnpacking objects: 100% (31/31)   \rUnpacking objects: 100% (31/31), done.\r\nFrom https://github.com/Cagindonmez/cagin-me\r\n   5904076..9f4775e  master     -\u003e origin/master\r\nUpdating 5904076..9f4775e\r\nFast-forward\r\n blog/2016/01/09/hello/index.html | 155 \u001b[32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\u001b[m\r\n categories/category1/index.html  | 133 \u001b[32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\u001b[m\r\n categories/category1/index.xml   |  28 \u001b[32m+++++++++++++\u001b[m\r\n categories/category2/index.html  | 133 \u001b[32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\u001b[m\r\n categories/category2/index.xml   |  28 \u001b[32m+++++++++++++\u001b[m\r\n index.html                       |  28 \u001b[32m+++++++++++++\u001b[m\r\n index.xml                        |  16 \u001b[32m+++++++\u001b[m\u001b[31m-\u001b[m\r\n page/2/index.html                | 170 \u001b[32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\u001b[m\r\n post/index.html                  |  13 \u001b[32m++++++\u001b[m\r\n post/index.xml                   |  16 \u001b[32m+++++++\u001b[m\u001b[31m-\u001b[m\r\n sitemap.xml                      |   7 \u001b[32m+++\u001b[m\u001b[31m-\u001b[m\r\n tags/tag1/index.html             | 133 \u001b[32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\u001b[m\r\n tags/tag1/index.xml              |  28 \u001b[32m+++++++++++++\u001b[m\r\n tags/tag2/index.html             | 133 \u001b[32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\u001b[m\r\n tags/tag2/index.xml              |  28 \u001b[32m+++++++++++++\u001b[m"
+    ],
+    [
+      0.000223,
+      "\r\n 15 files changed, 1046 insertions(+), 3 deletions(-)\r\n create mode 100644 blog/2016/01/09/hello/index.html\r\n create mode 100644 categories/category1/index.html\r\n create mode 100644 categories/category1/index.xml\r\n create mode 100644 categories/category2/index.html\r\n create mode 100644 categories/category2/index.xml\r\n create mode 100644 page/2/index.html\r\n create mode 100644 tags/tag1/index.html\r\n create mode 100644 tags/tag1/index.xml\r\n create mode 100644 tags/tag2/index.html\r\n create mode 100644 tags/tag2/index.xml\r\n\u001b]0;root@vultr: /usr/share/nginx/html\u0007root@vultr:/usr/share/nginx/html# "
+    ],
+    [
+      6.243444,
+      "logout\r\n"
+    ],
+    [
+      0.001933,
+      "Connection to 185.92.222.11 closed.\r\r\n"
+    ],
+    [
+      0.000387,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                    \r \r\u001b]2;r00t@r00t-H81H3-M4: ~/Desktop/cagin.me/deploy/public\u0007\u001b]1;..deploy/public\u0007"
+    ],
+    [
+      0.005321,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m⬢  \u001b[01;33mpublic  \u001b[01;36mmaster \u001b[01;32m⦾ \u001b[00m\u001b[K"
+    ],
+    [
+      0.000059,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      3.372743,
+      "e"
+    ],
+    [
+      0.173558,
+      "\u0008ex"
+    ],
+    [
+      0.107329,
+      "i"
+    ],
+    [
+      0.130348,
+      "t"
+    ],
+    [
+      0.083406,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;exit\u0007\u001b]1;exit\u0007"
+    ]
+  ]
+}
