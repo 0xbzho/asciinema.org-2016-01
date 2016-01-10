@@ -1,0 +1,214 @@
+{
+  "version": 1,
+  "width": 82,
+  "height": 20,
+  "duration": 8.122664,
+  "command": "/usr/bin/fish",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/fish"
+  },
+  "stdout": [
+    [
+      0.116546,
+      "\u001b]0;fish  /home/neikos/projects/rust/spinner\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.021701,
+      "\u001b]"
+    ],
+    [
+      0.000022,
+      "0;fish  /home/neikos/proje"
+    ],
+    [
+      0.000007,
+      "cts/r"
+    ],
+    [
+      0.000001,
+      "u"
+    ],
+    [
+      0.000005,
+      "st/"
+    ],
+    [
+      0.000001,
+      "s"
+    ],
+    [
+      0.000012,
+      "pi"
+    ],
+    [
+      0.000003,
+      "nner\u0007"
+    ],
+    [
+      0.000019,
+      "\u001b[3"
+    ],
+    [
+      0.000002,
+      "0m\u001b"
+    ],
+    [
+      0.000001,
+      "("
+    ],
+    [
+      0.000002,
+      "B"
+    ],
+    [
+      0.000002,
+      "\u001b"
+    ],
+    [
+      0.000002,
+      "[m"
+    ],
+    [
+      0.000061,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                 \r \r"
+    ],
+    [
+      0.000128,
+      "\u001b[1m\u001b[32mneikos\u001b[30m\u001b(B\u001b[m \u001b[32m~/p/r/spinner\u001b[30m\u001b(B\u001b[m (add-complex_example)\u001b[30m\u001b(B\u001b[m\u003e \u001b[K"
+    ],
+    [
+      1.128553,
+      "c\u0008\u001b[38;5;240mc\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.003895,
+      "\u001b[38;5;243margo run --example kirby_spinner\u001b[32D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.111359,
+      "\u001b[38;5;240ma\u001b[38;5;243mrgo run --example kirby_spinner\u001b[31D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.154642,
+      "\u001b[38;5;240mr\u001b[38;5;243mgo run --example kirby_spinner\u001b[30D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.341461,
+      "\u001b[38;5;240mgo run --example kirby_spinner\u001b[30m\u001b(B\u001b[m\u001b[33D\u001b[38;5;231mcargo\u001b[30m\u001b(B\u001b[m \u001b[38;5;188mrun\u001b[30m\u001b(B\u001b[m \u001b[38;5;188m--example\u001b[30m\u001b(B\u001b[m \u001b[38;5;188mkirby_spinner\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.238619,
+      "\r\n\u001b[30m\u001b(B\u001b[m\u001b]0;cargo  /home/neikos/projects/rust/spinner\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.057267,
+      "\u001b(B\u001b[0m\u001b[32m\u001b[1m     Running\u001b(B\u001b[0m `target/debug/examples/kirby_spinner`\r\n"
+    ],
+    [
+      0.002226,
+      "\r(\u003e'-')\u003e Long Running op!"
+    ],
+    [
+      0.500150,
+      "\r\u003c('-'\u003c) Long Running op!"
+    ],
+    [
+      0.500127,
+      "\r^('-')^ Long Running op!"
+    ],
+    [
+      0.500128,
+      "\r\u003c('-'\u003c) Long Running op!"
+    ],
+    [
+      0.500126,
+      "\r(\u003e'-')\u003e Long Running op!"
+    ],
+    [
+      0.500152,
+      "\r\u003c('-'\u003c) Long Running op!"
+    ],
+    [
+      0.500162,
+      "\r\nUpdating...\r\n\r^('-')^ Fixing things..."
+    ],
+    [
+      0.500136,
+      "\r\u003c('-'\u003c) Fixing things..."
+    ],
+    [
+      0.500133,
+      "\r(\u003e'-')\u003e Fixing things..."
+    ],
+    [
+      0.500212,
+      "\r\u003c('-'\u003c) Fixing things..."
+    ],
+    [
+      0.500218,
+      "\r\nDone!\r\n"
+    ],
+    [
+      0.022939,
+      "\u001b]0;fish  "
+    ],
+    [
+      0.000004,
+      "/home/neiko"
+    ],
+    [
+      0.000001,
+      "s"
+    ],
+    [
+      0.000001,
+      "/"
+    ],
+    [
+      0.000027,
+      "projects/r"
+    ],
+    [
+      0.000002,
+      "ust/sp"
+    ],
+    [
+      0.000002,
+      "i"
+    ],
+    [
+      0.000001,
+      "n"
+    ],
+    [
+      0.000001,
+      "n"
+    ],
+    [
+      0.000026,
+      "er\u0007\u001b[30"
+    ],
+    [
+      0.000002,
+      "m\u001b(B\u001b"
+    ],
+    [
+      0.000025,
+      "[m"
+    ],
+    [
+      0.000035,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                                 \r \r"
+    ],
+    [
+      0.000119,
+      "\u001b[1m\u001b[32mneikos\u001b[30m\u001b(B\u001b[m \u001b[32m~/p/r/spinner\u001b[30m\u001b(B\u001b[m (add-complex_example)\u001b[30m\u001b(B\u001b[m\u003e \u001b[K"
+    ],
+    [
+      0.921245,
+      "\r\n\u001b[30m\u001b(B\u001b[m\r\n\u001b[30m\u001b(B\u001b[m"
+    ]
+  ]
+}
