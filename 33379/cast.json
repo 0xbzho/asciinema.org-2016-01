@@ -1,0 +1,314 @@
+{
+  "version": 1,
+  "width": 68,
+  "height": 16,
+  "duration": 10.382428,
+  "command": "/usr/bin/fish",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/fish"
+  },
+  "stdout": [
+    [
+      0.113551,
+      "\u001b]0;fish  /home/neikos/projects/rust/spinner\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.022685,
+      "\u001b]0;fish  /home/neikos/projects/rust/spinner\u0007\u001b[30m\u001b(B\u001b[m\u001b[38;5;245m⏎\u001b[0m                                                                   \r \r\u001b[1m\u001b[32mneikos\u001b[30m\u001b(B\u001b[m \u001b[32m~/p/r/spinner\u001b[30m\u001b(B\u001b[m (add-complex_example)\u001b[30m\u001b(B\u001b[m\u003e \u001b[K"
+    ],
+    [
+      1.756646,
+      "c\u0008\u001b[38;5;240mc\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.006390,
+      "\u001b[38;5;243margo run --example co…\u001b[22D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.072511,
+      "\u001b[38;5;240ma\u001b[38;5;243mrgo run --example co…\u001b[21D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.165322,
+      "\u001b[38;5;240mr\u001b[38;5;243mgo run --example co…\u001b[20D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.195644,
+      "\u001b[38;5;240mg\u001b[38;5;243mo run --example co…\u001b[19D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.120577,
+      "\u001b[38;5;240mo\u001b[38;5;243m run --example co…\u001b[18D\u001b[30m\u001b(B\u001b[m\u0008\u0008\u0008\u0008\u0008\u001b[38;5;231mcargo\u001b[38;5;243m run --example co…\u001b[18D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.776984,
+      "\u001b[38;5;231m \u001b[38;5;243mrun --example co…\u001b[17D\u001b[30m\u001b(B\u001b[m\u0008 \u001b[38;5;243mrun --example co…\u001b[17D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.416319,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u001b[K\r\n\u001b[38;5;231mcargo\u001b[30m\u001b(B\u001b[m run --example complex_spinner\u001b[29D\u001b[38;5;188mrun\u001b[30m\u001b(B\u001b[m \u001b[38;5;188m--example\u001b[30m\u001b(B\u001b[m \u001b[38;5;188mcomplex_spinner\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.757626,
+      "\r\n\u001b[30m\u001b(B\u001b[m\u001b]0;cargo  /home/neikos/projects/rust/spinner\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.057589,
+      "\u001b(B\u001b[0m\u001b[32m\u001b[1m     Running\u001b(B\u001b[0m `target/debug/examples/complex_spinner`\r\n"
+    ],
+    [
+      0.002428,
+      "\r▁ -- Currently working on: 'Long Running op!' -- ▁"
+    ],
+    [
+      0.100137,
+      "\r▃ -- Currently working on: 'Long Running op!' -- ▃"
+    ],
+    [
+      0.100097,
+      "\r▄ -- Currently working on: 'Long Running op!' -- ▄"
+    ],
+    [
+      0.100120,
+      "\r▅ -- Currently working on: 'Long Running op!' -- ▅"
+    ],
+    [
+      0.100157,
+      "\r▆ -- Currently working on: 'Long Running op!' -- ▆"
+    ],
+    [
+      0.100134,
+      "\r▇ -- Currently working on: 'Long Running op!' -- ▇"
+    ],
+    [
+      0.100131,
+      "\r█ -- Currently working on: 'Long Running op!' -- █"
+    ],
+    [
+      0.100133,
+      "\r▇ -- Currently working on: 'Long Running op!' -- ▇"
+    ],
+    [
+      0.100122,
+      "\r▆ -- Currently working on: 'Long Running op!' -- ▆"
+    ],
+    [
+      0.100133,
+      "\r▅ -- Currently working on: 'Long Running op!' -- ▅"
+    ],
+    [
+      0.100134,
+      "\r▄ -- Currently working on: 'Long Running op!' -- ▄"
+    ],
+    [
+      0.100094,
+      "\r▃ -- Currently working on: 'Long Running op!' -- ▃"
+    ],
+    [
+      0.100136,
+      "\r▁ -- Currently working on: 'Long Running op!' -- ▁"
+    ],
+    [
+      0.100069,
+      "\r▃ -- Currently working on: 'Long Running op!' -- ▃"
+    ],
+    [
+      0.100173,
+      "\r▄ -- Currently working on: 'Long Running op!' -- ▄"
+    ],
+    [
+      0.100130,
+      "\r▅ -- Currently working on: 'Long Running op!' -- ▅"
+    ],
+    [
+      0.100135,
+      "\r▆ -- Currently working on: 'Long Running op!' -- ▆"
+    ],
+    [
+      0.100130,
+      "\r▇ -- Currently working on: 'Long Running op!' -- ▇"
+    ],
+    [
+      0.100130,
+      "\r█ -- Currently working on: 'Long Running op!' -- █"
+    ],
+    [
+      0.100156,
+      "\r▇ -- Currently working on: 'Long Running op!' -- ▇"
+    ],
+    [
+      0.100139,
+      "\r\nUpdating...\r\n\r▆ -- Currently working on: 'Fixing things...' -- ▆"
+    ],
+    [
+      0.100126,
+      "\r▅ -- Currently working on: 'Fixing things...' -- ▅"
+    ],
+    [
+      0.100244,
+      "\r▄ -- Currently working on: 'Fixing things...' -- ▄"
+    ],
+    [
+      0.100148,
+      "\r▃ -- Currently working on: 'Fixing things...' -- ▃"
+    ],
+    [
+      0.100186,
+      "\r▁ -- Currently working on: 'Fixing things...' -- ▁"
+    ],
+    [
+      0.100099,
+      "\r▃ -- Currently working on: 'Fixing things...' -- ▃"
+    ],
+    [
+      0.100241,
+      "\r▄ -- Currently working on: 'Fixing things...' -- ▄"
+    ],
+    [
+      0.100180,
+      "\r▅ -- Currently working on: 'Fixing things...' -- ▅"
+    ],
+    [
+      0.100149,
+      "\r▆ -- Currently working on: 'Fixing things...' -- ▆"
+    ],
+    [
+      0.100166,
+      "\r▇ -- Currently working on: 'Fixing things...' -- ▇"
+    ],
+    [
+      0.100207,
+      "\r█ -- Currently working on: 'Fixing things...' -- █"
+    ],
+    [
+      0.100184,
+      "\r▇ -- Currently working on: 'Fixing things...' -- ▇"
+    ],
+    [
+      0.100178,
+      "\r▆ -- Currently working on: 'Fixing things...' -- ▆"
+    ],
+    [
+      0.100032,
+      "\r▅ -- Currently working on: 'Fixing things...' -- ▅"
+    ],
+    [
+      0.100108,
+      "\r▄ -- Currently working on: 'Fixing things...' -- ▄"
+    ],
+    [
+      0.100110,
+      "\r▃ -- Currently working on: 'Fixing things...' -- ▃"
+    ],
+    [
+      0.100108,
+      "\r▁ -- Currently working on: 'Fixing things...' -- ▁"
+    ],
+    [
+      0.100110,
+      "\r▃ -- Currently working on: 'Fixing things...' -- ▃"
+    ],
+    [
+      0.100078,
+      "\r▄ -- Currently working on: 'Fixing things...' -- ▄"
+    ],
+    [
+      0.100132,
+      "\r▅ -- Currently working on: 'Fixing things...' -- ▅"
+    ],
+    [
+      0.100335,
+      "\r\nDone!\r\n"
+    ],
+    [
+      0.028046,
+      "\u001b]0;fis"
+    ],
+    [
+      0.000004,
+      "h  /home/neik"
+    ],
+    [
+      0.000001,
+      "o"
+    ],
+    [
+      0.000001,
+      "s"
+    ],
+    [
+      0.000001,
+      "/"
+    ],
+    [
+      0.000034,
+      "projects"
+    ],
+    [
+      0.000003,
+      "/rust/"
+    ],
+    [
+      0.000022,
+      "sp"
+    ],
+    [
+      0.000002,
+      "inner"
+    ],
+    [
+      0.000001,
+      "\u0007"
+    ],
+    [
+      0.000035,
+      "\u001b[30m\u001b("
+    ],
+    [
+      0.000002,
+      "B\u001b[m"
+    ],
+    [
+      0.000095,
+      "\u001b[38;5;245m⏎\u001b[0m                                                                   \r \r"
+    ],
+    [
+      0.000161,
+      "\u001b[1m\u001b[32mneikos\u001b[30m\u001b(B\u001b[m \u001b[32m~/p/r/spinner\u001b[30m\u001b(B\u001b[m (add-complex_example)\u001b[30m\u001b(B\u001b[m\u003e \u001b[K"
+    ],
+    [
+      1.883539,
+      "\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b"
+    ],
+    [
+      0.000030,
+      "[30m\u001b(B"
+    ],
+    [
+      0.000002,
+      "\u001b[m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000001,
+      "\u001b["
+    ],
+    [
+      0.000001,
+      "3"
+    ],
+    [
+      0.000031,
+      "0m\u001b(B\u001b[m"
+    ]
+  ]
+}
