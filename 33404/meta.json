@@ -1,0 +1,1 @@
+{"ID":33404,"Author":{"Name":"Maksar","ID":0,"FullName":"","Gravatar":"bcc4fb5e3a5fcd53f77d43019e173347"},"Title":"mutant -I . -I spec -r config/environment --use rspec 'UsersHelper' 'ApplicationHelper' 'ApplicationController'","Description":"","Time":"2016-01-11T10:26:31Z","Tags":["OS X","zsh","xterm-256color"]}
