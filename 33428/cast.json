@@ -1,0 +1,6414 @@
+{
+  "version": 1,
+  "width": 127,
+  "height": 42,
+  "duration": 138.579896,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.000187,
+      "\u001b[2J\u001b[1;1H\u001b[33m\u001b[1m Get setup credentials for Ansible to talk to GCE\u001b[0m"
+    ],
+    [
+      0.000049,
+      "\r\n"
+    ],
+    [
+      0.003013,
+      "\u001b[1m\u001b[36mviglesias\u001b[0m\u001b[0m@\u001b[34mansible-recording\u001b[0m:\u001b[32m~\u001b[0m $ "
+    ],
+    [
+      1.067047,
+      "e"
+    ],
+    [
+      0.077739,
+      "x"
+    ],
+    [
+      0.112175,
+      "p"
+    ],
+    [
+      0.157844,
+      "o"
+    ],
+    [
+      0.146255,
+      "r"
+    ],
+    [
+      0.033866,
+      "t"
+    ],
+    [
+      0.133935,
+      " "
+    ],
+    [
+      0.033971,
+      "G"
+    ],
+    [
+      0.146229,
+      "C"
+    ],
+    [
+      0.033965,
+      "E"
+    ],
+    [
+      0.102045,
+      "_"
+    ],
+    [
+      0.022112,
+      "P"
+    ],
+    [
+      0.145808,
+      "E"
+    ],
+    [
+      0.034149,
+      "M"
+    ],
+    [
+      0.033793,
+      "_"
+    ],
+    [
+      0.090202,
+      "F"
+    ],
+    [
+      0.167994,
+      "I"
+    ],
+    [
+      0.011921,
+      "L"
+    ],
+    [
+      0.123908,
+      "E"
+    ],
+    [
+      0.010116,
+      "_"
+    ],
+    [
+      0.191976,
+      "P"
+    ],
+    [
+      0.033938,
+      "A"
+    ],
+    [
+      0.090238,
+      "T"
+    ],
+    [
+      0.168014,
+      "H"
+    ],
+    [
+      0.033794,
+      "="
+    ],
+    [
+      0.060084,
+      "~"
+    ],
+    [
+      0.052018,
+      "/"
+    ],
+    [
+      0.145972,
+      "a"
+    ],
+    [
+      0.046247,
+      "n"
+    ],
+    [
+      0.081664,
+      "s"
+    ],
+    [
+      0.030054,
+      "i"
+    ],
+    [
+      0.158151,
+      "b"
+    ],
+    [
+      0.021862,
+      "l"
+    ],
+    [
+      0.068060,
+      "e"
+    ],
+    [
+      0.043962,
+      "."
+    ],
+    [
+      0.170204,
+      "p"
+    ],
+    [
+      0.010238,
+      "e"
+    ],
+    [
+      0.055648,
+      "m"
+    ],
+    [
+      0.688278,
+      "\r\n"
+    ],
+    [
+      0.004585,
+      "\u001b[1m\u001b[36mviglesias\u001b[0m\u001b[0m@\u001b[34mansible-recording\u001b[0m:\u001b[32m~\u001b[0m $ "
+    ],
+    [
+      0.423565,
+      "e"
+    ],
+    [
+      0.043753,
+      "x"
+    ],
+    [
+      0.100209,
+      "p"
+    ],
+    [
+      0.033840,
+      "o"
+    ],
+    [
+      0.202254,
+      "r"
+    ],
+    [
+      0.091879,
+      "t"
+    ],
+    [
+      0.055856,
+      " "
+    ],
+    [
+      0.135961,
+      "G"
+    ],
+    [
+      0.166193,
+      "C"
+    ],
+    [
+      0.033931,
+      "E"
+    ],
+    [
+      0.090123,
+      "_"
+    ],
+    [
+      0.045895,
+      "E"
+    ],
+    [
+      0.168021,
+      "M"
+    ],
+    [
+      0.034135,
+      "A"
+    ],
+    [
+      0.112008,
+      "I"
+    ],
+    [
+      0.011992,
+      "L"
+    ],
+    [
+      0.190430,
+      "="
+    ],
+    [
+      0.033436,
+      "a"
+    ],
+    [
+      0.102029,
+      "n"
+    ],
+    [
+      0.012134,
+      "s"
+    ],
+    [
+      0.146017,
+      "i"
+    ],
+    [
+      0.043966,
+      "b"
+    ],
+    [
+      0.112355,
+      "l"
+    ],
+    [
+      0.179573,
+      "e"
+    ],
+    [
+      0.024094,
+      "@"
+    ],
+    [
+      0.090017,
+      "v"
+    ],
+    [
+      0.033892,
+      "i"
+    ],
+    [
+      0.146090,
+      "c"
+    ],
+    [
+      0.022016,
+      "-"
+    ],
+    [
+      0.046023,
+      "g"
+    ],
+    [
+      0.037907,
+      "o"
+    ],
+    [
+      0.164302,
+      "o"
+    ],
+    [
+      0.021822,
+      "g"
+    ],
+    [
+      0.044080,
+      "."
+    ],
+    [
+      0.045912,
+      "i"
+    ],
+    [
+      0.158142,
+      "a"
+    ],
+    [
+      0.021796,
+      "m"
+    ],
+    [
+      0.012138,
+      "."
+    ],
+    [
+      0.081931,
+      "g"
+    ],
+    [
+      0.142144,
+      "s"
+    ],
+    [
+      0.022376,
+      "e"
+    ],
+    [
+      0.059705,
+      "r"
+    ],
+    [
+      0.030081,
+      "v"
+    ],
+    [
+      0.157741,
+      "i"
+    ],
+    [
+      0.010690,
+      "c"
+    ],
+    [
+      0.045476,
+      "e"
+    ],
+    [
+      0.045997,
+      "a"
+    ],
+    [
+      0.168080,
+      "c"
+    ],
+    [
+      0.022110,
+      "c"
+    ],
+    [
+      0.045729,
+      "o"
+    ],
+    [
+      0.082148,
+      "u"
+    ],
+    [
+      0.165910,
+      "n"
+    ],
+    [
+      0.032041,
+      "t"
+    ],
+    [
+      0.092047,
+      "."
+    ],
+    [
+      0.044100,
+      "c"
+    ],
+    [
+      0.180103,
+      "o"
+    ],
+    [
+      0.033732,
+      "m"
+    ],
+    [
+      0.696570,
+      "\r\n"
+    ],
+    [
+      0.004018,
+      "\u001b[1m\u001b[36mviglesias\u001b[0m\u001b[0m@\u001b[34mansible-recording\u001b[0m:\u001b[32m~\u001b[0m $ "
+    ],
+    [
+      0.355765,
+      "e"
+    ],
+    [
+      0.079860,
+      "x"
+    ],
+    [
+      0.034005,
+      "p"
+    ],
+    [
+      0.056081,
+      "o"
+    ],
+    [
+      0.145900,
+      "r"
+    ],
+    [
+      0.033995,
+      "t"
+    ],
+    [
+      0.056151,
+      " "
+    ],
+    [
+      0.067962,
+      "G"
+    ],
+    [
+      0.122286,
+      "C"
+    ],
+    [
+      0.047581,
+      "E"
+    ],
+    [
+      0.042189,
+      "_"
+    ],
+    [
+      0.057974,
+      "P"
+    ],
+    [
+      0.146101,
+      "R"
+    ],
+    [
+      0.045849,
+      "O"
+    ],
+    [
+      0.044177,
+      "J"
+    ],
+    [
+      0.111927,
+      "E"
+    ],
+    [
+      0.180193,
+      "C"
+    ],
+    [
+      0.056331,
+      "T"
+    ],
+    [
+      0.045563,
+      "="
+    ],
+    [
+      0.089399,
+      "v"
+    ],
+    [
+      0.134613,
+      "i"
+    ],
+    [
+      0.044211,
+      "c"
+    ],
+    [
+      0.093750,
+      "-"
+    ],
+    [
+      0.042198,
+      "g"
+    ],
+    [
+      0.158090,
+      "o"
+    ],
+    [
+      0.055811,
+      "o"
+    ],
+    [
+      0.055929,
+      "g"
+    ],
+    [
+      1.192389,
+      "\r\n"
+    ],
+    [
+      0.002107,
+      "\u001b[33m\u001b[1m Disable host key checking since these are new instances\u001b[0m"
+    ],
+    [
+      0.000052,
+      "\r\n"
+    ],
+    [
+      0.003103,
+      "\u001b[1m\u001b[36mviglesias\u001b[0m\u001b[0m@\u001b[34mansible-recording\u001b[0m:\u001b[32m~\u001b[0m $ "
+    ],
+    [
+      0.356192,
+      "e"
+    ],
+    [
+      0.134403,
+      "x"
+    ],
+    [
+      0.003989,
+      "p"
+    ],
+    [
+      0.144478,
+      "o"
+    ],
+    [
+      0.131603,
+      "r"
+    ],
+    [
+      0.070330,
+      "t"
+    ],
+    [
+      0.053938,
+      " "
+    ],
+    [
+      0.055753,
+      "A"
+    ],
+    [
+      0.148169,
+      "N"
+    ],
+    [
+      0.053885,
+      "S"
+    ],
+    [
+      0.033936,
+      "I"
+    ],
+    [
+      0.056091,
+      "B"
+    ],
+    [
+      0.158095,
+      "L"
+    ],
+    [
+      0.021927,
+      "E"
+    ],
+    [
+      0.045920,
+      "_"
+    ],
+    [
+      0.044395,
+      "H"
+    ],
+    [
+      0.181631,
+      "O"
+    ],
+    [
+      0.044129,
+      "S"
+    ],
+    [
+      0.045978,
+      "T"
+    ],
+    [
+      0.066093,
+      "_"
+    ],
+    [
+      0.158136,
+      "K"
+    ],
+    [
+      0.034015,
+      "E"
+    ],
+    [
+      0.043847,
+      "Y"
+    ],
+    [
+      0.044479,
+      "_"
+    ],
+    [
+      0.169593,
+      "C"
+    ],
+    [
+      0.055913,
+      "H"
+    ],
+    [
+      0.045950,
+      "E"
+    ],
+    [
+      0.044137,
+      "C"
+    ],
+    [
+      0.170415,
+      "K"
+    ],
+    [
+      0.043498,
+      "I"
+    ],
+    [
+      0.022281,
+      "N"
+    ],
+    [
+      0.089681,
+      "G"
+    ],
+    [
+      0.158185,
+      "="
+    ],
+    [
+      0.046328,
+      "F"
+    ],
+    [
+      0.043857,
+      "a"
+    ],
+    [
+      0.055813,
+      "l"
+    ],
+    [
+      0.158132,
+      "s"
+    ],
+    [
+      0.055957,
+      "e"
+    ],
+    [
+      0.714249,
+      "\r\n"
+    ],
+    [
+      0.001996,
+      "\u001b[33m\u001b[1m Setup Ansible and its dependencies\u001b[0m"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.002592,
+      "\u001b[1m\u001b[36mviglesias\u001b[0m\u001b[0m@\u001b[34mansible-recording\u001b[0m:\u001b[32m~\u001b[0m $ "
+    ],
+    [
+      0.373405,
+      "s"
+    ],
+    [
+      0.021677,
+      "u"
+    ],
+    [
+      0.112054,
+      "d"
+    ],
+    [
+      0.010191,
+      "o"
+    ],
+    [
+      0.159250,
+      " "
+    ],
+    [
+      0.044820,
+      "a"
+    ],
+    [
+      0.037767,
+      "p"
+    ],
+    [
+      0.074201,
+      "t"
+    ],
+    [
+      0.148109,
+      "-"
+    ],
+    [
+      0.009821,
+      "g"
+    ],
+    [
+      0.033868,
+      "e"
+    ],
+    [
+      0.056042,
+      "t"
+    ],
+    [
+      0.156200,
+      " "
+    ],
+    [
+      0.013883,
+      "i"
+    ],
+    [
+      0.044668,
+      "n"
+    ],
+    [
+      0.066630,
+      "s"
+    ],
+    [
+      0.156941,
+      "t"
+    ],
+    [
+      0.012007,
+      "a"
+    ],
+    [
+      0.007892,
+      "l"
+    ],
+    [
+      0.086077,
+      "l"
+    ],
+    [
+      0.141883,
+      " "
+    ],
+    [
+      0.034141,
+      "-"
+    ],
+    [
+      0.022047,
+      "y"
+    ],
+    [
+      0.055798,
+      " "
+    ],
+    [
+      0.170406,
+      "p"
+    ],
+    [
+      0.021684,
+      "y"
+    ],
+    [
+      0.033854,
+      "t"
+    ],
+    [
+      0.082344,
+      "h"
+    ],
+    [
+      0.175758,
+      "o"
+    ],
+    [
+      0.016122,
+      "n"
+    ],
+    [
+      0.008476,
+      "-"
+    ],
+    [
+      0.077455,
+      "p"
+    ],
+    [
+      0.190057,
+      "i"
+    ],
+    [
+      0.011896,
+      "p"
+    ],
+    [
+      0.026033,
+      " "
+    ],
+    [
+      0.063990,
+      "p"
+    ],
+    [
+      0.169955,
+      "y"
+    ],
+    [
+      0.022062,
+      "t"
+    ],
+    [
+      0.022059,
+      "h"
+    ],
+    [
+      0.112660,
+      "o"
+    ],
+    [
+      0.133421,
+      "n"
+    ],
+    [
+      0.034013,
+      "-"
+    ],
+    [
+      0.102142,
+      "d"
+    ],
+    [
+      0.021946,
+      "e"
+    ],
+    [
+      0.157947,
+      "v"
+    ],
+    [
+      0.832269,
+      "\r\n"
+    ],
+    [
+      0.008982,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.001681,
+      "\rReading package lists... 100%\r"
+    ],
+    [
+      0.000045,
+      "\rReading package lists... Done\r"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.002387,
+      "\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.000056,
+      "\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.020755,
+      "\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.000048,
+      "\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.075243,
+      "\rBuilding dependency tree       \r"
+    ],
+    [
+      0.000074,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.000070,
+      "\rReading state information... 1%\r"
+    ],
+    [
+      0.000252,
+      "\rReading state information... Done\r"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.061011,
+      "The following packages were automatically installed and are no longer required:"
+    ],
+    [
+      0.000064,
+      "\r\n"
+    ],
+    [
+      0.000057,
+      "  gyp javascript-common libc-ares-dev libc-ares2 libjs-node-uuid libssl-dev"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "  libssl-doc libv8-3.14-dev libv8-3.14.5 linux-headers-3.16.0-53"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "  linux-headers-3.16.0-53-generic linux-image-3.16.0-53-generic"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "  linux-image-extra-3.16.0-53-generic zlib1g-dev"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "Use 'apt-get autoremove' to remove them."
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.007498,
+      "Recommended packages:"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "  python-dev-all"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000790,
+      "The following NEW packages will be installed:"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "  python-dev python-pip"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.003198,
+      "0 upgraded, 2 newly installed, 0 to remove and 22 not upgraded."
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.003032,
+      "Need to get 0 B/98.4 kB of archives."
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "After this operation, 523 kB of additional disk space will be used."
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "\r\r"
+    ],
+    [
+      0.088033,
+      "a"
+    ],
+    [
+      0.031421,
+      "Selecting previously unselected package python-dev."
+    ],
+    [
+      0.000056,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "(Reading database ... \r"
+    ],
+    [
+      0.001190,
+      "(Reading database ... 5%\r"
+    ],
+    [
+      0.000050,
+      "(Reading database ... 10%\r"
+    ],
+    [
+      0.000046,
+      "(Reading database ... 15%\r"
+    ],
+    [
+      0.000043,
+      "(Reading database ... 20%\r"
+    ],
+    [
+      0.000041,
+      "(Reading database ... 25%\r"
+    ],
+    [
+      0.000035,
+      "(Reading database ... 30%\r"
+    ],
+    [
+      0.000042,
+      "(Reading database ... 35%\r"
+    ],
+    [
+      0.000058,
+      "(Reading database ... 40%\r"
+    ],
+    [
+      0.000030,
+      "(Reading database ... 45%\r"
+    ],
+    [
+      0.000024,
+      "(Reading database ... 50%\r"
+    ],
+    [
+      0.000033,
+      "(Reading database ... 55%\r"
+    ],
+    [
+      0.000025,
+      "(Reading database ... 60%\r"
+    ],
+    [
+      0.000579,
+      "(Reading database ... 65%\r"
+    ],
+    [
+      0.000633,
+      "(Reading database ... 70%\r"
+    ],
+    [
+      0.001069,
+      "(Reading database ... 75%\r"
+    ],
+    [
+      0.000872,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.000852,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.001633,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.003261,
+      "s"
+    ],
+    [
+      0.006327,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.010039,
+      "(Reading database ... 100%\r"
+    ],
+    [
+      0.000033,
+      "(Reading database ... "
+    ],
+    [
+      0.000025,
+      "110518 files and directories currently installed.)"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.002155,
+      "Preparing to unpack .../python-dev_2.7.5-5ubuntu3_amd64.deb ..."
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.003903,
+      "Unpacking python-dev (2.7.5-5ubuntu3) ..."
+    ],
+    [
+      0.000048,
+      "\r\n"
+    ],
+    [
+      0.017504,
+      "d"
+    ],
+    [
+      0.015412,
+      "Selecting previously unselected package python-pip."
+    ],
+    [
+      0.000050,
+      "\r\n"
+    ],
+    [
+      0.003919,
+      "Preparing to unpack .../python-pip_1.5.4-1ubuntu3_all.deb ..."
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.003623,
+      "Unpacking python-pip (1.5.4-1ubuntu3) ..."
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.039569,
+      "Processing triggers for man-db (2.6.7.1-1ubuntu1) ..."
+    ],
+    [
+      0.000054,
+      "\r\n"
+    ],
+    [
+      0.031212,
+      "f"
+    ],
+    [
+      0.127920,
+      "Setting up python-dev (2.7.5-5ubuntu3) ..."
+    ],
+    [
+      0.000069,
+      "\r\n"
+    ],
+    [
+      0.010451,
+      "Setting up python-pip (1.5.4-1ubuntu3) ..."
+    ],
+    [
+      0.000080,
+      "\r\n"
+    ],
+    [
+      0.482473,
+      "\u001b[1m\u001b[36mviglesias\u001b[0m\u001b[0m@\u001b[34mansible-recording\u001b[0m:\u001b[32m~\u001b[0m $ "
+    ],
+    [
+      0.741595,
+      "s"
+    ],
+    [
+      0.055737,
+      "u"
+    ],
+    [
+      0.034035,
+      "d"
+    ],
+    [
+      0.099845,
+      "o"
+    ],
+    [
+      0.170260,
+      " "
+    ],
+    [
+      0.043913,
+      "p"
+    ],
+    [
+      0.037902,
+      "i"
+    ],
+    [
+      0.096265,
+      "p"
+    ],
+    [
+      0.171277,
+      " "
+    ],
+    [
+      0.042603,
+      "i"
+    ],
+    [
+      0.033956,
+      "n"
+    ],
+    [
+      0.124098,
+      "s"
+    ],
+    [
+      0.112073,
+      "t"
+    ],
+    [
+      0.047064,
+      "a"
+    ],
+    [
+      0.392977,
+      "l"
+    ],
+    [
+      0.043912,
+      "l"
+    ],
+    [
+      0.180051,
+      " "
+    ],
+    [
+      0.045949,
+      "a"
+    ],
+    [
+      0.057090,
+      "n"
+    ],
+    [
+      0.043042,
+      "s"
+    ],
+    [
+      0.180088,
+      "i"
+    ],
+    [
+      0.033894,
+      "b"
+    ],
+    [
+      0.068062,
+      "l"
+    ],
+    [
+      0.016065,
+      "e"
+    ],
+    [
+      0.163844,
+      " "
+    ],
+    [
+      0.044082,
+      "a"
+    ],
+    [
+      0.090052,
+      "p"
+    ],
+    [
+      0.023856,
+      "a"
+    ],
+    [
+      0.182190,
+      "c"
+    ],
+    [
+      0.030038,
+      "h"
+    ],
+    [
+      0.023923,
+      "e"
+    ],
+    [
+      0.055979,
+      "-"
+    ],
+    [
+      0.169992,
+      "l"
+    ],
+    [
+      0.065961,
+      "i"
+    ],
+    [
+      0.016028,
+      "b"
+    ],
+    [
+      0.062129,
+      "c"
+    ],
+    [
+      0.145954,
+      "l"
+    ],
+    [
+      0.068089,
+      "o"
+    ],
+    [
+      0.021930,
+      "u"
+    ],
+    [
+      0.067963,
+      "d"
+    ],
+    [
+      0.182101,
+      "="
+    ],
+    [
+      0.123967,
+      "="
+    ],
+    [
+      0.010202,
+      "0"
+    ],
+    [
+      0.201837,
+      "."
+    ],
+    [
+      0.068803,
+      "1"
+    ],
+    [
+      0.021173,
+      "9"
+    ],
+    [
+      0.082183,
+      "."
+    ],
+    [
+      0.243885,
+      "0"
+    ],
+    [
+      0.021964,
+      " "
+    ],
+    [
+      0.113969,
+      "m"
+    ],
+    [
+      0.056943,
+      "a"
+    ],
+    [
+      0.585450,
+      "r"
+    ],
+    [
+      0.190001,
+      "k"
+    ],
+    [
+      0.189761,
+      "u"
+    ],
+    [
+      0.282355,
+      "p"
+    ],
+    [
+      0.192528,
+      "s"
+    ],
+    [
+      0.055402,
+      "a"
+    ],
+    [
+      0.155937,
+      "f"
+    ],
+    [
+      0.192038,
+      "e"
+    ],
+    [
+      0.900353,
+      "\r\n"
+    ],
+    [
+      0.193885,
+      "Downloading/unpacking ansible"
+    ],
+    [
+      0.000075,
+      "\r\n"
+    ],
+    [
+      0.139057,
+      "  Downloading ansible-1.9.4.tar.gz (937kB): "
+    ],
+    [
+      0.000123,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):   0%  4.1kB"
+    ],
+    [
+      0.000103,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):   0%  8.2kB"
+    ],
+    [
+      0.000128,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):   1%  12kB "
+    ],
+    [
+      0.000121,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):   1%  16kB"
+    ],
+    [
+      0.000090,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):   2%  20kB"
+    ],
+    [
+      0.000093,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):   2%  24kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):   3%  28kB"
+    ],
+    [
+      0.011880,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):   3%  32kB"
+    ],
+    [
+      0.000119,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):   3%  36kB"
+    ],
+    [
+      0.000103,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):   4%  40kB"
+    ],
+    [
+      0.000064,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):   4%  45kB"
+    ],
+    [
+      0.000096,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):   5%  49kB"
+    ],
+    [
+      0.000062,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):   5%  53kB"
+    ],
+    [
+      0.000096,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):   6%  57kB"
+    ],
+    [
+      0.000064,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):   6%  61kB"
+    ],
+    [
+      0.000223,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):   6%  65kB"
+    ],
+    [
+      0.000069,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):   7%  69kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):   7%  73kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):   8%  77kB"
+    ],
+    [
+      0.012018,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):   8%  81kB"
+    ],
+    [
+      0.000064,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):   9%  86kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):   9%  90kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  10%  94kB"
+    ],
+    [
+      0.000095,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  10%  98kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  10%  102kB"
+    ],
+    [
+      0.000097,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  11%  106kB"
+    ],
+    [
+      0.000123,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  11%  110kB"
+    ],
+    [
+      0.000165,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  12%  114kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  12%  118kB"
+    ],
+    [
+      0.000137,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  13%  122kB"
+    ],
+    [
+      0.000057,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  13%  126kB"
+    ],
+    [
+      0.000110,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  13%  131kB"
+    ],
+    [
+      0.000064,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  14%  135kB"
+    ],
+    [
+      0.000099,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  14%  139kB"
+    ],
+    [
+      0.000065,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  15%  143kB"
+    ],
+    [
+      0.000116,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  15%  147kB"
+    ],
+    [
+      0.000053,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  16%  151kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  16%  155kB"
+    ],
+    [
+      0.000091,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  17%  159kB"
+    ],
+    [
+      0.000092,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  17%  163kB"
+    ],
+    [
+      0.000062,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  17%  167kB"
+    ],
+    [
+      0.000092,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  18%  172kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  18%  176kB"
+    ],
+    [
+      0.000157,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  19%  180kB"
+    ],
+    [
+      0.000068,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  19%  184kB"
+    ],
+    [
+      0.000095,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  20%  188kB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  20%  192kB"
+    ],
+    [
+      0.010852,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  20%  196kB"
+    ],
+    [
+      0.000062,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  21%  200kB"
+    ],
+    [
+      0.000083,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  21%  204kB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  22%  208kB"
+    ],
+    [
+      0.000124,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  22%  212kB"
+    ],
+    [
+      0.000136,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  23%  217kB"
+    ],
+    [
+      0.000069,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  23%  221kB"
+    ],
+    [
+      0.000090,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  24%  225kB"
+    ],
+    [
+      0.000162,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  24%  229kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  24%  233kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  25%  237kB"
+    ],
+    [
+      0.000063,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  25%  241kB"
+    ],
+    [
+      0.000102,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  26%  245kB"
+    ],
+    [
+      0.000062,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  26%  249kB"
+    ],
+    [
+      0.000070,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  27%  253kB"
+    ],
+    [
+      0.000048,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  27%  258kB"
+    ],
+    [
+      0.000130,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  27%  262kB"
+    ],
+    [
+      0.000059,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  28%  266kB"
+    ],
+    [
+      0.000068,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  28%  270kB"
+    ],
+    [
+      0.000085,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  29%  274kB"
+    ],
+    [
+      0.000167,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  29%  278kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  30%  282kB"
+    ],
+    [
+      0.000134,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  30%  286kB"
+    ],
+    [
+      0.000053,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  31%  290kB"
+    ],
+    [
+      0.000118,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  31%  294kB"
+    ],
+    [
+      0.000052,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  31%  299kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  32%  303kB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  32%  307kB"
+    ],
+    [
+      0.000127,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  33%  311kB"
+    ],
+    [
+      0.000058,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  33%  315kB"
+    ],
+    [
+      0.000112,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  34%  319kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  34%  323kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  34%  327kB"
+    ],
+    [
+      0.000060,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  35%  331kB"
+    ],
+    [
+      0.000069,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  35%  335kB"
+    ],
+    [
+      0.000060,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  36%  339kB"
+    ],
+    [
+      0.000090,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  36%  344kB"
+    ],
+    [
+      0.000056,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  37%  348kB"
+    ],
+    [
+      0.000061,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  37%  352kB"
+    ],
+    [
+      0.000059,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  38%  356kB"
+    ],
+    [
+      0.000095,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  38%  360kB"
+    ],
+    [
+      0.000061,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  38%  364kB"
+    ],
+    [
+      0.000071,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  39%  368kB"
+    ],
+    [
+      0.000061,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  39%  372kB"
+    ],
+    [
+      0.000094,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  40%  376kB"
+    ],
+    [
+      0.000062,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  40%  380kB"
+    ],
+    [
+      0.000064,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  41%  385kB"
+    ],
+    [
+      0.000061,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  41%  389kB"
+    ],
+    [
+      0.000136,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  41%  393kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  42%  397kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  42%  401kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  43%  405kB"
+    ],
+    [
+      0.008876,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  43%  409kB"
+    ],
+    [
+      0.000107,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  44%  413kB"
+    ],
+    [
+      0.000279,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  44%  417kB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  45%  421kB"
+    ],
+    [
+      0.000156,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  45%  425kB"
+    ],
+    [
+      0.000061,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  45%  430kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  46%  434kB"
+    ],
+    [
+      0.000061,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  46%  438kB"
+    ],
+    [
+      0.000094,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  47%  442kB"
+    ],
+    [
+      0.000062,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  47%  446kB"
+    ],
+    [
+      0.000063,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  48%  450kB"
+    ],
+    [
+      0.000053,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  48%  454kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  48%  458kB"
+    ],
+    [
+      0.000065,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  49%  462kB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  49%  466kB"
+    ],
+    [
+      0.000061,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  50%  471kB"
+    ],
+    [
+      0.000120,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  50%  475kB"
+    ],
+    [
+      0.000061,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  51%  479kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  51%  483kB"
+    ],
+    [
+      0.000060,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  52%  487kB"
+    ],
+    [
+      0.000098,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  52%  491kB"
+    ],
+    [
+      0.000060,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  52%  495kB"
+    ],
+    [
+      0.000070,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  53%  499kB"
+    ],
+    [
+      0.000060,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  53%  503kB"
+    ],
+    [
+      0.000172,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  54%  507kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  54%  512kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  55%  516kB"
+    ],
+    [
+      0.000103,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  55%  520kB"
+    ],
+    [
+      0.000147,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  55%  524kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  56%  528kB"
+    ],
+    [
+      0.000070,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  56%  532kB"
+    ],
+    [
+      0.000089,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  57%  536kB"
+    ],
+    [
+      0.000147,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  57%  540kB"
+    ],
+    [
+      0.000060,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  58%  544kB"
+    ],
+    [
+      0.000104,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  58%  548kB"
+    ],
+    [
+      0.000068,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  59%  552kB"
+    ],
+    [
+      0.000144,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  59%  557kB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  59%  561kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  60%  565kB"
+    ],
+    [
+      0.000058,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  60%  569kB"
+    ],
+    [
+      0.000123,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  61%  573kB"
+    ],
+    [
+      0.000064,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  61%  577kB"
+    ],
+    [
+      0.000093,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  62%  581kB"
+    ],
+    [
+      0.000062,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  62%  585kB"
+    ],
+    [
+      0.000092,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  62%  589kB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  63%  593kB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  63%  598kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  64%  602kB"
+    ],
+    [
+      0.000098,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  64%  606kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  65%  610kB"
+    ],
+    [
+      0.000070,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  65%  614kB"
+    ],
+    [
+      0.000048,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  65%  618kB"
+    ],
+    [
+      0.000102,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  66%  622kB"
+    ],
+    [
+      0.000050,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  66%  626kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  67%  630kB"
+    ],
+    [
+      0.000060,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  67%  634kB"
+    ],
+    [
+      0.000090,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  68%  638kB"
+    ],
+    [
+      0.000061,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  68%  643kB"
+    ],
+    [
+      0.000069,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  69%  647kB"
+    ],
+    [
+      0.000048,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  69%  651kB"
+    ],
+    [
+      0.000085,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  69%  655kB"
+    ],
+    [
+      0.000059,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  70%  659kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  70%  663kB"
+    ],
+    [
+      0.000061,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  71%  667kB"
+    ],
+    [
+      0.000104,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  71%  671kB"
+    ],
+    [
+      0.000058,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  72%  675kB"
+    ],
+    [
+      0.000069,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  72%  679kB"
+    ],
+    [
+      0.000057,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  72%  684kB"
+    ],
+    [
+      0.000089,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  73%  688kB"
+    ],
+    [
+      0.000049,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  73%  692kB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  74%  696kB"
+    ],
+    [
+      0.000059,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  74%  700kB"
+    ],
+    [
+      0.000089,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  75%  704kB"
+    ],
+    [
+      0.000061,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  75%  708kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  76%  712kB"
+    ],
+    [
+      0.000048,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  76%  716kB"
+    ],
+    [
+      0.000084,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  76%  720kB"
+    ],
+    [
+      0.000064,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  77%  724kB"
+    ],
+    [
+      0.000069,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  77%  729kB"
+    ],
+    [
+      0.000059,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  78%  733kB"
+    ],
+    [
+      0.000090,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  78%  737kB"
+    ],
+    [
+      0.000054,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  79%  741kB"
+    ],
+    [
+      0.000061,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  79%  745kB"
+    ],
+    [
+      0.000058,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  79%  749kB"
+    ],
+    [
+      0.000105,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  80%  753kB"
+    ],
+    [
+      0.000050,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  80%  757kB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  81%  761kB"
+    ],
+    [
+      0.000069,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  81%  765kB"
+    ],
+    [
+      0.000092,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  82%  770kB"
+    ],
+    [
+      0.000064,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  82%  774kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  83%  778kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  83%  782kB"
+    ],
+    [
+      0.005884,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  83%  786kB"
+    ],
+    [
+      0.000068,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  84%  790kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  84%  794kB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  85%  798kB"
+    ],
+    [
+      0.000098,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  85%  802kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  86%  806kB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  86%  811kB"
+    ],
+    [
+      0.000060,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  86%  815kB"
+    ],
+    [
+      0.000089,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  87%  819kB"
+    ],
+    [
+      0.000061,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  87%  823kB"
+    ],
+    [
+      0.000071,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  88%  827kB"
+    ],
+    [
+      0.000065,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  88%  831kB"
+    ],
+    [
+      0.000100,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  89%  835kB"
+    ],
+    [
+      0.000052,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  89%  839kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  90%  843kB"
+    ],
+    [
+      0.000085,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  90%  847kB"
+    ],
+    [
+      0.000097,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  90%  851kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  91%  856kB"
+    ],
+    [
+      0.000099,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  91%  860kB"
+    ],
+    [
+      0.000060,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  92%  864kB"
+    ],
+    [
+      0.000091,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  92%  868kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  93%  872kB"
+    ],
+    [
+      0.000069,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  93%  876kB"
+    ],
+    [
+      0.000059,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  93%  880kB"
+    ],
+    [
+      0.000089,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  94%  884kB"
+    ],
+    [
+      0.000055,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  94%  888kB"
+    ],
+    [
+      0.000061,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  95%  892kB"
+    ],
+    [
+      0.000058,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  95%  897kB"
+    ],
+    [
+      0.000094,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  96%  901kB"
+    ],
+    [
+      0.000059,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  96%  905kB"
+    ],
+    [
+      0.000070,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  97%  909kB"
+    ],
+    [
+      0.000059,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  97%  913kB"
+    ],
+    [
+      0.000089,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  97%  917kB"
+    ],
+    [
+      0.000054,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  98%  921kB"
+    ],
+    [
+      0.000062,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  98%  925kB"
+    ],
+    [
+      0.000121,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  99%  929kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):  99%  933kB"
+    ],
+    [
+      0.000092,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB): 100%  937kB"
+    ],
+    [
+      0.000155,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB):            "
+    ],
+    [
+      0.000027,
+      "\r  Downloading ansible-1.9.4.tar.gz (937kB): "
+    ],
+    [
+      0.000026,
+      "937kB downloaded"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.113559,
+      "  Running setup.py (path:/tmp/pip_build_root/ansible/setup.py) egg_info for package ansible"
+    ],
+    [
+      0.000046,
+      "\r\n"
+    ],
+    [
+      0.054980,
+      "    "
+    ],
+    [
+      0.000049,
+      "\r\n"
+    ],
+    [
+      0.017984,
+      "    no previously-included directories found matching 'v2'"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000082,
+      "    no previously-included directories found matching 'docsite'"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "    no previously-included directories found matching 'ticket_stubs'"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000067,
+      "    no previously-included directories found matching 'packaging'"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "    no previously-included directories found matching 'test'"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "    no previously-included directories found matching 'hacking'"
+    ],
+    [
+      0.000047,
+      "\r\n"
+    ],
+    [
+      0.004116,
+      "    no previously-included directories found matching 'lib/ansible/modules/core/.git'"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.000667,
+      "    no previously-included directories found matching 'lib/ansible/modules/extras/.git'"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.014272,
+      "Downloading/unpacking apache-libcloud==0.19.0"
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.122411,
+      "  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB): "
+    ],
+    [
+      0.000202,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   0%  4.1kB"
+    ],
+    [
+      0.000192,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   0%  8.2kB"
+    ],
+    [
+      0.000166,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   0%  12kB "
+    ],
+    [
+      0.000242,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   0%  16kB"
+    ],
+    [
+      0.000147,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   1%  20kB"
+    ],
+    [
+      0.000100,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   1%  24kB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   1%  28kB"
+    ],
+    [
+      0.000200,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   1%  32kB"
+    ],
+    [
+      0.000069,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   1%  36kB"
+    ],
+    [
+      0.000121,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   2%  40kB"
+    ],
+    [
+      0.000061,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   2%  45kB"
+    ],
+    [
+      0.000128,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   2%  49kB"
+    ],
+    [
+      0.000092,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   2%  53kB"
+    ],
+    [
+      0.000108,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   3%  57kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   3%  61kB"
+    ],
+    [
+      0.000147,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   3%  65kB"
+    ],
+    [
+      0.000118,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   3%  69kB"
+    ],
+    [
+      0.000155,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   3%  73kB"
+    ],
+    [
+      0.000099,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   4%  77kB"
+    ],
+    [
+      0.000191,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   4%  81kB"
+    ],
+    [
+      0.000091,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   4%  86kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   4%  90kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   5%  94kB"
+    ],
+    [
+      0.000140,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   5%  98kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   5%  102kB"
+    ],
+    [
+      0.000118,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   5%  106kB"
+    ],
+    [
+      0.000093,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   5%  110kB"
+    ],
+    [
+      0.000122,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   6%  114kB"
+    ],
+    [
+      0.000064,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   6%  118kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   6%  122kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   6%  126kB"
+    ],
+    [
+      0.000118,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   7%  131kB"
+    ],
+    [
+      0.000062,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   7%  135kB"
+    ],
+    [
+      0.000084,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   7%  139kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   7%  143kB"
+    ],
+    [
+      0.000108,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   7%  147kB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   8%  151kB"
+    ],
+    [
+      0.000096,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   8%  155kB"
+    ],
+    [
+      0.000061,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   8%  159kB"
+    ],
+    [
+      0.000156,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   8%  163kB"
+    ],
+    [
+      0.000070,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   9%  167kB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   9%  172kB"
+    ],
+    [
+      0.000102,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   9%  176kB"
+    ],
+    [
+      0.000094,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   9%  180kB"
+    ],
+    [
+      0.000062,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):   9%  184kB"
+    ],
+    [
+      0.000071,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  10%  188kB"
+    ],
+    [
+      0.000063,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  10%  192kB"
+    ],
+    [
+      0.000095,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  10%  196kB"
+    ],
+    [
+      0.000064,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  10%  200kB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  11%  204kB"
+    ],
+    [
+      0.000064,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  11%  208kB"
+    ],
+    [
+      0.000107,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  11%  212kB"
+    ],
+    [
+      0.000065,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  11%  217kB"
+    ],
+    [
+      0.000109,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  11%  221kB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  12%  225kB"
+    ],
+    [
+      0.000191,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  12%  229kB"
+    ],
+    [
+      0.000101,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  12%  233kB"
+    ],
+    [
+      0.000090,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  12%  237kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  13%  241kB"
+    ],
+    [
+      0.000116,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  13%  245kB"
+    ],
+    [
+      0.000068,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  13%  249kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  13%  253kB"
+    ],
+    [
+      0.000090,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  13%  258kB"
+    ],
+    [
+      0.000104,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  14%  262kB"
+    ],
+    [
+      0.000110,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  14%  266kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  14%  270kB"
+    ],
+    [
+      0.000064,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  14%  274kB"
+    ],
+    [
+      0.000116,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  15%  278kB"
+    ],
+    [
+      0.000070,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  15%  282kB"
+    ],
+    [
+      0.000071,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  15%  286kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  15%  290kB"
+    ],
+    [
+      0.000102,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  15%  294kB"
+    ],
+    [
+      0.000063,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  16%  299kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  16%  303kB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  16%  307kB"
+    ],
+    [
+      0.000097,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  16%  311kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  17%  315kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  17%  319kB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  17%  323kB"
+    ],
+    [
+      0.000097,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  17%  327kB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  17%  331kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  18%  335kB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  18%  339kB"
+    ],
+    [
+      0.000096,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  18%  344kB"
+    ],
+    [
+      0.000068,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  18%  348kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  19%  352kB"
+    ],
+    [
+      0.000089,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  19%  356kB"
+    ],
+    [
+      0.000122,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  19%  360kB"
+    ],
+    [
+      0.000059,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  19%  364kB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  19%  368kB"
+    ],
+    [
+      0.000064,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  20%  372kB"
+    ],
+    [
+      0.000107,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  20%  376kB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  20%  380kB"
+    ],
+    [
+      0.000137,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  20%  385kB"
+    ],
+    [
+      0.000089,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  21%  389kB"
+    ],
+    [
+      0.000111,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  21%  393kB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  21%  397kB"
+    ],
+    [
+      0.000102,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  21%  401kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  21%  405kB"
+    ],
+    [
+      0.000100,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  22%  409kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  22%  413kB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  22%  417kB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  22%  421kB"
+    ],
+    [
+      0.000097,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  23%  425kB"
+    ],
+    [
+      0.000065,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  23%  430kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  23%  434kB"
+    ],
+    [
+      0.000065,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  23%  438kB"
+    ],
+    [
+      0.000106,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  23%  442kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  24%  446kB"
+    ],
+    [
+      0.000129,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  24%  450kB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  24%  454kB"
+    ],
+    [
+      0.000161,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  24%  458kB"
+    ],
+    [
+      0.000065,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  25%  462kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  25%  466kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  25%  471kB"
+    ],
+    [
+      0.000856,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  25%  475kB"
+    ],
+    [
+      0.000084,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  25%  479kB"
+    ],
+    [
+      0.000092,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  26%  483kB"
+    ],
+    [
+      0.000097,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  26%  487kB"
+    ],
+    [
+      0.000127,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  26%  491kB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  26%  495kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  27%  499kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  27%  503kB"
+    ],
+    [
+      0.000149,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  27%  507kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  27%  512kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  27%  516kB"
+    ],
+    [
+      0.000070,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  28%  520kB"
+    ],
+    [
+      0.000113,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  28%  524kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  28%  528kB"
+    ],
+    [
+      0.000140,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  28%  532kB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  29%  536kB"
+    ],
+    [
+      0.000107,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  29%  540kB"
+    ],
+    [
+      0.000085,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  29%  544kB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  29%  548kB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  29%  552kB"
+    ],
+    [
+      0.000199,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  30%  557kB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  30%  561kB"
+    ],
+    [
+      0.000097,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  30%  565kB"
+    ],
+    [
+      0.000061,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  30%  569kB"
+    ],
+    [
+      0.000137,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  30%  573kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  31%  577kB"
+    ],
+    [
+      0.000097,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  31%  581kB"
+    ],
+    [
+      0.000070,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  31%  585kB"
+    ],
+    [
+      0.000103,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  31%  589kB"
+    ],
+    [
+      0.000068,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  32%  593kB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  32%  598kB"
+    ],
+    [
+      0.000069,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  32%  602kB"
+    ],
+    [
+      0.000102,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  32%  606kB"
+    ],
+    [
+      0.000068,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  32%  610kB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  33%  614kB"
+    ],
+    [
+      0.000069,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  33%  618kB"
+    ],
+    [
+      0.000104,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  33%  622kB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  33%  626kB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  34%  630kB"
+    ],
+    [
+      0.000068,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  34%  634kB"
+    ],
+    [
+      0.000103,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  34%  638kB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  34%  643kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  34%  647kB"
+    ],
+    [
+      0.000068,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  35%  651kB"
+    ],
+    [
+      0.000103,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  35%  655kB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  35%  659kB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  35%  663kB"
+    ],
+    [
+      0.000068,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  36%  667kB"
+    ],
+    [
+      0.000100,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  36%  671kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  36%  675kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  36%  679kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  36%  684kB"
+    ],
+    [
+      0.000101,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  37%  688kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  37%  692kB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  37%  696kB"
+    ],
+    [
+      0.000068,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  37%  700kB"
+    ],
+    [
+      0.000100,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  38%  704kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  38%  708kB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  38%  712kB"
+    ],
+    [
+      0.000068,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  38%  716kB"
+    ],
+    [
+      0.000101,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  38%  720kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  39%  724kB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  39%  729kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  39%  733kB"
+    ],
+    [
+      0.000111,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  39%  737kB"
+    ],
+    [
+      0.000065,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  40%  741kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  40%  745kB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  40%  749kB"
+    ],
+    [
+      0.000099,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  40%  753kB"
+    ],
+    [
+      0.000065,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  40%  757kB"
+    ],
+    [
+      0.000096,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  41%  761kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  41%  765kB"
+    ],
+    [
+      0.000173,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  41%  770kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  41%  774kB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  42%  778kB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  42%  782kB"
+    ],
+    [
+      0.000100,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  42%  786kB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  42%  790kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  42%  794kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  43%  798kB"
+    ],
+    [
+      0.000101,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  43%  802kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  43%  806kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  43%  811kB"
+    ],
+    [
+      0.000068,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  44%  815kB"
+    ],
+    [
+      0.000100,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  44%  819kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  44%  823kB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  44%  827kB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  44%  831kB"
+    ],
+    [
+      0.000111,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  45%  835kB"
+    ],
+    [
+      0.000065,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  45%  839kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  45%  843kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  45%  847kB"
+    ],
+    [
+      0.000099,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  46%  851kB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  46%  856kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  46%  860kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  46%  864kB"
+    ],
+    [
+      0.000099,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  46%  868kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  47%  872kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  47%  876kB"
+    ],
+    [
+      0.000065,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  47%  880kB"
+    ],
+    [
+      0.000107,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  47%  884kB"
+    ],
+    [
+      0.000068,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  48%  888kB"
+    ],
+    [
+      0.000098,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  48%  892kB"
+    ],
+    [
+      0.000107,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  48%  897kB"
+    ],
+    [
+      0.000180,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  48%  901kB"
+    ],
+    [
+      0.000103,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  48%  905kB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  49%  909kB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  49%  913kB"
+    ],
+    [
+      0.000099,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  49%  917kB"
+    ],
+    [
+      0.000064,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  49%  921kB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  50%  925kB"
+    ],
+    [
+      0.000071,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  50%  929kB"
+    ],
+    [
+      0.000099,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  50%  933kB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  50%  937kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  50%  942kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  51%  946kB"
+    ],
+    [
+      0.000100,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  51%  950kB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  51%  954kB"
+    ],
+    [
+      0.000068,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  51%  958kB"
+    ],
+    [
+      0.000069,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  52%  962kB"
+    ],
+    [
+      0.000096,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  52%  966kB"
+    ],
+    [
+      0.000064,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  52%  970kB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  52%  974kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  52%  978kB"
+    ],
+    [
+      0.000104,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  53%  983kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  53%  987kB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  53%  991kB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  53%  995kB"
+    ],
+    [
+      0.000103,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  54%  999kB"
+    ],
+    [
+      0.000069,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  54%  1.0MB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  54%  1.0MB"
+    ],
+    [
+      0.000069,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  54%  1.0MB"
+    ],
+    [
+      0.000102,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  54%  1.0MB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  55%  1.0MB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  55%  1.0MB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  55%  1.0MB"
+    ],
+    [
+      0.000123,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  55%  1.0MB"
+    ],
+    [
+      0.000059,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  56%  1.0MB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  56%  1.0MB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  56%  1.0MB"
+    ],
+    [
+      0.000103,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  56%  1.0MB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  56%  1.1MB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  57%  1.1MB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  57%  1.1MB"
+    ],
+    [
+      0.000099,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  57%  1.1MB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  57%  1.1MB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  58%  1.1MB"
+    ],
+    [
+      0.000103,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  58%  1.1MB"
+    ],
+    [
+      0.000112,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  58%  1.1MB"
+    ],
+    [
+      0.000096,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  58%  1.1MB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  58%  1.1MB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  59%  1.1MB"
+    ],
+    [
+      0.000100,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  59%  1.1MB"
+    ],
+    [
+      0.000084,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  59%  1.1MB"
+    ],
+    [
+      0.000092,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  59%  1.1MB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  60%  1.1MB"
+    ],
+    [
+      0.000123,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  60%  1.1MB"
+    ],
+    [
+      0.000057,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  60%  1.1MB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  60%  1.1MB"
+    ],
+    [
+      0.000055,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  60%  1.1MB"
+    ],
+    [
+      0.000092,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  61%  1.1MB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  61%  1.1MB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  61%  1.1MB"
+    ],
+    [
+      0.000054,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  61%  1.1MB"
+    ],
+    [
+      0.000084,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  61%  1.1MB"
+    ],
+    [
+      0.000055,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  62%  1.2MB"
+    ],
+    [
+      0.000069,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  62%  1.2MB"
+    ],
+    [
+      0.000058,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  62%  1.2MB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  62%  1.2MB"
+    ],
+    [
+      0.000055,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  63%  1.2MB"
+    ],
+    [
+      0.000084,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  63%  1.2MB"
+    ],
+    [
+      0.000054,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  63%  1.2MB"
+    ],
+    [
+      0.000061,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  63%  1.2MB"
+    ],
+    [
+      0.000065,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  63%  1.2MB"
+    ],
+    [
+      0.000094,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  64%  1.2MB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  64%  1.2MB"
+    ],
+    [
+      0.000091,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  64%  1.2MB"
+    ],
+    [
+      0.000054,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  64%  1.2MB"
+    ],
+    [
+      0.000083,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  65%  1.2MB"
+    ],
+    [
+      0.000054,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  65%  1.2MB"
+    ],
+    [
+      0.000061,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  65%  1.2MB"
+    ],
+    [
+      0.000053,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  65%  1.2MB"
+    ],
+    [
+      0.000083,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  65%  1.2MB"
+    ],
+    [
+      0.000054,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  66%  1.2MB"
+    ],
+    [
+      0.000061,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  66%  1.2MB"
+    ],
+    [
+      0.000053,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  66%  1.2MB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  66%  1.2MB"
+    ],
+    [
+      0.000054,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  67%  1.2MB"
+    ],
+    [
+      0.000062,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  67%  1.2MB"
+    ],
+    [
+      0.000053,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  67%  1.2MB"
+    ],
+    [
+      0.000089,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  67%  1.3MB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  67%  1.3MB"
+    ],
+    [
+      0.000062,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  68%  1.3MB"
+    ],
+    [
+      0.000052,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  68%  1.3MB"
+    ],
+    [
+      0.000083,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  68%  1.3MB"
+    ],
+    [
+      0.000052,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  68%  1.3MB"
+    ],
+    [
+      0.000060,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  69%  1.3MB"
+    ],
+    [
+      0.000063,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  69%  1.3MB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  69%  1.3MB"
+    ],
+    [
+      0.000051,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  69%  1.3MB"
+    ],
+    [
+      0.000082,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  69%  1.3MB"
+    ],
+    [
+      0.000049,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  70%  1.3MB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  70%  1.3MB"
+    ],
+    [
+      0.000050,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  70%  1.3MB"
+    ],
+    [
+      0.000057,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  70%  1.3MB"
+    ],
+    [
+      0.000048,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  71%  1.3MB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  71%  1.3MB"
+    ],
+    [
+      0.000050,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  71%  1.3MB"
+    ],
+    [
+      0.000057,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  71%  1.3MB"
+    ],
+    [
+      0.000049,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  71%  1.3MB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  72%  1.3MB"
+    ],
+    [
+      0.000050,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  72%  1.3MB"
+    ],
+    [
+      0.000057,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  72%  1.3MB"
+    ],
+    [
+      0.000049,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  72%  1.3MB"
+    ],
+    [
+      0.000080,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  73%  1.4MB"
+    ],
+    [
+      0.000050,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  73%  1.4MB"
+    ],
+    [
+      0.000058,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  73%  1.4MB"
+    ],
+    [
+      0.000048,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  73%  1.4MB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  73%  1.4MB"
+    ],
+    [
+      0.000050,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  74%  1.4MB"
+    ],
+    [
+      0.000059,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  74%  1.4MB"
+    ],
+    [
+      0.000049,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  74%  1.4MB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  74%  1.4MB"
+    ],
+    [
+      0.000056,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  75%  1.4MB"
+    ],
+    [
+      0.000061,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  75%  1.4MB"
+    ],
+    [
+      0.000049,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  75%  1.4MB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  75%  1.4MB"
+    ],
+    [
+      0.000058,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  75%  1.4MB"
+    ],
+    [
+      0.000058,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  76%  1.4MB"
+    ],
+    [
+      0.000049,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  76%  1.4MB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  76%  1.4MB"
+    ],
+    [
+      0.000061,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  76%  1.4MB"
+    ],
+    [
+      0.000069,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  77%  1.4MB"
+    ],
+    [
+      0.000061,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  77%  1.4MB"
+    ],
+    [
+      0.000089,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  77%  1.4MB"
+    ],
+    [
+      0.000062,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  77%  1.4MB"
+    ],
+    [
+      0.000058,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  77%  1.4MB"
+    ],
+    [
+      0.000071,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  78%  1.4MB"
+    ],
+    [
+      0.000193,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  78%  1.4MB"
+    ],
+    [
+      0.000052,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  78%  1.5MB"
+    ],
+    [
+      0.000059,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  78%  1.5MB"
+    ],
+    [
+      0.000048,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  79%  1.5MB"
+    ],
+    [
+      0.000106,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  79%  1.5MB"
+    ],
+    [
+      0.000051,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  79%  1.5MB"
+    ],
+    [
+      0.000059,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  79%  1.5MB"
+    ],
+    [
+      0.000055,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  79%  1.5MB"
+    ],
+    [
+      0.000091,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  80%  1.5MB"
+    ],
+    [
+      0.000060,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  80%  1.5MB"
+    ],
+    [
+      0.000056,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  80%  1.5MB"
+    ],
+    [
+      0.000048,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  80%  1.5MB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  81%  1.5MB"
+    ],
+    [
+      0.000049,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  81%  1.5MB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  81%  1.5MB"
+    ],
+    [
+      0.000050,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  81%  1.5MB"
+    ],
+    [
+      0.000088,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  81%  1.5MB"
+    ],
+    [
+      0.000048,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  82%  1.5MB"
+    ],
+    [
+      0.000099,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  82%  1.5MB"
+    ],
+    [
+      0.000059,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  82%  1.5MB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  82%  1.5MB"
+    ],
+    [
+      0.000049,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  83%  1.5MB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  83%  1.5MB"
+    ],
+    [
+      0.000046,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  83%  1.5MB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  83%  1.5MB"
+    ],
+    [
+      0.000063,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  83%  1.6MB"
+    ],
+    [
+      0.000057,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  84%  1.6MB"
+    ],
+    [
+      0.000048,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  84%  1.6MB"
+    ],
+    [
+      0.000079,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  84%  1.6MB"
+    ],
+    [
+      0.000061,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  84%  1.6MB"
+    ],
+    [
+      0.000066,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  85%  1.6MB"
+    ],
+    [
+      0.000050,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  85%  1.6MB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  85%  1.6MB"
+    ],
+    [
+      0.000060,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  85%  1.6MB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  85%  1.6MB"
+    ],
+    [
+      0.000047,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  86%  1.6MB"
+    ],
+    [
+      0.000111,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  86%  1.6MB"
+    ],
+    [
+      0.000049,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  86%  1.6MB"
+    ],
+    [
+      0.000056,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  86%  1.6MB"
+    ],
+    [
+      0.000047,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  87%  1.6MB"
+    ],
+    [
+      0.000108,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  87%  1.6MB"
+    ],
+    [
+      0.000049,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  87%  1.6MB"
+    ],
+    [
+      0.000058,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  87%  1.6MB"
+    ],
+    [
+      0.000059,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  87%  1.6MB"
+    ],
+    [
+      0.000119,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  88%  1.6MB"
+    ],
+    [
+      0.000078,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  88%  1.6MB"
+    ],
+    [
+      0.000073,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  88%  1.6MB"
+    ],
+    [
+      0.000063,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  88%  1.6MB"
+    ],
+    [
+      0.000118,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  89%  1.6MB"
+    ],
+    [
+      0.000059,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  89%  1.7MB"
+    ],
+    [
+      0.000056,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  89%  1.7MB"
+    ],
+    [
+      0.000047,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  89%  1.7MB"
+    ],
+    [
+      0.000087,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  89%  1.7MB"
+    ],
+    [
+      0.000049,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  90%  1.7MB"
+    ],
+    [
+      0.000055,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  90%  1.7MB"
+    ],
+    [
+      0.000047,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  90%  1.7MB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  90%  1.7MB"
+    ],
+    [
+      0.000048,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  91%  1.7MB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  91%  1.7MB"
+    ],
+    [
+      0.000047,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  91%  1.7MB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  91%  1.7MB"
+    ],
+    [
+      0.000050,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  91%  1.7MB"
+    ],
+    [
+      0.000118,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  92%  1.7MB"
+    ],
+    [
+      0.000048,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  92%  1.7MB"
+    ],
+    [
+      0.000081,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  92%  1.7MB"
+    ],
+    [
+      0.000061,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  92%  1.7MB"
+    ],
+    [
+      0.000056,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  92%  1.7MB"
+    ],
+    [
+      0.000048,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  93%  1.7MB"
+    ],
+    [
+      0.000077,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  93%  1.7MB"
+    ],
+    [
+      0.000049,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  93%  1.7MB"
+    ],
+    [
+      0.000055,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  93%  1.7MB"
+    ],
+    [
+      0.000048,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  94%  1.7MB"
+    ],
+    [
+      0.000076,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  94%  1.7MB"
+    ],
+    [
+      0.000050,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  94%  1.7MB"
+    ],
+    [
+      0.000056,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  94%  1.8MB"
+    ],
+    [
+      0.000048,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  94%  1.8MB"
+    ],
+    [
+      0.000084,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  95%  1.8MB"
+    ],
+    [
+      0.000064,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  95%  1.8MB"
+    ],
+    [
+      0.000057,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  95%  1.8MB"
+    ],
+    [
+      0.000048,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  95%  1.8MB"
+    ],
+    [
+      0.000090,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  96%  1.8MB"
+    ],
+    [
+      0.000048,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  96%  1.8MB"
+    ],
+    [
+      0.000056,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  96%  1.8MB"
+    ],
+    [
+      0.000046,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  96%  1.8MB"
+    ],
+    [
+      0.000075,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  96%  1.8MB"
+    ],
+    [
+      0.000049,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  97%  1.8MB"
+    ],
+    [
+      0.000067,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  97%  1.8MB"
+    ],
+    [
+      0.000072,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  97%  1.8MB"
+    ],
+    [
+      0.000092,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  97%  1.8MB"
+    ],
+    [
+      0.000063,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  98%  1.8MB"
+    ],
+    [
+      0.000059,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  98%  1.8MB"
+    ],
+    [
+      0.000086,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  98%  1.8MB"
+    ],
+    [
+      0.000127,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  98%  1.8MB"
+    ],
+    [
+      0.000065,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  98%  1.8MB"
+    ],
+    [
+      0.000064,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  99%  1.8MB"
+    ],
+    [
+      0.000052,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  99%  1.8MB"
+    ],
+    [
+      0.000103,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  99%  1.8MB"
+    ],
+    [
+      0.000074,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):  99%  1.8MB"
+    ],
+    [
+      0.000123,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB): 100%  1.8MB"
+    ],
+    [
+      0.000071,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB):            "
+    ],
+    [
+      0.000047,
+      "\r  Downloading apache_libcloud-0.19.0-py2.py3-none-any.whl (1.8MB): "
+    ],
+    [
+      0.000013,
+      "1.8MB downloaded"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.154849,
+      "Downloading/unpacking markupsafe"
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.044093,
+      "  Downloading MarkupSafe-0.23.tar.gz"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.003622,
+      "  Running setup.py (path:/tmp/pip_build_root/markupsafe/setup.py) egg_info for package markupsafe"
+    ],
+    [
+      0.000042,
+      "\r\n"
+    ],
+    [
+      0.051399,
+      "    "
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.013433,
+      "Requirement already satisfied (use --upgrade to upgrade): paramiko in /usr/local/lib/python2.7/dist-packages (from ansible)"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.000122,
+      "Requirement already satisfied (use --upgrade to upgrade): jinja2 in /usr/local/lib/python2.7/dist-packages (from ansible)"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "Requirement already satisfied (use --upgrade to upgrade): PyYAML in /usr/lib/python2.7/dist-packages (from ansible)"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "Requirement already satisfied (use --upgrade to upgrade): setuptools in /usr/lib/python2.7/dist-packages (from ansible)"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000212,
+      "Requirement already satisfied (use --upgrade to upgrade): pycrypto\u003e=2.6 in /usr/local/lib/python2.7/dist-packages (from ansible)"
+    ],
+    [
+      0.000042,
+      "\r\n"
+    ],
+    [
+      0.000165,
+      "Requirement already satisfied (use --upgrade to upgrade): backports.ssl-match-hostname in /usr/local/lib/python2.7/dist-packages (from apache-libcloud==0.19.0)"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000253,
+      "Installing collected packages: ansible, apache-libcloud, markupsafe"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000155,
+      "  Running setup.py install for ansible"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.143601,
+      "    changing mode of build/scripts-2.7/ansible from 644 to 755"
+    ],
+    [
+      0.000049,
+      "\r\n"
+    ],
+    [
+      0.000130,
+      "    changing mode of build/scripts-2.7/ansible-playbook from 644 to 755"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000120,
+      "    changing mode of build/scripts-2.7/ansible-pull from 644 to 755"
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "    changing mode of build/scripts-2.7/ansible-doc from 644 to 755"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "    changing mode of build/scripts-2.7/ansible-galaxy from 644 to 755"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "    changing mode of build/scripts-2.7/ansible-vault from 644 to 755"
+    ],
+    [
+      0.000042,
+      "\r\n"
+    ],
+    [
+      0.508275,
+      "    "
+    ],
+    [
+      0.000078,
+      "\r\n"
+    ],
+    [
+      0.012369,
+      "    no previously-included directories found matching 'v2'"
+    ],
+    [
+      0.000044,
+      "\r\n"
+    ],
+    [
+      0.000924,
+      "    no previously-included directories found matching 'docsite'"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.000917,
+      "    no previously-included directories found matching 'ticket_stubs'"
+    ],
+    [
+      0.000050,
+      "\r\n"
+    ],
+    [
+      0.001599,
+      "    no previously-included directories found matching 'test'"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.000832,
+      "    no previously-included directories found matching 'hacking'"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.009824,
+      "    no previously-included directories found matching 'lib/ansible/modules/core/.git'"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000867,
+      "    no previously-included directories found matching 'lib/ansible/modules/extras/.git'"
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.011414,
+      "    changing mode of /usr/local/bin/ansible-doc to 755"
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "    changing mode of /usr/local/bin/ansible-pull to 755"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000120,
+      "    changing mode of /usr/local/bin/ansible-galaxy to 755"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "    changing mode of /usr/local/bin/ansible to 755"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "    changing mode of /usr/local/bin/ansible-playbook to 755"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000095,
+      "    changing mode of /usr/local/bin/ansible-vault to 755"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.580471,
+      "  Running setup.py install for markupsafe"
+    ],
+    [
+      0.000099,
+      "\r\n"
+    ],
+    [
+      0.055399,
+      "    "
+    ],
+    [
+      0.000227,
+      "\r\n"
+    ],
+    [
+      0.007089,
+      "    building 'markupsafe._speedups' extension"
+    ],
+    [
+      0.000043,
+      "\r\n"
+    ],
+    [
+      0.000167,
+      "    x86_64-linux-gnu-gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/include/python2.7 -c markupsafe/_speedups.c -o build/temp.linux-x86_64-2.7/markupsafe/_speedups.o"
+    ],
+    [
+      0.000055,
+      "\r\n"
+    ],
+    [
+      0.093251,
+      "    x86_64-linux-gnu-gcc -pthread -shared -Wl,-O1 -Wl,-Bsymbolic-functions -Wl,-Bsymbolic-functions -Wl,-z,relro -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -D_FORTIFY_SOURCE=2 -g -fstack-protector --param=ssp-buffer-size=4 -Wformat -Werror=format-security build/temp.linux-x86_64-2.7/markupsafe/_speedups.o -o build/lib.linux-x86_64-2.7/markupsafe/_speedups.so"
+    ],
+    [
+      0.000077,
+      "\r\n"
+    ],
+    [
+      0.031925,
+      "Successfully installed ansible apache-libcloud markupsafe"
+    ],
+    [
+      0.000046,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "Cleaning up..."
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.033583,
+      "\u001b[33m\u001b[1m Run the playbook\u001b[0m"
+    ],
+    [
+      0.000050,
+      "\r\n"
+    ],
+    [
+      0.003126,
+      "\u001b[1m\u001b[36mviglesias\u001b[0m\u001b[0m@\u001b[34mansible-recording\u001b[0m:\u001b[32m~\u001b[0m $ "
+    ],
+    [
+      0.548242,
+      "c"
+    ],
+    [
+      0.089869,
+      "d"
+    ],
+    [
+      0.111994,
+      " "
+    ],
+    [
+      0.146120,
+      "a"
+    ],
+    [
+      0.170068,
+      "n"
+    ],
+    [
+      0.021991,
+      "s"
+    ],
+    [
+      0.089979,
+      "i"
+    ],
+    [
+      0.055911,
+      "b"
+    ],
+    [
+      0.168325,
+      "l"
+    ],
+    [
+      0.033789,
+      "e"
+    ],
+    [
+      0.083902,
+      "-"
+    ],
+    [
+      0.018071,
+      "g"
+    ],
+    [
+      0.168172,
+      "l"
+    ],
+    [
+      0.058016,
+      "u"
+    ],
+    [
+      0.056085,
+      "s"
+    ],
+    [
+      0.065970,
+      "t"
+    ],
+    [
+      0.157876,
+      "e"
+    ],
+    [
+      0.390270,
+      "r"
+    ],
+    [
+      0.802160,
+      "\r\n"
+    ],
+    [
+      0.003771,
+      "\u001b[1m\u001b[36mviglesias\u001b[0m\u001b[0m@\u001b[34mansible-recording\u001b[0m:\u001b[32mansible-gluster\u001b[0m $ "
+    ],
+    [
+      0.728355,
+      "a"
+    ],
+    [
+      0.089705,
+      "n"
+    ],
+    [
+      0.023603,
+      "s"
+    ],
+    [
+      0.032729,
+      "i"
+    ],
+    [
+      0.123792,
+      "b"
+    ],
+    [
+      0.056028,
+      "l"
+    ],
+    [
+      0.056376,
+      "e"
+    ],
+    [
+      0.011450,
+      "-"
+    ],
+    [
+      0.122175,
+      "p"
+    ],
+    [
+      0.068067,
+      "l"
+    ],
+    [
+      0.045848,
+      "a"
+    ],
+    [
+      0.055946,
+      "y"
+    ],
+    [
+      0.124154,
+      "b"
+    ],
+    [
+      0.065931,
+      "o"
+    ],
+    [
+      0.024039,
+      "o"
+    ],
+    [
+      0.043904,
+      "k"
+    ],
+    [
+      0.124084,
+      " "
+    ],
+    [
+      0.065432,
+      "-"
+    ],
+    [
+      0.058995,
+      "i"
+    ],
+    [
+      0.033584,
+      " "
+    ],
+    [
+      0.464362,
+      "h"
+    ],
+    [
+      0.109713,
+      "o"
+    ],
+    [
+      0.168334,
+      "s"
+    ],
+    [
+      0.101770,
+      "t"
+    ],
+    [
+      0.010015,
+      "s"
+    ],
+    [
+      0.083876,
+      " "
+    ],
+    [
+      0.152209,
+      "g"
+    ],
+    [
+      0.023865,
+      "l"
+    ],
+    [
+      0.102063,
+      "u"
+    ],
+    [
+      0.032081,
+      "s"
+    ],
+    [
+      0.112090,
+      "t"
+    ],
+    [
+      0.101882,
+      "e"
+    ],
+    [
+      0.033928,
+      "r"
+    ],
+    [
+      0.091154,
+      "."
+    ],
+    [
+      0.122866,
+      "y"
+    ],
+    [
+      0.044613,
+      "m"
+    ],
+    [
+      0.055555,
+      "l"
+    ],
+    [
+      0.632084,
+      "\r\n"
+    ],
+    [
+      0.112118,
+      "\r\n"
+    ],
+    [
+      0.000078,
+      "PLAY [Create disks(s) and instance(s)] **************************************** "
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000345,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "TASK: [Launch instances] ****************************************************** "
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      3.000000,
+      "\u001b[0;33mchanged: [localhost]\u001b[0m"
+    ],
+    [
+      0.000060,
+      "\r\n"
+    ],
+    [
+      0.000301,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "TASK: [Create disks] ********************************************************** "
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      3.000000,
+      "\u001b[0;33mchanged: [localhost] =\u003e (item=gluster-1)\u001b[0m"
+    ],
+    [
+      0.000066,
+      "\r\n"
+    ],
+    [
+      3.000000,
+      "\u001b[0;33mchanged: [localhost] =\u003e (item=gluster-2)\u001b[0m"
+    ],
+    [
+      0.000068,
+      "\r\n"
+    ],
+    [
+      3.000000,
+      "\u001b[0;33mchanged: [localhost] =\u003e (item=gluster-3)\u001b[0m"
+    ],
+    [
+      0.000061,
+      "\r\n"
+    ],
+    [
+      0.000347,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "TASK: [Wait for SSH to come up] *********************************************** "
+    ],
+    [
+      0.000052,
+      "\r\n"
+    ],
+    [
+      3.000000,
+      "\u001b[0;32mok: [localhost] =\u003e (item={u'status': u'RUNNING', u'network': u'default', u'zone': u'us-east1-d', u'tags': [u'gluster'], u'image': u'rhel-7-v20151104', u'disks': [u'gluster-1'], u'public_ip': u'104.196.13.108', u'private_ip': u'10.240.0.4', u'machine_type': u'n1-standard-2', u'metadata': {}, u'name': u'gluster-1'})\u001b[0m"
+    ],
+    [
+      0.000073,
+      "\r\n"
+    ],
+    [
+      3.000000,
+      "\u001b[0;32mok: [localhost] =\u003e (item={u'status': u'RUNNING', u'network': u'default', u'zone': u'us-east1-d', u'tags': [u'gluster'], u'image': u'rhel-7-v20151104', u'disks': [u'gluster-2'], u'public_ip': u'104.196.44.61', u'private_ip': u'10.240.0.5', u'machine_type': u'n1-standard-2', u'metadata': {}, u'name': u'gluster-2'})\u001b[0m"
+    ],
+    [
+      0.000077,
+      "\r\n"
+    ],
+    [
+      3.000000,
+      "\u001b[0;32mok: [localhost] =\u003e (item={u'status': u'RUNNING', u'network': u'default', u'zone': u'us-east1-d', u'tags': [u'gluster'], u'image': u'rhel-7-v20151104', u'disks': [u'gluster-3'], u'public_ip': u'104.196.29.122', u'private_ip': u'10.240.0.6', u'machine_type': u'n1-standard-2', u'metadata': {}, u'name': u'gluster-3'})\u001b[0m"
+    ],
+    [
+      0.000066,
+      "\r\n"
+    ],
+    [
+      0.000275,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      "TASK: [Add host to gluster group] ********************************************* "
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.003849,
+      "\u001b[0;32mok: [localhost] =\u003e (item={u'status': u'RUNNING', u'network': u'default', u'zone': u'us-east1-d', u'tags': [u'gluster'], u'image': u'rhel-7-v20151104', u'disks': [u'gluster-1'], u'public_ip': u'104.196.13.108', u'private_ip': u'10.240.0.4', u'machine_type': u'n1-standard-2', u'metadata': {}, u'name': u'gluster-1'})\u001b[0m"
+    ],
+    [
+      0.000041,
+      "\r\n"
+    ],
+    [
+      0.000993,
+      "\u001b[0;32mok: [localhost] =\u003e (item={u'status': u'RUNNING', u'network': u'default', u'zone': u'us-east1-d', u'tags': [u'gluster'], u'image': u'rhel-7-v20151104', u'disks': [u'gluster-2'], u'public_ip': u'104.196.44.61', u'private_ip': u'10.240.0.5', u'machine_type': u'n1-standard-2', u'metadata': {}, u'name': u'gluster-2'})\u001b[0m"
+    ],
+    [
+      0.000064,
+      "\r\n"
+    ],
+    [
+      0.001074,
+      "\u001b[0;32mok: [localhost] =\u003e (item={u'status': u'RUNNING', u'network': u'default', u'zone': u'us-east1-d', u'tags': [u'gluster'], u'image': u'rhel-7-v20151104', u'disks': [u'gluster-3'], u'public_ip': u'104.196.29.122', u'private_ip': u'10.240.0.6', u'machine_type': u'n1-standard-2', u'metadata': {}, u'name': u'gluster-3'})\u001b[0m"
+    ],
+    [
+      0.000046,
+      "\r\n"
+    ],
+    [
+      0.000161,
+      "\r\n"
+    ],
+    [
+      0.000022,
+      "PLAY [Configure instance(s) with gluster] ************************************* "
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000285,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "GATHERING FACTS *************************************************************** "
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      1.690073,
+      "\u001b[0;32mok: [104.196.29.122]\u001b[0m"
+    ],
+    [
+      0.000072,
+      "\r\n"
+    ],
+    [
+      0.013392,
+      "\u001b[0;32mok: [104.196.44.61]\u001b[0m"
+    ],
+    [
+      0.000048,
+      "\r\n"
+    ],
+    [
+      0.009916,
+      "\u001b[0;32mok: [104.196.13.108]\u001b[0m"
+    ],
+    [
+      0.000066,
+      "\r\n"
+    ],
+    [
+      0.005555,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "TASK: [install | install the epel rpm] **************************************** "
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      3.000000,
+      "\u001b[0;33mchanged: [104.196.13.108]\u001b[0m"
+    ],
+    [
+      0.000064,
+      "\r\n"
+    ],
+    [
+      0.060224,
+      "\u001b[0;33mchanged: [104.196.29.122]\u001b[0m"
+    ],
+    [
+      0.000047,
+      "\r\n"
+    ],
+    [
+      0.766004,
+      "\u001b[0;33mchanged: [104.196.44.61]\u001b[0m"
+    ],
+    [
+      0.000063,
+      "\r\n"
+    ],
+    [
+      0.005130,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "TASK: [install | Install gluster repo] **************************************** "
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.432129,
+      "\u001b[0;33mchanged: [104.196.13.108]\u001b[0m"
+    ],
+    [
+      0.000057,
+      "\r\n"
+    ],
+    [
+      0.010782,
+      "\u001b[0;33mchanged: [104.196.44.61]\u001b[0m"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.068646,
+      "\u001b[0;33mchanged: [104.196.29.122]\u001b[0m"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.004436,
+      "\r\n"
+    ],
+    [
+      0.000055,
+      "TASK: [install | install gluster server] ************************************** "
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      3.000000,
+      "\u001b[0;33mchanged: [104.196.44.61]\u001b[0m"
+    ],
+    [
+      0.000057,
+      "\r\n"
+    ],
+    [
+      0.322002,
+      "\u001b[0;33mchanged: [104.196.13.108]\u001b[0m"
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      2.122007,
+      "\u001b[0;33mchanged: [104.196.29.122]\u001b[0m"
+    ],
+    [
+      0.000070,
+      "\r\n"
+    ],
+    [
+      0.005735,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "TASK: [install | start and enable glusterd] *********************************** "
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.295509,
+      "\u001b[0;33mchanged: [104.196.13.108]\u001b[0m"
+    ],
+    [
+      0.000056,
+      "\r\n"
+    ],
+    [
+      0.006509,
+      "\u001b[0;33mchanged: [104.196.44.61]\u001b[0m"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.015230,
+      "\u001b[0;33mchanged: [104.196.29.122]\u001b[0m"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.004209,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "TASK: [install | Create XFS filesystem on data device] ************************ "
+    ],
+    [
+      0.000041,
+      "\r\n"
+    ],
+    [
+      1.963382,
+      "\u001b[0;33mchanged: [104.196.13.108]\u001b[0m"
+    ],
+    [
+      0.000071,
+      "\r\n"
+    ],
+    [
+      0.960065,
+      "\u001b[0;33mchanged: [104.196.29.122]\u001b[0m"
+    ],
+    [
+      0.000057,
+      "\r\n"
+    ],
+    [
+      0.021544,
+      "\u001b[0;33mchanged: [104.196.44.61]\u001b[0m"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.004400,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "TASK: [install | Create brick directory] ************************************** "
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.172078,
+      "\u001b[0;32mok: [104.196.13.108]\u001b[0m"
+    ],
+    [
+      0.000062,
+      "\r\n"
+    ],
+    [
+      0.002220,
+      "\u001b[0;32mok: [104.196.44.61]\u001b[0m"
+    ],
+    [
+      0.000048,
+      "\r\n"
+    ],
+    [
+      0.005575,
+      "\u001b[0;32mok: [104.196.29.122]\u001b[0m"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.004135,
+      "\r\n"
+    ],
+    [
+      0.000067,
+      "TASK: [install | Mount XFS filesystem] **************************************** "
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.217979,
+      "\u001b[0;33mchanged: [104.196.44.61]\u001b[0m"
+    ],
+    [
+      0.000060,
+      "\r\n"
+    ],
+    [
+      0.005402,
+      "\u001b[0;33mchanged: [104.196.29.122]\u001b[0m"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.007766,
+      "\u001b[0;33mchanged: [104.196.13.108]\u001b[0m"
+    ],
+    [
+      0.000049,
+      "\r\n"
+    ],
+    [
+      0.004468,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "TASK: [install | Peer hosts] ************************************************** "
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.192810,
+      "\u001b[0;33mchanged: [104.196.13.108] =\u003e (item=({'parameter': 'transport tcp', 'name': 'share', 'allow': '10.240.*', 'type': 'replica 3'}, 'gluster-1'))\u001b[0m"
+    ],
+    [
+      0.000057,
+      "\r\n"
+    ],
+    [
+      0.079598,
+      "\u001b[0;33mchanged: [104.196.44.61] =\u003e (item=({'parameter': 'transport tcp', 'name': 'share', 'allow': '10.240.*', 'type': 'replica 3'}, 'gluster-1'))\u001b[0m"
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.066714,
+      "\u001b[0;33mchanged: [104.196.13.108] =\u003e (item=({'parameter': 'transport tcp', 'name': 'share', 'allow': '10.240.*', 'type': 'replica 3'}, 'gluster-2'))\u001b[0m"
+    ],
+    [
+      0.000052,
+      "\r\n"
+    ],
+    [
+      0.064341,
+      "\u001b[0;33mchanged: [104.196.44.61] =\u003e (item=({'parameter': 'transport tcp', 'name': 'share', 'allow': '10.240.*', 'type': 'replica 3'}, 'gluster-2'))\u001b[0m"
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.108196,
+      "\u001b[0;33mchanged: [104.196.13.108] =\u003e (item=({'parameter': 'transport tcp', 'name': 'share', 'allow': '10.240.*', 'type': 'replica 3'}, 'gluster-3'))\u001b[0m"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.065898,
+      "\u001b[0;33mchanged: [104.196.44.61] =\u003e (item=({'parameter': 'transport tcp', 'name': 'share', 'allow': '10.240.*', 'type': 'replica 3'}, 'gluster-3'))\u001b[0m"
+    ],
+    [
+      0.000043,
+      "\r\n"
+    ],
+    [
+      3.000000,
+      "\u001b[0;33mchanged: [104.196.29.122] =\u003e (item=({'parameter': 'transport tcp', 'name': 'share', 'allow': '10.240.*', 'type': 'replica 3'}, 'gluster-1'))\u001b[0m"
+    ],
+    [
+      0.000061,
+      "\r\n"
+    ],
+    [
+      0.144789,
+      "\u001b[0;33mchanged: [104.196.29.122] =\u003e (item=({'parameter': 'transport tcp', 'name': 'share', 'allow': '10.240.*', 'type': 'replica 3'}, 'gluster-2'))\u001b[0m"
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.139595,
+      "\u001b[0;33mchanged: [104.196.29.122] =\u003e (item=({'parameter': 'transport tcp', 'name': 'share', 'allow': '10.240.*', 'type': 'replica 3'}, 'gluster-3'))\u001b[0m"
+    ],
+    [
+      0.000045,
+      "\r\n"
+    ],
+    [
+      0.004926,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "TASK: [create_gluster_volumes | Create directories for volumes] *************** "
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.180320,
+      "\u001b[0;33mchanged: [104.196.13.108] =\u003e (item={'parameter': 'transport tcp', 'hosts': ['gluster-1', 'gluster-2', 'gluster-3'], 'name': 'share', 'allow': '10.240.*', 'type': 'replica 3'})\u001b[0m"
+    ],
+    [
+      0.000060,
+      "\r\n"
+    ],
+    [
+      0.001829,
+      "\u001b[0;33mchanged: [104.196.44.61] =\u003e (item={'parameter': 'transport tcp', 'hosts': ['gluster-1', 'gluster-2', 'gluster-3'], 'name': 'share', 'allow': '10.240.*', 'type': 'replica 3'})\u001b[0m"
+    ],
+    [
+      0.000057,
+      "\r\n"
+    ],
+    [
+      0.007295,
+      "\u001b[0;33mchanged: [104.196.29.122] =\u003e (item={'parameter': 'transport tcp', 'hosts': ['gluster-1', 'gluster-2', 'gluster-3'], 'name': 'share', 'allow': '10.240.*', 'type': 'replica 3'})\u001b[0m"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.004346,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "TASK: [create_gluster_volumes | Check for created volumes] ******************** "
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.125635,
+      "\u001b[0;33mchanged: [104.196.13.108]\u001b[0m"
+    ],
+    [
+      0.000046,
+      "\r\n"
+    ],
+    [
+      0.000280,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "TASK: [create_gluster_volumes | Create gluster volumes] *********************** "
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.269711,
+      "\u001b[0;33mchanged: [104.196.13.108] =\u003e (item={'parameter': 'transport tcp', 'hosts': ['gluster-1', 'gluster-2', 'gluster-3'], 'name': 'share', 'allow': '10.240.*', 'type': 'replica 3'})\u001b[0m"
+    ],
+    [
+      0.000044,
+      "\r\n"
+    ],
+    [
+      0.000278,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "TASK: [create_gluster_volumes | Start gluster volumes] ************************ "
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      1.508295,
+      "\u001b[0;33mchanged: [104.196.13.108] =\u003e (item={'parameter': 'transport tcp', 'hosts': ['gluster-1', 'gluster-2', 'gluster-3'], 'name': 'share', 'allow': '10.240.*', 'type': 'replica 3'})\u001b[0m"
+    ],
+    [
+      0.000090,
+      "\r\n"
+    ],
+    [
+      0.000308,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "TASK: [create_gluster_volumes | Allow users] ********************************** "
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.290532,
+      "\u001b[0;33mchanged: [104.196.13.108] =\u003e (item={'parameter': 'transport tcp', 'hosts': ['gluster-1', 'gluster-2', 'gluster-3'], 'name': 'share', 'allow': '10.240.*', 'type': 'replica 3'})\u001b[0m"
+    ],
+    [
+      0.000078,
+      "\r\n"
+    ],
+    [
+      0.000380,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "PLAY RECAP ******************************************************************** "
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "\u001b[0;33m104.196.13.108\u001b[0m             : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m14\u001b[0m   \u001b[0;33mchanged\u001b[0m\u001b[0;33m=\u001b[0m\u001b[0;33m12\u001b[0m   unreachable=0    failed=0   "
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "\u001b[0;33m104.196.29.122\u001b[0m             : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m14\u001b[0m   \u001b[0;33mchanged\u001b[0m\u001b[0;33m=\u001b[0m\u001b[0;33m12\u001b[0m   unreachable=0    failed=0   "
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.000048,
+      "\u001b[0;33m104.196.44.61\u001b[0m              : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m14\u001b[0m   \u001b[0;33mchanged\u001b[0m\u001b[0;33m=\u001b[0m\u001b[0;33m12\u001b[0m   unreachable=0    failed=0   "
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "\u001b[0;33mlocalhost\u001b[0m                  : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m4\u001b[0m    \u001b[0;33mchanged\u001b[0m\u001b[0;33m=\u001b[0m\u001b[0;33m2\u001b[0m    unreachable=0    failed=0   "
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.014278,
+      "\u001b[1m\u001b[36mviglesias\u001b[0m\u001b[0m@\u001b[34mansible-recording\u001b[0m:\u001b[32mansible-gluster\u001b[0m $ "
+    ],
+    [
+      3.000000,
+      "a"
+    ],
+    [
+      0.013829,
+      "n"
+    ],
+    [
+      0.005751,
+      "s"
+    ],
+    [
+      0.082987,
+      "i"
+    ],
+    [
+      0.199313,
+      "b"
+    ],
+    [
+      0.067930,
+      "l"
+    ],
+    [
+      0.014405,
+      "e"
+    ],
+    [
+      0.107467,
+      "-"
+    ],
+    [
+      0.011997,
+      "p"
+    ],
+    [
+      0.102353,
+      "l"
+    ],
+    [
+      0.065898,
+      "a"
+    ],
+    [
+      0.135855,
+      "y"
+    ],
+    [
+      0.055904,
+      "b"
+    ],
+    [
+      0.011980,
+      "o"
+    ],
+    [
+      0.104179,
+      "o"
+    ],
+    [
+      0.020103,
+      "k"
+    ],
+    [
+      0.082042,
+      " "
+    ],
+    [
+      0.007782,
+      "-"
+    ],
+    [
+      0.065931,
+      "i"
+    ],
+    [
+      0.170118,
+      " "
+    ],
+    [
+      0.044082,
+      "h"
+    ],
+    [
+      0.011877,
+      "o"
+    ],
+    [
+      0.044175,
+      "s"
+    ],
+    [
+      0.113878,
+      "t"
+    ],
+    [
+      0.057247,
+      "s"
+    ],
+    [
+      0.166746,
+      " "
+    ],
+    [
+      0.034017,
+      "g"
+    ],
+    [
+      0.090222,
+      "l"
+    ],
+    [
+      0.291353,
+      "u"
+    ],
+    [
+      0.046488,
+      "s"
+    ],
+    [
+      0.066593,
+      "t"
+    ],
+    [
+      0.113631,
+      "e"
+    ],
+    [
+      0.156642,
+      "r"
+    ],
+    [
+      0.023402,
+      "-"
+    ],
+    [
+      0.059881,
+      "c"
+    ],
+    [
+      0.108062,
+      "l"
+    ],
+    [
+      0.168322,
+      "i"
+    ],
+    [
+      0.023783,
+      "e"
+    ],
+    [
+      0.043902,
+      "n"
+    ],
+    [
+      0.136071,
+      "t"
+    ],
+    [
+      0.212612,
+      "s"
+    ],
+    [
+      0.091462,
+      "."
+    ],
+    [
+      0.032066,
+      "y"
+    ],
+    [
+      0.135975,
+      "m"
+    ],
+    [
+      0.201944,
+      "l"
+    ],
+    [
+      0.934302,
+      "\r\n"
+    ],
+    [
+      0.100397,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "PLAY [Create disks(s) and instance(s)] **************************************** "
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000338,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "TASK: [Launch instances] ****************************************************** "
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      3.000000,
+      "\u001b[0;33mchanged: [localhost]\u001b[0m"
+    ],
+    [
+      0.000076,
+      "\r\n"
+    ],
+    [
+      0.000349,
+      "\r\n"
+    ],
+    [
+      0.000053,
+      "TASK: [Wait for SSH to come up] *********************************************** "
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      3.000000,
+      "\u001b[0;32mok: [localhost] =\u003e (item={u'status': u'RUNNING', u'network': u'default', u'zone': u'us-central1-a', u'tags': [u'gluster-clients'], u'image': u'rhel-7-v20151104', u'disks': [u'gluster-client-1'], u'public_ip': u'104.197.130.38', u'private_ip': u'10.240.0.7', u'machine_type': u'n1-standard-2', u'metadata': {}, u'name': u'gluster-client-1'})\u001b[0m"
+    ],
+    [
+      0.000065,
+      "\r\n"
+    ],
+    [
+      0.000272,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "TASK: [Add host to gluster group] ********************************************* "
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.003405,
+      "\u001b[0;32mok: [localhost] =\u003e (item={u'status': u'RUNNING', u'network': u'default', u'zone': u'us-central1-a', u'tags': [u'gluster-clients'], u'image': u'rhel-7-v20151104', u'disks': [u'gluster-client-1'], u'public_ip': u'104.197.130.38', u'private_ip': u'10.240.0.7', u'machine_type': u'n1-standard-2', u'metadata': {}, u'name': u'gluster-client-1'})\u001b[0m"
+    ],
+    [
+      0.000076,
+      "\r\n"
+    ],
+    [
+      0.000139,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "PLAY [Configure instance(s) with gluster-client] ****************************** "
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000303,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "GATHERING FACTS *************************************************************** "
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      2.818613,
+      "\u001b[0;32mok: [104.197.130.38]\u001b[0m"
+    ],
+    [
+      0.000060,
+      "\r\n"
+    ],
+    [
+      0.000312,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "TASK: [client | Install the EPEL repo] **************************************** "
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      3.000000,
+      "\u001b[0;33mchanged: [104.197.130.38]\u001b[0m"
+    ],
+    [
+      0.000066,
+      "\r\n"
+    ],
+    [
+      0.000267,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "TASK: [client | Install gluster repo] ***************************************** "
+    ],
+    [
+      0.000030,
+      "\r\n"
+    ],
+    [
+      0.695494,
+      "\u001b[0;33mchanged: [104.197.130.38]\u001b[0m"
+    ],
+    [
+      0.000059,
+      "\r\n"
+    ],
+    [
+      0.000256,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "TASK: [client | Install Gluster client] *************************************** "
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      3.000000,
+      "\u001b[0;33mchanged: [104.197.130.38]\u001b[0m"
+    ],
+    [
+      0.000058,
+      "\r\n"
+    ],
+    [
+      0.000255,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "TASK: [client | Mount Gluster filesystem] ************************************* "
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      1.587828,
+      "\u001b[0;33mchanged: [104.197.130.38]\u001b[0m"
+    ],
+    [
+      0.000078,
+      "\r\n"
+    ],
+    [
+      0.000266,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "TASK: [client | Install sysbench] ********************************************* "
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      3.000000,
+      "\u001b[0;33mchanged: [104.197.130.38]\u001b[0m"
+    ],
+    [
+      0.000070,
+      "\r\n"
+    ],
+    [
+      0.000598,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "TASK: [client | Generate files for sysbench test] ***************************** "
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      3.000000,
+      "\u001b[0;33mchanged: [104.197.130.38]\u001b[0m"
+    ],
+    [
+      0.000059,
+      "\r\n"
+    ],
+    [
+      0.000276,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "TASK: [client | Run sysbench] ************************************************* "
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      3.000000,
+      "\u001b[0;33mchanged: [104.197.130.38]\u001b[0m"
+    ],
+    [
+      0.000059,
+      "\r\n"
+    ],
+    [
+      0.000271,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "TASK: [client | debug var=sysbench.stdout_lines] ****************************** "
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.005680,
+      "\u001b[0;32mok: [104.197.130.38] =\u003e {"
+    ],
+    [
+      0.000040,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "    \"var\": {"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "        \"sysbench.stdout_lines\": ["
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "            \"sysbench 0.4.12:  multi-threaded system evaluation benchmark\", "
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "            \"\", "
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "            \"Running the test with following options:\", "
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "            \"Number of threads: 4\", "
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "            \"\", "
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "            \"Extra file open flags: 0\", "
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "            \"128 files, 128Mb each\", "
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "            \"16Gb total file size\", "
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "            \"Block size 4Kb\", "
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "            \"Number of random requests for random IO: 0\", "
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000015,
+      "            \"Read/Write ratio for combined random IO test: 1.50\", "
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "            \"Calling fsync() after each write operation.\", "
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "            \"Using synchronous I/O mode\", "
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "            \"Doing random r/w test\", "
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "            \"Threads started!\", "
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "            \"Time limit exceeded, exiting...\", "
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "            \"(last message repeated 3 times)\", "
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "            \"Done.\", "
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "            \"\", "
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "            \"Operations performed:  4742 Read, 3160 Write, 3160 Other = 11062 Total\", "
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "            \"Read 18.523Mb  Written 12.344Mb  Total transferred 30.86"
+    ],
+    [
+      0.000014,
+      "7Mb  (131.68Kb/sec)\", "
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "            \"   32.92 Requests/sec executed\", "
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "            \"\", "
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "            \"Test execution summary:\", "
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "            \"    total time:                          240.0309s\", "
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "            \"    total number of events:              7902\", "
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "            \"    total time taken by event execution: 940.3887\", "
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000013,
+      "            \"    per-request statistics:\", "
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "            \"         min:                                 36.67ms\", "
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "            \"         avg:                                119.01ms\", "
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "            \"         max:                                511.19ms\", "
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "            \"         approx.  95 percentile:             185.61ms\", "
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000014,
+      "            \"\", "
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "            \"Threads fairness:\", "
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "            \"    events (avg/stddev):           1975.5000/3.77\", "
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "            \"    execution time (avg/stddev):   235.0972/0.01\""
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "        ]"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "    }"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "}\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000181,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "PLAY RECAP ******************************************************************** "
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "\u001b[0;33m104.197.130.38\u001b[0m             : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m9\u001b[0m    \u001b[0;33mchanged\u001b[0m\u001b[0;33m=\u001b[0m\u001b[0;33m7\u001b[0m    unreachable=0    failed=0   "
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "\u001b[0;33mlocalhost\u001b[0m                  : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m3\u001b[0m    \u001b[0;33mchanged\u001b[0m\u001b[0;33m=\u001b[0m\u001b[0;33m1\u001b[0m    unreachable=0    failed=0   "
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.013659,
+      "\u001b[1m\u001b[36mviglesias\u001b[0m\u001b[0m@\u001b[34mansible-recording\u001b[0m:\u001b[32mansible-gluster\u001b[0m $ "
+    ]
+  ]
+}
