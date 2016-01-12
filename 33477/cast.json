@@ -1,0 +1,882 @@
+{
+  "version": 1,
+  "width": 132,
+  "height": 24,
+  "duration": 129.813315,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.003596,
+      "bash-4.3$ "
+    ],
+    [
+      3.159879,
+      "#"
+    ],
+    [
+      0.312887,
+      "a"
+    ],
+    [
+      0.388494,
+      "n"
+    ],
+    [
+      0.193543,
+      "o"
+    ],
+    [
+      0.106819,
+      "t"
+    ],
+    [
+      0.115603,
+      "h"
+    ],
+    [
+      0.124420,
+      "e"
+    ],
+    [
+      0.153866,
+      "r"
+    ],
+    [
+      0.092995,
+      " "
+    ],
+    [
+      0.432671,
+      "C"
+    ],
+    [
+      0.231204,
+      "r"
+    ],
+    [
+      0.216554,
+      "a"
+    ],
+    [
+      0.201735,
+      "c"
+    ],
+    [
+      0.075889,
+      "k"
+    ],
+    [
+      0.626465,
+      "M"
+    ],
+    [
+      0.119599,
+      "e"
+    ],
+    [
+      0.143432,
+      " "
+    ],
+    [
+      0.535690,
+      ":"
+    ],
+    [
+      0.684843,
+      "-"
+    ],
+    [
+      0.721792,
+      ")"
+    ],
+    [
+      0.207055,
+      "\r\nbash-4.3$ "
+    ],
+    [
+      1.541073,
+      "."
+    ],
+    [
+      0.089010,
+      "/"
+    ],
+    [
+      0.057998,
+      "c"
+    ],
+    [
+      0.207909,
+      "r"
+    ],
+    [
+      0.301420,
+      "a"
+    ],
+    [
+      0.215842,
+      "\u0007ckme0x0"
+    ],
+    [
+      0.191008,
+      "3"
+    ],
+    [
+      0.129198,
+      " "
+    ],
+    [
+      0.444562,
+      "\r\n"
+    ],
+    [
+      0.000506,
+      "IOLI Crackme Level 0x03\r\nPassword: "
+    ],
+    [
+      1.279978,
+      "a"
+    ],
+    [
+      0.066693,
+      "h"
+    ],
+    [
+      0.172746,
+      "m"
+    ],
+    [
+      0.022579,
+      "e"
+    ],
+    [
+      0.145610,
+      "d"
+    ],
+    [
+      0.084637,
+      "\r\n"
+    ],
+    [
+      0.000181,
+      "Invalid Password!\r\n"
+    ],
+    [
+      0.000096,
+      "bash-4.3$ "
+    ],
+    [
+      0.770849,
+      "./crackme0x03 "
+    ],
+    [
+      0.201595,
+      "\r\n"
+    ],
+    [
+      0.000541,
+      "IOLI Crackme Level 0x03\r\nPassword: "
+    ],
+    [
+      0.590664,
+      "1"
+    ],
+    [
+      0.084398,
+      "3"
+    ],
+    [
+      0.004103,
+      "2"
+    ],
+    [
+      0.147664,
+      "4"
+    ],
+    [
+      0.203135,
+      "\r\n"
+    ],
+    [
+      0.000199,
+      "Invalid Password!\r\n"
+    ],
+    [
+      0.000090,
+      "bash-4.3$ "
+    ],
+    [
+      2.415754,
+      "r"
+    ],
+    [
+      0.120032,
+      "2"
+    ],
+    [
+      0.111012,
+      " "
+    ],
+    [
+      1.228430,
+      "-"
+    ],
+    [
+      0.071318,
+      "d"
+    ],
+    [
+      0.089582,
+      " "
+    ],
+    [
+      1.199151,
+      "c"
+    ],
+    [
+      0.985109,
+      "e"
+    ],
+    [
+      0.549595,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.070256,
+      "r"
+    ],
+    [
+      0.205299,
+      "\u0007ackme0x0"
+    ],
+    [
+      0.835484,
+      "3"
+    ],
+    [
+      0.088875,
+      " "
+    ],
+    [
+      0.416144,
+      "\r\n"
+    ],
+    [
+      0.019507,
+      "Process with PID 6694 started...\r\nAttached debugger to pid = 6694, tid = 6694\r\nDebugging pid = 6694, tid = 6694 now\r\nUsing BADDR 0x8048000\r\nAssuming filepath ./crackme0x03\r\n"
+    ],
+    [
+      0.001347,
+      "bits 32\r\n"
+    ],
+    [
+      0.000898,
+      "Attached debugger to pid = 6694, tid = 6694\r\n"
+    ],
+    [
+      0.000236,
+      " -- The Hard ROP Cafe"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000101,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000002,
+      "\u001b[0K\r\u001b[33m[0xf7732a70]\u003e\u001b[0m "
+    ],
+    [
+      4.786646,
+      "\u001b[0K\r\u001b[2J\u001b[0;0H\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m \u0000\r\u001b[33m[0xf7732a70]\u003e\u001b[0m "
+    ],
+    [
+      0.661119,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m a\r\u001b[33m[0xf7732a70]\u003e\u001b[0m a"
+    ],
+    [
+      0.147251,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m aa\r\u001b[33m[0xf7732a70]\u003e\u001b[0m aa"
+    ],
+    [
+      0.129390,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m aa\r\n"
+    ],
+    [
+      0.033076,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000111,
+      "\u001b[0K\r"
+    ],
+    [
+      0.000003,
+      "\u001b[0K\r\u001b[33m[0xf7732a70]\u003e\u001b[0m "
+    ],
+    [
+      1.538034,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m p\r\u001b[33m[0xf7732a70]\u003e\u001b[0m p"
+    ],
+    [
+      0.026424,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m pd\r\u001b[33m[0xf7732a70]\u003e\u001b[0m pd"
+    ],
+    [
+      0.192514,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m pdf\r\u001b[33m[0xf7732a70]\u003e\u001b[0m pdf"
+    ],
+    [
+      0.057969,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m pdf \r\u001b[33m[0xf7732a70]\u003e\u001b[0m pdf "
+    ],
+    [
+      1.271406,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m pdf @\r\u001b[33m[0xf7732a70]\u003e\u001b[0m pdf @"
+    ],
+    [
+      0.180284,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m pdf @m\r\u001b[33m[0xf7732a70]\u003e\u001b[0m pdf @m"
+    ],
+    [
+      0.142561,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m pdf @ma\r\u001b[33m[0xf7732a70]\u003e\u001b[0m pdf @ma"
+    ],
+    [
+      0.076861,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m pdf @mai\r\u001b[33m[0xf7732a70]\u003e\u001b[0m pdf @mai"
+    ],
+    [
+      0.031062,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m pdf @main\r\u001b[33m[0xf7732a70]\u003e\u001b[0m pdf @main"
+    ],
+    [
+      0.309604,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m pdf @main \r\u001b[33m[0xf7732a70]\u003e\u001b[0m pdf @main "
+    ],
+    [
+      0.221934,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m pdf @main |\r\u001b[33m[0xf7732a70]\u003e\u001b[0m pdf @main |"
+    ],
+    [
+      0.327517,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m pdf @main |l\r\u001b[33m[0xf7732a70]\u003e\u001b[0m pdf @main |l"
+    ],
+    [
+      0.071222,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m pdf @main |le\r\u001b[33m[0xf7732a70]\u003e\u001b[0m pdf @main |le"
+    ],
+    [
+      0.188908,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m pdf @main |les\r\u001b[33m[0xf7732a70]\u003e\u001b[0m pdf @main |les"
+    ],
+    [
+      0.252609,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m pdf @main |less\r\u001b[33m[0xf7732a70]\u003e\u001b[0m pdf @main |less"
+    ],
+    [
+      0.506052,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m pdf @main |less\r\n"
+    ],
+    [
+      0.041120,
+      "\u001b[?1049h\u001b[?1h\u001b=\r            ;-- main:\r\n/ (fcn) sym.main 128\r\n|           ; arg int arg_22_2     @ ebp+0x5a\r\n|           ; arg int arg_123      @ ebp+0x1ec\r\n|           ; var int local_0_1    @ ebp-0x1\r\n|           ; var int local_1      @ ebp-0x4\r\n|           ; var int local_2      @ ebp-0x8\r\n|           ; var int local_3      @ ebp-0xc\r\n|           ; DATA XREF from 0x08048377 (sym.main)\r\n|           0x08048498      55             push ebp\r\n|           0x08048499      89e5           mov ebp, esp\r\n|           0x0804849b      83ec18         sub esp, 0x18\r\n|           0x0804849e      83e4f0         and esp, 0xfffffff0\r\n|           0x080484a1      b800000000     mov eax, 0\r\n|           0x080484a6      83c00f         add eax, 0xf\r\n|           0x080484a9      83c00f         add eax, 0xf\r\n|           0x080484ac      c1e804         shr eax, 4\r\n|           0x080484af      c1e004         shl eax, 4\r\n|           0x080484b2      29c4           sub esp, eax\r\n|           0x080484b4      c70424108604.  mov dword [esp], str.IOLI_Crackme_Level_0x03_n ; [0x8048610:4]=0x494c4f49  LEA str.IOLI_C \u0008rackme_Level_0x03_n ; \"IOLI Crackme Level 0x03.\" @ 0x8048610\r\n|           0x080484bb      e890feffff     call sym.imp.printf\r\n|           0x080484c0      c70424298604.  mov dword [esp], str.Password: ; [0x8048629:4]=0x73736150  LEA str.Password: ; \"Password: \u0008:\u001b[K"
+    ],
+    [
+      4.599214,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K \" @ 0x8048629\r\n:\u001b[K"
+    ],
+    [
+      0.364158,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|           0x080484c7      e884feffff     call sym.imp.printf\r\n:\u001b[K"
+    ],
+    [
+      0.426522,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|           0x080484cc      8d45fc         lea eax, [ebp-local_1]\r\n:\u001b[K"
+    ],
+    [
+      0.831428,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|           0x080484cf      89442404       mov dword [esp + 4], eax\r\n:\u001b[K"
+    ],
+    [
+      0.252163,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|           0x080484d3      c70424348604.  mov dword [esp], 0x8048634  ; [0x8048634:4]=0x6425 \r\n:\u001b[K"
+    ],
+    [
+      0.217441,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|           0x080484da      e851feffff     call sym.imp.scanf\r\n:\u001b[K"
+    ],
+    [
+      0.224711,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|           0x080484df      c745f85a0000.  mov dword [ebp-local_2], 0x5a ; [0x5a:4]=-1 ; 'Z' ; 90\r\n:\u001b[K"
+    ],
+    [
+      12.366726,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|           0x080484e6      c745f4ec0100.  mov dword [ebp-local_3], 0x1ec ; [0x1ec:4]=-1 ; 492\r\n:\u001b[K"
+    ],
+    [
+      1.237174,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|           0x080484ed      8b55f4         mov edx, dword [ebp-local_3]\r\n:\u001b[K"
+    ],
+    [
+      0.212857,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|           0x080484f0      8d45f8         lea eax, [ebp-local_2]\r\n:\u001b[K"
+    ],
+    [
+      0.196119,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|           0x080484f3      0110           add dword [eax], edx\r\n:\u001b[K"
+    ],
+    [
+      0.203938,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|           0x080484f5      8b45f8         mov eax, dword [ebp-local_2]\r\n:\u001b[K"
+    ],
+    [
+      0.161305,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|           0x080484f8      0faf45f8       imul eax, dword [ebp-local_2]\r\n:\u001b[K"
+    ],
+    [
+      0.181508,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|           0x080484fc      8945f4         mov dword [ebp-local_3], eax\r\n:\u001b[K"
+    ],
+    [
+      0.196313,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|           0x080484ff      8b45f4         mov eax, dword [ebp-local_3]\r\n:\u001b[K"
+    ],
+    [
+      0.213831,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|           0x08048502      89442404       mov dword [esp + 4], eax\r\n:\u001b[K"
+    ],
+    [
+      0.372096,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|           0x08048506      8b45fc         mov eax, dword [ebp-local_1]\r\n:\u001b[K"
+    ],
+    [
+      0.247686,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|           0x08048509      890424         mov dword [esp], eax\r\n:\u001b[K"
+    ],
+    [
+      0.216614,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|           0x0804850c      e85dffffff     call sym.test\r\n:\u001b[K"
+    ],
+    [
+      0.179952,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|           0x08048511      b800000000     mov eax, 0\r\n:\u001b[K"
+    ],
+    [
+      0.174377,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|           0x08048516      c9             leave\r\n:\u001b[K"
+    ],
+    [
+      0.358720,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bMrackme_Level_0x03_n ; \"IOLI Crackme Level 0x03.\" @ 0x8048610\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.196741,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM|           0x080484b4      c70424108604.  mov dword [esp], str.IOLI_Crackme_Level_0x03_n ; [0x8048610:4]=0x494c4f49  LEA str.IOLI_C\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      3.363230,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM|           0x080484b2      29c4           sub esp, eax\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      1.429070,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM|           0x080484af      c1e004         shl eax, 4\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      0.222196,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KA\u0008A\r\u001b[K\u001b[H\u001bM|           0x080484ac      c1e804         shr eax, 4\r\n\u001b[24;1H\r\u001b[K:\u001b[K"
+    ],
+    [
+      3.070997,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|           0x08048506      8b45fc         mov eax, dword [ebp-local_1]\r\n:\u001b[K"
+    ],
+    [
+      0.183985,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|           0x08048509      890424         mov dword [esp], eax\r\n:\u001b[K"
+    ],
+    [
+      11.238063,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|           0x0804850c      e85dffffff     call sym.test\r\n:\u001b[K\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|           0x08048511      b800000000     mov eax, 0\r\n:\u001b[K"
+    ],
+    [
+      0.023836,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K|           0x08048516      c9             leave\r\n:\u001b[K\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\\           0x08048517      c3             ret\r\n:\u001b[K"
+    ],
+    [
+      0.023941,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.023902,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.024995,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.024063,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.023948,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.023964,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.023938,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.023841,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.024071,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.024004,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.023891,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.048908,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.119809,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.023966,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.049005,
+      "\r\u001b[K \u001b[KESC\u0008\u0008\u0008ESC\u001b[KO\u0008O\u001b[KB\u0008B\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.687435,
+      "\r\u001b[K\u001b[?1l\u001b\u003e\u001b[?1049l"
+    ],
+    [
+      0.000022,
+      "\u001b[0K\r\u001b[0K\r\u001b[33m[0xf7732a70]\u003e\u001b[0m "
+    ],
+    [
+      1.114262,
+      "\u001b[0K\r\u001b[2J\u001b[0;0H\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m \u0000\r\u001b[33m[0xf7732a70]\u003e\u001b[0m "
+    ],
+    [
+      0.887990,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m d\r\u001b[33m[0xf7732a70]\u003e\u001b[0m d"
+    ],
+    [
+      0.071099,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m db\r\u001b[33m[0xf7732a70]\u003e\u001b[0m db"
+    ],
+    [
+      0.101358,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m db \r\u001b[33m[0xf7732a70]\u003e\u001b[0m db "
+    ],
+    [
+      0.947888,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m db 0\r\u001b[33m[0xf7732a70]\u003e\u001b[0m db 0\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m db 0x\r\u001b[33m[0xf7732a70]\u003e\u001b[0m db 0x\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m db 0x0\r\u001b[33m[0xf7732a70]\u003e\u001b[0m db 0x0\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m db 0x08\r\u001b[33m[0xf7732a70]\u003e\u001b[0m db 0x08\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m db 0x080\r\u001b[33m[0xf7732a70]\u003e\u001b[0m db 0x080\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m db 0x0804\r\u001b[33m[0xf7732a70]\u003e\u001b[0m db 0x0804\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m db 0x08048\r\u001b[33m[0xf7732a70]\u003e\u001b[0m db 0x08048\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m db 0x080485\r\u001b[33m[0xf7732a70]\u003e\u001b[0m db 0x080485\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m db 0x0804850\r\u001b[33m[0xf7732a70]\u003e\u001b[0m db 0x0804850\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m db 0x08048502\r\u001b[33m[0xf7732a70]\u003e\u001b[0m db 0x08048502"
+    ],
+    [
+      1.242293,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m db 0x08048502\r\n\u001b[0K\r\u001b[0K\r\u001b[33m[0xf7732a70]\u003e\u001b[0m "
+    ],
+    [
+      0.742880,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m d\r\u001b[33m[0xf7732a70]\u003e\u001b[0m d"
+    ],
+    [
+      0.111154,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m dc\r\u001b[33m[0xf7732a70]\u003e\u001b[0m dc"
+    ],
+    [
+      0.953309,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0xf7732a70]\u003e\u001b[0m dc\r\n"
+    ],
+    [
+      0.000268,
+      "IOLI Crackme Level 0x03\r\nPassword: "
+    ],
+    [
+      0.993025,
+      "1"
+    ],
+    [
+      0.084311,
+      "2"
+    ],
+    [
+      0.088816,
+      "3"
+    ],
+    [
+      0.642995,
+      "\r\nhit breakpoint at: 8048502\r\nDebugging pid = 6694, tid = 1 now\r\n\u001b[0K\r\u001b[0K\r\u001b[33m[0x08048502]\u003e\u001b[0m "
+    ],
+    [
+      3.826975,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x08048502]\u003e\u001b[0m p\r\u001b[33m[0x08048502]\u003e\u001b[0m p"
+    ],
+    [
+      0.048491,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x08048502]\u003e\u001b[0m pd\r\u001b[33m[0x08048502]\u003e\u001b[0m pd"
+    ],
+    [
+      0.167477,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x08048502]\u003e\u001b[0m pd \r\u001b[33m[0x08048502]\u003e\u001b[0m pd "
+    ],
+    [
+      0.208528,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x08048502]\u003e\u001b[0m pd 1\r\u001b[33m[0x08048502]\u003e\u001b[0m pd 1"
+    ],
+    [
+      0.281699,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x08048502]\u003e\u001b[0m pd 10\r\u001b[33m[0x08048502]\u003e\u001b[0m pd 10"
+    ],
+    [
+      0.287602,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x08048502]\u003e\u001b[0m pd 10\r\n\u001b[36m  \u001b[0m\u001b[36m          \u001b[0m;-- \u001b[36meip:\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[7m\u001b[32m0x08048502\u001b[0m b    \u001b[37m89\u001b[33m44\u001b[33m24\u001b[37m04\u001b[0m       \u001b[0m\u001b[37mmov dword \u001b[0m[\u001b[36mesp \u001b[0m+\u001b[36m\u001b[36m 4\u001b[0m]\u001b[36m\u001b[0m,\u001b[36m\u001b[36m eax\u001b[0m\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x08048506\u001b[0m      \u001b[37m8b\u001b[33m45\u001b[37mfc\u001b[0m         \u001b[0m\u001b[37mmov\u001b[36m eax\u001b[0m,\u001b[36m dword\u001b[36m \u001b[0m[\u001b[36mebp\u001b[0m-\u001b[36mlocal_1\u001b[0m]\u001b[36m\u001b[0m\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x08048509\u001b[0m      \u001b[37m89\u001b[37m04\u001b[33m24\u001b[0m         \u001b[0m\u001b[37mmov dword\u001b[36m \u001b[0m[\u001b[36mesp\u001b[0m]\u001b[36m\u001b[0m,\u001b[36m\u001b[36m eax\u001b[0m\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x0804850c\u001b[0m      \u001b[37me8\u001b[33m5d\u001b[31mff\u001b[31mff\u001b[31mff\u001b[0m     \u001b[0m\u001b[1;32mcall sym.test\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x08048511\u001b[0m      \u001b[37mb8\u001b[32m00\u001b[32m00\u001b[32m00\u001b[32m00\u001b[0m     \u001b[0m\u001b[37mmov\u001b[36m eax\u001b[0m,\u001b[36m\u001b[36m 0\u001b[0m\u001b[0m\r\n\u001b[36m| \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x08048516\u001b[0m      \u001b[37mc9\u001b[0m             \u001b[0m\u001b[1;35mleave\u001b[0m\u001b[0m\r\n\u001b[36m\\ \u001b[0m\u001b[36m          \u001b[0m\u001b[32m0x08048517\u001b[0m      \u001b[37mc3\u001b[0m             \u001b[0m\u001b[31mret\u001b[0m\u001b[0m\r\n  \u001b[36m          \u001b[0m\u001b[32m0x08048518\u001b[0m      \u001b[37m90\u001b[0m             \u001b[0m\u001b[34mnop\u001b[0m\u001b[0m\r\n  \u001b[36m          \u001b[0m\u001b[32m0x08048519\u001b[0m      \u001b[37m90\u001b[0m             \u001b[0m\u001b[34mnop\u001b[0m\u001b[0m\r\n  \u001b[36m          \u001b[0m\u001b[32m0x0804851a\u001b[0m      \u001b[37m90\u001b[0m             \u001b[0m\u001b[34mnop\u001b[0m\u001b[0m\r\n\u001b[0K\r\u001b[0K\r\u001b[33m[0x08048502]\u003e\u001b[0m "
+    ],
+    [
+      2.702918,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x08048502]\u003e\u001b[0m d\r\u001b[33m[0x08048502]\u003e\u001b[0m d"
+    ],
+    [
+      0.166757,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x08048502]\u003e\u001b[0m dr\r\u001b[33m[0x08048502]\u003e\u001b[0m dr"
+    ],
+    [
+      0.075482,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x08048502]\u003e\u001b[0m dr \r\u001b[33m[0x08048502]\u003e\u001b[0m dr "
+    ],
+    [
+      1.026798,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x08048502]\u003e\u001b[0m dr \r\n\u001b[36meip = 0x08048502\u001b[0m\r\n\u001b[36moeax = 0xffffffff\u001b[0m\r\n\u001b[36meax = 0x00052b24\u001b[0m\r\nebx = 0x00000000\r\necx = 0x00000000\r\n\u001b[36medx = 0x000001ec\u001b[0m\r\n\u001b[36mesp = 0xffdf45d0\u001b[0m\r\n\u001b[36mebp = 0xffdf45f8\u001b[0m\r\n\u001b[36mesi = 0x00000001\u001b[0m\r\n\u001b[36medi = 0xf7711000\u001b[0m\r\n\u001b[36meflags = 0x00000206\u001b[0m\r\n\u001b[0K\r\u001b[0K\r\u001b[33m[0x08048502]\u003e\u001b[0m "
+    ],
+    [
+      6.002439,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x08048502]\u003e\u001b[0m q\r\u001b[33m[0x08048502]\u003e\u001b[0m q"
+    ],
+    [
+      0.650300,
+      "\u001b[0K\r\r\u001b[2K\r\r\u001b[33m[0x08048502]\u003e\u001b[0m q\r\nDo you want to quit? (Y/n)"
+    ],
+    [
+      1.265003,
+      "\r\nDo you want to kill the process? (Y/n)"
+    ],
+    [
+      0.210227,
+      "\r\n"
+    ],
+    [
+      0.001340,
+      "bash-4.3$ "
+    ],
+    [
+      1.080372,
+      "p"
+    ],
+    [
+      0.158549,
+      "f"
+    ],
+    [
+      0.370851,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.169376,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.650589,
+      "r"
+    ],
+    [
+      0.230983,
+      "a"
+    ],
+    [
+      0.266664,
+      "x"
+    ],
+    [
+      0.370349,
+      "2 "
+    ],
+    [
+      1.388753,
+      "0x00052b24"
+    ],
+    [
+      0.359041,
+      "\r\n"
+    ],
+    [
+      0.000864,
+      "338724\r\n"
+    ],
+    [
+      0.000084,
+      "bash-4.3$ "
+    ],
+    [
+      3.154737,
+      "."
+    ],
+    [
+      0.053529,
+      "/"
+    ],
+    [
+      0.070891,
+      "c"
+    ],
+    [
+      0.185001,
+      "r"
+    ],
+    [
+      0.406283,
+      "a"
+    ],
+    [
+      0.186309,
+      "\u0007ckme0x0"
+    ],
+    [
+      1.047748,
+      "3"
+    ],
+    [
+      0.102196,
+      " "
+    ],
+    [
+      0.380743,
+      "\r\n"
+    ],
+    [
+      0.000550,
+      "IOLI Crackme Level 0x03\r\nPassword: "
+    ],
+    [
+      1.259798,
+      "3"
+    ],
+    [
+      0.236763,
+      "3"
+    ],
+    [
+      0.313191,
+      "8"
+    ],
+    [
+      0.241195,
+      "7"
+    ],
+    [
+      0.301953,
+      "2"
+    ],
+    [
+      0.282286,
+      "4"
+    ],
+    [
+      2.592054,
+      "\r\n"
+    ],
+    [
+      0.000461,
+      "Password OK!!! :)\r\nbash-4.3$ "
+    ],
+    [
+      2.302891,
+      "#"
+    ],
+    [
+      0.784753,
+      "v"
+    ],
+    [
+      0.117749,
+      "o"
+    ],
+    [
+      0.173525,
+      "i"
+    ],
+    [
+      0.201184,
+      "l"
+    ],
+    [
+      0.039852,
+      "a"
+    ],
+    [
+      0.190004,
+      " "
+    ],
+    [
+      0.700034,
+      ":"
+    ],
+    [
+      0.106311,
+      "D"
+    ],
+    [
+      0.075572,
+      " "
+    ],
+    [
+      1.179435,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.149366,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.956015,
+      "-"
+    ],
+    [
+      0.335369,
+      ")"
+    ],
+    [
+      0.511428,
+      "\r\nbash-4.3$ "
+    ],
+    [
+      1.461125,
+      "exit\r\n"
+    ]
+  ]
+}
