@@ -1,0 +1,414 @@
+{
+  "version": 1,
+  "width": 89,
+  "height": 31,
+  "duration": 7.275695,
+  "command": "PS1='\u003e ' PROMPT_COMMAND='' /bin/bash --norc",
+  "title": "",
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.013721,
+      "\u003e "
+    ],
+    [
+      0.594199,
+      "."
+    ],
+    [
+      0.078870,
+      "/"
+    ],
+    [
+      0.272388,
+      "d"
+    ],
+    [
+      0.159223,
+      "e"
+    ],
+    [
+      0.080052,
+      "m"
+    ],
+    [
+      0.136334,
+      "o"
+    ],
+    [
+      0.583541,
+      "."
+    ],
+    [
+      0.160054,
+      "s"
+    ],
+    [
+      0.056212,
+      "h"
+    ],
+    [
+      0.136069,
+      " "
+    ],
+    [
+      0.328986,
+      "f"
+    ],
+    [
+      0.059789,
+      "a"
+    ],
+    [
+      0.075178,
+      "i"
+    ],
+    [
+      0.015591,
+      "l"
+    ],
+    [
+      0.160013,
+      "u"
+    ],
+    [
+      0.096117,
+      "r"
+    ],
+    [
+      0.052074,
+      "e"
+    ],
+    [
+      0.342175,
+      "\r\n"
+    ],
+    [
+      0.045783,
+      "        Creating VM on digitalocean\r\n"
+    ],
+    [
+      0.000034,
+      "        Creating ramdisk\r\n"
+    ],
+    [
+      0.000396,
+      "        Enabling swap\r\n        Populating VM with world data from dropbox\r\n        Spigot: Pulling docker image for build\r\n        Spigot: Building JAR\r\n        Pulling remaining docker images\r\n        Launching services\r\n"
+    ],
+    [
+      0.001691,
+      "\u001b[8A"
+    ],
+    [
+      0.001543,
+      "\u001b7"
+    ],
+    [
+      0.002105,
+      "\u001b8"
+    ],
+    [
+      0.000234,
+      " \u001b[0;34m    =\u003e\u001b[0m "
+    ],
+    [
+      0.002035,
+      "\u001b8"
+    ],
+    [
+      1.006710,
+      "\u001b8"
+    ],
+    [
+      0.000485,
+      " \u001b[0;32m  OK  \u001b[0m "
+    ],
+    [
+      0.001974,
+      "\u001b8"
+    ],
+    [
+      0.007921,
+      "\u001b8"
+    ],
+    [
+      0.001654,
+      "\u001b[1B"
+    ],
+    [
+      0.000270,
+      " \u001b[0;34m    =\u003e\u001b[0m "
+    ],
+    [
+      0.001129,
+      "\u001b8"
+    ],
+    [
+      0.001938,
+      "\u001b8"
+    ],
+    [
+      0.001745,
+      "\u001b[2B"
+    ],
+    [
+      0.000244,
+      " \u001b[0;34m    =\u003e\u001b[0m "
+    ],
+    [
+      0.001050,
+      "\u001b8"
+    ],
+    [
+      0.100737,
+      "\u001b8"
+    ],
+    [
+      0.002619,
+      "\u001b[1B \u001b[0;32m  OK  \u001b[0m "
+    ],
+    [
+      0.001788,
+      "\u001b8"
+    ],
+    [
+      0.007061,
+      "\u001b8"
+    ],
+    [
+      0.001295,
+      "\u001b[3B"
+    ],
+    [
+      0.000270,
+      " \u001b[0;34m    =\u003e\u001b[0m "
+    ],
+    [
+      0.001462,
+      "\u001b8"
+    ],
+    [
+      0.002479,
+      "\u001b8"
+    ],
+    [
+      0.001180,
+      "\u001b[4B"
+    ],
+    [
+      0.000860,
+      " \u001b[0;34m    =\u003e\u001b[0m "
+    ],
+    [
+      0.001203,
+      "\u001b8"
+    ],
+    [
+      0.002313,
+      "\u001b8"
+    ],
+    [
+      0.001164,
+      "\u001b[2B"
+    ],
+    [
+      0.000170,
+      " \u001b[0;32m  OK  \u001b[0m "
+    ],
+    [
+      0.001180,
+      "\u001b8"
+    ],
+    [
+      0.004287,
+      "\u001b8"
+    ],
+    [
+      0.001156,
+      "\u001b[3B"
+    ],
+    [
+      0.000180,
+      " \u001b[0;31mFAILED\u001b[0m "
+    ],
+    [
+      0.001012,
+      "\u001b8"
+    ],
+    [
+      0.006066,
+      "\u001b8"
+    ],
+    [
+      0.001429,
+      "\u001b[7B"
+    ],
+    [
+      0.000243,
+      " \u001b[0;33m SKIP \u001b[0m "
+    ],
+    [
+      0.001528,
+      "\u001b8"
+    ],
+    [
+      0.484943,
+      "\u001b8"
+    ],
+    [
+      0.002182,
+      "\u001b[4B"
+    ],
+    [
+      0.000327,
+      " \u001b[0;31mFAILED\u001b[0m "
+    ],
+    [
+      0.001341,
+      "\u001b8"
+    ],
+    [
+      0.007734,
+      "\u001b8"
+    ],
+    [
+      0.001558,
+      "\u001b[5B"
+    ],
+    [
+      0.000338,
+      " \u001b[0;33m SKIP \u001b[0m "
+    ],
+    [
+      0.001445,
+      "\u001b8"
+    ],
+    [
+      0.005548,
+      "\u001b8"
+    ],
+    [
+      0.001441,
+      "\u001b[6B"
+    ],
+    [
+      0.000353,
+      " \u001b[0;33m SKIP \u001b[0m "
+    ],
+    [
+      0.001120,
+      "\u001b8"
+    ],
+    [
+      0.005844,
+      "\u001b[8B"
+    ],
+    [
+      0.001476,
+      "\u001b7"
+    ],
+    [
+      0.000365,
+      "\r\n"
+    ],
+    [
+      0.000099,
+      "['Populating VM with world data from dropbox' failed with exit status 64]\r\n"
+    ],
+    [
+      0.001462,
+      "    Yay! Sleeping for 0.0 second(s)!\r\n    Oh no! Terrible failure!"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000307,
+      "\r\n"
+    ],
+    [
+      0.000095,
+      "['Spigot: Pulling docker image for build' failed with exit status 128]\r\n"
+    ],
+    [
+      0.001392,
+      "    Yay! Sleeping for 0.5 second(s)!\r\n    Oh no! Terrible failure!"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000293,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "['Spigot: Building JAR' failed with exit status skip]\r\n"
+    ],
+    [
+      0.001337,
+      "    [SKIPPED] Prereq 'Spigot: Pulling docker image for build' failed or was skipped\r\n"
+    ],
+    [
+      0.000293,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "['Pulling remaining docker images' failed with exit status skip]\r\n"
+    ],
+    [
+      0.001299,
+      "    [SKIPPED] Prereq 'Spigot: Pulling docker image for build' failed or was skipped\r\n"
+    ],
+    [
+      0.000303,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "['Launching services' failed with exit status skip]\r\n"
+    ],
+    [
+      0.001421,
+      "    [SKIPPED] Prereq 'Populating VM with world data from dropbox' failed or was skipped"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000340,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "Logs for all tasks can be found in:"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000027,
+      "    /home/matt/bash-concurrent/.logs/2016-01-13@16:04:08/"
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.003534,
+      "\u003e "
+    ],
+    [
+      2.125504,
+      "exit\r\n"
+    ]
+  ]
+}
