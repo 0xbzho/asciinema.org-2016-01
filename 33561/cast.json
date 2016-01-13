@@ -1,0 +1,2622 @@
+{
+  "version": 1,
+  "width": 96,
+  "height": 30,
+  "duration": 85.333730,
+  "command": "/usr/local/bin/fish",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/fish"
+  },
+  "stdout": [
+    [
+      0.015281,
+      "\u001b]0;fish"
+    ],
+    [
+      0.000010,
+      "  /private/tmp\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.001699,
+      "Go fish!\r\n"
+    ],
+    [
+      0.024232,
+      "\u001b]0;fish  /private/tmp\u0007\u001b[30"
+    ],
+    [
+      0.000019,
+      "m\u001b(B\u001b[m"
+    ],
+    [
+      0.000073,
+      "\u001b[38;5;245m~\u001b[0m                                                                                               \r \r"
+    ],
+    [
+      0.000080,
+      "\u001b[32m/tmp\u001b[30m\u001b(B\u001b[m $ \u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      2.000000,
+      "m"
+    ],
+    [
+      0.000120,
+      "\u0008\u001b[38;5;196mm\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000587,
+      "\u001b[38;5;240mkdir Workspace\u001b[14D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.103038,
+      "\u001b[38;5;196mk\u001b[38;5;240mdir Workspace\u001b[13D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.151960,
+      "\u001b[38;5;196md\u001b[38;5;240mir Workspace\u001b[12D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.056021,
+      "\u001b[38;5;196mi\u001b[38;5;240mr Workspace\u001b[11D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.160031,
+      "\u001b[38;5;196mr\u001b[38;5;240m Workspace\u001b[10D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000170,
+      "\u0008\u0008\u0008\u0008\u0008\u001b[38;5;26mmkdir\u001b[38;5;240m Workspace\u001b[10D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.079811,
+      "\u001b[38;5;26m \u001b[38;5;240mWorkspace\u001b[9D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000157,
+      "\u0008 \u001b[38;5;240mWorkspace\u001b[9D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.376456,
+      "a\u001b[K"
+    ],
+    [
+      0.000153,
+      "\u0008\u001b[38;5;39m\u001b[4ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000177,
+      "\u001b[38;5;39m\u001b[4mn\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000142,
+      "\u0008\u0008\u001b[38;5;39man\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000171,
+      "\u001b[38;5;39mg\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000233,
+      "\u001b[38;5;39mu\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000234,
+      "\u001b[38;5;39ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000246,
+      "\u001b[38;5;39ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000251,
+      "\u001b[38;5;39mr\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000262,
+      "\u001b[38;5;39m2\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000241,
+      "\u001b[38;5;39m-\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000296,
+      "\u001b[38;5;39mg\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000240,
+      "\u001b[38;5;39me\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000194,
+      "\u001b[38;5;39mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000217,
+      "\u001b[38;5;39mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000225,
+      "\u001b[38;5;39mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000255,
+      "\u001b[38;5;39mn\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000198,
+      "\u001b[38;5;39mg\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000218,
+      "\u001b[38;5;39m-\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000255,
+      "\u001b[38;5;39ms\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000217,
+      "\u001b[38;5;39mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000247,
+      "\u001b[38;5;39ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000225,
+      "\u001b[38;5;39mr\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000207,
+      "\u001b[38;5;39mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000226,
+      "\u001b[38;5;39me\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000238,
+      "\u001b[38;5;39md\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.898136,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b["
+    ],
+    [
+      0.000002,
+      "30m\u001b"
+    ],
+    [
+      0.000002,
+      "(B\u001b"
+    ],
+    [
+      0.000002,
+      "[m"
+    ],
+    [
+      0.000168,
+      "\u001b]0;mk"
+    ],
+    [
+      0.000003,
+      "dir  /private/tmp"
+    ],
+    [
+      0.000002,
+      "\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b[30"
+    ],
+    [
+      0.000003,
+      "m\u001b(B\u001b"
+    ],
+    [
+      0.000002,
+      "[m"
+    ],
+    [
+      0.015589,
+      "\u001b]0;fish  /private/tmp\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000053,
+      "\u001b[38;5;245m~\u001b[0m                                                                                               \r \r"
+    ],
+    [
+      0.000074,
+      "\u001b[32m/tmp\u001b[30m\u001b(B\u001b[m $ \u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.752022,
+      "c"
+    ],
+    [
+      0.000132,
+      "\u0008\u001b[38;5;196mc\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000166,
+      "\u001b[38;5;240murl -sL https://asciinema.org/install | sh\u001b[42D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.095708,
+      "\u001b[38;5;196md\u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.000129,
+      "\u0008\u0008\u001b[38;5;26mcd\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000110,
+      "\u001b[38;5;240m ..\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.079550,
+      "\u001b[38;5;26m \u001b[38;5;240m..\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000125,
+      "\u0008 \u001b[38;5;240m..\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.424334,
+      "a\u001b[K"
+    ],
+    [
+      0.000135,
+      "\u0008\u001b[38;5;39m\u001b[4ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000127,
+      "\u001b[38;5;39m\u001b[4mn\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000219,
+      "\u001b[38;5;39m\u001b[4mg\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000216,
+      "\u001b[38;5;39m\u001b[4mu\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000222,
+      "\u001b[38;5;39m\u001b[4ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000225,
+      "\u001b[38;5;39m\u001b[4ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000253,
+      "\u001b[38;5;39m\u001b[4mr\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000274,
+      "\u001b[38;5;39m\u001b[4m2\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000234,
+      "\u001b[38;5;39m\u001b[4m-\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000256,
+      "\u001b[38;5;39m\u001b[4mg\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000224,
+      "\u001b[38;5;39m\u001b[4me\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000237,
+      "\u001b[38;5;39m\u001b[4mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000221,
+      "\u001b[38;5;39m\u001b[4mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000223,
+      "\u001b[38;5;39m\u001b[4mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000266,
+      "\u001b[38;5;39m\u001b[4mn\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000219,
+      "\u001b[38;5;39m\u001b[4mg\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000216,
+      "\u001b[38;5;39m\u001b[4m-\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000194,
+      "\u001b[38;5;39m\u001b[4ms\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000209,
+      "\u001b[38;5;39m\u001b[4mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000221,
+      "\u001b[38;5;39m\u001b[4ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000206,
+      "\u001b[38;5;39m\u001b[4mr\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000188,
+      "\u001b[38;5;39m\u001b[4mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000203,
+      "\u001b[38;5;39m\u001b[4me\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000219,
+      "\u001b[38;5;39m\u001b[4md\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.001193,
+      "\u001b[38;5;240m/\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.697299,
+      "\u001b[K"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\u001b"
+    ],
+    [
+      0.000002,
+      "[30"
+    ],
+    [
+      0.000002,
+      "m\u001b("
+    ],
+    [
+      0.000002,
+      "B\u001b["
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000167,
+      "\u001b]0;cd  "
+    ],
+    [
+      0.000003,
+      "/private/tmp\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b[30"
+    ],
+    [
+      0.000003,
+      "m\u001b(B\u001b"
+    ],
+    [
+      0.000002,
+      "[m"
+    ],
+    [
+      0.011991,
+      "\u001b]0;fish  /private/tmp/angular2-getting-started\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000069,
+      "\u001b[38;5;245m~\u001b[0m                                                                                               \r \r"
+    ],
+    [
+      0.000069,
+      "\u001b[32m/t/angular2-getting-started\u001b[30m\u001b(B\u001b[m $ \u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.715727,
+      "j"
+    ],
+    [
+      0.000143,
+      "\u0008\u001b[38;5;196mj\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000122,
+      "\u001b[38;5;240mspm install\u001b[11D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.135375,
+      "\u001b[38;5;196ms\u001b[38;5;240mpm install\u001b[10D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.080364,
+      "\u001b[38;5;196mp\u001b[38;5;240mm install\u001b[9D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.063796,
+      "\u001b[38;5;196mm\u001b[38;5;240m install\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000168,
+      "\u0008\u0008\u0008\u0008\u001b[38;5;26mjspm\u001b[38;5;240m install\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055847,
+      "\u001b[38;5;26m \u001b[38;5;240minstall\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000156,
+      "\u0008 \u001b[38;5;240minstall\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.311926,
+      "i\u001b[38;5;240mnstall\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000172,
+      "\u0008\u001b[38;5;39mi\u001b[38;5;240mnstall\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.079711,
+      "\u001b[38;5;39mn\u001b[38;5;240mstall\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.111982,
+      "\u001b[38;5;39mi\u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.208240,
+      "\u001b[38;5;39mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.888003,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[30m\u001b"
+    ],
+    [
+      0.000002,
+      "(B\u001b["
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000175,
+      "\u001b]0;jspm"
+    ],
+    [
+      0.000004,
+      "  /private/tmp/angu"
+    ],
+    [
+      0.000002,
+      "lar2"
+    ],
+    [
+      0.000002,
+      "-get"
+    ],
+    [
+      0.000015,
+      "ting-started\u0007\u001b"
+    ],
+    [
+      0.000002,
+      "[30m"
+    ],
+    [
+      0.000002,
+      "\u001b(B"
+    ],
+    [
+      0.000002,
+      "\u001b[m"
+    ],
+    [
+      0.503045,
+      "\r\n\u001b[33m\u001b[1mwarn \u001b[22m\u001b[39mRunning jspm globally, it is advisable to locally install jspm via \u001b[1mnpm install jspm --save-dev\u001b[22m.\r\n"
+    ],
+    [
+      0.001037,
+      "\r\n"
+    ],
+    [
+      0.000256,
+      "Package.json file does not exist, create it? [yes]:"
+    ],
+    [
+      2.000000,
+      "\r\n"
+    ],
+    [
+      0.003114,
+      "Would you like jspm to prefix the jspm package.json properties under \u001b[1mjspm\u001b[22m? [yes]:"
+    ],
+    [
+      1.468768,
+      "\r\n"
+    ],
+    [
+      0.000778,
+      "Enter server baseURL (public folder path) [./]:"
+    ],
+    [
+      1.183175,
+      "\r\n"
+    ],
+    [
+      0.000538,
+      "Enter jspm packages folder [./jspm_packages]:"
+    ],
+    [
+      1.079283,
+      "\r\n"
+    ],
+    [
+      0.000493,
+      "Enter config file path [./config.js]:"
+    ],
+    [
+      1.015537,
+      "\r\n"
+    ],
+    [
+      0.001248,
+      "Configuration file \u001b[1mconfig.js\u001b[22m doesn't exist, create it? [yes]:"
+    ],
+    [
+      1.198747,
+      "\r\n"
+    ],
+    [
+      0.002428,
+      "Enter client baseURL (public folder URL) [/]:"
+    ],
+    [
+      1.205525,
+      "\r\n"
+    ],
+    [
+      0.000580,
+      "Do you wish to use a transpiler? [yes]:"
+    ],
+    [
+      1.215390,
+      "\r\n"
+    ],
+    [
+      0.000507,
+      "Which ES6 transpiler would you like to use, \u001b[1mBabel\u001b[22m, \u001b[1mTypeScript\u001b[22m or \u001b[1mTraceur\u001b[22m? [TypeScript]:"
+    ],
+    [
+      2.000000,
+      "\r\n"
+    ],
+    [
+      0.005999,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mVerified package.json at \u001b[1mpackage.json\u001b[22m\r\n     Verified config file at \u001b[1mconfig.js\u001b[22m\r\n"
+    ],
+    [
+      0.001114,
+      "     Looking up loader files...\r\n"
+    ],
+    [
+      1.546373,
+      "       \u001b[36msystem.js\u001b[39m\r\n"
+    ],
+    [
+      0.000182,
+      "       \u001b[36msystem-csp-production.js\u001b[39m\r\n"
+    ],
+    [
+      0.000150,
+      "       \u001b[36msystem.src.js\u001b[39m\r\n"
+    ],
+    [
+      0.000078,
+      "       \u001b[36msystem.js.map\u001b[39m\r\n"
+    ],
+    [
+      0.000100,
+      "       \u001b[36msystem-polyfills.js\u001b[39m\r\n"
+    ],
+    [
+      0.000090,
+      "       \u001b[36msystem-csp-production.js.map\u001b[39m\r\n"
+    ],
+    [
+      0.000221,
+      "       \u001b[36msystem-csp-production.src.js\u001b[39m\r\n"
+    ],
+    [
+      0.000149,
+      "       \u001b[36msystem-polyfills.src.js\u001b[39m\r\n"
+    ],
+    [
+      0.000103,
+      "       \u001b[36msystem-polyfills.js.map\u001b[39m\r\n"
+    ],
+    [
+      0.000635,
+      "     \r\n     Using loader versions:\r\n"
+    ],
+    [
+      0.000053,
+      "       \u001b[36msystemjs@0.19.9\u001b[39m\r\n"
+    ],
+    [
+      0.072123,
+      "     Looking up \u001b[36mnpm:typescript\u001b[39m\r\n"
+    ],
+    [
+      0.717262,
+      "     Updating registry cache...\r\n"
+    ],
+    [
+      1.613869,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[1mtypescript\u001b[22m as \u001b[36mnpm:typescript@^1.6.2\u001b[39m (1.7.5)\r\n"
+    ],
+    [
+      0.009890,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mLoader files downloaded successfully\r\n"
+    ],
+    [
+      0.018083,
+      "\u001b]0;fish  /private/tmp/angular2-getting-sta"
+    ],
+    [
+      0.000008,
+      "rted\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000079,
+      "\u001b[38;5;245m~\u001b[0m                                                                                               \r \r"
+    ],
+    [
+      0.000086,
+      "\u001b[32m/t/angular2-getting-started\u001b[30m\u001b(B\u001b[m $ \u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      2.000000,
+      "l"
+    ],
+    [
+      0.000122,
+      "\u0008\u001b[38;5;196ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000091,
+      "\u001b[38;5;240ms -l\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.110970,
+      "\u001b[38;5;196ms\u001b[38;5;240m -l\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000115,
+      "\u0008\u0008\u001b[38;5;26mls\u001b[38;5;240m -l\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.104074,
+      "\u001b[38;5;26m \u001b[38;5;240m-l\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000122,
+      "\u0008 \u001b[38;5;240m-l\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.159683,
+      "-\u001b[38;5;240ml\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000151,
+      "\u0008\u001b[38;5;39m-\u001b[38;5;240ml\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.079879,
+      "\u001b[38;5;39ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.224191,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[30m"
+    ],
+    [
+      0.000002,
+      "\u001b(B\u001b"
+    ],
+    [
+      0.000015,
+      "[m"
+    ],
+    [
+      0.000173,
+      "\u001b]0;l"
+    ],
+    [
+      0.000009,
+      "s  /private/tmp/angular2-get"
+    ],
+    [
+      0.000003,
+      "ting-"
+    ],
+    [
+      0.000002,
+      "sta"
+    ],
+    [
+      0.000002,
+      "rte"
+    ],
+    [
+      0.000002,
+      "d\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b[30m"
+    ],
+    [
+      0.000003,
+      "\u001b(B\u001b["
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.012400,
+      "total 16\r\n"
+    ],
+    [
+      0.000119,
+      "-rw-r--r--   1 rubyboy  wheel  199 Jan 13 15:03 config.js\r\n"
+    ],
+    [
+      0.000004,
+      "drwxr-xr-x  14 rubyboy  wheel  476 Jan 13 15:03 \u001b[34mjspm_packages\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000002,
+      "-rw-r--r--   1 rubyboy  wheel   95 Jan 13 15:03 package.json\r\n"
+    ],
+    [
+      0.011501,
+      "\u001b]0;fish  /private/tmp/angular2-getting-start"
+    ],
+    [
+      0.000005,
+      "ed\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000106,
+      "\u001b[38;5;245m~\u001b[0m                                                                                               \r \r"
+    ],
+    [
+      0.000072,
+      "\u001b[32m/t/angular2-getting-started\u001b[30m\u001b(B\u001b[m $ \u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      2.000000,
+      "j"
+    ],
+    [
+      0.000124,
+      "\u0008\u001b[38;5;196mj\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000085,
+      "\u001b[38;5;240mspm init\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.159673,
+      "\u001b[38;5;196ms\u001b[38;5;240mpm init\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.063836,
+      "\u001b[38;5;196mp\u001b[38;5;240mm init\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055866,
+      "\u001b[38;5;196mm\u001b[38;5;240m init\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000171,
+      "\u0008\u0008\u0008\u0008\u001b[38;5;26mjspm\u001b[38;5;240m init\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.096074,
+      "\u001b[38;5;26m \u001b[38;5;240minit\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000151,
+      "\u0008 \u001b[38;5;240minit\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.135703,
+      "i\u001b[38;5;240mnit\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000145,
+      "\u0008\u001b[38;5;39mi\u001b[38;5;240mnit\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.079863,
+      "\u001b[38;5;39mn\u001b[38;5;240mit\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055921,
+      "\u001b[38;5;39ms\u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.000242,
+      "\u001b[38;5;240mtall\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.103781,
+      "\u001b[38;5;39mt\u001b[38;5;240mall\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.080224,
+      "\u001b[38;5;39ma\u001b[38;5;240mll\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.136087,
+      "\u001b[38;5;39ml\u001b[38;5;240ml\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.079804,
+      "\u001b[38;5;39m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000105,
+      "\u0008 "
+    ],
+    [
+      0.535932,
+      "="
+    ],
+    [
+      0.000134,
+      "\u0008\u001b[38;5;39m=\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.031631,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.224427,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.143688,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.432228,
+      "\u001b[38;5;39ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000164,
+      "\u001b[38;5;240ml\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.183809,
+      "\u001b[38;5;39ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.095958,
+      "\u001b[38;5;39m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000141,
+      "\u0008 "
+    ],
+    [
+      0.000130,
+      "\u001b[38;5;240mts\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.400484,
+      "r\u001b[K"
+    ],
+    [
+      0.000177,
+      "\u0008\u001b[38;5;39mr\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000122,
+      "\u001b[38;5;39me\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000218,
+      "\u001b[38;5;39mf\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000205,
+      "\u001b[38;5;39ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000249,
+      "\u001b[38;5;39me\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000238,
+      "\u001b[38;5;39mc\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000233,
+      "\u001b[38;5;39mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000226,
+      "\u001b[38;5;39m-\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000248,
+      "\u001b[38;5;39mm\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000236,
+      "\u001b[38;5;39me\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000264,
+      "\u001b[38;5;39mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000242,
+      "\u001b[38;5;39ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000220,
+      "\u001b[38;5;39md\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000223,
+      "\u001b[38;5;39ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000222,
+      "\u001b[38;5;39mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000220,
+      "\u001b[38;5;39ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000225,
+      "\u001b[38;5;39m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000146,
+      "\u0008 "
+    ],
+    [
+      0.000166,
+      "z"
+    ],
+    [
+      0.000154,
+      "\u0008\u001b[38;5;39mz\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000157,
+      "\u001b[38;5;39mo\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000218,
+      "\u001b[38;5;39mn\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000222,
+      "\u001b[38;5;39me\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000221,
+      "\u001b[38;5;39m.\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000213,
+      "\u001b[38;5;39mj\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000225,
+      "\u001b[38;5;39ms\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000252,
+      "\u001b[38;5;39m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000150,
+      "\u0008 "
+    ],
+    [
+      0.000170,
+      "r"
+    ],
+    [
+      0.000154,
+      "\u0008\u001b[38;5;39mr\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000143,
+      "\u001b[38;5;39mx\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000232,
+      "\u001b[38;5;39mj\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000226,
+      "\u001b[38;5;39ms\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000226,
+      "\u001b[38;5;39m \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000149,
+      "\u0008 "
+    ],
+    [
+      0.000138,
+      "a"
+    ],
+    [
+      0.000155,
+      "\u0008\u001b[38;5;39ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000144,
+      "\u001b[38;5;39mn\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000257,
+      "\u001b[38;5;39mg\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000239,
+      "\u001b[38;5;39mu\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000224,
+      "\u001b[38;5;39ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000261,
+      "\u001b[38;5;39ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000304,
+      "\u001b[38;5;39mr\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000223,
+      "\u001b[38;5;39m2\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      1.414222,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[30m"
+    ],
+    [
+      0.000002,
+      "\u001b(B\u001b"
+    ],
+    [
+      0.000002,
+      "[m"
+    ],
+    [
+      0.000233,
+      "\u001b]0;js"
+    ],
+    [
+      0.000003,
+      "pm  /private"
+    ],
+    [
+      0.000002,
+      "/tmp"
+    ],
+    [
+      0.000002,
+      "/an"
+    ],
+    [
+      0.000002,
+      "gul"
+    ],
+    [
+      0.000002,
+      "ar2"
+    ],
+    [
+      0.000002,
+      "-ge"
+    ],
+    [
+      0.000002,
+      "tti"
+    ],
+    [
+      0.000002,
+      "ng-"
+    ],
+    [
+      0.000002,
+      "sta"
+    ],
+    [
+      0.000002,
+      "rte"
+    ],
+    [
+      0.000002,
+      "d\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b[30m"
+    ],
+    [
+      0.000003,
+      "\u001b(B\u001b["
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.424481,
+      "\r\n\u001b[33m\u001b[1mwarn \u001b[22m\u001b[39mRunning jspm globally, it is advisable to locally install jspm via \u001b[1mnpm install jspm --save-dev\u001b[22m.\r\n"
+    ],
+    [
+      0.135898,
+      "     Updating registry cache...\r\n"
+    ],
+    [
+      2.000000,
+      "     Looking up \u001b[36mnpm:reflect-metadata\u001b[39m\r\n"
+    ],
+    [
+      0.000081,
+      "     Looking up \u001b[36mnpm:zone.js\u001b[39m\r\n"
+    ],
+    [
+      0.000070,
+      "     Looking up \u001b[36mnpm:rxjs\u001b[39m\r\n"
+    ],
+    [
+      0.000056,
+      "     Looking up \u001b[36mnpm:angular2\u001b[39m\r\n"
+    ],
+    [
+      0.729114,
+      "     Downloading \u001b[36mnpm:rxjs@5.0.0-beta.1\u001b[39m\r\n"
+    ],
+    [
+      0.016882,
+      "     Looking up \u001b[36mnpm:es6-promise\u001b[39m\r\n"
+    ],
+    [
+      0.000054,
+      "     Looking up \u001b[36mnpm:es6-shim\u001b[39m\r\n"
+    ],
+    [
+      0.115866,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:zone.js@0.5.10\u001b[39m (0.5.10)\r\n"
+    ],
+    [
+      0.072681,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:reflect-metadata@0.1.2\u001b[39m (0.1.2)\r\n"
+    ],
+    [
+      0.372119,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:es6-promise@^3.0.2\u001b[39m (3.0.2)\r\n"
+    ],
+    [
+      0.040345,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:es6-shim@^0.33.3\u001b[39m (0.33.13)\r\n"
+    ],
+    [
+      0.113266,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:rxjs@5.0.0-beta.0\u001b[39m (5.0.0-beta.0)\r\n"
+    ],
+    [
+      0.123873,
+      "     Looking up \u001b[36mgithub:jspm/nodelibs-crypto\u001b[39m\r\n"
+    ],
+    [
+      0.006455,
+      "     Looking up \u001b[36mgithub:jspm/nodelibs-assert\u001b[39m\r\n"
+    ],
+    [
+      0.007451,
+      "     Looking up \u001b[36mgithub:jspm/nodelibs-process\u001b[39m\r\n"
+    ],
+    [
+      0.035089,
+      "     Looking up \u001b[36mgithub:jspm/nodelibs-buffer\u001b[39m\r\n"
+    ],
+    [
+      1.106540,
+      "     Looking up \u001b[36mnpm:crypto-browserify\u001b[39m\r\n"
+    ],
+    [
+      0.007300,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mgithub:jspm/nodelibs-crypto@^0.1.0\u001b[39m (0.1.0)\r\n"
+    ],
+    [
+      0.005483,
+      "     Looking up \u001b[36mnpm:process\u001b[39m\r\n"
+    ],
+    [
+      0.004253,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mgithub:jspm/nodelibs-process@^0.1.0\u001b[39m (0.1.2)\r\n"
+    ],
+    [
+      0.059285,
+      "     Looking up \u001b[36mnpm:buffer\u001b[39m\r\n"
+    ],
+    [
+      0.009150,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mgithub:jspm/nodelibs-buffer@^0.1.0\u001b[39m (0.1.0)\r\n"
+    ],
+    [
+      0.302208,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:process@^0.11.0\u001b[39m (0.11.2)\r\n"
+    ],
+    [
+      0.026646,
+      "     Looking up \u001b[36mnpm:base64-js\u001b[39m\r\n"
+    ],
+    [
+      0.000057,
+      "     Looking up \u001b[36mnpm:ieee754\u001b[39m\r\n"
+    ],
+    [
+      0.000050,
+      "     Looking up \u001b[36mnpm:isarray\u001b[39m\r\n"
+    ],
+    [
+      0.026113,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:buffer@^3.0.1\u001b[39m (3.6.0)\r\n"
+    ],
+    [
+      0.059911,
+      "     Looking up \u001b[36mnpm:browserify-cipher\u001b[39m\r\n"
+    ],
+    [
+      0.000041,
+      "     Looking up \u001b[36mnpm:browserify-sign\u001b[39m\r\n"
+    ],
+    [
+      0.000056,
+      "     Looking up \u001b[36mnpm:create-ecdh\u001b[39m\r\n"
+    ],
+    [
+      0.000044,
+      "     Looking up \u001b[36mnpm:create-hash\u001b[39m\r\n"
+    ],
+    [
+      0.000053,
+      "     Looking up \u001b[36mnpm:create-hmac\u001b[39m\r\n"
+    ],
+    [
+      0.000034,
+      "     Looking up \u001b[36mnpm:diffie-hellman\u001b[39m\r\n"
+    ],
+    [
+      0.000039,
+      "     Looking up \u001b[36mnpm:inherits\u001b[39m\r\n"
+    ],
+    [
+      0.000041,
+      "     Looking up \u001b[36mnpm:pbkdf2\u001b[39m\r\n"
+    ],
+    [
+      0.000055,
+      "     Looking up \u001b[36mnpm:public-encrypt\u001b[39m\r\n"
+    ],
+    [
+      0.000046,
+      "     Looking up \u001b[36mnpm:randombytes\u001b[39m\r\n"
+    ],
+    [
+      0.030973,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:crypto-browserify@^3.7.2\u001b[39m (3.11.0)\r\n"
+    ],
+    [
+      0.007180,
+      "     Looking up \u001b[36mnpm:assert\u001b[39m\r\n"
+    ],
+    [
+      0.009562,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mgithub:jspm/nodelibs-assert@^0.1.0\u001b[39m (0.1.0)\r\n"
+    ],
+    [
+      0.218164,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:base64-js@0.0.8\u001b[39m (0.0.8)\r\n"
+    ],
+    [
+      0.008868,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:isarray@^1.0.0\u001b[39m (1.0.0)\r\n"
+    ],
+    [
+      0.076029,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:inherits@^2.0.1\u001b[39m (2.0.1)\r\n"
+    ],
+    [
+      0.014717,
+      "     Looking up \u001b[36mnpm:util\u001b[39m\r\n"
+    ],
+    [
+      0.045824,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:assert@^1.3.0\u001b[39m (1.3.0)\r\n"
+    ],
+    [
+      0.056303,
+      "     Downloading \u001b[36mnpm:diffie-hellman@5.0.1\u001b[39m\r\n"
+    ],
+    [
+      0.001521,
+      "     Looking up \u001b[36mnpm:bn.js\u001b[39m\r\n"
+    ],
+    [
+      0.000062,
+      "     Looking up \u001b[36mnpm:miller-rabin\u001b[39m\r\n"
+    ],
+    [
+      2.000000,
+      "     Looking up \u001b[36mgithub:jspm/nodelibs-fs\u001b[39m\r\n"
+    ],
+    [
+      0.005588,
+      "     Looking up \u001b[36mgithub:jspm/nodelibs-child_process\u001b[39m\r\n"
+    ],
+    [
+      0.085567,
+      "     Looking up \u001b[36mnpm:browserify-rsa\u001b[39m\r\n"
+    ],
+    [
+      0.000066,
+      "     Looking up \u001b[36mnpm:parse-asn1\u001b[39m\r\n"
+    ],
+    [
+      0.097822,
+      "     Looking up \u001b[36mnpm:browserify-aes\u001b[39m\r\n"
+    ],
+    [
+      0.000062,
+      "     Looking up \u001b[36mnpm:browserify-des\u001b[39m\r\n"
+    ],
+    [
+      0.000061,
+      "     Looking up \u001b[36mnpm:evp_bytestokey\u001b[39m\r\n"
+    ],
+    [
+      0.000813,
+      "     Looking up \u001b[36mnpm:elliptic\u001b[39m\r\n"
+    ],
+    [
+      0.001157,
+      "     Looking up \u001b[36mnpm:cipher-base\u001b[39m\r\n"
+    ],
+    [
+      0.000054,
+      "     Looking up \u001b[36mnpm:ripemd160\u001b[39m\r\n"
+    ],
+    [
+      0.000050,
+      "     Looking up \u001b[36mnpm:sha.js\u001b[39m\r\n"
+    ],
+    [
+      0.108871,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:inherits@2.0.1\u001b[39m (2.0.1)\r\n"
+    ],
+    [
+      0.071130,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:randombytes@^2.0.0\u001b[39m (2.0.1)\r\n"
+    ],
+    [
+      0.001201,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:create-hmac@^1.1.0\u001b[39m (1.1.4)\r\n"
+    ],
+    [
+      0.007976,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:ieee754@^1.1.4\u001b[39m (1.1.6)\r\n"
+    ],
+    [
+      0.002473,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:pbkdf2@^3.0.3\u001b[39m (3.0.4)\r\n"
+    ],
+    [
+      0.000321,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:browserify-cipher@^1.0.0\u001b[39m (1.0.0)\r\n"
+    ],
+    [
+      0.000731,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:create-hash@^1.1.0\u001b[39m (1.1.2)\r\n"
+    ],
+    [
+      0.000106,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:create-ecdh@^4.0.0\u001b[39m (4.0.0)\r\n"
+    ],
+    [
+      0.000505,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:browserify-sign@^4.0.0\u001b[39m (4.0.0)\r\n"
+    ],
+    [
+      0.005816,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:public-encrypt@^4.0.0\u001b[39m (4.0.0)\r\n"
+    ],
+    [
+      0.004921,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:util@0.10.3\u001b[39m (0.10.3)\r\n"
+    ],
+    [
+      0.080761,
+      "     Looking up \u001b[36mnpm:brorand\u001b[39m\r\n"
+    ],
+    [
+      0.019239,
+      "     Looking up \u001b[36mgithub:jspm/nodelibs-util\u001b[39m\r\n"
+    ],
+    [
+      0.035806,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:miller-rabin@^4.0.0\u001b[39m (4.0.0)\r\n"
+    ],
+    [
+      0.051030,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:diffie-hellman@^5.0.0\u001b[39m (5.0.1)\r\n"
+    ],
+    [
+      0.008846,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:bn.js@^4.1.0\u001b[39m (4.6.2)\r\n"
+    ],
+    [
+      0.121461,
+      "     Looking up \u001b[36mnpm:asn1.js\u001b[39m\r\n"
+    ],
+    [
+      0.046245,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:ripemd160@^1.0.0\u001b[39m (1.0.1)\r\n"
+    ],
+    [
+      0.003286,
+      "     Looking up \u001b[36mnpm:buffer-xor\u001b[39m\r\n"
+    ],
+    [
+      0.003941,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:sha.js@^2.3.6\u001b[39m (2.4.4)\r\n"
+    ],
+    [
+      0.006071,
+      "     Looking up \u001b[36mgithub:jspm/nodelibs-stream\u001b[39m\r\n"
+    ],
+    [
+      0.006024,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:parse-asn1@^5.0.0\u001b[39m (5.0.0)\r\n"
+    ],
+    [
+      0.001808,
+      "     Looking up \u001b[36mgithub:systemjs/plugin-json\u001b[39m\r\n"
+    ],
+    [
+      0.016357,
+      "     Looking up \u001b[36mnpm:hash.js\u001b[39m\r\n"
+    ],
+    [
+      0.016715,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:browserify-aes@^1.0.4\u001b[39m (1.0.5)\r\n"
+    ],
+    [
+      0.014439,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:elliptic@^6.0.0\u001b[39m (6.0.2)\r\n"
+    ],
+    [
+      0.006526,
+      "     Looking up \u001b[36mgithub:jspm/nodelibs-path\u001b[39m\r\n"
+    ],
+    [
+      0.076566,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:brorand@^1.0.1\u001b[39m (1.0.5)\r\n"
+    ],
+    [
+      0.061040,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:cipher-base@^1.0.1\u001b[39m (1.0.2)\r\n"
+    ],
+    [
+      0.040846,
+      "     Looking up \u001b[36mnpm:des.js\u001b[39m\r\n"
+    ],
+    [
+      0.007744,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:browserify-des@^1.0.0\u001b[39m (1.0.0)\r\n"
+    ],
+    [
+      0.081374,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mgithub:jspm/nodelibs-fs@^0.1.0\u001b[39m (0.1.2)\r\n"
+    ],
+    [
+      0.032404,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:browserify-rsa@^4.0.0\u001b[39m (4.0.0)\r\n"
+    ],
+    [
+      0.005707,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mgithub:jspm/nodelibs-child_process@^0.1.0\u001b[39m (0.1.0)\r\n"
+    ],
+    [
+      0.055723,
+      "     Looking up \u001b[36mnpm:minimalistic-assert\u001b[39m\r\n"
+    ],
+    [
+      0.027164,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:evp_bytestokey@^1.0.0\u001b[39m (1.0.0)\r\n"
+    ],
+    [
+      0.000276,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:asn1.js@^4.0.0\u001b[39m (4.3.0)\r\n"
+    ],
+    [
+      0.004706,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:hash.js@^1.0.0\u001b[39m (1.0.3)\r\n"
+    ],
+    [
+      0.023500,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:buffer-xor@^1.0.2\u001b[39m (1.0.3)\r\n"
+    ],
+    [
+      0.331484,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mgithub:jspm/nodelibs-util@^0.1.0\u001b[39m (0.1.0)\r\n"
+    ],
+    [
+      0.000221,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[1mreflect-metadata\u001b[22m as \u001b[36mnpm:reflect-metadata@^0.1.3\u001b[39m (0.1.3)\r\n"
+    ],
+    [
+      0.000325,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[1mzone.js\u001b[22m as \u001b[36mnpm:zone.js@^0.5.10\u001b[39m (0.5.10)\r\n"
+    ],
+    [
+      0.000052,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[1mrxjs\u001b[22m as \u001b[36mnpm:rxjs@^5.0.0-beta.1\u001b[39m (5.0.0-beta.1)\r\n"
+    ],
+    [
+      0.015140,
+      "     Looking up \u001b[36mgithub:jspm/nodelibs-string_decoder\u001b[39m\r\n"
+    ],
+    [
+      0.009508,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:minimalistic-assert@^1.0.0\u001b[39m (1.0.0)\r\n"
+    ],
+    [
+      0.153289,
+      "     Looking up \u001b[36mgithub:jspm/nodelibs-constants\u001b[39m\r\n"
+    ],
+    [
+      0.055939,
+      "     Looking up \u001b[36mgithub:jspm/nodelibs-vm\u001b[39m\r\n"
+    ],
+    [
+      0.055845,
+      "     Looking up \u001b[36mnpm:stream-browserify\u001b[39m\r\n"
+    ],
+    [
+      0.006278,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mgithub:jspm/nodelibs-stream@^0.1.0\u001b[39m (0.1.0)\r\n"
+    ],
+    [
+      0.013467,
+      "     Looking up \u001b[36mnpm:path-browserify\u001b[39m\r\n"
+    ],
+    [
+      0.005127,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mgithub:jspm/nodelibs-path@^0.1.0\u001b[39m (0.1.0)\r\n"
+    ],
+    [
+      0.016508,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mgithub:systemjs/plugin-json@^0.1.0\u001b[39m (0.1.0)\r\n"
+    ],
+    [
+      0.077685,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:des.js@^1.0.0\u001b[39m (1.0.0)\r\n"
+    ],
+    [
+      0.202577,
+      "     Looking up \u001b[36mnpm:readable-stream\u001b[39m\r\n"
+    ],
+    [
+      0.013057,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:stream-browserify@^1.0.0\u001b[39m (1.0.0)\r\n"
+    ],
+    [
+      0.000863,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:path-browserify@0.0.0\u001b[39m (0.0.0)\r\n"
+    ],
+    [
+      0.297557,
+      "     Looking up \u001b[36mnpm:core-util-is\u001b[39m\r\n"
+    ],
+    [
+      0.000061,
+      "     Looking up \u001b[36mnpm:string_decoder\u001b[39m\r\n"
+    ],
+    [
+      0.014328,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:readable-stream@^1.0.27-1\u001b[39m (1.1.13)\r\n"
+    ],
+    [
+      0.001875,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:isarray@0.0.1\u001b[39m (0.0.1)\r\n"
+    ],
+    [
+      0.164093,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mgithub:jspm/nodelibs-string_decoder@^0.1.0\u001b[39m (0.1.0)\r\n"
+    ],
+    [
+      0.133328,
+      "     Looking up \u001b[36mgithub:jspm/nodelibs-events\u001b[39m\r\n"
+    ],
+    [
+      0.006786,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:string_decoder@~0.10.0\u001b[39m (0.10.31)\r\n"
+    ],
+    [
+      0.000588,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:core-util-is@~1.0.0\u001b[39m (1.0.2)\r\n"
+    ],
+    [
+      0.004748,
+      "     Looking up \u001b[36mnpm:constants-browserify\u001b[39m\r\n"
+    ],
+    [
+      0.006036,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mgithub:jspm/nodelibs-constants@^0.1.0\u001b[39m (0.1.0)\r\n"
+    ],
+    [
+      0.020620,
+      "     Looking up \u001b[36mnpm:vm-browserify\u001b[39m\r\n"
+    ],
+    [
+      0.006582,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mgithub:jspm/nodelibs-vm@^0.1.0\u001b[39m (0.1.0)\r\n"
+    ],
+    [
+      0.354103,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:constants-browserify@0.0.1\u001b[39m (0.0.1)\r\n"
+    ],
+    [
+      0.093664,
+      "     Looking up \u001b[36mnpm:indexof\u001b[39m\r\n"
+    ],
+    [
+      0.008233,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:vm-browserify@0.0.4\u001b[39m (0.0.4)\r\n"
+    ],
+    [
+      0.315556,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:indexof@0.0.1\u001b[39m (0.0.1)\r\n"
+    ],
+    [
+      0.258539,
+      "     Looking up \u001b[36mnpm:events\u001b[39m\r\n"
+    ],
+    [
+      0.004865,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mgithub:jspm/nodelibs-events@^0.1.1\u001b[39m (0.1.1)\r\n"
+    ],
+    [
+      0.416099,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:events@1.0.2\u001b[39m (1.0.2)\r\n"
+    ],
+    [
+      0.000077,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[1mangular2\u001b[22m as \u001b[36mnpm:angular2@^2.0.0-beta.1\u001b[39m (2.0.0-beta.1)\r\n"
+    ],
+    [
+      0.028061,
+      "     Installed Forks\r\n\r\n"
+    ],
+    [
+      0.000038,
+      "                               \u001b[1mnpm:isarray\u001b[22m \u001b[36m0.0.1\u001b[39m \u001b[36m1.0.0\u001b[39m\r\n"
+    ],
+    [
+      0.000096,
+      "                      \u001b[1mnpm:reflect-metadata\u001b[22m \u001b[36m0.1.2\u001b[39m \u001b[36m0.1.3\u001b[39m\r\n"
+    ],
+    [
+      0.000194,
+      "                                  \u001b[1mnpm:rxjs\u001b[22m \u001b[36m5.0.0-beta.0\u001b[39m \u001b[36m5.0.0-beta.1\u001b[39m\r\n"
+    ],
+    [
+      0.000053,
+      "     \r\n     To inspect individual package constraints, use \u001b[1mjspm inspect registry:name\u001b[22m.\r\n\r\n"
+    ],
+    [
+      0.027663,
+      "\r\n"
+    ],
+    [
+      0.000062,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstall complete.\r\n"
+    ],
+    [
+      0.027598,
+      "\u001b]0;fish  /private/tmp/angular2-getting-star"
+    ],
+    [
+      0.000007,
+      "ted\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000071,
+      "\u001b[38;5;245m~\u001b[0m                                                                                               \r \r"
+    ],
+    [
+      0.000076,
+      "\u001b[32m/t/angular2-getting-started\u001b[30m\u001b(B\u001b[m $ \u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      1.327566,
+      "n"
+    ],
+    [
+      0.000146,
+      "\u0008\u001b[38;5;196mn\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000100,
+      "\u001b[38;5;240mano config.js \u001b[14D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.135106,
+      "\u001b[38;5;196ma\u001b[38;5;240mno config.js \u001b[13D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055929,
+      "\u001b[38;5;196mn\u001b[38;5;240mo config.js \u001b[12D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.104009,
+      "\u001b[38;5;196mo\u001b[38;5;240m config.js \u001b[11D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000183,
+      "\u0008\u0008\u0008\u0008\u001b[38;5;26mnano\u001b[38;5;240m config.js \u001b[11D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055977,
+      "\u001b[38;5;26m \u001b[38;5;240mconfig.js \u001b[10D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000153,
+      "\u0008 \u001b[38;5;240mconfig.js \u001b[10D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.199858,
+      "i\u001b[K"
+    ],
+    [
+      0.000138,
+      "\u0008\u001b[38;5;39mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055862,
+      "\u001b[38;5;39mn\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.096083,
+      "\u001b[38;5;39md\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.063844,
+      "\u001b[38;5;39me\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.176117,
+      "\u001b[38;5;39mx\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.056057,
+      "\u001b[38;5;39m.\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.279956,
+      "\u001b[38;5;39mh\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.079815,
+      "\u001b[38;5;39mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.080185,
+      "\u001b[38;5;39mm\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055838,
+      "\u001b[38;5;39ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.320256,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b"
+    ],
+    [
+      0.000002,
+      "[30"
+    ],
+    [
+      0.000002,
+      "m\u001b("
+    ],
+    [
+      0.000002,
+      "B\u001b["
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000247,
+      "\u001b]0;nan"
+    ],
+    [
+      0.000014,
+      "o  /private/tmp/angular"
+    ],
+    [
+      0.000008,
+      "2-getting-started\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b[30"
+    ],
+    [
+      0.000003,
+      "m\u001b(B\u001b"
+    ],
+    [
+      0.000002,
+      "[m"
+    ],
+    [
+      0.004197,
+      "\u001b[?1049h\u001b[1;30r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000006,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000018,
+      "\u001b[?1h\u001b=\u001b[?1h\u001b="
+    ],
+    [
+      0.000380,
+      "\u001b[39;49m\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;7m  GNU nano 2.0.6                   File: index.html                                             \u001b[28;43H[ New File ]\r\u001b[29d^G\u001b(B\u001b[m Get Help     \u001b(B\u001b[0;7m^O\u001b(B\u001b[m WriteOut     \u001b(B\u001b[0;7m^R\u001b(B\u001b[m Read File    \u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Prev Page    \u001b(B\u001b[0;7m^K\u001b(B\u001b[m Cut Text     \u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cur Pos\r\u001b[30d\u001b(B\u001b[0;7m^X\u001b(B\u001b[m Exit\u001b[30;17H\u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justify\u001b[33G\u001b(B\u001b[0;7m^W\u001b(B\u001b[m Where Is     \u001b(B\u001b[0;7m^V\u001b(B\u001b[m Next Page    \u001b(B\u001b[0;7m^U\u001b(B\u001b[m UnCut Text   \u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Spell\r\u001b[3d"
+    ],
+    [
+      0.664187,
+      "\u001b[1;87H\u001b(B\u001b[0;7mModified\r\u001b[3d\u001b(B\u001b[m\u003chtml\u003e\r\u001b[4d\u003chead\u003e\u001b[6d\u0008\u0008\u003cmeta charset=\"UTF-8\"\u003e\u001b[7;5H\u003ctitle\u003eAngular 2 Getting Started\u003c/title\u003e\r\u001b[9d\u003c/head\u003e\r\u001b[10d\u003cbody\u003e\r\u001b[12d\u003ch1\u003eAngular Getting Started\u003c/h1\u003e\r\u001b[14d\u003cscript src=\"jspm_packages/system.js\"\u003e\u003c/script\u003e\r\u001b[15d\u003cscript src=\"config.js\"\u003e\u003c/script\u003e\r\u001b[16d\u003cscript\u003e\u001b[17;5HSystem.import('app');\r\u001b[18d\u003c/script\u003e\r\u001b[20d\u003c/body\u003e\r\u001b[28d\u001b[K\u001b[21d\u003c/html\u003e"
+    ],
+    [
+      2.000000,
+      "\r\u001b[28d\u001b(B\u001b[0;7mSave modified buffer (ANSWERING \"No\" WILL DESTROY CHANGES) ?                                    \u001b[29;1H Y\u001b(B\u001b[m Yes\u001b[K\r\u001b[30d\u001b(B\u001b[0;7m N\u001b(B\u001b[m No  \u001b[30;18H\u001b(B\u001b[0;7mC\u001b(B\u001b[m Cancel\u001b[K\u001b[28;62H"
+    ],
+    [
+      0.799900,
+      "\r\u001b(B\u001b[0;7mFile Name to Write: index.html                              \r\u001b[29d^G\u001b(B\u001b[m Get Help\u001b[29;25H\u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Files\u001b[29;49H\u001b(B\u001b[0;7mM-M\u001b(B\u001b[m Mac Format\u001b[29;73H\u001b(B\u001b[0;7mM-P\u001b(B\u001b[m Prepend\r\u001b[30d\u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cancel\u001b[17G        \u001b(B\u001b[0;7mM-D\u001b(B\u001b[m DOS Format\u001b[30;49H\u001b(B\u001b[0;7mM-A\u001b(B\u001b[m Append\u001b[30;73H\u001b(B\u001b[0;7mM-B\u001b(B\u001b[m Backup File\u001b[28;31H"
+    ],
+    [
+      0.104080,
+      "\r\u001b[29d\u001b[39;49m\u001b(B\u001b[m\u001b[J\u001b[1;87H\u001b(B\u001b[0;7m        \u001b[28;39H\u001b(B\u001b[m\u001b[1K \u001b(B\u001b[0;7m[ Wrote 19 lines ]\u001b(B\u001b[m\u001b[K\u001b[30;96H"
+    ],
+    [
+      0.000020,
+      "\u001b[30;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.011781,
+      "\u001b]0;fi"
+    ],
+    [
+      0.000005,
+      "sh  /private/tmp/angular2-gett"
+    ],
+    [
+      0.000015,
+      "ing-s"
+    ],
+    [
+      0.000002,
+      "tar"
+    ],
+    [
+      0.000002,
+      "ted"
+    ],
+    [
+      0.000002,
+      "\u0007"
+    ],
+    [
+      0.000015,
+      "\u001b[30"
+    ],
+    [
+      0.000004,
+      "m\u001b(B\u001b[m"
+    ],
+    [
+      0.000064,
+      "\u001b[38;5;245m~\u001b[0m                                                                                               \r \r"
+    ],
+    [
+      0.000076,
+      "\u001b[32m/t/angular2-getting-started\u001b[30m\u001b(B\u001b[m $ \u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      2.000000,
+      "n"
+    ],
+    [
+      0.000141,
+      "\u0008\u001b[38;5;196mn\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000097,
+      "\u001b[38;5;240mano index.html\u001b[14D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.135451,
+      "\u001b[38;5;196ma\u001b[38;5;240mno index.html\u001b[13D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.039716,
+      "\u001b[38;5;196mn\u001b[38;5;240mo index.html\u001b[12D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.096009,
+      "\u001b[38;5;196mo\u001b[38;5;240m index.html\u001b[11D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000178,
+      "\u0008\u0008\u0008\u0008\u001b[38;5;26mnano\u001b[38;5;240m index.html\u001b[11D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.063772,
+      "\u001b[38;5;26m \u001b[38;5;240mindex.html\u001b[10D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000159,
+      "\u0008 \u001b[38;5;240mindex.html\u001b[10D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.272135,
+      "m\u001b[K"
+    ],
+    [
+      0.000126,
+      "\u0008\u001b[38;5;39mm\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.159815,
+      "\u001b[38;5;39ma\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055964,
+      "\u001b[38;5;39mi\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.080158,
+      "\u001b[38;5;39mn\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.183905,
+      "\u001b[38;5;39m.\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.184100,
+      "\u001b[38;5;39mt\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.080150,
+      "\u001b[38;5;39ms\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.535945,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[30m\u001b(B\u001b"
+    ],
+    [
+      0.000002,
+      "[m"
+    ],
+    [
+      0.000251,
+      "\u001b]0;nan"
+    ],
+    [
+      0.000004,
+      "o  /private/tmp/"
+    ],
+    [
+      0.000002,
+      "angu"
+    ],
+    [
+      0.000002,
+      "lar"
+    ],
+    [
+      0.000002,
+      "2-g"
+    ],
+    [
+      0.000002,
+      "ett"
+    ],
+    [
+      0.000002,
+      "ing"
+    ],
+    [
+      0.000002,
+      "-st"
+    ],
+    [
+      0.000002,
+      "art"
+    ],
+    [
+      0.000002,
+      "ed\u0007"
+    ],
+    [
+      0.000012,
+      "\u001b[30"
+    ],
+    [
+      0.000003,
+      "m\u001b(B\u001b"
+    ],
+    [
+      0.000002,
+      "[m"
+    ],
+    [
+      0.003927,
+      "\u001b[?1049h\u001b[1;30r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000035,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000019,
+      "\u001b[?1h\u001b=\u001b[?1h\u001b="
+    ],
+    [
+      0.000362,
+      "\u001b[39;49m\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;7m  GNU nano 2.0.6                    File: main.ts                                               \u001b[28;43H[ New File ]\r\u001b[29d^G\u001b(B\u001b[m Get Help     \u001b(B\u001b[0;7m^O\u001b(B\u001b[m WriteOut     \u001b(B\u001b[0;7m^R\u001b(B\u001b[m Read File    \u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Prev Page    \u001b(B\u001b[0;7m^K\u001b(B\u001b[m Cut Text     \u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cur Pos\r\u001b[30d\u001b(B\u001b[0;7m^X\u001b(B\u001b[m Exit\u001b[30;17H\u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justify\u001b[33G\u001b(B\u001b[0;7m^W\u001b(B\u001b[m Where Is     \u001b(B\u001b[0;7m^V\u001b(B\u001b[m Next Page    \u001b(B\u001b[0;7m^U\u001b(B\u001b[m UnCut Text   \u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Spell\r\u001b[3d"
+    ],
+    [
+      0.429513,
+      "\u001b[1;87H\u001b(B\u001b[0;7mModified\r\u001b[3d\u001b(B\u001b[mimport 'zone.js/dist/zone.min.js';\r\u001b[4dimport 'reflect-metadata';\r\u001b[6dvar isDone:boolean = false; // some TypeScript syntax to confirm it is compiled properly\r\u001b[28d\u001b[K\u001b[7d"
+    ],
+    [
+      0.000006,
+      "console.log(\"app script loaded successfully with typescript\");"
+    ],
+    [
+      2.000000,
+      "\r\u001b[28d\u001b(B\u001b[0;7mSave modified buffer (ANSWERING \"No\" WILL DESTROY CHANGES) ?                                    \u001b[29;1H Y\u001b(B\u001b[m Yes\u001b[K\r\u001b[30d\u001b(B\u001b[0;7m N\u001b(B\u001b[m No  \u001b[30;18H\u001b(B\u001b[0;7mC\u001b(B\u001b[m Cancel\u001b[K\u001b[28;62H"
+    ],
+    [
+      0.399829,
+      "\r\u001b(B\u001b[0;7mFile Name to Write: main.ts                                 \r\u001b[29d^G\u001b(B\u001b[m Get Help\u001b[29;25H\u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Files\u001b[29;49H\u001b(B\u001b[0;7mM-M\u001b(B\u001b[m Mac Format\u001b[29;73H\u001b(B\u001b[0;7mM-P\u001b(B\u001b[m Prepend\r\u001b[30d\u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cancel\u001b[17G        \u001b(B\u001b[0;7mM-D\u001b(B\u001b[m DOS Format\u001b[30;49H\u001b(B\u001b[0;7mM-A\u001b(B\u001b[m Append\u001b[30;73H\u001b(B\u001b[0;7mM-B\u001b(B\u001b[m Backup File\u001b[28;28H"
+    ],
+    [
+      0.096411,
+      "\r\u001b[29d\u001b[39;49m\u001b(B\u001b[m\u001b[J\u001b[1;87H\u001b(B\u001b[0;7m        \u001b[28;39H\u001b(B\u001b[m\u001b[1K \u001b(B\u001b[0;7m[ Wrote 5 lines ]\u001b(B\u001b[m\u001b[K\u001b[30;96H"
+    ],
+    [
+      0.000006,
+      "\u001b[30;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.011733,
+      "\u001b]0;fish  /private/tmp/angular2-getting-started\u0007"
+    ],
+    [
+      0.000005,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000072,
+      "\u001b[38;5;245m~\u001b[0m                                                                                               \r \r"
+    ],
+    [
+      0.000077,
+      "\u001b[32m/t/angular2-getting-started\u001b[30m\u001b(B\u001b[m $ \u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      2.000000,
+      "n"
+    ],
+    [
+      0.000128,
+      "\u0008\u001b[38;5;196mn\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000099,
+      "\u001b[38;5;240mano main.ts\u001b[11D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.095442,
+      "\u001b[38;5;196ma\u001b[38;5;240mno main.ts\u001b[10D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.064155,
+      "\u001b[38;5;196mn\u001b[38;5;240mo main.ts\u001b[9D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.095760,
+      "\u001b[38;5;196mo\u001b[38;5;240m main.ts\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000158,
+      "\u0008\u0008\u0008\u0008\u001b[38;5;26mnano\u001b[38;5;240m main.ts\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.040031,
+      "\u001b[38;5;26m \u001b[38;5;240mmain.ts\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000155,
+      "\u0008 \u001b[38;5;240mmain.ts\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.136084,
+      "c\u001b[K"
+    ],
+    [
+      0.000159,
+      "\u001b[38;5;240monfig.js \u001b[9D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000094,
+      "\u0008\u001b[38;5;39m\u001b[4mc\u001b[38;5;240m\u001b[24monfig.js \u001b[9D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055453,
+      "\u001b[38;5;39m\u001b[4mo\u001b[38;5;240m\u001b[24mnfig.js \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.063902,
+      "\u001b[38;5;39m\u001b[4mn\u001b[38;5;240m\u001b[24mfig.js \u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.248315,
+      "\u001b[38;5;39m\u001b[4mf\u001b[38;5;240m\u001b[24mig.js \u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.232408,
+      "\u001b[38;5;39m\u001b[4mig.js \u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000109,
+      "\u001b[10D\u001b[38;5;39mconfig.js\u001b[30m\u001b(B\u001b[m "
+    ],
+    [
+      0.967352,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[30m\u001b(B\u001b["
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000165,
+      "\u001b]0;nan"
+    ],
+    [
+      0.000005,
+      "o  /private/tmp/an"
+    ],
+    [
+      0.000003,
+      "gula"
+    ],
+    [
+      0.000002,
+      "r2-"
+    ],
+    [
+      0.000002,
+      "get"
+    ],
+    [
+      0.000002,
+      "tin"
+    ],
+    [
+      0.000002,
+      "g-s"
+    ],
+    [
+      0.000002,
+      "tar"
+    ],
+    [
+      0.000002,
+      "ted"
+    ],
+    [
+      0.000002,
+      "\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b[30m"
+    ],
+    [
+      0.000003,
+      "\u001b(B\u001b["
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.004003,
+      "\u001b[?1049h\u001b[1;30r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000043,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000023,
+      "\u001b[?1h\u001b=\u001b[?1h\u001b="
+    ],
+    [
+      0.001372,
+      "\u001b[39;49m\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;7m  GNU nano 2.0.6                   File: config.js                                              \u001b[3;1H\u001b(B\u001b[mSystem.config({\u001b[4;3HbaseURL: \"/\",\u001b[5;3HdefaultJSExtensions: true,\u001b[6;3Htranspiler: \"typescript\",\u001b[7;3Hpaths: {\u001b[8;5H\"npm:*\": \"jspm_packages/npm/*\",\u001b[9;5H\"github:*\": \"jspm_packages/github/*\"\u001b[10;3H},\u001b[12d\u0008\u0008map: {\u001b[13;5H\"angular2\": \"npm:angular2@2.0.0-beta.1\",\u001b[14;5H\"reflect-metadata\": \"npm:reflect-metadata@0.1.3\",\u001b[15;5H\"rxjs\": \"npm:rxjs@5.0.0-beta.1\",\u001b[16;5H\"typescript\": \"npm:typescript@1.7.5\",\u001b[17;5H\"zone.js\": \"npm:zone.js@0.5.10\",\u001b[18;5H\"github:jspm/nodelibs-assert@0.1.0\": {\u001b[19;7H\"assert\": \"npm:assert@1.3.0\"\u001b[20;5H},\u001b[21d\u0008\u0008\"github:jspm/nodelibs-buffer@0.1.0\": {\u001b[22;7H\"buffer\": \"npm:buffer@3.6.0\"\u001b[23;5H},\u001b[24d\u0008\u0008\"github:jspm/nodelibs-constants@0.1.0\": {\u001b[25;7H\"constants-browserify\": \"npm:constants-browserify@0.0.1\"\u001b[26;5H},\u001b[27d\u0008\u0008\"github:jspm/nodelibs-crypto@0.1.0\": {\u001b[28;40H\u001b(B\u001b[0;7m[ Read 306 lines ]\r\u001b[29d^G\u001b(B\u001b[m Get Help     \u001b(B\u001b[0;7m^O\u001b(B\u001b[m WriteOut     \u001b(B\u001b"
+    ],
+    [
+      0.000103,
+      "[0;7m^R\u001b(B\u001b[m Read File    \u001b(B\u001b[0;7m^Y\u001b(B\u001b[m Prev Page    \u001b(B\u001b[0;7m^K\u001b(B\u001b[m Cut Text     \u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cur Pos\r\u001b[30d\u001b(B\u001b[0;7m^X\u001b(B\u001b[m Exit\u001b[30;17H\u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justify\u001b[33G\u001b(B\u001b[0;7m^W\u001b(B\u001b[m Where Is     \u001b(B\u001b[0;7m^V\u001b(B\u001b[m Next Page    \u001b(B\u001b[0;7m^U\u001b(B\u001b[m UnCut Text   \u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Spell\r\u001b[3d"
+    ],
+    [
+      2.000000,
+      "\u001b[4d"
+    ],
+    [
+      0.191623,
+      "\u001b[5d"
+    ],
+    [
+      0.159847,
+      "\u001b[6d"
+    ],
+    [
+      0.200048,
+      "\u001b[6;28H"
+    ],
+    [
+      0.256563,
+      "\u001b7\u001b[7;27r\u001b8\r\u001b[7d\u001bM\u001b[1;30r\u001b[1;87H\u001b(B\u001b[0;7mModified\r\u001b[7d\u001b(B\u001b[m"
+    ],
+    [
+      0.647727,
+      "\u001b[7;9H"
+    ],
+    [
+      0.592025,
+      "\r"
+    ],
+    [
+      0.380009,
+      "\u001b7\u001b[7;27r\u001b8\u001b[9T\u001b[1;30r\u001b[7;1HtypescriptOptions: {\u001b[8;3H\"module\": \"commonjs\",\u001b[9;3H\"emitDecoratorMetadata\": true\r\u001b[10d},\r\u001b[11dpackages: {\u001b[12;3H\"app\": {\u001b[13;5H\"main\": \"main\",\u001b[14;5H\"defaultExtension\": \"ts\"\u001b[15;3H}\r\u001b[28d\u001b[K\u001b[16d},"
+    ],
+    [
+      2.000000,
+      "\u001b7\u001b[17;27r\u001b8\r\u001b[17d\u001bM\u001b[1;30r\u001b[17;1H"
+    ],
+    [
+      0.159666,
+      "\u001b[A"
+    ],
+    [
+      0.119950,
+      "\u001b[A"
+    ],
+    [
+      0.119937,
+      "\u001b[A"
+    ],
+    [
+      0.144036,
+      "\u001b[A"
+    ],
+    [
+      0.160066,
+      "\u001b[A"
+    ],
+    [
+      0.144103,
+      "\u001b[A"
+    ],
+    [
+      0.135869,
+      "\u001b[A"
+    ],
+    [
+      0.144121,
+      "\u001b[A"
+    ],
+    [
+      0.135830,
+      "\u001b[A"
+    ],
+    [
+      0.160037,
+      "\u001b[A"
+    ],
+    [
+      0.200373,
+      "\u001b7\u001b[7;27r\u001b8\u001bM\u001b[1;30r\u001b[8;1H"
+    ],
+    [
+      0.399781,
+      "\u001b[A"
+    ],
+    [
+      0.255994,
+      "\u001b[A"
+    ],
+    [
+      1.232022,
+      "\u001b[28d\u001b(B\u001b[0;7mSave modified buffer (ANSWERING \"No\" WILL DESTROY CHANGES) ?                                    \u001b[29;1H Y\u001b(B\u001b[m Yes\u001b[K\r\u001b[30d\u001b(B\u001b[0;7m N\u001b(B\u001b[m No  \u001b[30;18H\u001b(B\u001b[0;7mC\u001b(B\u001b[m Cancel\u001b[K\u001b[28;62H"
+    ],
+    [
+      0.775930,
+      "\r\u001b(B\u001b[0;7mFile Name to Write: config.js                               \r\u001b[29d^G\u001b(B\u001b[m Get Help\u001b[29;25H\u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Files\u001b[29;49H\u001b(B\u001b[0;7mM-M\u001b(B\u001b[m Mac Format\u001b[29;73H\u001b(B\u001b[0;7mM-P\u001b(B\u001b[m Prepend\r\u001b[30d\u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cancel\u001b[17G        \u001b(B\u001b[0;7mM-D\u001b(B\u001b[m DOS Format\u001b[30;49H\u001b(B\u001b[0;7mM-A\u001b(B\u001b[m Append\u001b[30;73H\u001b(B\u001b[0;7mM-B\u001b(B\u001b[m Backup File\u001b[28;30H"
+    ],
+    [
+      0.088922,
+      "\r\u001b[29d\u001b[39;49m\u001b(B\u001b[m\u001b[J\u001b[1;87H\u001b(B\u001b[0;7m        \u001b[28;38H\u001b(B\u001b[m\u001b[1K \u001b(B\u001b[0;7m[ Wrote 318 lines ]\u001b(B\u001b[m\u001b[K\u001b[30;96H\u001b[30;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.013020,
+      "\u001b]0;fish  /private/tmp/angular2-"
+    ],
+    [
+      0.000009,
+      "getting-started\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000137,
+      "\u001b[38;5;245m~\u001b[0m                                                                                               \r \r"
+    ],
+    [
+      0.000077,
+      "\u001b[32m/t/angular2-getting-started\u001b[30m\u001b(B\u001b[m $ \u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      2.000000,
+      "l"
+    ],
+    [
+      0.000121,
+      "\u0008\u001b[38;5;196ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000086,
+      "\u001b[38;5;240ms -l\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.079328,
+      "\u001b[38;5;196mi\u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.000250,
+      "\u001b[38;5;240mve-server --no-browser\u001b[22D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.095691,
+      "\u001b[38;5;196mv\u001b[38;5;240me-server --no-browser\u001b[21D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.064188,
+      "\u001b[38;5;196me\u001b[38;5;240m-server --no-browser\u001b[20D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.952032,
+      "\u001b[38;5;196m-server --no-browser\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000197,
+      "\u001b[24D\u001b[38;5;26mlive-server\u001b[30m\u001b(B\u001b[m \u001b[38;5;39m--no-browser\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      1.000021,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[30m\u001b(B\u001b"
+    ],
+    [
+      0.000002,
+      "[m"
+    ],
+    [
+      0.000169,
+      "\u001b]0;liv"
+    ],
+    [
+      0.000004,
+      "e-server  /privat"
+    ],
+    [
+      0.000002,
+      "e/tm"
+    ],
+    [
+      0.000002,
+      "p/a"
+    ],
+    [
+      0.000002,
+      "ngul"
+    ],
+    [
+      0.000002,
+      "ar2"
+    ],
+    [
+      0.000002,
+      "-ge"
+    ],
+    [
+      0.000002,
+      "tti"
+    ],
+    [
+      0.000002,
+      "ng-"
+    ],
+    [
+      0.000002,
+      "sta"
+    ],
+    [
+      0.000002,
+      "rte"
+    ],
+    [
+      0.000002,
+      "d\u0007"
+    ],
+    [
+      0.000012,
+      "\u001b[30m"
+    ],
+    [
+      0.000003,
+      "\u001b(B\u001b[m"
+    ],
+    [
+      0.267562,
+      "\u001b[32mServing \"/private/tmp/angular2-getting-started\" at http://127.0.0.1:8080\u001b[39m\r\n"
+    ],
+    [
+      2.000000,
+      "^D\u0008\u0008"
+    ],
+    [
+      2.000000,
+      "^D\u0008\u0008"
+    ],
+    [
+      0.831955,
+      "^C"
+    ],
+    [
+      0.017010,
+      "\u001b]0;fish  /private/tmp/angular2-getti"
+    ],
+    [
+      0.000007,
+      "ng-started\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000071,
+      "\u001b[38;5;245m~\u001b[0m                                                                                               \r \r"
+    ],
+    [
+      0.000085,
+      "\u001b[32m/t/angular2-getting-started\u001b[30m\u001b(B\u001b[m \u001b[38;5;196m$ \u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.271479,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000016,
+      "\r\n\u001b"
+    ],
+    [
+      0.000003,
+      "[30m\u001b"
+    ],
+    [
+      0.000002,
+      "(B\u001b"
+    ],
+    [
+      0.000002,
+      "[m"
+    ]
+  ]
+}
