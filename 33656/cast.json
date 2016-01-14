@@ -1,0 +1,2738 @@
+{
+  "version": 1,
+  "width": 96,
+  "height": 30,
+  "duration": 33.765199,
+  "command": "/usr/local/bin/fish",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/fish"
+  },
+  "stdout": [
+    [
+      0.015501,
+      "\u001b]0;f"
+    ],
+    [
+      0.000012,
+      "ish  /private/tmp\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.001817,
+      "Go fish!\r\n"
+    ],
+    [
+      0.025718,
+      "\u001b]0;fish  /private/tmp\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000090,
+      "\u001b[38;5;245m~\u001b[0m                                                                                               \r \r"
+    ],
+    [
+      0.000080,
+      "\u001b[32m/tmp\u001b[30m\u001b(B\u001b[m $ \u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      2.000000,
+      "g"
+    ],
+    [
+      0.000120,
+      "\u0008\u001b[38;5;196mg\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000238,
+      "\u001b[38;5;240mit clone https://github.com/InfomediaLtd/angular2-tutorial\u001b[58D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.048319,
+      "\u001b[38;5;196mi\u001b[38;5;240mt clone https://github.com/InfomediaLtd/angular2-tutorial\u001b[57D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.119227,
+      "\u001b[38;5;196mt\u001b[38;5;240m clone https://github.com/InfomediaLtd/angular2-tutorial\u001b[56D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000293,
+      "\u0008\u0008\u0008\u001b[38;5;26mgit\u001b[38;5;240m clone https://github.com/InfomediaLtd/angular2-tutorial\u001b[56D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.039434,
+      "\u001b[38;5;26m \u001b[38;5;240mclone https://github.com/InfomediaLtd/angular2-tutorial\u001b[55D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000288,
+      "\u0008 \u001b[38;5;240mclone https://github.com/InfomediaLtd/angular2-tutorial\u001b[55D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.143836,
+      "c\u001b[38;5;240mlone https://github.com/InfomediaLtd/angular2-tutorial\u001b[54D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000269,
+      "\u0008\u001b[38;5;39m\u001b[4mc\u001b[38;5;240m\u001b[24mlone https://github.com/InfomediaLtd/angular2-tutorial\u001b[54D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055711,
+      "\u001b[38;5;39m\u001b[4ml\u001b[38;5;240m\u001b[24mone https://github.com/InfomediaLtd/angular2-tutorial\u001b[53D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000270,
+      "\u0008\u0008\u001b[38;5;39mcl\u001b[38;5;240mone https://github.com/InfomediaLtd/angular2-tutorial\u001b[53D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.159868,
+      "\u001b[38;5;39mo\u001b[38;5;240mne https://github.com/InfomediaLtd/angular2-tutorial\u001b[52D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.095794,
+      "\u001b[38;5;39mn\u001b[38;5;240me https://github.com/InfomediaLtd/angular2-tutorial\u001b[51D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.096054,
+      "\u001b[38;5;39me\u001b[38;5;240m https://github.com/InfomediaLtd/angular2-tutorial\u001b[50D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.080095,
+      "\u001b[38;5;39m \u001b[38;5;240mhttps://github.com/InfomediaLtd/angular2-tutorial\u001b[49D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000261,
+      "\u0008 \u001b[38;5;240mhttps://github.com/InfomediaLtd/angular2-tutorial\u001b[49D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.216347,
+      "h\u001b[38;5;240mttps://github.com/InfomediaLtd/angular2-tutorial\u001b[48D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000277,
+      "\u0008\u001b[38;5;39mh\u001b[38;5;240mttps://github.com/InfomediaLtd/angular2-tutorial\u001b[48D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000228,
+      "\u001b[38;5;39mt\u001b[38;5;240mtps://github.com/InfomediaLtd/angular2-tutorial\u001b[47D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000319,
+      "\u001b[38;5;39mt\u001b[38;5;240mps://github.com/InfomediaLtd/angular2-tutorial\u001b[46D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000304,
+      "\u001b[38;5;39mp\u001b[38;5;240ms://github.com/InfomediaLtd/angular2-tutorial\u001b[45D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000325,
+      "\u001b[38;5;39ms\u001b[38;5;240m://github.com/InfomediaLtd/angular2-tutorial\u001b[44D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000303,
+      "\u001b[38;5;39m:\u001b[38;5;240m//github.com/InfomediaLtd/angular2-tutorial\u001b[43D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000294,
+      "\u001b[38;5;39m/\u001b[38;5;240m/github.com/InfomediaLtd/angular2-tutorial\u001b[42D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000289,
+      "\u001b[38;5;39m/\u001b[38;5;240mgithub.com/InfomediaLtd/angular2-tutorial\u001b[41D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000284,
+      "\u001b[38;5;39mg\u001b[38;5;240mithub.com/InfomediaLtd/angular2-tutorial\u001b[40D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000280,
+      "\u001b[38;5;39mi\u001b[38;5;240mthub.com/InfomediaLtd/angular2-tutorial\u001b[39D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000293,
+      "\u001b[38;5;39mt\u001b[38;5;240mhub.com/InfomediaLtd/angular2-tutorial\u001b[38D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000285,
+      "\u001b[38;5;39mh\u001b[38;5;240mub.com/InfomediaLtd/angular2-tutorial\u001b[37D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000278,
+      "\u001b[38;5;39mu\u001b[38;5;240mb.com/InfomediaLtd/angular2-tutorial\u001b[36D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000261,
+      "\u001b[38;5;39mb\u001b[38;5;240m.com/InfomediaLtd/angular2-tutorial\u001b[35D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000278,
+      "\u001b[38;5;39m.\u001b[38;5;240mcom/InfomediaLtd/angular2-tutorial\u001b[34D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000270,
+      "\u001b[38;5;39mc\u001b[38;5;240mom/InfomediaLtd/angular2-tutorial\u001b[33D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000262,
+      "\u001b[38;5;39mo\u001b[38;5;240mm/InfomediaLtd/angular2-tutorial\u001b[32D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000254,
+      "\u001b[38;5;39mm\u001b[38;5;240m/InfomediaLtd/angular2-tutorial\u001b[31D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000248,
+      "\u001b[38;5;39m/\u001b[38;5;240mInfomediaLtd/angular2-tutorial\u001b[30D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000266,
+      "\u001b[38;5;39mI\u001b[38;5;240mnfomediaLtd/angular2-tutorial\u001b[29D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000253,
+      "\u001b[38;5;39mn\u001b[38;5;240mfomediaLtd/angular2-tutorial\u001b[28D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000250,
+      "\u001b[38;5;39mf\u001b[38;5;240momediaLtd/angular2-tutorial\u001b[27D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000271,
+      "\u001b[38;5;39mo\u001b[38;5;240mmediaLtd/angular2-tutorial\u001b[26D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000263,
+      "\u001b[38;5;39mm\u001b[38;5;240mediaLtd/angular2-tutorial\u001b[25D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000241,
+      "\u001b[38;5;39me\u001b[38;5;240mdiaLtd/angular2-tutorial\u001b[24D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000248,
+      "\u001b[38;5;39md\u001b[38;5;240miaLtd/angular2-tutorial\u001b[23D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000236,
+      "\u001b[38;5;39mi\u001b[38;5;240maLtd/angular2-tutorial\u001b[22D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000273,
+      "\u001b[38;5;39ma\u001b[38;5;240mLtd/angular2-tutorial\u001b[21D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000248,
+      "\u001b[38;5;39mL\u001b[38;5;240mtd/angular2-tutorial\u001b[20D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000236,
+      "\u001b[38;5;39mt\u001b[38;5;240md/angular2-tutorial\u001b[19D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000242,
+      "\u001b[38;5;39md\u001b[38;5;240m/angular2-tutorial\u001b[18D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000253,
+      "\u001b[38;5;39m/\u001b[38;5;240mangular2-tutorial\u001b[17D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000241,
+      "\u001b[38;5;39ma\u001b[38;5;240mngular2-tutorial\u001b[16D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000224,
+      "\u001b[38;5;39mn\u001b[38;5;240mgular2-tutorial\u001b[15D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000221,
+      "\u001b[38;5;39mg\u001b[38;5;240mular2-tutorial\u001b[14D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000253,
+      "\u001b[38;5;39mu\u001b[38;5;240mlar2-tutorial\u001b[13D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000257,
+      "\u001b[38;5;39ml\u001b[38;5;240mar2-tutorial\u001b[12D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000275,
+      "\u001b[38;5;39ma\u001b[38;5;240mr2-tutorial\u001b[11D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000260,
+      "\u001b[38;5;39mr\u001b[38;5;240m2-tutorial\u001b[10D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000214,
+      "\u001b[38;5;39m2\u001b[38;5;240m-tutorial\u001b[9D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000217,
+      "\u001b[38;5;39m-\u001b[38;5;240mtutorial\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000219,
+      "\u001b[38;5;39mt\u001b[38;5;240mutorial\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000199,
+      "\u001b[38;5;39mu\u001b[38;5;240mtorial\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000235,
+      "\u001b[38;5;39mt\u001b[38;5;240morial\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000213,
+      "\u001b[38;5;39mo\u001b[38;5;240mrial\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000194,
+      "\u001b[38;5;39mr\u001b[38;5;240mial\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000193,
+      "\u001b[38;5;39mi\u001b[38;5;240mal\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000217,
+      "\u001b[38;5;39ma\u001b[38;5;240ml\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000202,
+      "\u001b[38;5;39ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.458887,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[30m"
+    ],
+    [
+      0.000002,
+      "\u001b(B\u001b"
+    ],
+    [
+      0.000002,
+      "[m"
+    ],
+    [
+      0.000172,
+      "\u001b]0;git"
+    ],
+    [
+      0.000005,
+      "  /private/tmp\u0007"
+    ],
+    [
+      0.000008,
+      "\u001b[30"
+    ],
+    [
+      0.000003,
+      "m\u001b(B\u001b"
+    ],
+    [
+      0.000002,
+      "[m"
+    ],
+    [
+      0.007566,
+      "Cloning into 'angular2-tutorial'...\r\n"
+    ],
+    [
+      1.723134,
+      "remote: Counting objects: 720, done.\u001b[K\r\nremote: Compressing objects:   2% (1/47)   \u001b[K\r"
+    ],
+    [
+      0.000009,
+      "remote: Compressing objects:   4% (2/47)   \u001b[K\rremote: Compressing objects:   6% (3/47)   \u001b[K\rremote: Compressing objects:   8% (4/47)   \u001b[K\rremote: Compressing objects:  10% (5/47)   \u001b[K\rremote: Compressing objects:  12% (6/47)   \u001b[K\rremote: Compressing objects:  14% (7/47)   \u001b[K\rremote: Compressing objects:  17% (8/47)   \u001b[K\rremote: Compressing objects:  19% (9/47)   \u001b[K\rremote: Compressing objects:  21% (10/47)   \u001b[K\rremote: Compressing objects:  23% (11/47)   \u001b[K\rremote: Compressing objects:  25% (12/47)   \u001b[K\rremote: Compressing objects:  27% (13/47)   \u001b[K\rremote: Compressing objects:  29% (14/47)   \u001b[K\rremote: Compressing objects:  31% (15/47)   \u001b[K\r"
+    ],
+    [
+      0.000033,
+      "remote: Compressing objects:  34% (16/47)   \u001b[K\rremote: Compressing objects:  36% (17/47)   \u001b[K\rremote: Compressing objects:  38% (18/47)   \u001b[K\rremote: Compressing objects:  40% (19/47)   \u001b[K\rremote: Compressing objects:  42% (20/47)   \u001b[K\rremote: Compressing objects:  44% (21/47)   \u001b[K\rremote: Compressing objects:  46% (22/47)   \u001b[K\r"
+    ],
+    [
+      0.000008,
+      "remote: Compressing objects:  48% (23/47)   \u001b[K\rremote: Compressing objects:  51% (24/47)   \u001b[K\rremote: Compressing objects:  53% (25/47)   \u001b[K\rremote: Compressing objects:  55% (26/47)   \u001b[K\rremote: Compressing objects:  57% (27/47)   \u001b[K\rremote: Compressing objects:  59% (28/47)   \u001b[K\rremote: Compressing objects:  61% (29/47)   \u001b[K\rremote: Compressing objects:  63% (30/47)   \u001b[K\r"
+    ],
+    [
+      0.000259,
+      "remote: Compressing objects:  65% (31/47)   \u001b[K\rremote: Compressing objects:  68% (32/47)   \u001b[K\rremote: Compressing objects:  70% (33/47)   \u001b[K\rremote: Compressing objects:  72% (34/47)   \u001b[K\rremote: Compressing objects:  74% (35/47)   \u001b[K\r"
+    ],
+    [
+      0.000017,
+      "remote: Compressing objects:  76% (36/47)   \u001b[K\rremote: Compressing objects:  78% (37/47)   \u001b[K\rremote: Compressing objects:  80% (38/47)   \u001b[K\rremote: Compressing objects:  82% (39/47)   \u001b[K\rremote: Compressing objects:  85% (40/47)   \u001b[K\rremote: Compressing objects:  87% (41/47)   \u001b[K\rremote: Compressing objects:  89% (42/47)   \u001b[K\rremote: Compressing objects:  91% (43/47)   \u001b[K\rremote: Compressing objects:  93% (44/47)   \u001b[K\rremote: Compressing objects:  95% (45/47)   \u001b[K\rremote: Compressing objects:  97% (46/47)   \u001b[K\rremote: Compressing objects: 100% (47/47)   \u001b[K\rremote: Compressing objects: 100% (47/47), done.\u001b[K\r\n"
+    ],
+    [
+      0.176029,
+      "Receiving objects:   0% (1/720)   \r"
+    ],
+    [
+      0.000062,
+      "Receiving objects:   1% (8/720)   \r"
+    ],
+    [
+      0.000106,
+      "Receiving objects:   2% (15/720)   \r"
+    ],
+    [
+      0.000085,
+      "Receiving objects:   3% (22/720)   \r"
+    ],
+    [
+      0.000123,
+      "Receiving objects:   4% (29/720)   \r"
+    ],
+    [
+      0.000095,
+      "Receiving objects:   5% (36/720)   \r"
+    ],
+    [
+      0.000106,
+      "Receiving objects:   6% (44/720)   \r"
+    ],
+    [
+      0.002715,
+      "Receiving objects:   7% (51/720)   \r"
+    ],
+    [
+      0.000098,
+      "Receiving objects:   8% (58/720)   \r"
+    ],
+    [
+      0.000090,
+      "Receiving objects:   9% (65/720)   \r"
+    ],
+    [
+      0.000084,
+      "Receiving objects:  10% (72/720)   \r"
+    ],
+    [
+      0.000115,
+      "Receiving objects:  11% (80/720)   \r"
+    ],
+    [
+      0.000067,
+      "Receiving objects:  12% (87/720)   \r"
+    ],
+    [
+      0.000027,
+      "Receiving objects:  13% (94/720)   \r"
+    ],
+    [
+      0.001465,
+      "Receiving objects:  14% (101/720)   \r"
+    ],
+    [
+      0.000070,
+      "Receiving objects:  15% (108/720)   \r"
+    ],
+    [
+      0.000121,
+      "Receiving objects:  16% (116/720)   \r"
+    ],
+    [
+      0.000063,
+      "Receiving objects:  17% (123/720)   \r"
+    ],
+    [
+      0.000038,
+      "Receiving objects:  18% (130/720)   \r"
+    ],
+    [
+      0.000034,
+      "Receiving objects:  19% (137/720)   \r"
+    ],
+    [
+      0.167792,
+      "Receiving objects:  20% (144/720)   \r"
+    ],
+    [
+      0.000021,
+      "Receiving objects:  21% (152/720)   \r"
+    ],
+    [
+      0.000057,
+      "Receiving objects:  22% (159/720)   \r"
+    ],
+    [
+      0.000015,
+      "Receiving objects:  23% (166/720)   \r"
+    ],
+    [
+      0.000102,
+      "Receiving objects:  24% (173/720)   \r"
+    ],
+    [
+      0.000036,
+      "Receiving objects:  25% (180/720)   \r"
+    ],
+    [
+      0.000045,
+      "Receiving objects:  26% (188/720)   \r"
+    ],
+    [
+      0.000061,
+      "Receiving objects:  27% (195/720)   \r"
+    ],
+    [
+      0.000067,
+      "Receiving objects:  28% (202/720)   \r"
+    ],
+    [
+      0.005884,
+      "Receiving objects:  29% (209/720)   \r"
+    ],
+    [
+      0.000041,
+      "Receiving objects:  30% (216/720)   \r"
+    ],
+    [
+      0.000099,
+      "Receiving objects:  31% (224/720)   \r"
+    ],
+    [
+      0.000105,
+      "Receiving objects:  32% (231/720)   \r"
+    ],
+    [
+      0.000069,
+      "Receiving objects:  33% (238/720)   \r"
+    ],
+    [
+      0.001365,
+      "Receiving objects:  34% (245/720)   \r"
+    ],
+    [
+      0.000079,
+      "Receiving objects:  35% (252/720)   \r"
+    ],
+    [
+      0.000069,
+      "Receiving objects:  36% (260/720)   \r"
+    ],
+    [
+      0.000035,
+      "Receiving objects:  37% (267/720)   \r"
+    ],
+    [
+      0.000039,
+      "Receiving objects:  38% (274/720)   \r"
+    ],
+    [
+      0.000016,
+      "Receiving objects:  39% (281/720)   \r"
+    ],
+    [
+      0.000019,
+      "Receiving objects:  40% (288/720)   \r"
+    ],
+    [
+      0.000015,
+      "Receiving objects:  41% (296/720)   \r"
+    ],
+    [
+      0.000026,
+      "Receiving objects:  42% (303/720)   \r"
+    ],
+    [
+      0.001647,
+      "Receiving objects:  43% (310/720)   \r"
+    ],
+    [
+      0.000004,
+      "Receiving objects:  44% (317/720)   \r"
+    ],
+    [
+      0.000048,
+      "Receiving objects:  45% (324/720)   \r"
+    ],
+    [
+      0.000029,
+      "Receiving objects:  46% (332/720)   \r"
+    ],
+    [
+      0.000042,
+      "Receiving objects:  47% (339/720)   \r"
+    ],
+    [
+      0.000022,
+      "Receiving objects:  48% (346/720)   \r"
+    ],
+    [
+      0.000089,
+      "Receiving objects:  49% (353/720)   \r"
+    ],
+    [
+      0.000018,
+      "Receiving objects:  50% (360/720)   \r"
+    ],
+    [
+      0.000040,
+      "Receiving objects:  51% (368/720)   \r"
+    ],
+    [
+      0.000009,
+      "Receiving objects:  52% (375/720)   \r"
+    ],
+    [
+      0.000031,
+      "Receiving objects:  53% (382/720)   \r"
+    ],
+    [
+      0.000029,
+      "Receiving objects:  54% (389/720)   \r"
+    ],
+    [
+      0.001905,
+      "Receiving objects:  55% (396/720)   \r"
+    ],
+    [
+      0.000018,
+      "Receiving objects:  56% (404/720)   \r"
+    ],
+    [
+      0.000013,
+      "Receiving objects:  57% (411/720)   \r"
+    ],
+    [
+      0.000041,
+      "Receiving objects:  58% (418/720)   \r"
+    ],
+    [
+      0.000018,
+      "Receiving objects:  59% (425/720)   \r"
+    ],
+    [
+      0.000031,
+      "Receiving objects:  60% (432/720)   \r"
+    ],
+    [
+      0.000024,
+      "Receiving objects:  61% (440/720)   \r"
+    ],
+    [
+      0.000063,
+      "Receiving objects:  62% (447/720)   \r"
+    ],
+    [
+      0.000033,
+      "Receiving objects:  63% (454/720)   \r"
+    ],
+    [
+      0.000027,
+      "Receiving objects:  64% (461/720)   \r"
+    ],
+    [
+      0.000030,
+      "Receiving objects:  65% (468/720)   \r"
+    ],
+    [
+      0.000023,
+      "Receiving objects:  66% (476/720)   \r"
+    ],
+    [
+      0.000011,
+      "Receiving objects:  67% (483/720)   \r"
+    ],
+    [
+      0.001644,
+      "Receiving objects:  68% (490/720)   \r"
+    ],
+    [
+      0.000017,
+      "Receiving objects:  69% (497/720)   \r"
+    ],
+    [
+      0.000019,
+      "Receiving objects:  70% (504/720)   \r"
+    ],
+    [
+      0.000037,
+      "Receiving objects:  71% (512/720)   \r"
+    ],
+    [
+      0.000036,
+      "Receiving objects:  72% (519/720)   \r"
+    ],
+    [
+      0.000019,
+      "Receiving objects:  73% (526/720)   \r"
+    ],
+    [
+      0.000046,
+      "Receiving objects:  74% (533/720)   \r"
+    ],
+    [
+      0.000023,
+      "Receiving objects:  75% (540/720)   \r"
+    ],
+    [
+      0.000032,
+      "Receiving objects:  76% (548/720)   \r"
+    ],
+    [
+      0.000030,
+      "Receiving objects:  77% (555/720)   \r"
+    ],
+    [
+      0.000024,
+      "Receiving objects:  78% (562/720)   \r"
+    ],
+    [
+      0.000023,
+      "Receiving objects:  79% (569/720)   \r"
+    ],
+    [
+      0.000031,
+      "Receiving objects:  80% (576/720)   \r"
+    ],
+    [
+      0.160233,
+      "Receiving objects:  81% (584/720)   \r"
+    ],
+    [
+      0.000028,
+      "Receiving objects:  82% (591/720)   \r"
+    ],
+    [
+      0.000054,
+      "Receiving objects:  83% (598/720)   \r"
+    ],
+    [
+      0.000024,
+      "Receiving objects:  84% (605/720)   \r"
+    ],
+    [
+      0.000011,
+      "Receiving objects:  85% (612/720)   \r"
+    ],
+    [
+      0.000022,
+      "Receiving objects:  86% (620/720)   \r"
+    ],
+    [
+      0.000032,
+      "Receiving objects:  87% (627/720)   \r"
+    ],
+    [
+      0.000027,
+      "Receiving objects:  88% (634/720)   \r"
+    ],
+    [
+      0.000033,
+      "Receiving objects:  89% (641/720)   \r"
+    ],
+    [
+      0.000052,
+      "Receiving objects:  90% (648/720)   \r"
+    ],
+    [
+      0.000022,
+      "Receiving objects:  91% (656/720)   \r"
+    ],
+    [
+      0.000042,
+      "Receiving objects:  92% (663/720)   \r"
+    ],
+    [
+      0.000033,
+      "Receiving objects:  93% (670/720)   \r"
+    ],
+    [
+      0.000053,
+      "Receiving objects:  94% (677/720)   \r"
+    ],
+    [
+      0.004258,
+      "Receiving objects:  95% (684/720)   \r"
+    ],
+    [
+      0.000047,
+      "Receiving objects:  96% (692/720)   \r"
+    ],
+    [
+      0.000052,
+      "Receiving objects:  97% (699/720)   \r"
+    ],
+    [
+      0.000040,
+      "remote: Total 720 (delta 22), reused 0 (delta 0), pack-reused 673\u001b[K\r\n"
+    ],
+    [
+      0.000063,
+      "Receiving objects:  98% (706/720)   \r"
+    ],
+    [
+      0.000035,
+      "Receiving objects:  99% (713/720)   \r"
+    ],
+    [
+      0.000131,
+      "Receiving objects: 100% (720/720)   \r"
+    ],
+    [
+      0.000012,
+      "Receiving objects: 100% (720/720), 89.92 KiB | 0 bytes/s, done.\r\n"
+    ],
+    [
+      0.000135,
+      "Resolving deltas:   0% (0/437)   \r"
+    ],
+    [
+      0.000651,
+      "Resolving deltas:   2% (12/437)   \r"
+    ],
+    [
+      0.000052,
+      "Resolving deltas:   3% (15/437)   \r"
+    ],
+    [
+      0.000091,
+      "Resolving deltas:   4% (21/437)   \r"
+    ],
+    [
+      0.000549,
+      "Resolving deltas:  13% (61/437)   \r"
+    ],
+    [
+      0.000236,
+      "Resolving deltas:  17% (75/437)   \r"
+    ],
+    [
+      0.000223,
+      "Resolving deltas:  21% (92/437)   \r"
+    ],
+    [
+      0.000362,
+      "Resolving deltas:  28% (124/437)   \r"
+    ],
+    [
+      0.000074,
+      "Resolving deltas:  29% (130/437)   \r"
+    ],
+    [
+      0.000273,
+      "Resolving deltas:  34% (149/437)   \r"
+    ],
+    [
+      0.000051,
+      "Resolving deltas:  35% (156/437)   \r"
+    ],
+    [
+      0.000030,
+      "Resolving deltas:  36% (159/437)   \r"
+    ],
+    [
+      0.000017,
+      "Resolving deltas:  37% (162/437)   \r"
+    ],
+    [
+      0.000163,
+      "Resolving deltas:  39% (172/437)   \r"
+    ],
+    [
+      0.000145,
+      "Resolving deltas:  41% (181/437)   \r"
+    ],
+    [
+      0.000205,
+      "Resolving deltas:  45% (198/437)   \r"
+    ],
+    [
+      0.000143,
+      "Resolving deltas:  48% (210/437)   \r"
+    ],
+    [
+      0.000111,
+      "Resolving deltas:  49% (216/437)   \r"
+    ],
+    [
+      0.000161,
+      "Resolving deltas:  51% (224/437)   \r"
+    ],
+    [
+      0.000117,
+      "Resolving deltas:  52% (231/437)   \r"
+    ],
+    [
+      0.000029,
+      "Resolving deltas:  53% (233/437)   \r"
+    ],
+    [
+      0.000056,
+      "Resolving deltas:  54% (239/437)   \r"
+    ],
+    [
+      0.000036,
+      "Resolving deltas:  55% (242/437)   \r"
+    ],
+    [
+      0.000117,
+      "Resolving deltas:  56% (248/437)   \r"
+    ],
+    [
+      0.000024,
+      "Resolving deltas:  57% (250/437)   \r"
+    ],
+    [
+      0.000049,
+      "Resolving deltas:  58% (254/437)   \r"
+    ],
+    [
+      0.000097,
+      "Resolving deltas:  59% (259/437)   \r"
+    ],
+    [
+      0.000130,
+      "Resolving deltas:  60% (266/437)   \r"
+    ],
+    [
+      0.000176,
+      "Resolving deltas:  63% (277/437)   \r"
+    ],
+    [
+      0.000034,
+      "Resolving deltas:  64% (280/437)   \r"
+    ],
+    [
+      0.000124,
+      "Resolving deltas:  65% (287/437)   \r"
+    ],
+    [
+      0.000046,
+      "Resolving deltas:  66% (291/437)   \r"
+    ],
+    [
+      0.000095,
+      "Resolving deltas:  67% (297/437)   \r"
+    ],
+    [
+      0.000074,
+      "Resolving deltas:  68% (300/437)   \r"
+    ],
+    [
+      0.000083,
+      "Resolving deltas:  69% (304/437)   \r"
+    ],
+    [
+      0.000021,
+      "Resolving deltas:  70% (306/437)   \r"
+    ],
+    [
+      0.000085,
+      "Resolving deltas:  71% (311/437)   \r"
+    ],
+    [
+      0.000086,
+      "Resolving deltas:  72% (316/437)   \r"
+    ],
+    [
+      0.000079,
+      "Resolving deltas:  73% (320/437)   \r"
+    ],
+    [
+      0.000096,
+      "Resolving deltas:  74% (325/437)   \r"
+    ],
+    [
+      0.000070,
+      "Resolving deltas:  75% (328/437)   \r"
+    ],
+    [
+      0.000098,
+      "Resolving deltas:  76% (335/437)   \r"
+    ],
+    [
+      0.000071,
+      "Resolving deltas:  77% (340/437)   \r"
+    ],
+    [
+      0.000122,
+      "Resolving deltas:  79% (347/437)   \r"
+    ],
+    [
+      0.000087,
+      "Resolving deltas:  80% (352/437)   \r"
+    ],
+    [
+      0.000054,
+      "Resolving deltas:  81% (355/437)   \r"
+    ],
+    [
+      0.000177,
+      "Resolving deltas:  83% (365/437)   \r"
+    ],
+    [
+      0.000114,
+      "Resolving deltas:  85% (373/437)   \r"
+    ],
+    [
+      0.000140,
+      "Resolving deltas:  87% (381/437)   \r"
+    ],
+    [
+      0.000071,
+      "Resolving deltas:  88% (387/437)   \r"
+    ],
+    [
+      0.000028,
+      "Resolving deltas:  89% (389/437)   \r"
+    ],
+    [
+      0.000081,
+      "Resolving deltas:  90% (395/437)   \r"
+    ],
+    [
+      0.000036,
+      "Resolving deltas:  91% (400/437)   \r"
+    ],
+    [
+      0.000071,
+      "Resolving deltas:  92% (403/437)   \r"
+    ],
+    [
+      0.000050,
+      "Resolving deltas:  93% (408/437)   \r"
+    ],
+    [
+      0.000050,
+      "Resolving deltas:  94% (411/437)   \r"
+    ],
+    [
+      0.000117,
+      "Resolving deltas:  95% (417/437)   \r"
+    ],
+    [
+      0.000105,
+      "Resolving deltas:  97% (424/437)   \r"
+    ],
+    [
+      0.000090,
+      "Resolving deltas:  98% (431/437)   \r"
+    ],
+    [
+      0.000026,
+      "Resolving deltas:  99% (433/437)   \r"
+    ],
+    [
+      0.000087,
+      "Resolving deltas: 100% (437/437)   \r"
+    ],
+    [
+      0.000043,
+      "Resolving deltas: 100% (437/437), done.\r\n"
+    ],
+    [
+      0.002312,
+      "Checking connectivity... "
+    ],
+    [
+      0.004193,
+      "done.\r\n"
+    ],
+    [
+      0.030819,
+      "\u001b]0;fish  /private/tmp\u0007"
+    ],
+    [
+      0.000026,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000047,
+      "\u001b[38;5;245m~\u001b[0m                                                                                               \r \r"
+    ],
+    [
+      0.000067,
+      "\u001b[32m/tmp\u001b[30m\u001b(B\u001b[m $ \u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      2.000000,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[30"
+    ],
+    [
+      0.000003,
+      "m\u001b(B"
+    ],
+    [
+      0.000002,
+      "\u001b[m"
+    ],
+    [
+      0.000183,
+      "\u001b]0;fis"
+    ],
+    [
+      0.000004,
+      "h  /private/tmp\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b[30m"
+    ],
+    [
+      0.000003,
+      "\u001b(B\u001b["
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.011706,
+      "\u001b]0;fish  /private/tmp\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000058,
+      "\u001b[38;5;245m~\u001b[0m                                                                                               \r \r"
+    ],
+    [
+      0.000068,
+      "\u001b[32m/tmp\u001b[30m\u001b(B\u001b[m $ \u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.403960,
+      "c"
+    ],
+    [
+      0.000119,
+      "\u0008\u001b[38;5;196mc\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000107,
+      "\u001b[38;5;240md angular2-tutorial/\u001b[20D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.071532,
+      "\u001b[38;5;196md\u001b[38;5;240m angular2-tutorial/\u001b[19D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000177,
+      "\u0008\u0008\u001b[38;5;26mcd\u001b[38;5;240m angular2-tutorial/\u001b[19D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.063827,
+      "\u001b[38;5;26m \u001b[38;5;240mangular2-tutorial/\u001b[18D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000163,
+      "\u0008 \u001b[38;5;240mangular2-tutorial/\u001b[18D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.112065,
+      "a\u001b[38;5;240mngular2-tutorial/\u001b[17D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000188,
+      "\u0008\u001b[38;5;39m\u001b[4ma\u001b[38;5;240m\u001b[24mngular2-tutorial/\u001b[17D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.079688,
+      "\u001b[38;5;39m\u001b[4mn\u001b[38;5;240m\u001b[24mgular2-tutorial/\u001b[16D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.104191,
+      "\u001b[38;5;39m\u001b[4mg\u001b[38;5;240m\u001b[24mular2-tutorial/\u001b[15D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.095876,
+      "\u001b[38;5;39m\u001b[4mu\u001b[38;5;240m\u001b[24mlar2-tutorial/\u001b[14D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.518879,
+      "\u001b[38;5;39m\u001b[4mlar2\u001b[38;5;240m\u001b[24m-tutorial/\u001b[10D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.751089,
+      "\u001b[K\r\n\u001b[36mangular2\u001b[30m\u001b(B\u001b[m-tutorial/  \u001b[36mangular2\u001b[30m\u001b(B\u001b[m/\u001b[A\u001b[11D"
+    ],
+    [
+      1.362280,
+      "\u001b[38;5;39m\u001b[4m-\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000052,
+      "\r\n\u001b[K\u001b[A\u001b[19C"
+    ],
+    [
+      0.000106,
+      "\u001b[38;5;240mtutorial/\u001b[9D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.215317,
+      "\u001b[38;5;39m\u001b[4mt\u001b[38;5;240m\u001b[24mutorial/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.080016,
+      "\u001b[38;5;39m\u001b[4mu\u001b[38;5;240m\u001b[24mtorial/\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.166258,
+      "\u001b[38;5;39m\u001b[4mtorial/\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.450032,
+      "\u001b[38;5;39m\u001b[4m1\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.001373,
+      "\u001b[38;5;240m-getting-started/\u001b[17D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.260425,
+      "\u001b[38;5;39m\u001b[4m-getting-started/\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.562130,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[30"
+    ],
+    [
+      0.000002,
+      "m\u001b(B"
+    ],
+    [
+      0.000002,
+      "\u001b[m"
+    ],
+    [
+      0.000182,
+      "\u001b]0;cd  "
+    ],
+    [
+      0.000003,
+      "/private/tmp\u0007"
+    ],
+    [
+      0.000009,
+      "\u001b[30"
+    ],
+    [
+      0.000003,
+      "m\u001b(B\u001b"
+    ],
+    [
+      0.000002,
+      "[m"
+    ],
+    [
+      0.036623,
+      "\u001b]0;fi"
+    ],
+    [
+      0.000019,
+      "sh  /private/tmp/angular2-tutorial/1-getti"
+    ],
+    [
+      0.000003,
+      "ng-sta"
+    ],
+    [
+      0.000002,
+      "rte"
+    ],
+    [
+      0.000002,
+      "d\u0007"
+    ],
+    [
+      0.000014,
+      "\u001b[30m\u001b"
+    ],
+    [
+      0.000003,
+      "(B\u001b[m"
+    ],
+    [
+      0.000081,
+      "\u001b[38;5;245m~\u001b[0m                                                                                               \r \r"
+    ],
+    [
+      0.000061,
+      "\u001b[32m/t/a/1-getting-started\u001b[30m\u001b(B\u001b[m (master) $ \u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.771126,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[30m\u001b(B"
+    ],
+    [
+      0.000002,
+      "\u001b[m"
+    ],
+    [
+      0.000179,
+      "\u001b]0;fis"
+    ],
+    [
+      0.000004,
+      "h  /private/tmp/"
+    ],
+    [
+      0.000002,
+      "angu"
+    ],
+    [
+      0.000002,
+      "lar"
+    ],
+    [
+      0.000002,
+      "2-t"
+    ],
+    [
+      0.000002,
+      "uto"
+    ],
+    [
+      0.000002,
+      "ria"
+    ],
+    [
+      0.000002,
+      "l/1"
+    ],
+    [
+      0.000002,
+      "-ge"
+    ],
+    [
+      0.000002,
+      "tti"
+    ],
+    [
+      0.000002,
+      "ng-"
+    ],
+    [
+      0.000002,
+      "sta"
+    ],
+    [
+      0.000002,
+      "rte"
+    ],
+    [
+      0.000002,
+      "d\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b[30"
+    ],
+    [
+      0.000003,
+      "m\u001b(B\u001b"
+    ],
+    [
+      0.000002,
+      "[m"
+    ],
+    [
+      0.033270,
+      "\u001b]0;fis"
+    ],
+    [
+      0.000006,
+      "h  /private/tmp/angular2-tutorial/1-gettin"
+    ],
+    [
+      0.000003,
+      "g-sta"
+    ],
+    [
+      0.000002,
+      "rte"
+    ],
+    [
+      0.000002,
+      "d\u0007"
+    ],
+    [
+      0.000021,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000042,
+      "\u001b[38;5;245m~\u001b[0m                                                                                               \r \r"
+    ],
+    [
+      0.000106,
+      "\u001b[32m/t/a/1-getting-started\u001b[30m\u001b(B\u001b[m (master) $ \u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.502260,
+      "l"
+    ],
+    [
+      0.000131,
+      "\u0008\u001b[38;5;196ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000083,
+      "\u001b[38;5;240ms -l\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.087608,
+      "\u001b[38;5;196ms\u001b[38;5;240m -l\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000143,
+      "\u0008\u0008\u001b[38;5;26mls\u001b[38;5;240m -l\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.079916,
+      "\u001b[38;5;26m \u001b[38;5;240m-l\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000141,
+      "\u0008 \u001b[38;5;240m-l\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.095966,
+      "-\u001b[38;5;240ml\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000143,
+      "\u0008\u001b[38;5;39m-\u001b[38;5;240ml\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.063641,
+      "\u001b[38;5;39ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.232233,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[30m\u001b(B"
+    ],
+    [
+      0.000002,
+      "\u001b[m"
+    ],
+    [
+      0.000233,
+      "\u001b]0;ls"
+    ],
+    [
+      0.000005,
+      "  /private/tmp/"
+    ],
+    [
+      0.000002,
+      "angu"
+    ],
+    [
+      0.000002,
+      "lar"
+    ],
+    [
+      0.000002,
+      "2-t"
+    ],
+    [
+      0.000002,
+      "uto"
+    ],
+    [
+      0.000002,
+      "ria"
+    ],
+    [
+      0.000002,
+      "l/1"
+    ],
+    [
+      0.000002,
+      "-ge"
+    ],
+    [
+      0.000002,
+      "tti"
+    ],
+    [
+      0.000002,
+      "ng-"
+    ],
+    [
+      0.000002,
+      "sta"
+    ],
+    [
+      0.000002,
+      "rted"
+    ],
+    [
+      0.000002,
+      "\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b[30"
+    ],
+    [
+      0.000003,
+      "m\u001b(B\u001b"
+    ],
+    [
+      0.000002,
+      "[m"
+    ],
+    [
+      0.012027,
+      "total 48\r\n"
+    ],
+    [
+      0.000141,
+      "drwxr-xr-x  4 rubyboy  wheel    136 Jan 14 13:23 \u001b[34mapp\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-r--r--  1 rubyboy  wheel  11538 Jan 14 13:23 config.js\r\n-rw-r--r--  1 rubyboy  wheel    310 Jan 14 13:23 index.html\r\n-rw-r--r--  1 rubyboy  wheel    455 Jan 14 13:23 package.json\r\n"
+    ],
+    [
+      0.000013,
+      "-rw-r--r--  1 rubyboy  wheel    322 Jan 14 13:23 tsconfig.json\r\n"
+    ],
+    [
+      0.034170,
+      "\u001b]0;fish"
+    ],
+    [
+      0.000006,
+      "  /private/tmp/angular2-tutorial/1-getting"
+    ],
+    [
+      0.000003,
+      "-star"
+    ],
+    [
+      0.000002,
+      "ted"
+    ],
+    [
+      0.000002,
+      "\u0007"
+    ],
+    [
+      0.000034,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000048,
+      "\u001b[38;5;245m~\u001b[0m                                                                                               \r \r"
+    ],
+    [
+      0.000074,
+      "\u001b[32m/t/a/1-getting-started\u001b[30m\u001b(B\u001b[m (master) $ \u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      2.000000,
+      "j"
+    ],
+    [
+      0.000140,
+      "\u0008\u001b[38;5;196mj\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000125,
+      "\u001b[38;5;240mspm uninstall es6-shim\u001b[22D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.111701,
+      "\u001b[38;5;196ms\u001b[38;5;240mpm uninstall es6-shim\u001b[21D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.063783,
+      "\u001b[38;5;196mp\u001b[38;5;240mm uninstall es6-shim\u001b[20D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055910,
+      "\u001b[38;5;196mm\u001b[38;5;240m uninstall es6-shim\u001b[19D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000193,
+      "\u0008\u0008\u0008\u0008\u001b[38;5;26mjspm\u001b[38;5;240m uninstall es6-shim\u001b[19D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.056018,
+      "\u001b[38;5;26m \u001b[38;5;240muninstall es6-shim\u001b[18D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000186,
+      "\u0008 \u001b[38;5;240muninstall es6-shim\u001b[18D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.143650,
+      "i\u001b[K"
+    ],
+    [
+      0.000270,
+      "\u001b[38;5;240mnstall reflect-metadata zone.js rxjs angular2 es6-shim\u001b[54D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000209,
+      "\u0008\u001b[38;5;39m\u001b[4mi\u001b[38;5;240m\u001b[24mnstall reflect-metadata zone.js rxjs angular2 es6-shim\u001b[54D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055736,
+      "\u001b[38;5;39m\u001b[4mn\u001b[38;5;240m\u001b[24mstall reflect-metadata zone.js rxjs angular2 es6-shim\u001b[53D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.063919,
+      "\u001b[38;5;39m\u001b[4ms\u001b[38;5;240m\u001b[24mtall reflect-metadata zone.js rxjs angular2 es6-shim\u001b[52D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000265,
+      "\u0008\u0008\u0008\u001b[38;5;39mins\u001b[38;5;240mtall reflect-metadata zone.js rxjs angular2 es6-shim\u001b[52D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.119907,
+      "\u001b[38;5;39mt\u001b[38;5;240mall reflect-metadata zone.js rxjs angular2 es6-shim\u001b[51D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055892,
+      "\u001b[38;5;39ma\u001b[38;5;240mll reflect-metadata zone.js rxjs angular2 es6-shim\u001b[50D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055919,
+      "\u001b[38;5;39ml\u001b[38;5;240ml reflect-metadata zone.js rxjs angular2 es6-shim\u001b[49D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.104127,
+      "\u001b[38;5;39ml\u001b[38;5;240m reflect-metadata zone.js rxjs angular2 es6-shim\u001b[48D\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.607812,
+      "\u001b[K"
+    ],
+    [
+      0.000006,
+      "\r\n\u001b"
+    ],
+    [
+      0.000002,
+      "[30m"
+    ],
+    [
+      0.000002,
+      "\u001b(B"
+    ],
+    [
+      0.000002,
+      "\u001b[m"
+    ],
+    [
+      0.000176,
+      "\u001b]0;jspm"
+    ],
+    [
+      0.000004,
+      "  /private/tmp/a"
+    ],
+    [
+      0.000004,
+      "ngul"
+    ],
+    [
+      0.000002,
+      "ar2-tu"
+    ],
+    [
+      0.000002,
+      "tori"
+    ],
+    [
+      0.000002,
+      "al/"
+    ],
+    [
+      0.000002,
+      "1-g"
+    ],
+    [
+      0.000002,
+      "ett"
+    ],
+    [
+      0.000002,
+      "ing"
+    ],
+    [
+      0.000002,
+      "-st"
+    ],
+    [
+      0.000002,
+      "art"
+    ],
+    [
+      0.000002,
+      "ed\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b[30m"
+    ],
+    [
+      0.000003,
+      "\u001b(B\u001b["
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.556539,
+      "\r\n\u001b[33m\u001b[1mwarn \u001b[22m\u001b[39mRunning jspm globally, it is advisable to locally install jspm via \u001b[1mnpm install jspm --save-dev\u001b[22m.\r\n"
+    ],
+    [
+      0.221037,
+      "     Looking up \u001b[36mnpm:typescript\u001b[39m\r\n"
+    ],
+    [
+      0.009767,
+      "     Looking up \u001b[36mnpm:angular2\u001b[39m\r\n"
+    ],
+    [
+      0.000094,
+      "     Looking up \u001b[36mnpm:reflect-metadata\u001b[39m\r\n"
+    ],
+    [
+      0.000070,
+      "     Looking up \u001b[36mnpm:rxjs\u001b[39m\r\n"
+    ],
+    [
+      0.000069,
+      "     Looking up \u001b[36mnpm:zone.js\u001b[39m\r\n"
+    ],
+    [
+      0.031786,
+      "     Updating registry cache...\r\n"
+    ],
+    [
+      1.309626,
+      "     Looking up \u001b[36mgithub:frankwallis/plugin-typescript\u001b[39m\r\n"
+    ],
+    [
+      0.678956,
+      "     Looking up \u001b[36mnpm:es6-promise\u001b[39m\r\n"
+    ],
+    [
+      0.000596,
+      "     Looking up \u001b[36mnpm:es6-shim\u001b[39m\r\n"
+    ],
+    [
+      0.157590,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:zone.js@0.5.10\u001b[39m (0.5.10)\r\n"
+    ],
+    [
+      0.051533,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:reflect-metadata@0.1.2\u001b[39m (0.1.2)\r\n"
+    ],
+    [
+      0.006583,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[1mtypescript\u001b[22m as \u001b[36mnpm:typescript@^1.6.2\u001b[39m (1.7.5)\r\n"
+    ],
+    [
+      0.169824,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:es6-promise@^3.0.2\u001b[39m (3.0.2)\r\n"
+    ],
+    [
+      0.144871,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:es6-shim@^0.33.3\u001b[39m (0.33.13)\r\n"
+    ],
+    [
+      0.009692,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:typescript@^1.7.3\u001b[39m (1.7.5)\r\n"
+    ],
+    [
+      0.036870,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[1mts\u001b[22m as \u001b[36mgithub:frankwallis/plugin-typescript@^2.1.4\u001b[39m (2.4.6)\r\n"
+    ],
+    [
+      0.036357,
+      "     Looking up \u001b[36mgithub:jspm/nodelibs-crypto\u001b[39m\r\n"
+    ],
+    [
+      0.007161,
+      "     Looking up \u001b[36mgithub:jspm/nodelibs-buffer\u001b[39m\r\n"
+    ],
+    [
+      0.014332,
+      "     Looking up \u001b[36mgithub:jspm/nodelibs-process\u001b[39m\r\n"
+    ],
+    [
+      0.006429,
+      "     Looking up \u001b[36mgithub:jspm/nodelibs-assert\u001b[39m\r\n"
+    ],
+    [
+      0.026828,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:rxjs@5.0.0-beta.0\u001b[39m (5.0.0-beta.0)\r\n"
+    ],
+    [
+      0.972689,
+      "     Looking up \u001b[36mnpm:process\u001b[39m\r\n"
+    ],
+    [
+      0.006251,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mgithub:jspm/nodelibs-process@^0.1.0\u001b[39m (0.1.2)\r\n"
+    ],
+    [
+      0.002791,
+      "     Looking up \u001b[36mnpm:buffer\u001b[39m\r\n"
+    ],
+    [
+      0.006752,
+      "     Looking up \u001b[36mnpm:crypto-browserify\u001b[39m\r\n"
+    ],
+    [
+      0.000792,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mgithub:jspm/nodelibs-buffer@^0.1.0\u001b[39m (0.1.0)\r\n"
+    ],
+    [
+      0.004643,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mgithub:jspm/nodelibs-crypto@^0.1.0\u001b[39m (0.1.0)\r\n"
+    ],
+    [
+      0.053961,
+      "     Looking up \u001b[36mnpm:assert\u001b[39m\r\n"
+    ],
+    [
+      0.003602,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mgithub:jspm/nodelibs-assert@^0.1.0\u001b[39m (0.1.0)\r\n"
+    ],
+    [
+      0.200170,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:process@^0.11.0\u001b[39m (0.11.2)\r\n"
+    ],
+    [
+      0.005526,
+      "     Looking up \u001b[36mnpm:base64-js\u001b[39m\r\n"
+    ],
+    [
+      0.000063,
+      "     Looking up \u001b[36mnpm:ieee754\u001b[39m\r\n"
+    ],
+    [
+      0.000055,
+      "     Looking up \u001b[36mnpm:isarray\u001b[39m\r\n"
+    ],
+    [
+      0.012025,
+      "     Looking up \u001b[36mnpm:browserify-cipher\u001b[39m\r\n"
+    ],
+    [
+      0.000062,
+      "     Looking up \u001b[36mnpm:browserify-sign\u001b[39m\r\n"
+    ],
+    [
+      0.000057,
+      "     Looking up \u001b[36mnpm:create-ecdh\u001b[39m\r\n"
+    ],
+    [
+      0.000057,
+      "     Looking up \u001b[36mnpm:create-hash\u001b[39m\r\n"
+    ],
+    [
+      0.000039,
+      "     Looking up \u001b[36mnpm:create-hmac\u001b[39m\r\n"
+    ],
+    [
+      0.000046,
+      "     Looking up \u001b[36mnpm:diffie-hellman\u001b[39m\r\n"
+    ],
+    [
+      0.000050,
+      "     Looking up \u001b[36mnpm:inherits\u001b[39m\r\n"
+    ],
+    [
+      0.000046,
+      "     Looking up \u001b[36mnpm:pbkdf2\u001b[39m\r\n"
+    ],
+    [
+      0.000048,
+      "     Looking up \u001b[36mnpm:public-encrypt\u001b[39m\r\n"
+    ],
+    [
+      0.000048,
+      "     Looking up \u001b[36mnpm:randombytes\u001b[39m\r\n"
+    ],
+    [
+      0.026689,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:buffer@^3.0.1\u001b[39m (3.6.0)\r\n"
+    ],
+    [
+      0.004385,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:crypto-browserify@^3.7.2\u001b[39m (3.11.0)\r\n"
+    ],
+    [
+      0.020066,
+      "     Looking up \u001b[36mnpm:util\u001b[39m\r\n"
+    ],
+    [
+      0.005671,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:assert@^1.3.0\u001b[39m (1.3.0)\r\n"
+    ],
+    [
+      0.211411,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:base64-js@0.0.8\u001b[39m (0.0.8)\r\n"
+    ],
+    [
+      0.004812,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:ieee754@^1.1.4\u001b[39m (1.1.6)\r\n"
+    ],
+    [
+      0.002864,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:isarray@^1.0.0\u001b[39m (1.0.0)\r\n"
+    ],
+    [
+      0.008411,
+      "     Looking up \u001b[36mnpm:bn.js\u001b[39m\r\n"
+    ],
+    [
+      0.000138,
+      "     Looking up \u001b[36mnpm:elliptic\u001b[39m\r\n"
+    ],
+    [
+      0.007974,
+      "     Looking up \u001b[36mnpm:browserify-aes\u001b[39m\r\n"
+    ],
+    [
+      0.000059,
+      "     Looking up \u001b[36mnpm:browserify-des\u001b[39m\r\n"
+    ],
+    [
+      0.000066,
+      "     Looking up \u001b[36mnpm:evp_bytestokey\u001b[39m\r\n"
+    ],
+    [
+      0.004487,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:create-ecdh@^4.0.0\u001b[39m (4.0.0)\r\n"
+    ],
+    [
+      0.003732,
+      "     Looking up \u001b[36mnpm:miller-rabin\u001b[39m\r\n"
+    ],
+    [
+      0.003578,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:browserify-cipher@^1.0.0\u001b[39m (1.0.0)\r\n"
+    ],
+    [
+      0.005580,
+      "     Looking up \u001b[36mnpm:browserify-rsa\u001b[39m\r\n"
+    ],
+    [
+      0.000059,
+      "     Looking up \u001b[36mnpm:parse-asn1\u001b[39m\r\n"
+    ],
+    [
+      0.015554,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:inherits@^2.0.1\u001b[39m (2.0.1)\r\n"
+    ],
+    [
+      0.002541,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:diffie-hellman@^5.0.0\u001b[39m (5.0.0)\r\n"
+    ],
+    [
+      0.003026,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:inherits@2.0.1\u001b[39m (2.0.1)\r\n"
+    ],
+    [
+      0.006343,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:pbkdf2@^3.0.3\u001b[39m (3.0.4)\r\n"
+    ],
+    [
+      0.002195,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:public-encrypt@^4.0.0\u001b[39m (4.0.0)\r\n"
+    ],
+    [
+      0.003104,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:util@0.10.3\u001b[39m (0.10.3)\r\n"
+    ],
+    [
+      0.030685,
+      "     Looking up \u001b[36mnpm:cipher-base\u001b[39m\r\n"
+    ],
+    [
+      0.000078,
+      "     Looking up \u001b[36mnpm:ripemd160\u001b[39m\r\n"
+    ],
+    [
+      0.000042,
+      "     Looking up \u001b[36mnpm:sha.js\u001b[39m\r\n"
+    ],
+    [
+      0.009067,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:create-hash@^1.1.0\u001b[39m (1.1.2)\r\n"
+    ],
+    [
+      0.020352,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:create-hmac@^1.1.0\u001b[39m (1.1.4)\r\n"
+    ],
+    [
+      0.061789,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:randombytes@^2.0.0\u001b[39m (2.0.1)\r\n"
+    ],
+    [
+      0.098793,
+      "     Looking up \u001b[36mnpm:brorand\u001b[39m\r\n"
+    ],
+    [
+      0.000072,
+      "     Looking up \u001b[36mnpm:hash.js\u001b[39m\r\n"
+    ],
+    [
+      0.009115,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:elliptic@^6.0.0\u001b[39m (6.0.2)\r\n"
+    ],
+    [
+      0.002091,
+      "     Looking up \u001b[36mgithub:jspm/nodelibs-fs\u001b[39m\r\n"
+    ],
+    [
+      0.005979,
+      "     Looking up \u001b[36mgithub:jspm/nodelibs-child_process\u001b[39m\r\n"
+    ],
+    [
+      0.013026,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:miller-rabin@^4.0.0\u001b[39m (4.0.0)\r\n"
+    ],
+    [
+      0.004991,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:bn.js@^4.1.0\u001b[39m (4.6.2)\r\n"
+    ],
+    [
+      0.003397,
+      "     Looking up \u001b[36mnpm:asn1.js\u001b[39m\r\n"
+    ],
+    [
+      0.004005,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:browserify-rsa@^4.0.0\u001b[39m (4.0.0)\r\n"
+    ],
+    [
+      0.010055,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:parse-asn1@^5.0.0\u001b[39m (5.0.0)\r\n"
+    ],
+    [
+      0.035555,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:ripemd160@^1.0.0\u001b[39m (1.0.1)\r\n"
+    ],
+    [
+      0.010581,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:sha.js@^2.3.6\u001b[39m (2.4.4)\r\n"
+    ],
+    [
+      0.062647,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:evp_bytestokey@^1.0.0\u001b[39m (1.0.0)\r\n"
+    ],
+    [
+      0.012807,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:cipher-base@^1.0.1\u001b[39m (1.0.2)\r\n"
+    ],
+    [
+      0.157810,
+      "     Looking up \u001b[36mgithub:jspm/nodelibs-util\u001b[39m\r\n"
+    ],
+    [
+      0.004090,
+      "     Looking up \u001b[36mgithub:systemjs/plugin-json\u001b[39m\r\n"
+    ],
+    [
+      0.002586,
+      "     Looking up \u001b[36mgithub:jspm/nodelibs-path\u001b[39m\r\n"
+    ],
+    [
+      0.038049,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:browserify-sign@^4.0.0\u001b[39m (4.0.0)\r\n"
+    ],
+    [
+      0.003253,
+      "     Looking up \u001b[36mnpm:des.js\u001b[39m\r\n"
+    ],
+    [
+      0.005330,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:browserify-des@^1.0.0\u001b[39m (1.0.0)\r\n"
+    ],
+    [
+      0.000777,
+      "     Looking up \u001b[36mnpm:buffer-xor\u001b[39m\r\n"
+    ],
+    [
+      0.009758,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:browserify-aes@^1.0.4\u001b[39m (1.0.5)\r\n"
+    ],
+    [
+      0.058785,
+      "     Looking up \u001b[36mgithub:jspm/nodelibs-stream\u001b[39m\r\n"
+    ],
+    [
+      0.170271,
+      "     Looking up \u001b[36mgithub:jspm/nodelibs-constants\u001b[39m\r\n"
+    ],
+    [
+      0.032391,
+      "     Looking up \u001b[36mnpm:minimalistic-assert\u001b[39m\r\n"
+    ],
+    [
+      0.023063,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:des.js@^1.0.0\u001b[39m (1.0.0)\r\n"
+    ],
+    [
+      0.000858,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:asn1.js@^4.0.0\u001b[39m (4.3.0)\r\n"
+    ],
+    [
+      0.072967,
+      "     Looking up \u001b[36mgithub:jspm/nodelibs-string_decoder\u001b[39m\r\n"
+    ],
+    [
+      0.008973,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:buffer-xor@^1.0.2\u001b[39m (1.0.3)\r\n"
+    ],
+    [
+      0.125068,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:brorand@^1.0.1\u001b[39m (1.0.5)\r\n"
+    ],
+    [
+      0.004849,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:hash.js@^1.0.0\u001b[39m (1.0.3)\r\n"
+    ],
+    [
+      0.145921,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mgithub:jspm/nodelibs-fs@^0.1.0\u001b[39m (0.1.2)\r\n"
+    ],
+    [
+      0.011384,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mgithub:jspm/nodelibs-child_process@^0.1.0\u001b[39m (0.1.0)\r\n"
+    ],
+    [
+      0.196727,
+      "     Looking up \u001b[36mgithub:jspm/nodelibs-vm\u001b[39m\r\n"
+    ],
+    [
+      0.098831,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:minimalistic-assert@^1.0.0\u001b[39m (1.0.0)\r\n"
+    ],
+    [
+      0.059326,
+      "     Looking up \u001b[36mnpm:path-browserify\u001b[39m\r\n"
+    ],
+    [
+      0.000850,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mgithub:systemjs/plugin-json@^0.1.0\u001b[39m (0.1.0)\r\n"
+    ],
+    [
+      0.005175,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mgithub:jspm/nodelibs-path@^0.1.0\u001b[39m (0.1.0)\r\n"
+    ],
+    [
+      0.000753,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mgithub:jspm/nodelibs-util@^0.1.0\u001b[39m (0.1.0)\r\n"
+    ],
+    [
+      0.000536,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[1mreflect-metadata\u001b[22m as \u001b[36mnpm:reflect-metadata@^0.1.2\u001b[39m (0.1.3)\r\n"
+    ],
+    [
+      0.000193,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[1mzone.js\u001b[22m as \u001b[36mnpm:zone.js@^0.5.8\u001b[39m (0.5.10)\r\n"
+    ],
+    [
+      0.000048,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[1mrxjs\u001b[22m as \u001b[36mnpm:rxjs@^5.0.0-beta.0\u001b[39m (5.0.0-beta.0)\r\n"
+    ],
+    [
+      0.101530,
+      "     Looking up \u001b[36mnpm:stream-browserify\u001b[39m\r\n"
+    ],
+    [
+      0.005010,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mgithub:jspm/nodelibs-stream@^0.1.0\u001b[39m (0.1.0)\r\n"
+    ],
+    [
+      0.145859,
+      "     Looking up \u001b[36mnpm:constants-browserify\u001b[39m\r\n"
+    ],
+    [
+      0.004401,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mgithub:jspm/nodelibs-constants@^0.1.0\u001b[39m (0.1.0)\r\n"
+    ],
+    [
+      0.012890,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:path-browserify@0.0.0\u001b[39m (0.0.0)\r\n"
+    ],
+    [
+      0.103433,
+      "     Looking up \u001b[36mnpm:string_decoder\u001b[39m\r\n"
+    ],
+    [
+      0.006346,
+      "     Looking up \u001b[36mnpm:readable-stream\u001b[39m\r\n"
+    ],
+    [
+      0.004138,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mgithub:jspm/nodelibs-string_decoder@^0.1.0\u001b[39m (0.1.0)\r\n"
+    ],
+    [
+      0.004316,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:stream-browserify@^1.0.0\u001b[39m (1.0.0)\r\n"
+    ],
+    [
+      0.236162,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:constants-browserify@0.0.1\u001b[39m (0.0.1)\r\n"
+    ],
+    [
+      0.026762,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:string_decoder@^0.10.31\u001b[39m (0.10.31)\r\n"
+    ],
+    [
+      0.002246,
+      "     Looking up \u001b[36mnpm:core-util-is\u001b[39m\r\n"
+    ],
+    [
+      0.008799,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:readable-stream@^1.0.27-1\u001b[39m (1.1.13)\r\n"
+    ],
+    [
+      0.003046,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:isarray@0.0.1\u001b[39m (0.0.1)\r\n"
+    ],
+    [
+      0.186072,
+      "     Looking up \u001b[36mnpm:vm-browserify\u001b[39m\r\n"
+    ],
+    [
+      0.004225,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mgithub:jspm/nodelibs-vm@^0.1.0\u001b[39m (0.1.0)\r\n"
+    ],
+    [
+      0.073914,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:core-util-is@~1.0.0\u001b[39m (1.0.2)\r\n"
+    ],
+    [
+      0.049511,
+      "     Looking up \u001b[36mgithub:jspm/nodelibs-events\u001b[39m\r\n"
+    ],
+    [
+      0.314691,
+      "     Looking up \u001b[36mnpm:indexof\u001b[39m\r\n"
+    ],
+    [
+      0.007269,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:vm-browserify@0.0.4\u001b[39m (0.0.4)\r\n"
+    ],
+    [
+      0.362524,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:indexof@0.0.1\u001b[39m (0.0.1)\r\n"
+    ],
+    [
+      0.341212,
+      "     Looking up \u001b[36mnpm:events\u001b[39m\r\n"
+    ],
+    [
+      0.004881,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mgithub:jspm/nodelibs-events@^0.1.1\u001b[39m (0.1.1)\r\n"
+    ],
+    [
+      0.276914,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[36mnpm:events@1.0.2\u001b[39m (1.0.2)\r\n"
+    ],
+    [
+      0.000095,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstalled \u001b[1mangular2\u001b[22m as \u001b[36mnpm:angular2@^2.0.0-beta.1\u001b[39m (2.0.0-beta.1)\r\n"
+    ],
+    [
+      0.039628,
+      "     Installed Forks\r\n\r\n"
+    ],
+    [
+      0.000045,
+      "                                \u001b[1mnpm:isarray\u001b[22m \u001b[36m0.0.1\u001b[39m \u001b[36m1.0.0\u001b[39m\r\n"
+    ],
+    [
+      0.000093,
+      "                       \u001b[1mnpm:reflect-metadata\u001b[22m \u001b[36m0.1.2\u001b[39m \u001b[36m0.1.3\u001b[39m\r\n"
+    ],
+    [
+      0.000064,
+      "     \r\n     To inspect individual package constraints, use \u001b[1mjspm inspect registry:name\u001b[22m.\r\n\r\n"
+    ],
+    [
+      0.003672,
+      "     Looking up loader files...\r\n"
+    ],
+    [
+      1.234344,
+      "       \u001b[36msystem.js\u001b[39m\r\n"
+    ],
+    [
+      0.000549,
+      "       \u001b[36msystem.js.map\u001b[39m\r\n"
+    ],
+    [
+      0.000082,
+      "       \u001b[36msystem.src.js\u001b[39m\r\n"
+    ],
+    [
+      0.000086,
+      "       \u001b[36msystem-csp-production.js\u001b[39m\r\n"
+    ],
+    [
+      0.000060,
+      "       \u001b[36msystem-csp-production.src.js\u001b[39m\r\n"
+    ],
+    [
+      0.000076,
+      "       \u001b[36msystem-polyfills.js\u001b[39m\r\n"
+    ],
+    [
+      0.000130,
+      "       \u001b[36msystem-polyfills.src.js\u001b[39m\r\n"
+    ],
+    [
+      0.000095,
+      "       \u001b[36msystem-csp-production.js.map\u001b[39m\r\n"
+    ],
+    [
+      0.000074,
+      "       \u001b[36msystem-polyfills.js.map\u001b[39m\r\n"
+    ],
+    [
+      0.000595,
+      "     \r\n     Using loader versions:\r\n"
+    ],
+    [
+      0.000050,
+      "       \u001b[36msystemjs@0.19.9\u001b[39m\r\n"
+    ],
+    [
+      0.025507,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mLoader files downloaded successfully\r\n"
+    ],
+    [
+      0.003996,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "\u001b[32m\u001b[1mok   \u001b[22m\u001b[39mInstall complete.\r\n"
+    ],
+    [
+      0.046712,
+      "\u001b]0;fish  /private/tmp/angular2-tuto"
+    ],
+    [
+      0.000007,
+      "rial/1-getting-started\u0007\u001b[30m\u001b(B\u001b"
+    ],
+    [
+      0.000002,
+      "[m"
+    ],
+    [
+      0.000076,
+      "\u001b[38;5;245m~\u001b[0m                                                                                               \r \r"
+    ],
+    [
+      0.000060,
+      "\u001b[32m/t/a/1-getting-started\u001b[30m\u001b(B\u001b[m (master) $ \u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      1.018864,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[30m\u001b"
+    ],
+    [
+      0.000002,
+      "(B\u001b["
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000249,
+      "\u001b]0;fish"
+    ],
+    [
+      0.000004,
+      "  /private/tmp/a"
+    ],
+    [
+      0.000002,
+      "ngul"
+    ],
+    [
+      0.000002,
+      "ar2"
+    ],
+    [
+      0.000002,
+      "-tu"
+    ],
+    [
+      0.000002,
+      "tor"
+    ],
+    [
+      0.000002,
+      "ial"
+    ],
+    [
+      0.000002,
+      "/1-"
+    ],
+    [
+      0.000002,
+      "get"
+    ],
+    [
+      0.000002,
+      "tin"
+    ],
+    [
+      0.000002,
+      "g-s"
+    ],
+    [
+      0.000002,
+      "tar"
+    ],
+    [
+      0.000002,
+      "ted"
+    ],
+    [
+      0.000002,
+      "\u0007"
+    ],
+    [
+      0.000010,
+      "\u001b[30"
+    ],
+    [
+      0.000003,
+      "m\u001b(B\u001b"
+    ],
+    [
+      0.000002,
+      "[m"
+    ],
+    [
+      0.033290,
+      "\u001b]0;fish  /private/tmp/angular2-"
+    ],
+    [
+      0.000007,
+      "tutorial/1-getting-started\u0007\u001b[30m"
+    ],
+    [
+      0.000002,
+      "\u001b(B\u001b"
+    ],
+    [
+      0.000002,
+      "[m"
+    ],
+    [
+      0.000087,
+      "\u001b[38;5;245m~\u001b[0m                                                                                               \r \r"
+    ],
+    [
+      0.000068,
+      "\u001b[32m/t/a/1-getting-started\u001b[30m\u001b(B\u001b[m (master) $ \u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.182114,
+      "l"
+    ],
+    [
+      0.000138,
+      "\u0008\u001b[38;5;196ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000074,
+      "\u001b[38;5;240ms -l\u0008\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.119712,
+      "\u001b[38;5;196ms\u001b[38;5;240m -l\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000154,
+      "\u0008\u0008\u001b[38;5;26mls\u001b[38;5;240m -l\u0008\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055640,
+      "\u001b[38;5;26m \u001b[38;5;240m-l\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000132,
+      "\u0008 \u001b[38;5;240m-l\u0008\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.119907,
+      "-\u001b[38;5;240ml\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000142,
+      "\u0008\u001b[38;5;39m-\u001b[38;5;240ml\u0008\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.055870,
+      "\u001b[38;5;39ml\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.360164,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000169,
+      "\u001b]0;ls"
+    ],
+    [
+      0.000004,
+      "  /private/tmp/an"
+    ],
+    [
+      0.000003,
+      "gula"
+    ],
+    [
+      0.000002,
+      "r2-"
+    ],
+    [
+      0.000002,
+      "tut"
+    ],
+    [
+      0.000002,
+      "ori"
+    ],
+    [
+      0.000002,
+      "al/"
+    ],
+    [
+      0.000002,
+      "1-g"
+    ],
+    [
+      0.000002,
+      "ett"
+    ],
+    [
+      0.000002,
+      "ing"
+    ],
+    [
+      0.000002,
+      "-st"
+    ],
+    [
+      0.000002,
+      "art"
+    ],
+    [
+      0.000002,
+      "ed\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b[30m"
+    ],
+    [
+      0.000003,
+      "\u001b(B\u001b["
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.005201,
+      "total 48\r\n"
+    ],
+    [
+      0.000147,
+      "drwxr-xr-x   4 rubyboy  wheel    136 Jan 14 13:23 \u001b[34mapp\u001b[39;49m\u001b[0m\r\n"
+    ],
+    [
+      0.000005,
+      "-rw-r--r--   1 rubyboy  wheel  11538 Jan 14 13:23 config.js\r\n-rw-r--r--   1 rubyboy  wheel    310 Jan 14 13:23 index.html\r\ndrwxr-xr-x  15 rubyboy  wheel    510 Jan 14 13:23 \u001b[34mjspm_packages\u001b[39;49m\u001b[0m\r\n-rw-r--r--   1 rubyboy  wheel    455 Jan 14 13:23 package.json\r\n"
+    ],
+    [
+      0.000004,
+      "-rw-r--r--   1 rubyboy  wheel    322 Jan 14 13:23 tsconfig.json\r\n"
+    ],
+    [
+      0.034396,
+      "\u001b]0;fish  /private/tmp/angular2-tutorial/1-get"
+    ],
+    [
+      0.000019,
+      "ting-started\u0007\u001b[30m\u001b(B\u001b[m"
+    ],
+    [
+      0.000129,
+      "\u001b[38;5;245m~\u001b[0m                                                                                               \r \r"
+    ],
+    [
+      0.000088,
+      "\u001b[32m/t/a/1-getting-started\u001b[30m\u001b(B\u001b[m (master) $ \u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      0.743950,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "\u001b[30m\u001b"
+    ],
+    [
+      0.000003,
+      "(B\u001b[m"
+    ],
+    [
+      0.000182,
+      "\u001b]0;fi"
+    ],
+    [
+      0.000004,
+      "sh  /private/tmp/"
+    ],
+    [
+      0.000003,
+      "angu"
+    ],
+    [
+      0.000002,
+      "lar"
+    ],
+    [
+      0.000002,
+      "2-t"
+    ],
+    [
+      0.000002,
+      "uto"
+    ],
+    [
+      0.000002,
+      "ria"
+    ],
+    [
+      0.000002,
+      "l/1"
+    ],
+    [
+      0.000002,
+      "-ge"
+    ],
+    [
+      0.000002,
+      "tti"
+    ],
+    [
+      0.000002,
+      "ng-"
+    ],
+    [
+      0.000002,
+      "sta"
+    ],
+    [
+      0.000002,
+      "rted"
+    ],
+    [
+      0.000002,
+      "\u0007"
+    ],
+    [
+      0.000011,
+      "\u001b[30m"
+    ],
+    [
+      0.000003,
+      "\u001b(B\u001b["
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.033334,
+      "\u001b]0;fish  /pr"
+    ],
+    [
+      0.000007,
+      "ivate/tmp/angular2-tutorial/1-getting-started\u0007"
+    ],
+    [
+      0.000012,
+      "\u001b[30m"
+    ],
+    [
+      0.000003,
+      "\u001b(B\u001b["
+    ],
+    [
+      0.000002,
+      "m"
+    ],
+    [
+      0.000076,
+      "\u001b[38;5;245m~\u001b[0m                                                                                               \r \r"
+    ],
+    [
+      0.000078,
+      "\u001b[32m/t/a/1-getting-started\u001b[30m\u001b(B\u001b[m (master) $ \u001b[30m\u001b(B\u001b[m\u001b[K"
+    ],
+    [
+      2.000000,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[30m\u001b("
+    ],
+    [
+      0.000002,
+      "B\u001b[m"
+    ],
+    [
+      0.000032,
+      "\r\n\u001b[30m\u001b"
+    ],
+    [
+      0.000004,
+      "(B\u001b[m"
+    ]
+  ]
+}
