@@ -1,0 +1,7330 @@
+{
+  "version": 1,
+  "width": 90,
+  "height": 24,
+  "duration": 304.271943,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.256043,
+      "[\u001b[1mgp\u001b(B\u001b[m\u001b[32m:\u001b(B\u001b[m\u001b[1m/opt/…-eep-provisioning\u001b(B\u001b[m] \u001b[31mmaster\u001b(B\u001b[m(\u001b[35m+5/-2\u001b(B\u001b[m)\u001b(B\u001b[m \u001b[30m±\u001b(B\u001b[m "
+    ],
+    [
+      0.347979,
+      "./tests/tests.sh "
+    ],
+    [
+      0.590509,
+      "\r\n"
+    ],
+    [
+      20.044800,
+      "\u001b[32m\u001b[1mcreating temporary directory and entering it\u001b[0m\r\n"
+    ],
+    [
+      0.000043,
+      "\u001b[32m\u001b[1mvirtualenv\u001b[0m\r\n"
+    ],
+    [
+      0.029183,
+      "New python executable in .virtualenv/bin/python\r\n"
+    ],
+    [
+      0.036573,
+      "Installing setuptools, pip..."
+    ],
+    [
+      1.082568,
+      "done.\r\n"
+    ],
+    [
+      0.007515,
+      "\u001b[32m\u001b[1mcookiecutter\u001b[0m\r\n"
+    ],
+    [
+      0.171233,
+      "\u001b[33m--use-mirrors has been deprecated and will be removed in the future. Explicit uses of --index-url and/or --extra-index-url is suggested."
+    ],
+    [
+      0.000026,
+      "\r\n\u001b[0m"
+    ],
+    [
+      0.007218,
+      "Downloading/unpacking cookiecutter\r\n"
+    ],
+    [
+      0.315432,
+      "  Using download cache from /home/gp/.pip/download_cache/https%3A%2F%2Fpypi.python.org%2Fpackages%2F2.7%2Fc%2Fcookiecutter%2Fcookiecutter-1.3.0-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.013016,
+      "Downloading/unpacking future\u003e=0.15.2 (from cookiecutter)"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.068594,
+      "  Using download cache from /home/gp/.pip/download_cache/https%3A%2F%2Fpypi.python.org%2Fpackages%2Fsource%2Ff%2Ffuture%2Ffuture-0.15.2.tar.gz\r\n"
+    ],
+    [
+      0.180477,
+      "  Running setup.py (path:/tmp/tmp.dDnIsIR1nv/.virtualenv/build/future/setup.py) egg_info for package future\r\n"
+    ],
+    [
+      0.079124,
+      "    "
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.024756,
+      "    warning: no files found matching '*.au' under directory 'tests'\r\n"
+    ],
+    [
+      0.000522,
+      "    warning: no files found matching '*.gif' under directory 'tests'"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.001202,
+      "    warning: no files found matching '*.txt' under directory 'tests'"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.019042,
+      "Downloading/unpacking jinja2\u003e=2.7 (from cookiecutter)"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.085618,
+      "  Using download cache from /home/gp/.pip/download_cache/https%3A%2F%2Fpypi.python.org%2Fpackages%2F2.7%2FJ%2FJinja2%2FJinja2-2.8-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.013583,
+      "Downloading/unpacking binaryornot\u003e=0.2.0 (from cookiecutter)\r\n"
+    ],
+    [
+      0.057554,
+      "  Using download cache from /home/gp/.pip/download_cache/https%3A%2F%2Fpypi.python.org%2Fpackages%2F3.4%2Fb%2Fbinaryornot%2Fbinaryornot-0.4.0-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.004390,
+      "Downloading/unpacking whichcraft\u003e=0.1.1 (from cookiecutter)\r\n"
+    ],
+    [
+      0.060594,
+      "  Using download cache from /home/gp/.pip/download_cache/https%3A%2F%2Fpypi.python.org%2Fpackages%2F2.7%2Fw%2Fwhichcraft%2Fwhichcraft-0.1.1-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.004547,
+      "Downloading/unpacking click\u003e=5.0 (from cookiecutter)\r\n"
+    ],
+    [
+      0.076360,
+      "  Using download cache from /home/gp/.pip/download_cache/https%3A%2F%2Fpypi.python.org%2Fpackages%2F2.7%2Fc%2Fclick%2Fclick-6.2-py2.py3-none-any.whl\r\n"
+    ],
+    [
+      0.007773,
+      "Downloading/unpacking ruamel.yaml\u003e=0.10.12 (from cookiecutter)"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.104963,
+      "  Using download cache from /home/gp/.pip/download_cache/https%3A%2F%2Fpypi.python.org%2Fpackages%2Fsource%2Fr%2Fruamel.yaml%2Fruamel.yaml-0.10.13.tar.gz\r\n"
+    ],
+    [
+      0.032305,
+      "  Running setup.py (path:/tmp/tmp.dDnIsIR1nv/.virtualenv/build/ruamel.yaml/setup.py) egg_info for package ruamel.yaml\r\n"
+    ],
+    [
+      0.157765,
+      "    author -\u003e Anthon van der Neut"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.000106,
+      "    author_email -\u003e a.van.der.neut@ruamel.eu\r\n"
+    ],
+    [
+      0.000370,
+      "    classifiers -\u003e ['Development Status :: 4 - Beta', 'Intended Audience :: Developers', 'License :: OSI Approved :: MIT License', 'Operating System :: OS Independent', 'Programming Language :: Python', 'Programming Language :: Python :: 2.6', 'Programming Language :: Python :: 2.7', 'Programming Language :: Python :: 3.3', 'Programming Language :: Python :: 3.4', 'Programming Language :: Python :: 3.5', 'Programming Language :: Python :: Implementation :: CPython', 'Programming Language :: Python :: Implementation :: PyPy', 'Programming Language :: Python :: Implementation :: Jython', 'Topic :: Software Development :: Libraries :: Python Modules', 'Topic :: Text Processing :: Markup']"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "    cmdclass -\u003e {'install_lib': \u003cclass __main__.MyInstallLib at 0xf6c676ec\u003e}"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000108,
+      "    description -\u003e ruamel.yaml is a YAML parser/emitter that supports roundtrip preservation of comments, seq/map flow style, and map key order"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "    entry_points -\u003e None"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "    ext_modules -\u003e [\u003csetuptools.extension.Extension instance at 0xf688930c\u003e]"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "    install_requires -\u003e ['ruamel.base\u003e=1.0.0', 'ruamel.ordereddict']"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "    license -\u003e MIT license"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "    name -\u003e ruamel.yaml"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000056,
+      "    namespace_packages -\u003e ['ruamel']"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "    package_data -\u003e {'ruamel.yaml': ['LICENSE']}\r\n"
+    ],
+    [
+      0.000072,
+      "    package_dir -\u003e {'ruamel': '.ruamel', 'ruamel.yaml': '.'}"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "    packages -\u003e ['ruamel', 'ruamel.yaml']"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "    url -\u003e https://bitbucket.org/ruamel/yaml"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000056,
+      "    version -\u003e 0.10.13"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000299,
+      "    "
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.029435,
+      "Downloading/unpacking MarkupSafe (from jinja2\u003e=2.7-\u003ecookiecutter)\r\n"
+    ],
+    [
+      0.176287,
+      "  Using download cache from /home/gp/.pip/download_cache/https%3A%2F%2Fpypi.python.org%2Fpackages%2Fsource%2FM%2FMarkupSafe%2FMarkupSafe-0.23.tar.gz"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.004141,
+      "  Running setup.py (path:/tmp/tmp.dDnIsIR1nv/.virtualenv/build/MarkupSafe/setup.py) egg_info for package MarkupSafe\r\n"
+    ],
+    [
+      0.074862,
+      "    \r\n"
+    ],
+    [
+      0.018119,
+      "Downloading/unpacking chardet\u003e=2.0.0 (from binaryornot\u003e=0.2.0-\u003ecookiecutter)\r\n"
+    ],
+    [
+      0.061987,
+      "  Using download cache from /home/gp/.pip/download_cache/https%3A%2F%2Fpypi.python.org%2Fpackages%2Fsource%2Fc%2Fchardet%2Fchardet-2.3.0.tar.gz"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.016204,
+      "  Running setup.py (path:/tmp/tmp.dDnIsIR1nv/.virtualenv/build/chardet/setup.py) egg_info for package chardet"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.076922,
+      "    \r\n"
+    ],
+    [
+      0.006857,
+      "    warning: no files found matching 'COPYING'\r\n"
+    ],
+    [
+      0.001265,
+      "    warning: no files found matching '*.html' under directory 'docs'\r\n"
+    ],
+    [
+      0.000080,
+      "    warning: no files found matching '*.css' under directory 'docs'"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000103,
+      "    warning: no files found matching '*.png' under directory 'docs'"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "    warning: no files found matching '*.gif' under directory 'docs'"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.012540,
+      "Downloading/unpacking ruamel.base\u003e=1.0.0 (from ruamel.yaml\u003e=0.10.12-\u003ecookiecutter)"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.065186,
+      "  Using download cache from /home/gp/.pip/download_cache/https%3A%2F%2Fpypi.python.org%2Fpackages%2Fpy2%2Fr%2Fruamel.base%2Fruamel.base-1.0.0-py2-none-any.whl\r\n"
+    ],
+    [
+      0.004150,
+      "Downloading/unpacking ruamel.ordereddict (from ruamel.yaml\u003e=0.10.12-\u003ecookiecutter)\r\n"
+    ],
+    [
+      0.064564,
+      "  Using download cache from /home/gp/.pip/download_cache/https%3A%2F%2Fpypi.python.org%2Fpackages%2Fsource%2Fr%2Fruamel.ordereddict%2Fruamel.ordereddict-0.4.9.tar.gz"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.007893,
+      "  Running setup.py (path:/tmp/tmp.dDnIsIR1nv/.virtualenv/build/ruamel.ordereddict/setup.py) egg_info for package ruamel.ordereddict\r\n"
+    ],
+    [
+      0.076530,
+      "    \r\n"
+    ],
+    [
+      0.020817,
+      "Installing collected packages: cookiecutter, future, jinja2, binaryornot, whichcraft, click, ruamel.yaml, MarkupSafe, chardet, ruamel.base, ruamel.ordereddict\r\n"
+    ],
+    [
+      0.017834,
+      "  Running setup.py install for future\r\n"
+    ],
+    [
+      0.121203,
+      "    \r\n"
+    ],
+    [
+      0.032934,
+      "    warning: no files found matching '*.au' under directory 'tests'\r\n"
+    ],
+    [
+      0.000719,
+      "    warning: no files found matching '*.gif' under directory 'tests'\r\n"
+    ],
+    [
+      0.001397,
+      "    warning: no files found matching '*.txt' under directory 'tests'\r\n"
+    ],
+    [
+      0.280974,
+      "    Installing pasteurize script to /tmp/tmp.dDnIsIR1nv/.virtualenv/bin\r\n"
+    ],
+    [
+      0.000024,
+      "    Installing futurize script to /tmp/tmp.dDnIsIR1nv/.virtualenv/bin"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.127674,
+      "  Running setup.py install for ruamel.yaml\r\n"
+    ],
+    [
+      0.194825,
+      "    author -\u003e Anthon van der Neut\r\n"
+    ],
+    [
+      0.000126,
+      "    author_email -\u003e a.van.der.neut@ruamel.eu\r\n"
+    ],
+    [
+      0.000320,
+      "    classifiers -\u003e ['Development Status :: 4 - Beta', 'Intended Audience :: Developers', 'License :: OSI Approved :: MIT License', 'Operating System :: OS Independent', 'Programming Language :: Python', 'Programming Language :: Python :: 2.6', 'Programming Language :: Python :: 2.7', 'Programming Language :: Python :: 3.3', 'Programming Language :: Python :: 3.4', 'Programming Language :: Python :: 3.5', 'Programming Language :: Python :: Implementation :: CPython', 'Programming Language :: Python :: Implementation :: PyPy', 'Programming Language :: Python :: Implementation :: Jython', 'Topic :: Software Development :: Libraries :: Python Modules', 'Topic :: Text Processing :: Markup']"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000076,
+      "    cmdclass -\u003e {'install_lib': \u003cclass __main__.MyInstallLib at 0xf6bebe6c\u003e}"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000108,
+      "    description -\u003e ruamel.yaml is a YAML parser/emitter that supports roundtrip preservation of comments, seq/map flow style, and map key order"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000785,
+      "    entry_points -\u003e None\r\n    ext_modules -\u003e [\u003csetuptools.extension.Extension instance at 0xf67ab8ec\u003e]\r\n    install_requires -\u003e ['ruamel.base\u003e=1.0.0', 'ruamel.ordereddict']\r\n    license -\u003e MIT license\r\n    name -\u003e ruamel.yaml\r\n    namespace_packages -\u003e ['ruamel']\r\n    package_data -\u003e {'ruamel.yaml': ['LICENSE']}\r\n    package_dir -\u003e {'ruamel': '.ruamel', 'ruamel.yaml': '.'}\r\n    packages -\u003e ['ruamel', 'ruamel.yaml']\r\n    url -\u003e https://bitbucket.org/ruamel/yaml\r\n    version -\u003e 0.10.13\r\n"
+    ],
+    [
+      0.031254,
+      "    building '_ruamel_yaml' extension\r\n"
+    ],
+    [
+      0.000395,
+      "    i686-linux-gnu-gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/include/python2.7 -c ext/_ruamel_yaml.c -o build/temp.linux-x86_64-2.7/ext/_ruamel_yaml.o\r\n"
+    ],
+    [
+      0.066772,
+      "    In file included from ext/_ruamel_yaml.c:239:0:"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000099,
+      "    ext/_ruamel_yaml.h:6:0: warning: \"PyUnicode_FromString\" redefined [enabled by default]\r\n"
+    ],
+    [
+      0.000083,
+      "     #define PyUnicode_FromString(s) PyUnicode_DecodeUTF8((s), strlen(s), \"strict\")"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "     ^\r\n"
+    ],
+    [
+      0.000079,
+      "    In file included from /usr/include/python2.7/Python.h:85:0,"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000083,
+      "    /usr/include/python2.7/unicodeobject.h:281:0: note: this is the location of the previous definition\r\n"
+    ],
+    [
+      0.000069,
+      "     # define PyUnicode_FromString PyUnicodeUCS4_FromString"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "     ^\r\n"
+    ],
+    [
+      0.002393,
+      "    ext/_ruamel_yaml.c: In function ‘__pyx_pf_12_ruamel_yaml_get_version_string’:"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000302,
+      "    ext/_ruamel_yaml.c:1294:17: warning: assignment discards ‘const’ qualifier from pointer target type [enabled by default]"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "       __pyx_v_value = yaml_get_version_string();"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "                     ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.004466,
+      "    ext/_ruamel_yaml.c: In function ‘__pyx_pf_12_ruamel_yaml_7CParser___init__’:"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000318,
+      "    ext/_ruamel_yaml.c:2475:5: warning: passing argument 2 of ‘yaml_parser_set_input’ from incompatible pointer type [enabled by default]"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "         yaml_parser_set_input((\u0026__pyx_v_self-\u003eparser), __pyx_f_12_ruamel_yaml_input_handler, ((void *)__pyx_v_self));\r\n"
+    ],
+    [
+      0.000029,
+      "         ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "    In file included from ext/_ruamel_yaml.h:2:0,"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000051,
+      "                     from ext/_ruamel_yaml.c:239:"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000082,
+      "    ext/yaml.h:1367:1: note: expected ‘int (*)(void *, unsigned char *, size_t,  size_t *)’ but argument is of type ‘int (*)(void *, char *, int,  int *)’"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "     yaml_parser_set_input(yaml_parser_t *parser,"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "     ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000710,
+      "    ext/_ruamel_yaml.c:2716:5: warning: pointer targets in passing argument 2 of ‘yaml_parser_set_input_string’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000396,
+      "\r\n         yaml_parser_set_input_string((\u0026__pyx_v_self-\u003eparser), PyString_AS_STRING(__pyx_v_stream), PyString_GET_SIZE(__pyx_v_stream));\r\n         ^\r\n    In file included from ext/_ruamel_yaml.h:2:0,\r\n                     from ext/_ruamel_yaml.c:239:\r\n"
+    ],
+    [
+      0.000028,
+      "    ext/yaml.h:1341:1: note: expected ‘const unsigned char *’ but argument is of type ‘char *’"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.000055,
+      "     yaml_parser_set_input_string(yaml_parser_t *parser,"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "     ^"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.006053,
+      "    ext/_ruamel_yaml.c: In function ‘__pyx_f_12_ruamel_yaml_7CParser__token_to_object’:"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000541,
+      "    ext/_ruamel_yaml.c:4482:5: warning: pointer targets in passing argument 1 of ‘strlen’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000195,
+      "         __pyx_t_2 = PyUnicode_FromString(__pyx_v_token-\u003edata.tag_directive.handle); if (unlikely(!__pyx_t_2)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 416; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "         ^"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000102,
+      "    In file included from /usr/include/python2.7/Python.h:38:0,"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000086,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000131,
+      "    /usr/include/string.h:399:15: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000086,
+      "     extern size_t strlen (const char *__s)"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "                   ^"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000156,
+      "    ext/_ruamel_yaml.c:4482:5: warning: pointer targets in passing argument 1 of ‘PyUnicodeUCS4_DecodeUTF8’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000201,
+      "         __pyx_t_2 = PyUnicode_FromString(__pyx_v_token-\u003edata.tag_directive.handle); if (unlikely(!__pyx_t_2)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 416; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "         ^"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "    In file included from /usr/include/python2.7/Python.h:85:0,"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000081,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000138,
+      "    /usr/include/python2.7/unicodeobject.h:261:31: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "     # define PyUnicode_DecodeUTF8 PyUnicodeUCS4_DecodeUTF8"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000076,
+      "                                   ^"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000120,
+      "    /usr/include/python2.7/unicodeobject.h:750:23: note: in expansion of macro ‘PyUnicode_DecodeUTF8’"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000088,
+      "     PyAPI_FUNC(PyObject*) PyUnicode_DecodeUTF8("
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "                           ^"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000135,
+      "    ext/_ruamel_yaml.c:4494:5: warning: pointer targets in passing argument 1 of ‘strlen’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000736,
+      "         __pyx_t_2 = PyUnicode_FromString(__pyx_v_token-\u003edata.tag_directive.prefix); if (unlikely(!__pyx_t_2)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 417; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "         ^"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000083,
+      "    In file included from /usr/include/python2.7/Python.h:38:0,"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "    /usr/include/string.h:399:15: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "     extern size_t strlen (const char *__s)"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "                   ^\r\n"
+    ],
+    [
+      0.000103,
+      "    ext/_ruamel_yaml.c:4494:5: warning: pointer targets in passing argument 1 of ‘PyUnicodeUCS4_DecodeUTF8’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000131,
+      "         __pyx_t_2 = PyUnicode_FromString(__pyx_v_token-\u003edata.tag_directive.prefix); if (unlikely(!__pyx_t_2)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 417; __pyx_clineno = __LINE__; goto __pyx_L1_error;}\r\n"
+    ],
+    [
+      0.000049,
+      "         ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "    In file included from /usr/include/python2.7/Python.h:85:0,"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000193,
+      "    /usr/include/python2.7/unicodeobject.h:261:31: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’\r\n     # define PyUnicode_DecodeUTF8 PyUnicodeUCS4_DecodeUTF8\r\n"
+    ],
+    [
+      0.000073,
+      "                                   ^"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000311,
+      "    /usr/include/python2.7/unicodeobject.h:750:23: note: in expansion of macro ‘PyUnicode_DecodeUTF8’\r\n     PyAPI_FUNC(PyObject*) PyUnicode_DecodeUTF8(\r\n                           ^\r\n"
+    ],
+    [
+      0.004162,
+      "    ext/_ruamel_yaml.c:5354:5: warning: pointer targets in passing argument 1 of ‘strlen’ differ in signedness [-Wpointer-sign]\r\n"
+    ],
+    [
+      0.000168,
+      "         __pyx_t_2 = PyUnicode_FromString(__pyx_v_token-\u003edata.alias.value); if (unlikely(!__pyx_t_2)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 447; __pyx_clineno = __LINE__; goto __pyx_L1_error;}\r\n"
+    ],
+    [
+      0.000061,
+      "         ^\r\n"
+    ],
+    [
+      0.000064,
+      "    In file included from /usr/include/python2.7/Python.h:38:0,"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000056,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000087,
+      "    /usr/include/string.h:399:15: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "     extern size_t strlen (const char *__s)"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000053,
+      "                   ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "    ext/_ruamel_yaml.c:5354:5: warning: pointer targets in passing argument 1 of ‘PyUnicodeUCS4_DecodeUTF8’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000123,
+      "         __pyx_t_2 = PyUnicode_FromString(__pyx_v_token-\u003edata.alias.value); if (unlikely(!__pyx_t_2)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 447; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.001763,
+      "         ^\r\n    In file included from /usr/include/python2.7/Python.h:85:0,\r\n                     from ext/_ruamel_yaml.c:4:\r\n    /usr/include/python2.7/unicodeobject.h:261:31: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’\r\n     # define PyUnicode_DecodeUTF8 PyUnicodeUCS4_DecodeUTF8\r\n                                   ^\r\n    /usr/include/python2.7/unicodeobject.h:750:23: note: in expansion of macro ‘PyUnicode_DecodeUTF8’\r\n     PyAPI_FUNC(PyObject*) PyUnicode_DecodeUTF8(\r\n                           ^\r\n    ext/_ruamel_yaml.c:5428:5: warning: pointer targets in passing argument 1 of ‘strlen’ differ in signedness [-Wpointer-sign]\r\n         __pyx_t_2 = PyUnicode_FromString(__pyx_v_token-\u003edata.anchor.value); if (unlikely(!__pyx_t_2)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 450; __pyx_clineno = __LINE__; goto __pyx_L1_error;}\r\n         ^\r\n    In file included from /usr/include/python2.7/Python.h:38:0,\r\n                     from ext/_ruamel_yaml.c:4:\r\n    /usr/include/string.h:399:15: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’\r\n     extern size_t strlen (const char *__s)\r\n                   ^\r\n"
+    ],
+    [
+      0.000351,
+      "    ext/_ruamel_yaml.c:5428:5: warning: pointer targets in passing argument 1 of ‘PyUnicodeUCS4_DecodeUTF8’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000438,
+      "         __pyx_t_2 = PyUnicode_FromString(__pyx_v_token-\u003edata.anchor.value); if (unlikely(!__pyx_t_2)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 450; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000010,
+      "\r\n         ^\r\n    In file included from /usr/include/python2.7/Python.h:85:0,\r\n"
+    ],
+    [
+      0.000044,
+      "                     from ext/_ruamel_yaml.c:4:\r\n"
+    ],
+    [
+      0.000389,
+      "    /usr/include/python2.7/unicodeobject.h:261:31: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’\r\n     # define PyUnicode_DecodeUTF8 PyUnicodeUCS4_DecodeUTF8\r\n                                   ^\r\n"
+    ],
+    [
+      0.000060,
+      "    /usr/include/python2.7/unicodeobject.h:750:23: note: in expansion of macro ‘PyUnicode_DecodeUTF8’"
+    ],
+    [
+      0.000024,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      "     PyAPI_FUNC(PyObject*) PyUnicode_DecodeUTF8("
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      "                           ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000769,
+      "    ext/_ruamel_yaml.c:5502:5: warning: pointer targets in passing argument 1 of ‘strlen’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000171,
+      "         __pyx_t_2 = PyUnicode_FromString(__pyx_v_token-\u003edata.tag.handle); if (unlikely(!__pyx_t_2)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 453; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "         ^"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "    In file included from /usr/include/python2.7/Python.h:38:0,"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "    /usr/include/string.h:399:15: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "     extern size_t strlen (const char *__s)"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      "                   ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000359,
+      "    ext/_ruamel_yaml.c:5502:5: warning: pointer targets in passing argument 1 of ‘PyUnicodeUCS4_DecodeUTF8’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000165,
+      "         __pyx_t_2 = PyUnicode_FromString(__pyx_v_token-\u003edata.tag.handle); if (unlikely(!__pyx_t_2)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 453; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      "         ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "    In file included from /usr/include/python2.7/Python.h:85:0,"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000115,
+      "    /usr/include/python2.7/unicodeobject.h:261:31: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "     # define PyUnicode_DecodeUTF8 PyUnicodeUCS4_DecodeUTF8"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000051,
+      "                                   ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "    /usr/include/python2.7/unicodeobject.h:750:23: note: in expansion of macro ‘PyUnicode_DecodeUTF8’\r\n"
+    ],
+    [
+      0.000065,
+      "     PyAPI_FUNC(PyObject*) PyUnicode_DecodeUTF8("
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "                           ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000318,
+      "    ext/_ruamel_yaml.c:5514:5: warning: pointer targets in passing argument 1 of ‘strlen’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000177,
+      "         __pyx_t_2 = PyUnicode_FromString(__pyx_v_token-\u003edata.tag.suffix); if (unlikely(!__pyx_t_2)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 454; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "         ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "    In file included from /usr/include/python2.7/Python.h:38:0,"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "    /usr/include/string.h:399:15: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "     extern size_t strlen (const char *__s)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "                   ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000363,
+      "    ext/_ruamel_yaml.c:5514:5: warning: pointer targets in passing argument 1 of ‘PyUnicodeUCS4_DecodeUTF8’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000167,
+      "         __pyx_t_2 = PyUnicode_FromString(__pyx_v_token-\u003edata.tag.suffix); if (unlikely(!__pyx_t_2)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 454; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "         ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "    In file included from /usr/include/python2.7/Python.h:85:0,"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000127,
+      "    /usr/include/python2.7/unicodeobject.h:261:31: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "     # define PyUnicode_DecodeUTF8 PyUnicodeUCS4_DecodeUTF8"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000062,
+      "                                   ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000106,
+      "    /usr/include/python2.7/unicodeobject.h:750:23: note: in expansion of macro ‘PyUnicode_DecodeUTF8’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "     PyAPI_FUNC(PyObject*) PyUnicode_DecodeUTF8("
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "                           ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000984,
+      "    ext/_ruamel_yaml.c:5626:5: warning: pointer targets in passing argument 1 of ‘PyUnicodeUCS4_DecodeUTF8’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000211,
+      "         __pyx_t_2 = PyUnicode_DecodeUTF8(__pyx_v_token-\u003edata.scalar.value, __pyx_v_token-\u003edata.scalar.length, __pyx_k_strict); if (unlikely(!__pyx_t_2)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 459; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000053,
+      "         ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000083,
+      "    In file included from /usr/include/python2.7/Python.h:85:0,"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000123,
+      "    /usr/include/python2.7/unicodeobject.h:261:31: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "     # define PyUnicode_DecodeUTF8 PyUnicodeUCS4_DecodeUTF8"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "                                   ^"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "    /usr/include/python2.7/unicodeobject.h:750:23: note: in expansion of macro ‘PyUnicode_DecodeUTF8’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "     PyAPI_FUNC(PyObject*) PyUnicode_DecodeUTF8("
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000271,
+      "                           ^\r\n"
+    ],
+    [
+      0.005130,
+      "    ext/_ruamel_yaml.c: In function ‘__pyx_f_12_ruamel_yaml_7CParser__event_to_object’:\r\n"
+    ],
+    [
+      0.000846,
+      "    ext/_ruamel_yaml.c:7352:9: warning: pointer targets in passing argument 1 of ‘strlen’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000175,
+      "             __pyx_t_4 = PyUnicode_FromString(__pyx_v_tag_directive-\u003ehandle); if (unlikely(!__pyx_t_4)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 573; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "             ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "    In file included from /usr/include/python2.7/Python.h:38:0,"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000122,
+      "    /usr/include/string.h:399:15: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000062,
+      "     extern size_t strlen (const char *__s)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "                   ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000527,
+      "    ext/_ruamel_yaml.c:7352:9: warning: pointer targets in passing argument 1 of ‘PyUnicodeUCS4_DecodeUTF8’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000174,
+      "             __pyx_t_4 = PyUnicode_FromString(__pyx_v_tag_directive-\u003ehandle); if (unlikely(!__pyx_t_4)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 573; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000055,
+      "             ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000082,
+      "    In file included from /usr/include/python2.7/Python.h:85:0,"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000120,
+      "    /usr/include/python2.7/unicodeobject.h:261:31: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "     # define PyUnicode_DecodeUTF8 PyUnicodeUCS4_DecodeUTF8"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000051,
+      "                                   ^"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000102,
+      "    /usr/include/python2.7/unicodeobject.h:750:23: note: in expansion of macro ‘PyUnicode_DecodeUTF8’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "     PyAPI_FUNC(PyObject*) PyUnicode_DecodeUTF8("
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      "                           ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000542,
+      "    ext/_ruamel_yaml.c:7364:9: warning: pointer targets in passing argument 1 of ‘strlen’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000171,
+      "             __pyx_t_4 = PyUnicode_FromString(__pyx_v_tag_directive-\u003eprefix); if (unlikely(!__pyx_t_4)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 574; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "             ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "    In file included from /usr/include/python2.7/Python.h:38:0,"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "    /usr/include/string.h:399:15: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000062,
+      "     extern size_t strlen (const char *__s)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "                   ^"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000536,
+      "    ext/_ruamel_yaml.c:7364:9: warning: pointer targets in passing argument 1 of ‘PyUnicodeUCS4_DecodeUTF8’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000173,
+      "             __pyx_t_4 = PyUnicode_FromString(__pyx_v_tag_directive-\u003eprefix); if (unlikely(!__pyx_t_4)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 574; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "             ^"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000082,
+      "    In file included from /usr/include/python2.7/Python.h:85:0,"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000125,
+      "    /usr/include/python2.7/unicodeobject.h:261:31: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000081,
+      "     # define PyUnicode_DecodeUTF8 PyUnicodeUCS4_DecodeUTF8"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "                                   ^"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000123,
+      "    /usr/include/python2.7/unicodeobject.h:750:23: note: in expansion of macro ‘PyUnicode_DecodeUTF8’"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "     PyAPI_FUNC(PyObject*) PyUnicode_DecodeUTF8("
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "                           ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.001656,
+      "    ext/_ruamel_yaml.c:7583:5: warning: pointer targets in passing argument 1 of ‘strlen’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000174,
+      "         __pyx_t_4 = PyUnicode_FromString(__pyx_v_event-\u003edata.alias.anchor); if (unlikely(!__pyx_t_4)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 585; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "         ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "    In file included from /usr/include/python2.7/Python.h:38:0,"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000106,
+      "    /usr/include/string.h:399:15: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "     extern size_t strlen (const char *__s)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "                   ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000550,
+      "    ext/_ruamel_yaml.c:7583:5: warning: pointer targets in passing argument 1 of ‘PyUnicodeUCS4_DecodeUTF8’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000169,
+      "         __pyx_t_4 = PyUnicode_FromString(__pyx_v_event-\u003edata.alias.anchor); if (unlikely(!__pyx_t_4)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 585; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000053,
+      "         ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000083,
+      "    In file included from /usr/include/python2.7/Python.h:85:0,"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000135,
+      "    /usr/include/python2.7/unicodeobject.h:261:31: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      "     # define PyUnicode_DecodeUTF8 PyUnicodeUCS4_DecodeUTF8"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "                                   ^"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000109,
+      "    /usr/include/python2.7/unicodeobject.h:750:23: note: in expansion of macro ‘PyUnicode_DecodeUTF8’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "     PyAPI_FUNC(PyObject*) PyUnicode_DecodeUTF8("
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "                           ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.001010,
+      "    ext/_ruamel_yaml.c:7677:7: warning: pointer targets in passing argument 1 of ‘strlen’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000177,
+      "           __pyx_t_4 = PyUnicode_FromString(__pyx_v_event-\u003edata.scalar.anchor); if (unlikely(!__pyx_t_4)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 590; __pyx_clineno = __LINE__; goto __pyx_L1_error;}\r\n"
+    ],
+    [
+      0.000045,
+      "           ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "    In file included from /usr/include/python2.7/Python.h:38:0,"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000109,
+      "    /usr/include/string.h:399:15: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "     extern size_t strlen (const char *__s)"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "                   ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000552,
+      "    ext/_ruamel_yaml.c:7677:7: warning: pointer targets in passing argument 1 of ‘PyUnicodeUCS4_DecodeUTF8’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000174,
+      "           __pyx_t_4 = PyUnicode_FromString(__pyx_v_event-\u003edata.scalar.anchor); if (unlikely(!__pyx_t_4)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 590; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "           ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000278,
+      "    In file included from /usr/include/python2.7/Python.h:85:0,\r\n                     from ext/_ruamel_yaml.c:4:\r\n    /usr/include/python2.7/unicodeobject.h:261:31: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "     # define PyUnicode_DecodeUTF8 PyUnicodeUCS4_DecodeUTF8"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000051,
+      "                                   ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000104,
+      "    /usr/include/python2.7/unicodeobject.h:750:23: note: in expansion of macro ‘PyUnicode_DecodeUTF8’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "     PyAPI_FUNC(PyObject*) PyUnicode_DecodeUTF8("
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000051,
+      "                           ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000665,
+      "    ext/_ruamel_yaml.c:7718:7: warning: pointer targets in passing argument 1 of ‘strlen’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000160,
+      "           __pyx_t_4 = PyUnicode_FromString(__pyx_v_event-\u003edata.scalar.tag); if (unlikely(!__pyx_t_4)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 593; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "           ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "    In file included from /usr/include/python2.7/Python.h:38:0,"
+    ],
+    [
+      0.000042,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000591,
+      "    /usr/include/string.h:399:15: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’\r\n     extern size_t strlen (const char *__s)\r\n                   ^\r\n"
+    ],
+    [
+      0.000218,
+      "    ext/_ruamel_yaml.c:7718:7: warning: pointer targets in passing argument 1 of ‘PyUnicodeUCS4_DecodeUTF8’ differ in signedness [-Wpointer-sign]\r\n"
+    ],
+    [
+      0.000175,
+      "           __pyx_t_4 = PyUnicode_FromString(__pyx_v_event-\u003edata.scalar.tag); if (unlikely(!__pyx_t_4)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 593; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000087,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "           ^\r\n"
+    ],
+    [
+      0.000029,
+      "    In file included from /usr/include/python2.7/Python.h:85:0,"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000067,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000120,
+      "    /usr/include/python2.7/unicodeobject.h:261:31: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’\r\n"
+    ],
+    [
+      0.000076,
+      "     # define PyUnicode_DecodeUTF8 PyUnicodeUCS4_DecodeUTF8"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000056,
+      "                                   ^"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000099,
+      "    /usr/include/python2.7/unicodeobject.h:750:23: note: in expansion of macro ‘PyUnicode_DecodeUTF8’\r\n"
+    ],
+    [
+      0.000067,
+      "     PyAPI_FUNC(PyObject*) PyUnicode_DecodeUTF8("
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "                           ^"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.001388,
+      "    ext/_ruamel_yaml.c:7739:5: warning: pointer targets in passing argument 1 of ‘PyUnicodeUCS4_DecodeUTF8’ differ in signedness [-Wpointer-sign]\r\n         __pyx_t_4 = PyUnicode_DecodeUTF8(__pyx_v_event-\u003edata.scalar.value, __pyx_v_event-\u003edata.scalar.length, __pyx_k_strict); if (unlikely(!__pyx_t_4)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 594; __pyx_clineno = __LINE__; goto __pyx_L1_error;}\r\n         ^\r\n    In file included from /usr/include/python2.7/Python.h:85:0,\r\n                     from ext/_ruamel_yaml.c:4:\r\n    /usr/include/python2.7/unicodeobject.h:261:31: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’\r\n     # define PyUnicode_DecodeUTF8 PyUnicodeUCS4_DecodeUTF8\r\n                                   ^\r\n"
+    ],
+    [
+      0.000086,
+      "    /usr/include/python2.7/unicodeobject.h:750:23: note: in expansion of macro ‘PyUnicode_DecodeUTF8’\r\n"
+    ],
+    [
+      0.000233,
+      "     PyAPI_FUNC(PyObject*) PyUnicode_DecodeUTF8(\r\n                           ^\r\n"
+    ],
+    [
+      0.002273,
+      "    ext/_ruamel_yaml.c:8107:7: warning: pointer targets in passing argument 1 of ‘strlen’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000175,
+      "           __pyx_t_4 = PyUnicode_FromString(__pyx_v_event-\u003edata.sequence_start.anchor); if (unlikely(!__pyx_t_4)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 619; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "           ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "    In file included from /usr/include/python2.7/Python.h:38:0,"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000062,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000107,
+      "    /usr/include/string.h:399:15: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "     extern size_t strlen (const char *__s)"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "                   ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000738,
+      "    ext/_ruamel_yaml.c:8107:7: warning: pointer targets in passing argument 1 of ‘PyUnicodeUCS4_DecodeUTF8’ differ in signedness [-Wpointer-sign]\r\n"
+    ],
+    [
+      0.000051,
+      "           __pyx_t_4 = PyUnicode_FromString(__pyx_v_event-\u003edata.sequence_start.anchor); if (unlikely(!__pyx_t_4)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 619; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "           ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "    In file included from /usr/include/python2.7/Python.h:85:0,"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000119,
+      "    /usr/include/python2.7/unicodeobject.h:261:31: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "     # define PyUnicode_DecodeUTF8 PyUnicodeUCS4_DecodeUTF8"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000056,
+      "                                   ^"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000102,
+      "    /usr/include/python2.7/unicodeobject.h:750:23: note: in expansion of macro ‘PyUnicode_DecodeUTF8’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      "     PyAPI_FUNC(PyObject*) PyUnicode_DecodeUTF8("
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "                           ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000775,
+      "    ext/_ruamel_yaml.c:8148:7: warning: pointer targets in passing argument 1 of ‘strlen’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000175,
+      "           __pyx_t_4 = PyUnicode_FromString(__pyx_v_event-\u003edata.sequence_start.tag); if (unlikely(!__pyx_t_4)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 622; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "           ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "    In file included from /usr/include/python2.7/Python.h:38:0,"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000106,
+      "    /usr/include/string.h:399:15: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "     extern size_t strlen (const char *__s)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "                   ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000634,
+      "    ext/_ruamel_yaml.c:8148:7: warning: pointer targets in passing argument 1 of ‘PyUnicodeUCS4_DecodeUTF8’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000172,
+      "           __pyx_t_4 = PyUnicode_FromString(__pyx_v_event-\u003edata.sequence_start.tag); if (unlikely(!__pyx_t_4)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 622; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "           ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000081,
+      "    In file included from /usr/include/python2.7/Python.h:85:0,"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000131,
+      "    /usr/include/python2.7/unicodeobject.h:261:31: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "     # define PyUnicode_DecodeUTF8 PyUnicodeUCS4_DecodeUTF8"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "                                   ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000109,
+      "    /usr/include/python2.7/unicodeobject.h:750:23: note: in expansion of macro ‘PyUnicode_DecodeUTF8’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "     PyAPI_FUNC(PyObject*) PyUnicode_DecodeUTF8("
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "                           ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.001509,
+      "    ext/_ruamel_yaml.c:8377:7: warning: pointer targets in passing argument 1 of ‘strlen’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000183,
+      "           __pyx_t_4 = PyUnicode_FromString(__pyx_v_event-\u003edata.mapping_start.anchor); if (unlikely(!__pyx_t_4)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 636; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "           ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "    In file included from /usr/include/python2.7/Python.h:38:0,"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000106,
+      "    /usr/include/string.h:399:15: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "     extern size_t strlen (const char *__s)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "                   ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000626,
+      "    ext/_ruamel_yaml.c:8377:7: warning: pointer targets in passing argument 1 of ‘PyUnicodeUCS4_DecodeUTF8’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000176,
+      "           __pyx_t_4 = PyUnicode_FromString(__pyx_v_event-\u003edata.mapping_start.anchor); if (unlikely(!__pyx_t_4)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 636; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000055,
+      "           ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000082,
+      "    In file included from /usr/include/python2.7/Python.h:85:0,"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000123,
+      "    /usr/include/python2.7/unicodeobject.h:261:31: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "     # define PyUnicode_DecodeUTF8 PyUnicodeUCS4_DecodeUTF8"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000057,
+      "                                   ^\r\n"
+    ],
+    [
+      0.000104,
+      "    /usr/include/python2.7/unicodeobject.h:750:23: note: in expansion of macro ‘PyUnicode_DecodeUTF8’"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000062,
+      "     PyAPI_FUNC(PyObject*) PyUnicode_DecodeUTF8("
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000048,
+      "                           ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000694,
+      "    ext/_ruamel_yaml.c:8418:7: warning: pointer targets in passing argument 1 of ‘strlen’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000174,
+      "           __pyx_t_4 = PyUnicode_FromString(__pyx_v_event-\u003edata.mapping_start.tag); if (unlikely(!__pyx_t_4)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 639; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "           ^\r\n"
+    ],
+    [
+      0.000079,
+      "    In file included from /usr/include/python2.7/Python.h:38:0,"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000107,
+      "    /usr/include/string.h:399:15: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "     extern size_t strlen (const char *__s)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "                   ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000684,
+      "    ext/_ruamel_yaml.c:8418:7: warning: pointer targets in passing argument 1 of ‘PyUnicodeUCS4_DecodeUTF8’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000174,
+      "           __pyx_t_4 = PyUnicode_FromString(__pyx_v_event-\u003edata.mapping_start.tag); if (unlikely(!__pyx_t_4)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 639; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000048,
+      "           ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "    In file included from /usr/include/python2.7/Python.h:85:0,"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000128,
+      "    /usr/include/python2.7/unicodeobject.h:261:31: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000076,
+      "     # define PyUnicode_DecodeUTF8 PyUnicodeUCS4_DecodeUTF8"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "                                   ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000106,
+      "    /usr/include/python2.7/unicodeobject.h:750:23: note: in expansion of macro ‘PyUnicode_DecodeUTF8’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "     PyAPI_FUNC(PyObject*) PyUnicode_DecodeUTF8("
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000057,
+      "                           ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.006397,
+      "    ext/_ruamel_yaml.c: In function ‘__pyx_f_12_ruamel_yaml_7CParser__compose_node’:"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.001160,
+      "    ext/_ruamel_yaml.c:10046:5: warning: pointer targets in passing argument 1 of ‘strlen’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000165,
+      "         __pyx_t_3 = PyUnicode_FromString(__pyx_v_self-\u003eparsed_event.data.alias.anchor); if (unlikely(!__pyx_t_3)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 733; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "         ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "    In file included from /usr/include/python2.7/Python.h:38:0,"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000107,
+      "    /usr/include/string.h:399:15: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000062,
+      "     extern size_t strlen (const char *__s)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "                   ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000803,
+      "    ext/_ruamel_yaml.c:10046:5: warning: pointer targets in passing argument 1 of ‘PyUnicodeUCS4_DecodeUTF8’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000181,
+      "         __pyx_t_3 = PyUnicode_FromString(__pyx_v_self-\u003eparsed_event.data.alias.anchor); if (unlikely(!__pyx_t_3)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 733; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "         ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000083,
+      "    In file included from /usr/include/python2.7/Python.h:85:0,"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000124,
+      "    /usr/include/python2.7/unicodeobject.h:261:31: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "     # define PyUnicode_DecodeUTF8 PyUnicodeUCS4_DecodeUTF8"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "                                   ^"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000110,
+      "    /usr/include/python2.7/unicodeobject.h:750:23: note: in expansion of macro ‘PyUnicode_DecodeUTF8’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000073,
+      "     PyAPI_FUNC(PyObject*) PyUnicode_DecodeUTF8("
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "                           ^"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.002158,
+      "    ext/_ruamel_yaml.c:10330:5: warning: pointer targets in passing argument 1 of ‘strlen’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000179,
+      "         __pyx_t_6 = PyUnicode_FromString(__pyx_v_self-\u003eparsed_event.data.scalar.anchor); if (unlikely(!__pyx_t_6)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 749; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "         ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "    In file included from /usr/include/python2.7/Python.h:38:0,"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000107,
+      "    /usr/include/string.h:399:15: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "     extern size_t strlen (const char *__s)"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "                   ^"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000821,
+      "    ext/_ruamel_yaml.c:10330:5: warning: pointer targets in passing argument 1 of ‘PyUnicodeUCS4_DecodeUTF8’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000180,
+      "         __pyx_t_6 = PyUnicode_FromString(__pyx_v_self-\u003eparsed_event.data.scalar.anchor); if (unlikely(!__pyx_t_6)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 749; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000053,
+      "         ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000082,
+      "    In file included from /usr/include/python2.7/Python.h:85:0,"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000120,
+      "    /usr/include/python2.7/unicodeobject.h:261:31: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "     # define PyUnicode_DecodeUTF8 PyUnicodeUCS4_DecodeUTF8"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000056,
+      "                                   ^"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000101,
+      "    /usr/include/python2.7/unicodeobject.h:750:23: note: in expansion of macro ‘PyUnicode_DecodeUTF8’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000244,
+      "     PyAPI_FUNC(PyObject*) PyUnicode_DecodeUTF8(\r\n                           ^\r\n"
+    ],
+    [
+      0.000777,
+      "    ext/_ruamel_yaml.c:10386:5: warning: pointer targets in passing argument 1 of ‘strlen’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000191,
+      "         __pyx_t_6 = PyUnicode_FromString(__pyx_v_self-\u003eparsed_event.data.sequence_start.anchor); if (unlikely(!__pyx_t_6)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 752; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "         ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "    In file included from /usr/include/python2.7/Python.h:38:0,"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000062,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000106,
+      "    /usr/include/string.h:399:15: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "     extern size_t strlen (const char *__s)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "                   ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000830,
+      "    ext/_ruamel_yaml.c:10386:5: warning: pointer targets in passing argument 1 of ‘PyUnicodeUCS4_DecodeUTF8’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000184,
+      "         __pyx_t_6 = PyUnicode_FromString(__pyx_v_self-\u003eparsed_event.data.sequence_start.anchor); if (unlikely(!__pyx_t_6)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 752; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "         ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000081,
+      "    In file included from /usr/include/python2.7/Python.h:85:0,"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000115,
+      "    /usr/include/python2.7/unicodeobject.h:261:31: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "     # define PyUnicode_DecodeUTF8 PyUnicodeUCS4_DecodeUTF8"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "                                   ^"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "    /usr/include/python2.7/unicodeobject.h:750:23: note: in expansion of macro ‘PyUnicode_DecodeUTF8’"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "     PyAPI_FUNC(PyObject*) PyUnicode_DecodeUTF8("
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000048,
+      "                           ^"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000890,
+      "    ext/_ruamel_yaml.c:10442:5: warning: pointer targets in passing argument 1 of ‘strlen’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000196,
+      "         __pyx_t_6 = PyUnicode_FromString(__pyx_v_self-\u003eparsed_event.data.mapping_start.anchor); if (unlikely(!__pyx_t_6)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 755; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "         ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "    In file included from /usr/include/python2.7/Python.h:38:0,"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000106,
+      "    /usr/include/string.h:399:15: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "     extern size_t strlen (const char *__s)"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "                   ^"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.001232,
+      "    ext/_ruamel_yaml.c:10442:5: warning: pointer targets in passing argument 1 of ‘PyUnicodeUCS4_DecodeUTF8’ differ in signedness [-Wpointer-sign]\r\n         __pyx_t_6 = PyUnicode_FromString(__pyx_v_self-\u003eparsed_event.data.mapping_start.anchor); if (unlikely(!__pyx_t_6)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 755; __pyx_clineno = __LINE__; goto __pyx_L1_error;}\r\n         ^\r\n    In file included from /usr/include/python2.7/Python.h:85:0,\r\n"
+    ],
+    [
+      0.000012,
+      "                     from ext/_ruamel_yaml.c:4:\r\n"
+    ],
+    [
+      0.000125,
+      "    /usr/include/python2.7/unicodeobject.h:261:31: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "     # define PyUnicode_DecodeUTF8 PyUnicodeUCS4_DecodeUTF8"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      "                                   ^"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "    /usr/include/python2.7/unicodeobject.h:750:23: note: in expansion of macro ‘PyUnicode_DecodeUTF8’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "     PyAPI_FUNC(PyObject*) PyUnicode_DecodeUTF8("
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "                           ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.003001,
+      "    ext/_ruamel_yaml.c: In function ‘__pyx_f_12_ruamel_yaml_7CParser__compose_scalar_node’:"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.001277,
+      "    ext/_ruamel_yaml.c:11064:3: warning: pointer targets in passing argument 1 of ‘PyUnicodeUCS4_DecodeUTF8’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000225,
+      "       __pyx_t_2 = PyUnicode_DecodeUTF8(__pyx_v_self-\u003eparsed_event.data.scalar.value, __pyx_v_self-\u003eparsed_event.data.scalar.length, __pyx_k_strict); if (unlikely(!__pyx_t_2)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 790; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "       ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      "    In file included from /usr/include/python2.7/Python.h:85:0,"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000123,
+      "    /usr/include/python2.7/unicodeobject.h:261:31: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "     # define PyUnicode_DecodeUTF8 PyUnicodeUCS4_DecodeUTF8"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "                                   ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000108,
+      "    /usr/include/python2.7/unicodeobject.h:750:23: note: in expansion of macro ‘PyUnicode_DecodeUTF8’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "     PyAPI_FUNC(PyObject*) PyUnicode_DecodeUTF8("
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "                           ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.002081,
+      "    ext/_ruamel_yaml.c:11265:5: warning: pointer targets in passing argument 1 of ‘strlen’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000067,
+      "\r\n         __pyx_t_2 = PyUnicode_FromString(__pyx_v_self-\u003eparsed_event.data.scalar.tag); if (unlikely(!__pyx_t_2)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 803; __pyx_clineno = __LINE__; goto __pyx_L1_error;}\r\n         ^\r\n    In file included from /usr/include/python2.7/Python.h:38:0,\r\n                     from ext/_ruamel_yaml.c:4:\r\n    /usr/include/string.h:399:15: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’\r\n"
+    ],
+    [
+      0.000009,
+      "     extern size_t strlen (const char *__s)\r\n"
+    ],
+    [
+      0.000033,
+      "                   ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.001005,
+      "    ext/_ruamel_yaml.c:11265:5: warning: pointer targets in passing argument 1 of ‘PyUnicodeUCS4_DecodeUTF8’ differ in signedness [-Wpointer-sign]\r\n"
+    ],
+    [
+      0.000185,
+      "         __pyx_t_2 = PyUnicode_FromString(__pyx_v_self-\u003eparsed_event.data.scalar.tag); if (unlikely(!__pyx_t_2)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 803; __pyx_clineno = __LINE__; goto __pyx_L1_error;}\r\n"
+    ],
+    [
+      0.000061,
+      "         ^\r\n"
+    ],
+    [
+      0.000085,
+      "    In file included from /usr/include/python2.7/Python.h:85:0,"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000131,
+      "    /usr/include/python2.7/unicodeobject.h:261:31: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "     # define PyUnicode_DecodeUTF8 PyUnicodeUCS4_DecodeUTF8\r\n"
+    ],
+    [
+      0.000079,
+      "                                   ^\r\n"
+    ],
+    [
+      0.000108,
+      "    /usr/include/python2.7/unicodeobject.h:750:23: note: in expansion of macro ‘PyUnicode_DecodeUTF8’"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000067,
+      "     PyAPI_FUNC(PyObject*) PyUnicode_DecodeUTF8("
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "                           ^"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.002752,
+      "    ext/_ruamel_yaml.c: In function ‘__pyx_f_12_ruamel_yaml_7CParser__compose_sequence_node’:"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.001259,
+      "    ext/_ruamel_yaml.c:11799:5: warning: pointer targets in passing argument 1 of ‘strlen’ differ in signedness [-Wpointer-sign]\r\n"
+    ],
+    [
+      0.000189,
+      "         __pyx_t_3 = PyUnicode_FromString(__pyx_v_self-\u003eparsed_event.data.sequence_start.tag); if (unlikely(!__pyx_t_3)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 836; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "         ^\r\n"
+    ],
+    [
+      0.000076,
+      "    In file included from /usr/include/python2.7/Python.h:38:0,"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000106,
+      "    /usr/include/string.h:399:15: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "     extern size_t strlen (const char *__s)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "                   ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000992,
+      "    ext/_ruamel_yaml.c:11799:5: warning: pointer targets in passing argument 1 of ‘PyUnicodeUCS4_DecodeUTF8’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000181,
+      "         __pyx_t_3 = PyUnicode_FromString(__pyx_v_self-\u003eparsed_event.data.sequence_start.tag); if (unlikely(!__pyx_t_3)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 836; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "         ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000086,
+      "    In file included from /usr/include/python2.7/Python.h:85:0,"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000124,
+      "    /usr/include/python2.7/unicodeobject.h:261:31: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000086,
+      "     # define PyUnicode_DecodeUTF8 PyUnicodeUCS4_DecodeUTF8"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000062,
+      "                                   ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000108,
+      "    /usr/include/python2.7/unicodeobject.h:750:23: note: in expansion of macro ‘PyUnicode_DecodeUTF8’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "     PyAPI_FUNC(PyObject*) PyUnicode_DecodeUTF8("
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000056,
+      "                           ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.002419,
+      "    ext/_ruamel_yaml.c: In function ‘__pyx_f_12_ruamel_yaml_7CParser__compose_mapping_node’:"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.001392,
+      "    ext/_ruamel_yaml.c:12396:5: warning: pointer targets in passing argument 1 of ‘strlen’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000185,
+      "         __pyx_t_3 = PyUnicode_FromString(__pyx_v_self-\u003eparsed_event.data.mapping_start.tag); if (unlikely(!__pyx_t_3)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 875; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "         ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "    In file included from /usr/include/python2.7/Python.h:38:0,"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000106,
+      "    /usr/include/string.h:399:15: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "     extern size_t strlen (const char *__s)"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "                   ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.001041,
+      "    ext/_ruamel_yaml.c:12396:5: warning: pointer targets in passing argument 1 of ‘PyUnicodeUCS4_DecodeUTF8’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000184,
+      "         __pyx_t_3 = PyUnicode_FromString(__pyx_v_self-\u003eparsed_event.data.mapping_start.tag); if (unlikely(!__pyx_t_3)) {__pyx_filename = __pyx_f[0]; __pyx_lineno = 875; __pyx_clineno = __LINE__; goto __pyx_L1_error;}"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      "         ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000082,
+      "    In file included from /usr/include/python2.7/Python.h:85:0,"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "                     from ext/_ruamel_yaml.c:4:"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000126,
+      "    /usr/include/python2.7/unicodeobject.h:261:31: note: expected ‘const char *’ but argument is of type ‘yaml_char_t *’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "     # define PyUnicode_DecodeUTF8 PyUnicodeUCS4_DecodeUTF8"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "                                   ^"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000116,
+      "    /usr/include/python2.7/unicodeobject.h:750:23: note: in expansion of macro ‘PyUnicode_DecodeUTF8’"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "     PyAPI_FUNC(PyObject*) PyUnicode_DecodeUTF8("
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "                           ^\r\n"
+    ],
+    [
+      0.004241,
+      "    ext/_ruamel_yaml.c: In function ‘__pyx_pf_12_ruamel_yaml_8CEmitter___init__’:\r\n"
+    ],
+    [
+      0.001538,
+      "    ext/_ruamel_yaml.c:13603:3: warning: passing argument 2 of ‘yaml_emitter_set_output’ from incompatible pointer type [enabled by default]"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000139,
+      "       yaml_emitter_set_output((\u0026__pyx_v_self-\u003eemitter), __pyx_f_12_ruamel_yaml_output_handler, ((void *)__pyx_v_self));"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000051,
+      "       ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      "    In file included from ext/_ruamel_yaml.h:2:0,"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000089,
+      "                     from ext/_ruamel_yaml.c:239:"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000168,
+      "    ext/yaml.h:1829:1: note: expected ‘int (*)(void *, unsigned char *, size_t)’ but argument is of type ‘int (*)(void *, char *, int)’"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000087,
+      "     yaml_emitter_set_output(yaml_emitter_t *emitter,"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "     ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.004572,
+      "    ext/_ruamel_yaml.c: In function ‘__pyx_f_12_ruamel_yaml_8CEmitter__object_to_event’:"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.001559,
+      "    ext/_ruamel_yaml.c:14981:44: warning: pointer targets in assignment differ in signedness [-Wpointer-sign]\r\n"
+    ],
+    [
+      0.000131,
+      "             __pyx_v_tag_directives_end-\u003ehandle = PyString_AS_STRING(__pyx_v_handle);"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000067,
+      "                                                ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.001923,
+      "    ext/_ruamel_yaml.c:15096:44: warning: pointer targets in assignment differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000101,
+      "             __pyx_v_tag_directives_end-\u003eprefix = PyString_AS_STRING(__pyx_v_prefix);"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "                                                ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.002419,
+      "    ext/_ruamel_yaml.c:15433:5: warning: pointer targets in passing argument 2 of ‘yaml_alias_event_initialize’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000103,
+      "         __pyx_t_2 = ((yaml_alias_event_initialize(__pyx_v_event, __pyx_v_anchor) == 0) != 0);"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      "         ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "    In file included from ext/_ruamel_yaml.h:2:0,"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      "                     from ext/_ruamel_yaml.c:239:"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000103,
+      "    ext/yaml.h:553:1: note: expected ‘yaml_char_t *’ but argument is of type ‘char *’"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      "     yaml_alias_event_initialize(yaml_event_t *event, yaml_char_t *anchor);\r\n"
+    ],
+    [
+      0.000047,
+      "     ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.003931,
+      "    ext/_ruamel_yaml.c:16148:5: warning: pointer targets in passing argument 2 of ‘yaml_scalar_event_initialize’ differ in signedness [-Wpointer-sign]\r\n"
+    ],
+    [
+      0.000190,
+      "         __pyx_t_2 = ((yaml_scalar_event_initialize(__pyx_v_event, __pyx_v_anchor, __pyx_v_tag, __pyx_v_value, __pyx_v_length, __pyx_v_plain_implicit, __pyx_v_quoted_implicit, __pyx_v_scalar_style) == 0) != 0);"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "         ^"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "    In file included from ext/_ruamel_yaml.h:2:0,"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000067,
+      "                     from ext/_ruamel_yaml.c:239:"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000101,
+      "    ext/yaml.h:578:1: note: expected ‘yaml_char_t *’ but argument is of type ‘char *’"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "     yaml_scalar_event_initialize(yaml_event_t *event,"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "     ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.001587,
+      "    ext/_ruamel_yaml.c:16148:5: warning: pointer targets in passing argument 3 of ‘yaml_scalar_event_initialize’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000238,
+      "         __pyx_t_2 = ((yaml_scalar_event_initialize(__pyx_v_event, __pyx_v_anchor, __pyx_v_tag, __pyx_v_value, __pyx_v_length, __pyx_v_plain_implicit, __pyx_v_quoted_implicit, __pyx_v_scalar_style) == 0) != 0);\r\n"
+    ],
+    [
+      0.000009,
+      "         ^\r\n"
+    ],
+    [
+      0.000087,
+      "    In file included from ext/_ruamel_yaml.h:2:0,\r\n"
+    ],
+    [
+      0.000072,
+      "                     from ext/_ruamel_yaml.c:239:\r\n"
+    ],
+    [
+      0.000110,
+      "    ext/yaml.h:578:1: note: expected ‘yaml_char_t *’ but argument is of type ‘char *’"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "     yaml_scalar_event_initialize(yaml_event_t *event,"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "     ^"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.001572,
+      "    ext/_ruamel_yaml.c:16148:5: warning: pointer targets in passing argument 4 of ‘yaml_scalar_event_initialize’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000167,
+      "         __pyx_t_2 = ((yaml_scalar_event_initialize(__pyx_v_event, __pyx_v_anchor, __pyx_v_tag, __pyx_v_value, __pyx_v_length, __pyx_v_plain_implicit, __pyx_v_quoted_implicit, __pyx_v_scalar_style) == 0) != 0);"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "         ^\r\n"
+    ],
+    [
+      0.000074,
+      "    In file included from ext/_ruamel_yaml.h:2:0,"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "                     from ext/_ruamel_yaml.c:239:"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "    ext/yaml.h:578:1: note: expected ‘yaml_char_t *’ but argument is of type ‘char *’"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "     yaml_scalar_event_initialize(yaml_event_t *event,"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "     ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.002734,
+      "    ext/_ruamel_yaml.c:16582:5: warning: pointer targets in passing argument 2 of ‘yaml_sequence_start_event_initialize’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000150,
+      "         __pyx_t_3 = ((yaml_sequence_start_event_initialize(__pyx_v_event, __pyx_v_anchor, __pyx_v_tag, __pyx_v_implicit, __pyx_v_sequence_style) == 0) != 0);"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "         ^\r\n"
+    ],
+    [
+      0.000069,
+      "    In file included from ext/_ruamel_yaml.h:2:0,"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "                     from ext/_ruamel_yaml.c:239:"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000093,
+      "    ext/yaml.h:601:1: note: expected ‘yaml_char_t *’ but argument is of type ‘char *’"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "     yaml_sequence_start_event_initialize(yaml_event_t *event,"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "     ^"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.001522,
+      "    ext/_ruamel_yaml.c:16582:5: warning: pointer targets in passing argument 3 of ‘yaml_sequence_start_event_initialize’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000152,
+      "         __pyx_t_3 = ((yaml_sequence_start_event_initialize(__pyx_v_event, __pyx_v_anchor, __pyx_v_tag, __pyx_v_implicit, __pyx_v_sequence_style) == 0) != 0);\r\n"
+    ],
+    [
+      0.000052,
+      "         ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "    In file included from ext/_ruamel_yaml.h:2:0,"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "                     from ext/_ruamel_yaml.c:239:"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000100,
+      "    ext/yaml.h:601:1: note: expected ‘yaml_char_t *’ but argument is of type ‘char *’"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "     yaml_sequence_start_event_initialize(yaml_event_t *event,"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "     ^"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.002657,
+      "    ext/_ruamel_yaml.c:17016:5: warning: pointer targets in passing argument 2 of ‘yaml_mapping_start_event_initialize’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000142,
+      "         __pyx_t_2 = ((yaml_mapping_start_event_initialize(__pyx_v_event, __pyx_v_anchor, __pyx_v_tag, __pyx_v_implicit, __pyx_v_mapping_style) == 0) != 0);"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000054,
+      "         ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000069,
+      "    In file included from ext/_ruamel_yaml.h:2:0,"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "                     from ext/_ruamel_yaml.c:239:\r\n"
+    ],
+    [
+      0.000093,
+      "    ext/yaml.h:633:1: note: expected ‘yaml_char_t *’ but argument is of type ‘char *’"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "     yaml_mapping_start_event_initialize(yaml_event_t *event,"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "     ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.002226,
+      "    ext/_ruamel_yaml.c:17016:5: warning: pointer targets in passing argument 3 of ‘yaml_mapping_start_event_initialize’ differ in signedness [-Wpointer-sign]\r\n         __pyx_t_2 = ((yaml_mapping_start_event_initialize(__pyx_v_event, __pyx_v_anchor, __pyx_v_tag, __pyx_v_implicit, __pyx_v_mapping_style) == 0) != 0);\r\n         ^\r\n    In file included from ext/_ruamel_yaml.h:2:0,\r\n                     from ext/_ruamel_yaml.c:239:\r\n    ext/yaml.h:633:1: note: expected ‘yaml_char_t *’ but argument is of type ‘char *’\r\n     yaml_mapping_start_event_initialize(yaml_event_t *event,\r\n     ^\r\n"
+    ],
+    [
+      0.005433,
+      "    ext/_ruamel_yaml.c: In function ‘__pyx_pf_12_ruamel_yaml_8CEmitter_12serialize’:"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.001910,
+      "    ext/_ruamel_yaml.c:18507:42: warning: pointer targets in assignment differ in signedness [-Wpointer-sign]\r\n"
+    ],
+    [
+      0.000085,
+      "           __pyx_v_tag_directives_end-\u003ehandle = PyString_AS_STRING(__pyx_v_handle);"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.001205,
+      "                                              ^"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.001532,
+      "    ext/_ruamel_yaml.c:18622:42: warning: pointer targets in assignment differ in signedness [-Wpointer-sign]\r\n"
+    ],
+    [
+      0.000085,
+      "           __pyx_v_tag_directives_end-\u003eprefix = PyString_AS_STRING(__pyx_v_prefix);"
+    ],
+    [
+      0.000059,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "                                              ^"
+    ],
+    [
+      0.000050,
+      "\r\n"
+    ],
+    [
+      0.004593,
+      "    ext/_ruamel_yaml.c: In function ‘__pyx_f_12_ruamel_yaml_8CEmitter__serialize_node’:"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.002130,
+      "    ext/_ruamel_yaml.c:19488:5: warning: pointer targets in passing argument 2 of ‘yaml_alias_event_initialize’ differ in signedness [-Wpointer-sign]\r\n"
+    ],
+    [
+      0.000098,
+      "         __pyx_t_2 = ((yaml_alias_event_initialize((\u0026__pyx_v_event), __pyx_v_anchor) == 0) != 0);"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "         ^"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000082,
+      "    In file included from ext/_ruamel_yaml.h:2:0,"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "                     from ext/_ruamel_yaml.c:239:"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "    ext/yaml.h:553:1: note: expected ‘yaml_char_t *’ but argument is of type ‘char *’"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000096,
+      "     yaml_alias_event_initialize(yaml_event_t *event, yaml_char_t *anchor);\r\n"
+    ],
+    [
+      0.000044,
+      "     ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.004528,
+      "    ext/_ruamel_yaml.c:20237:7: warning: pointer targets in passing argument 2 of ‘yaml_scalar_event_initialize’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000177,
+      "           __pyx_t_2 = ((yaml_scalar_event_initialize((\u0026__pyx_v_event), __pyx_v_anchor, __pyx_v_tag, __pyx_v_value, __pyx_v_length, __pyx_v_plain_implicit, __pyx_v_quoted_implicit, __pyx_v_scalar_style) == 0) != 0);"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "           ^"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000074,
+      "    In file included from ext/_ruamel_yaml.h:2:0,\r\n"
+    ],
+    [
+      0.000071,
+      "                     from ext/_ruamel_yaml.c:239:"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000088,
+      "    ext/yaml.h:578:1: note: expected ‘yaml_char_t *’ but argument is of type ‘char *’"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      "     yaml_scalar_event_initialize(yaml_event_t *event,"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000036,
+      "     ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.001957,
+      "    ext/_ruamel_yaml.c:20237:7: warning: pointer targets in passing argument 3 of ‘yaml_scalar_event_initialize’ differ in signedness [-Wpointer-sign]\r\n"
+    ],
+    [
+      0.000189,
+      "           __pyx_t_2 = ((yaml_scalar_event_initialize((\u0026__pyx_v_event), __pyx_v_anchor, __pyx_v_tag, __pyx_v_value, __pyx_v_length, __pyx_v_plain_implicit, __pyx_v_quoted_implicit, __pyx_v_scalar_style) == 0) != 0);"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "           ^"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "    In file included from ext/_ruamel_yaml.h:2:0,\r\n"
+    ],
+    [
+      0.000068,
+      "                     from ext/_ruamel_yaml.c:239:"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000086,
+      "    ext/yaml.h:578:1: note: expected ‘yaml_char_t *’ but argument is of type ‘char *’"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "     yaml_scalar_event_initialize(yaml_event_t *event,"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000034,
+      "     ^"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.002060,
+      "    ext/_ruamel_yaml.c:20237:7: warning: pointer targets in passing argument 4 of ‘yaml_scalar_event_initialize’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000209,
+      "           __pyx_t_2 = ((yaml_scalar_event_initialize((\u0026__pyx_v_event), __pyx_v_anchor, __pyx_v_tag, __pyx_v_value, __pyx_v_length, __pyx_v_plain_implicit, __pyx_v_quoted_implicit, __pyx_v_scalar_style) == 0) != 0);"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000055,
+      "           ^"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000082,
+      "    In file included from ext/_ruamel_yaml.h:2:0,"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "                     from ext/_ruamel_yaml.c:239:"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "    ext/yaml.h:578:1: note: expected ‘yaml_char_t *’ but argument is of type ‘char *’"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000077,
+      "     yaml_scalar_event_initialize(yaml_event_t *event,"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000062,
+      "     ^"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.003744,
+      "    ext/_ruamel_yaml.c:20602:7: warning: pointer targets in passing argument 2 of ‘yaml_sequence_start_event_initialize’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000155,
+      "           __pyx_t_2 = ((yaml_sequence_start_event_initialize((\u0026__pyx_v_event), __pyx_v_anchor, __pyx_v_tag, __pyx_v_implicit, __pyx_v_sequence_style) == 0) != 0);"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "           ^\r\n"
+    ],
+    [
+      0.000071,
+      "    In file included from ext/_ruamel_yaml.h:2:0,"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "                     from ext/_ruamel_yaml.c:239:"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "    ext/yaml.h:601:1: note: expected ‘yaml_char_t *’ but argument is of type ‘char *’"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000072,
+      "     yaml_sequence_start_event_initialize(yaml_event_t *event,"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "     ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.001921,
+      "    ext/_ruamel_yaml.c:20602:7: warning: pointer targets in passing argument 3 of ‘yaml_sequence_start_event_initialize’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000146,
+      "           __pyx_t_2 = ((yaml_sequence_start_event_initialize((\u0026__pyx_v_event), __pyx_v_anchor, __pyx_v_tag, __pyx_v_implicit, __pyx_v_sequence_style) == 0) != 0);"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "           ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "    In file included from ext/_ruamel_yaml.h:2:0,"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000067,
+      "                     from ext/_ruamel_yaml.c:239:"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000099,
+      "    ext/yaml.h:601:1: note: expected ‘yaml_char_t *’ but argument is of type ‘char *’"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "     yaml_sequence_start_event_initialize(yaml_event_t *event,"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "     ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.004120,
+      "    ext/_ruamel_yaml.c:21110:7: warning: pointer targets in passing argument 2 of ‘yaml_mapping_start_event_initialize’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000222,
+      "           __pyx_t_2 = ((yaml_mapping_start_event_initialize((\u0026__pyx_v_event), __pyx_v_anchor, __pyx_v_tag, __pyx_v_implicit, __pyx_v_mapping_style) == 0) != 0);\r\n           ^\r\n"
+    ],
+    [
+      0.000047,
+      "    In file included from ext/_ruamel_yaml.h:2:0,\r\n"
+    ],
+    [
+      0.000066,
+      "                     from ext/_ruamel_yaml.c:239:"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "    ext/yaml.h:633:1: note: expected ‘yaml_char_t *’ but argument is of type ‘char *’"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      "     yaml_mapping_start_event_initialize(yaml_event_t *event,"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "     ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.002004,
+      "    ext/_ruamel_yaml.c:21110:7: warning: pointer targets in passing argument 3 of ‘yaml_mapping_start_event_initialize’ differ in signedness [-Wpointer-sign]"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000138,
+      "           __pyx_t_2 = ((yaml_mapping_start_event_initialize((\u0026__pyx_v_event), __pyx_v_anchor, __pyx_v_tag, __pyx_v_implicit, __pyx_v_mapping_style) == 0) != 0);"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000048,
+      "           ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "    In file included from ext/_ruamel_yaml.h:2:0,"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "                     from ext/_ruamel_yaml.c:239:"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "    ext/yaml.h:633:1: note: expected ‘yaml_char_t *’ but argument is of type ‘char *’"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "     yaml_mapping_start_event_initialize(yaml_event_t *event,"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "     ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      5.439615,
+      "    i686-linux-gnu-gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/include/python2.7 -c ext/api.c -o build/temp.linux-x86_64-2.7/ext/api.o\r\n"
+    ],
+    [
+      0.031344,
+      "    ext/api.c: In function ‘yaml_document_delete’:\r\n"
+    ],
+    [
+      0.000161,
+      "    ext/api.c:1121:7: warning: variable ‘context’ set but not used [-Wunused-but-set-variable]\r\n"
+    ],
+    [
+      0.000037,
+      "         } context;\r\n"
+    ],
+    [
+      0.000052,
+      "           ^\r\n"
+    ],
+    [
+      0.361375,
+      "    i686-linux-gnu-gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/include/python2.7 -c ext/writer.c -o build/temp.linux-x86_64-2.7/ext/writer.o\r\n"
+    ],
+    [
+      0.059326,
+      "    i686-linux-gnu-gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/include/python2.7 -c ext/dumper.c -o build/temp.linux-x86_64-2.7/ext/dumper.o\r\n"
+    ],
+    [
+      0.112869,
+      "    i686-linux-gnu-gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/include/python2.7 -c ext/loader.c -o build/temp.linux-x86_64-2.7/ext/loader.o\r\n"
+    ],
+    [
+      0.140301,
+      "    i686-linux-gnu-gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/include/python2.7 -c ext/reader.c -o build/temp.linux-x86_64-2.7/ext/reader.o\r\n"
+    ],
+    [
+      0.112630,
+      "    i686-linux-gnu-gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/include/python2.7 -c ext/scanner.c -o build/temp.linux-x86_64-2.7/ext/scanner.o\r\n"
+    ],
+    [
+      0.033973,
+      "    ext/scanner.c: In function ‘yaml_parser_decrease_flow_level’:\r\n    ext/scanner.c:1196:23: warning: variable ‘dummy_key’ set but not used [-Wunused-but-set-variable]\r\n"
+    ],
+    [
+      0.000024,
+      "         yaml_simple_key_t dummy_key;    /* Used to eliminate a compiler warning. */\r\n"
+    ],
+    [
+      0.000062,
+      "                           ^\r\n"
+    ],
+    [
+      1.402187,
+      "    i686-linux-gnu-gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/include/python2.7 -c ext/parser.c -o build/temp.linux-x86_64-2.7/ext/parser.o\r\n"
+    ],
+    [
+      0.033075,
+      "    ext/parser.c: In function ‘yaml_parser_parse_block_sequence_entry’:\r\n"
+    ],
+    [
+      0.000112,
+      "    ext/parser.c:762:21: warning: variable ‘dummy_mark’ set but not used [-Wunused-but-set-variable]"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "             yaml_mark_t dummy_mark;     /* Used to eliminate a compiler warning. */"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "                         ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000582,
+      "    ext/parser.c: In function ‘yaml_parser_parse_block_mapping_key’:\r\n"
+    ],
+    [
+      0.000157,
+      "    ext/parser.c:872:21: warning: variable ‘dummy_mark’ set but not used [-Wunused-but-set-variable]"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000090,
+      "             yaml_mark_t dummy_mark;     /* Used to eliminate a compiler warning. */"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "                         ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000655,
+      "    ext/parser.c: In function ‘yaml_parser_parse_flow_sequence_entry’:"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000211,
+      "    ext/parser.c:955:17: warning: variable ‘dummy_mark’ set but not used [-Wunused-but-set-variable]"
+    ],
+    [
+      0.000120,
+      "\r\n"
+    ],
+    [
+      0.000118,
+      "         yaml_mark_t dummy_mark;     /* Used to eliminate a compiler warning. */"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "                     ^\r\n"
+    ],
+    [
+      0.000789,
+      "    ext/parser.c: In function ‘yaml_parser_parse_flow_mapping_key’:"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000193,
+      "    ext/parser.c:1107:17: warning: variable ‘dummy_mark’ set but not used [-Wunused-but-set-variable]"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000103,
+      "         yaml_mark_t dummy_mark;     /* Used to eliminate a compiler warning. */"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "                     ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.402979,
+      "    i686-linux-gnu-gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/include/python2.7 -c ext/emitter.c -o build/temp.linux-x86_64-2.7/ext/emitter.o\r\n"
+    ],
+    [
+      0.040181,
+      "    ext/emitter.c: In function ‘yaml_emitter_write_plain_scalar’:"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000225,
+      "    ext/emitter.c:28:6: warning: value computed is not used [-Wunused-value]"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000102,
+      "          \u0026\u0026 ((emitter-\u003eline_break == YAML_CR_BREAK ?                                \\"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "          ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000057,
+      "    ext/emitter.c:56:11: note: in expansion of macro ‘PUT_BREAK’\r\n"
+    ],
+    [
+      0.000066,
+      "              (PUT_BREAK(emitter),                                                   \\"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "               ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000055,
+      "    ext/emitter.c:1931:18: note: in expansion of macro ‘WRITE_BREAK’"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "                 if (!WRITE_BREAK(emitter, string)) return 0;"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "                      ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "    ext/emitter.c:28:6: warning: value computed is not used [-Wunused-value]"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "          \u0026\u0026 ((emitter-\u003eline_break == YAML_CR_BREAK ?                                \\"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "          ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000053,
+      "    ext/emitter.c:56:11: note: in expansion of macro ‘PUT_BREAK’"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "              (PUT_BREAK(emitter),                                                   \\"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000030,
+      "               ^"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      "    ext/emitter.c:1931:18: note: in expansion of macro ‘WRITE_BREAK’"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      "                 if (!WRITE_BREAK(emitter, string)) return 0;"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "                      ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000497,
+      "    ext/emitter.c: In function ‘yaml_emitter_write_single_quoted_scalar’:"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000250,
+      "    ext/emitter.c:28:6: warning: value computed is not used [-Wunused-value]"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000051,
+      "          \u0026\u0026 ((emitter-\u003eline_break == YAML_CR_BREAK ?                                \\"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "          ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "    ext/emitter.c:56:11: note: in expansion of macro ‘PUT_BREAK’\r\n"
+    ],
+    [
+      0.000057,
+      "              (PUT_BREAK(emitter),                                                   \\"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "               ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000053,
+      "    ext/emitter.c:1992:18: note: in expansion of macro ‘WRITE_BREAK’"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000045,
+      "                 if (!WRITE_BREAK(emitter, string)) return 0;"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "                      ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000053,
+      "    ext/emitter.c:28:6: warning: value computed is not used [-Wunused-value]"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      "          \u0026\u0026 ((emitter-\u003eline_break == YAML_CR_BREAK ?                                \\"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "          ^"
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "    ext/emitter.c:56:11: note: in expansion of macro ‘PUT_BREAK’"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "              (PUT_BREAK(emitter),                                                   \\"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000037,
+      "               ^"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "    ext/emitter.c:1992:18: note: in expansion of macro ‘WRITE_BREAK’"
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.000056,
+      "                 if (!WRITE_BREAK(emitter, string)) return 0;"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "                      ^"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.002468,
+      "    ext/emitter.c: In function ‘yaml_emitter_write_literal_scalar’:"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000276,
+      "    ext/emitter.c:28:6: warning: value computed is not used [-Wunused-value]"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000055,
+      "          \u0026\u0026 ((emitter-\u003eline_break == YAML_CR_BREAK ?                                \\"
+    ],
+    [
+      0.000038,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "          ^"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "    ext/emitter.c:56:11: note: in expansion of macro ‘PUT_BREAK’"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      "              (PUT_BREAK(emitter),                                                   \\"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000088,
+      "               ^"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000047,
+      "    ext/emitter.c:2255:18: note: in expansion of macro ‘WRITE_BREAK’"
+    ],
+    [
+      0.000067,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "                 if (!WRITE_BREAK(emitter, string)) return 0;"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "                      ^"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "    ext/emitter.c:28:6: warning: value computed is not used [-Wunused-value]"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "          \u0026\u0026 ((emitter-\u003eline_break == YAML_CR_BREAK ?                                \\"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "          ^"
+    ],
+    [
+      0.000034,
+      "\r\n"
+    ],
+    [
+      0.000057,
+      "    ext/emitter.c:56:11: note: in expansion of macro ‘PUT_BREAK’"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      "              (PUT_BREAK(emitter),                                                   \\"
+    ],
+    [
+      0.000032,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "               ^"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "    ext/emitter.c:2255:18: note: in expansion of macro ‘WRITE_BREAK’"
+    ],
+    [
+      0.000036,
+      "\r\n"
+    ],
+    [
+      0.000048,
+      "                 if (!WRITE_BREAK(emitter, string)) return 0;"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000039,
+      "                      ^"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.000254,
+      "    ext/emitter.c: In function ‘yaml_emitter_write_folded_scalar’:"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000276,
+      "    ext/emitter.c:28:6: warning: value computed is not used [-Wunused-value]"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000052,
+      "          \u0026\u0026 ((emitter-\u003eline_break == YAML_CR_BREAK ?                                \\"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "          ^"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "    ext/emitter.c:56:11: note: in expansion of macro ‘PUT_BREAK’"
+    ],
+    [
+      0.000028,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      "              (PUT_BREAK(emitter),                                                   \\"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000040,
+      "               ^"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000059,
+      "    ext/emitter.c:2304:18: note: in expansion of macro ‘WRITE_BREAK’"
+    ],
+    [
+      0.000031,
+      "\r\n"
+    ],
+    [
+      0.000055,
+      "                 if (!WRITE_BREAK(emitter, string)) return 0;"
+    ],
+    [
+      0.000037,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "                      ^"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000057,
+      "    ext/emitter.c:28:6: warning: value computed is not used [-Wunused-value]"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "          \u0026\u0026 ((emitter-\u003eline_break == YAML_CR_BREAK ?                                \\"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.000035,
+      "          ^"
+    ],
+    [
+      0.000035,
+      "\r\n"
+    ],
+    [
+      0.000057,
+      "    ext/emitter.c:56:11: note: in expansion of macro ‘PUT_BREAK’"
+    ],
+    [
+      0.000033,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "              (PUT_BREAK(emitter),                                                   \\"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "               ^"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "    ext/emitter.c:2304:18: note: in expansion of macro ‘WRITE_BREAK’"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000048,
+      "                 if (!WRITE_BREAK(emitter, string)) return 0;"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000033,
+      "                      ^"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.942139,
+      "    i686-linux-gnu-gcc -pthread -shared -Wl,-O1 -Wl,-Bsymbolic-functions -Wl,-Bsymbolic-functions -Wl,-z,relro -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -D_FORTIFY_SOURCE=2 -g -fstack-protector --param=ssp-buffer-size=4 -Wformat -Werror=format-security build/temp.linux-x86_64-2.7/ext/_ruamel_yaml.o build/temp.linux-x86_64-2.7/ext/api.o build/temp.linux-x86_64-2.7/ext/writer.o build/temp.linux-x86_64-2.7/ext/dumper.o build/temp.linux-x86_64-2.7/ext/loader.o build/temp.linux-x86_64-2.7/ext/reader.o build/temp.linux-x86_64-2.7/ext/scanner.o build/temp.linux-x86_64-2.7/ext/parser.o build/temp.linux-x86_64-2.7/ext/emitter.o -o build/lib.linux-x86_64-2.7/_ruamel_yaml.so"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.050976,
+      "    Skipping installation of /tmp/tmp.dDnIsIR1nv/.virtualenv/lib/python2.7/site-packages/ruamel/__init__.py (namespace package)\r\n"
+    ],
+    [
+      0.060538,
+      "    "
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      0.012969,
+      "    Installing /tmp/tmp.dDnIsIR1nv/.virtualenv/lib/python2.7/site-packages/ruamel.yaml-0.10.13-py2.7-nspkg.pth"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.036261,
+      "  Running setup.py install for MarkupSafe\r\n"
+    ],
+    [
+      0.098367,
+      "    \r\n"
+    ],
+    [
+      0.010805,
+      "    building 'markupsafe._speedups' extension"
+    ],
+    [
+      0.000022,
+      "\r\n    i686-linux-gnu-gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/include/python2.7 -c markupsafe/_speedups.c -o build/temp.linux-x86_64-2.7/markupsafe/_speedups.o\r\n"
+    ],
+    [
+      0.161836,
+      "    i686-linux-gnu-gcc -pthread -shared -Wl,-O1 -Wl,-Bsymbolic-functions -Wl,-Bsymbolic-functions -Wl,-z,relro -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -D_FORTIFY_SOURCE=2 -g -fstack-protector --param=ssp-buffer-size=4 -Wformat -Werror=format-security build/temp.linux-x86_64-2.7/markupsafe/_speedups.o -o build/lib.linux-x86_64-2.7/markupsafe/_speedups.so\r\n"
+    ],
+    [
+      0.054420,
+      "  Running setup.py install for chardet\r\n"
+    ],
+    [
+      0.287194,
+      "    \r\n"
+    ],
+    [
+      0.006693,
+      "    warning: no files found matching 'COPYING'\r\n"
+    ],
+    [
+      0.000473,
+      "    warning: no files found matching '*.html' under directory 'docs'\r\n"
+    ],
+    [
+      0.000238,
+      "    warning: no files found matching '*.css' under directory 'docs'"
+    ],
+    [
+      0.000053,
+      "\r\n"
+    ],
+    [
+      0.000140,
+      "    warning: no files found matching '*.png' under directory 'docs'"
+    ],
+    [
+      0.000050,
+      "\r\n"
+    ],
+    [
+      0.000160,
+      "    warning: no files found matching '*.gif' under directory 'docs'"
+    ],
+    [
+      0.000050,
+      "\r\n"
+    ],
+    [
+      0.009295,
+      "    Installing chardetect script to /tmp/tmp.dDnIsIR1nv/.virtualenv/bin"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.015185,
+      "  Running setup.py install for ruamel.ordereddict\r\n"
+    ],
+    [
+      0.082947,
+      "    building '_ordereddict' extension\r\n"
+    ],
+    [
+      0.000169,
+      "    i686-linux-gnu-gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/include/python2.7 -c ordereddict.c -o build/temp.linux-x86_64-2.7/ordereddict.o"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.065567,
+      "    ordereddict.c: In function ‘dump_ordereddict_head’:"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "    ordereddict.c:417:5: warning: format ‘%ld’ expects argument of type ‘long int’, but argument 2 has type ‘Py_ssize_t’ [-Wformat=]"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000091,
+      "         printf(\": fill \" SPR \", \", mp-\u003eod_fill);"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "         ^"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "    ordereddict.c:418:5: warning: format ‘%ld’ expects argument of type ‘long int’, but argument 2 has type ‘Py_ssize_t’ [-Wformat=]"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000044,
+      "         printf(\"used \" SPR \", \", mp-\u003ema_used);"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "         ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000082,
+      "    ordereddict.c:419:5: warning: format ‘%ld’ expects argument of type ‘long int’, but argument 2 has type ‘Py_ssize_t’ [-Wformat=]"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000049,
+      "         printf(\"mask \" SPR \", \", mp-\u003ema_mask);"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "         ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      "    ordereddict.c:420:5: warning: format ‘%ld’ expects argument of type ‘long int’, but argument 2 has type ‘Py_ssize_t’ [-Wformat=]"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.000038,
+      "         printf(\"mask \" SPR \", \", mp-\u003ema_mask);"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000026,
+      "         ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "    ordereddict.c: In function ‘dump_otablep’:"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000080,
+      "    ordereddict.c:446:9: warning: format ‘%ld’ expects argument of type ‘long int’, but argument 2 has type ‘Py_ssize_t’ [-Wformat=]"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000042,
+      "             printf(\"index \" SPR \" %p %p\\n\", index, p, *p);"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000032,
+      "             ^"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.010574,
+      "    ordereddict.c: In function ‘dict_setkeys’:"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000119,
+      "    ordereddict.c:2884:26: warning: format ‘%ld’ expects argument of type ‘long int’, but argument 3 has type ‘Py_ssize_t’ [-Wformat=]"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "                              i);"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "                              ^"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.001937,
+      "    ordereddict.c:2893:30: warning: format ‘%ld’ expects argument of type ‘long int’, but argument 3 has type ‘Py_ssize_t’ [-Wformat=]"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000070,
+      "                                  oldindex, i);"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "                                  ^\r\n"
+    ],
+    [
+      0.000136,
+      "    ordereddict.c:2893:30: warning: format ‘%ld’ expects argument of type ‘long int’, but argument 4 has type ‘Py_ssize_t’ [-Wformat=]"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      1.026227,
+      "    i686-linux-gnu-gcc -pthread -shared -Wl,-O1 -Wl,-Bsymbolic-functions -Wl,-Bsymbolic-functions -Wl,-z,relro -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -D_FORTIFY_SOURCE=2 -g -fstack-protector --param=ssp-buffer-size=4 -Wformat -Werror=format-security build/temp.linux-x86_64-2.7/ordereddict.o -o build/lib.linux-x86_64-2.7/_ordereddict.so\r\n"
+    ],
+    [
+      0.030696,
+      "    \r\n"
+    ],
+    [
+      0.007966,
+      "    Installing /tmp/tmp.dDnIsIR1nv/.virtualenv/lib/python2.7/site-packages/ruamel.ordereddict-0.4.9-py2.7-nspkg.pth\r\n"
+    ],
+    [
+      0.018081,
+      "Successfully installed cookiecutter future jinja2 binaryornot whichcraft click ruamel.yaml MarkupSafe chardet ruamel.base ruamel.ordereddict\r\n"
+    ],
+    [
+      0.000013,
+      "Cleaning up...\r\n"
+    ],
+    [
+      0.257818,
+      "removed ‘./roles/delete-repo/tasks/main.yml’\r\n"
+    ],
+    [
+      0.000012,
+      "removed directory: ‘./roles/delete-repo/tasks’\r\n"
+    ],
+    [
+      0.000006,
+      "removed directory: ‘./roles/delete-repo’\r\n"
+    ],
+    [
+      0.006959,
+      "tr: "
+    ],
+    [
+      0.000020,
+      "write error"
+    ],
+    [
+      0.000016,
+      ": Broken pipe"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000043,
+      "tr: "
+    ],
+    [
+      0.000007,
+      "write error\r\n"
+    ],
+    [
+      0.005496,
+      "cat: write error"
+    ],
+    [
+      0.000010,
+      ": Broken pipe"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.004038,
+      "Generating public/private rsa key pair."
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.113712,
+      "Your identification has been saved in id_rsa_my_project.\r\n"
+    ],
+    [
+      0.000074,
+      "Your public key has been saved in id_rsa_my_project.pub.\r\n"
+    ],
+    [
+      0.000009,
+      "The key fingerprint is:\r\n0e:5b:70:e6:0c:2a:37:d4:be:03:3f:1a:7c:79:09:de gp@turing\r\n"
+    ],
+    [
+      0.000006,
+      "The key's randomart image is:\r\n+--[ RSA 2048]----+"
+    ],
+    [
+      0.000006,
+      "\r\n|                 |\r\n|     .           |"
+    ],
+    [
+      0.000007,
+      "\r\n|    . + o        |\r\n|   . o B         |\r\n"
+    ],
+    [
+      0.000006,
+      "|  . = + S        |\r\n|   + = X .       |"
+    ],
+    [
+      0.000006,
+      "\r\n|    o X E        |\r\n|     + +         |"
+    ],
+    [
+      0.000006,
+      "\r\n|    .            |\r\n"
+    ],
+    [
+      0.000006,
+      "+-----------------+\r\n"
+    ],
+    [
+      0.012100,
+      "\u001b[32m\u001b[1mvagrant\u001b[0m\r\n"
+    ],
+    [
+      1.641950,
+      "\u001b[0mBringing machine 'default' up with 'virtualbox' provider...\u001b[0m\r\n"
+    ],
+    [
+      0.187590,
+      "\u001b[1m==\u003e default: Importing base box 'debian/jessie64'...\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      4.211200,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000147,
+      "\u001b[0mProgress: 10%\u001b[0m"
+    ],
+    [
+      1.562067,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000144,
+      "\u001b[0mProgress: 20%\u001b[0m"
+    ],
+    [
+      0.603802,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000204,
+      "\u001b[0mProgress: 40%\u001b[0m"
+    ],
+    [
+      2.114033,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000159,
+      "\u001b[0mProgress: 50%\u001b[0m"
+    ],
+    [
+      0.100407,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000057,
+      "\u001b[0mProgress: 60%\u001b[0m"
+    ],
+    [
+      3.343216,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000321,
+      "\u001b[0mProgress: 70%\u001b[0m"
+    ],
+    [
+      0.100299,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000152,
+      "\u001b[0mProgress: 80%\u001b[0m"
+    ],
+    [
+      0.349265,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000174,
+      "\u001b[0mProgress: 90%\u001b[0m"
+    ],
+    [
+      6.700671,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000378,
+      "\u001b[1m==\u003e default: Matching MAC address for NAT networking...\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.245162,
+      "\u001b[1m==\u003e default: Checking if box 'debian/jessie64' is up to date...\u001b[0m\r\n"
+    ],
+    [
+      1.553211,
+      "\u001b[1m==\u003e default: Setting the name of the VM: provision_default_1452782603853_10151\u001b[0m"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.790317,
+      "\u001b[1m==\u003e default: Clearing any previously set network interfaces...\u001b[0m\r\n"
+    ],
+    [
+      0.278681,
+      "\u001b[1m==\u003e default: Preparing network interfaces based on configuration...\u001b[0m\r\n"
+    ],
+    [
+      0.000307,
+      "\u001b[0m    default: Adapter 1: nat\u001b[0m\r\n"
+    ],
+    [
+      0.000261,
+      "\u001b[0m    default: Adapter 2: hostonly\u001b[0m\r\n"
+    ],
+    [
+      0.110882,
+      "\u001b[1m==\u003e default: Forwarding ports...\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.085414,
+      "\u001b[0m    default: 8000 =\u003e 8000 (adapter 1)\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.000260,
+      "\u001b[0m    default: 22 =\u003e 2222 (adapter 1)\u001b[0m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.496810,
+      "\u001b[1m==\u003e default: Booting VM...\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.306397,
+      "\u001b[1m==\u003e default: Waiting for machine to boot. This may take a few minutes...\u001b[0m\r\n"
+    ],
+    [
+      0.282806,
+      "\u001b[0m    default: SSH address: 127.0.0.1:2222\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.000168,
+      "\u001b[0m    default: SSH username: vagrant\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000178,
+      "\u001b[0m    default: SSH auth method: private key\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      15.160962,
+      "\u001b[0m    default: Warning: Connection timeout. Retrying...\u001b[0m"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.489198,
+      "\u001b[0m    default: \r\n"
+    ],
+    [
+      0.000010,
+      "    default: Vagrant insecure key detected. Vagrant will automatically replace\r\n    default: this with a newly generated keypair for better security.\u001b[0m\r\n"
+    ],
+    [
+      0.899415,
+      "\u001b[0m    default: \r\n    default: Inserting generated public key within guest...\u001b[0m\r\n"
+    ],
+    [
+      0.295870,
+      "\u001b[0m    default: Removing insecure key from the guest if it's present...\u001b[0m\r\n"
+    ],
+    [
+      0.193354,
+      "\u001b[0m    default: Key inserted! Disconnecting and reconnecting using new SSH key...\u001b[0m\r\n"
+    ],
+    [
+      0.681514,
+      "\u001b[1m==\u003e default: Machine booted and ready!\u001b[0m\r\n"
+    ],
+    [
+      0.000483,
+      "\u001b[1m==\u003e default: Checking for guest additions in VM...\u001b[0m\r\n"
+    ],
+    [
+      0.128092,
+      "\u001b[0m    default: No guest additions were detected on the base box for this VM! Guest\r\n    default: additions are required for forwarded ports, shared folders, host only\r\n"
+    ],
+    [
+      0.000020,
+      "    default: networking, and more. If SSH fails on this machine, please install\r\n    default: the guest additions and repackage the box to continue.\r\n    default: \r\n    default: This is not an error message; everything may continue to work properly,\r\n    default: in which case you may ignore this message.\u001b[0m\r\n"
+    ],
+    [
+      0.122311,
+      "\u001b[1m==\u003e default: Configuring and enabling network interfaces...\u001b[0m"
+    ],
+    [
+      0.000020,
+      "\r\n"
+    ],
+    [
+      1.304889,
+      "\u001b[1m==\u003e default: Installing rsync to the VM...\u001b[0m\r\n"
+    ],
+    [
+      7.248303,
+      "\u001b[1m==\u003e default: Rsyncing folder: /tmp/tmp.dDnIsIR1nv/provision/ =\u003e /vagrant\u001b[0m\r\n"
+    ],
+    [
+      0.789722,
+      "\u001b[1m==\u003e default: Running provisioner: shell...\u001b[0m\r\n"
+    ],
+    [
+      2.738302,
+      "\u001b[0m    default: Running: inline script\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.053753,
+      "\u001b[1;31m==\u003e default: stdin: is not a tty\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.075581,
+      "\u001b[32m\u001b[1mprovisioning\u001b[0m\r\n"
+    ],
+    [
+      0.227397,
+      "\u001b[0;35m[DEPRECATION WARNING]: Instead of su/su_user, use become/become_user and set become_method"
+    ],
+    [
+      0.000021,
+      "\r\n to 'su' (default is sudo). This feature will be removed in a future release. Deprecation \r\nwarnings can be disabled by setting deprecation_warnings=False in ansible.cfg.\u001b[0m\r\n"
+    ],
+    [
+      0.043823,
+      "\r\nPLAY ***************************************************************************"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.026256,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "TASK [setup] *******************************************************************\r\n"
+    ],
+    [
+      0.601200,
+      "\u001b[0;32mok: [vagrant]\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.012061,
+      "\r\n"
+    ],
+    [
+      0.000012,
+      "TASK [common : install necessary extra packages (build-essential, python-virtualenv, python-dev, vim)] ***\r\n"
+    ],
+    [
+      102.978991,
+      "\u001b[0;33mchanged: [vagrant] =\u003e (item=[u'build-essential', u'python-virtualenv', u'python-dev', u'vim'])\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.001568,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "TASK [common : set italian locale] *********************************************\r\n"
+    ],
+    [
+      1.901588,
+      "\u001b[0;33mchanged: [vagrant]\u001b[0m"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.001825,
+      "\r\nTASK [nginx : Check mandatory parameters] **************************************\r\n"
+    ],
+    [
+      0.015926,
+      "\u001b[0;36mskipping: [vagrant]\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.001706,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "TASK [nginx : install package] *************************************************\r\n"
+    ],
+    [
+      6.965547,
+      "\u001b[0;33mchanged: [vagrant] =\u003e (item=[u'nginx'])\u001b[0m\r\n"
+    ],
+    [
+      0.002376,
+      "\r\nTASK [nginx : create nginx configuration file] *********************************"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.315411,
+      "\u001b[0;33mchanged: [vagrant]\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.001758,
+      "\r\nTASK [nginx : enable site] *****************************************************\r\n"
+    ],
+    [
+      0.160836,
+      "\u001b[0;33mchanged: [vagrant]\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.001730,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "TASK [nginx : start nginx] *****************************************************\r\n"
+    ],
+    [
+      0.207110,
+      "\u001b[0;32mok: [vagrant]\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.001616,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "TASK [databases : check mandatory parameters] **********************************\r\n"
+    ],
+    [
+      0.015295,
+      "\u001b[0;36mskipping: [vagrant]\u001b[0m\r\n"
+    ],
+    [
+      0.002067,
+      "\r\nTASK [databases : install necessary packages] **********************************\r\n"
+    ],
+    [
+      32.306085,
+      "\u001b[0;33mchanged: [vagrant] =\u003e (item=[u'libpq-dev', u'postgresql-9.4', u'python-psycopg2'])\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.001622,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "TASK [databases : create database] *********************************************\r\n"
+    ],
+    [
+      0.805752,
+      "\u001b[0;33mchanged: [vagrant]\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.003486,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "TASK [databases : create database user] ****************************************\r\n"
+    ],
+    [
+      0.343319,
+      "\u001b[0;33mchanged: [vagrant]\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.002359,
+      "\r\nTASK [databases : grant privileges to user [DEVELOPMENT ENABLED]] **************\r\n"
+    ],
+    [
+      0.018656,
+      "\u001b[0;36mskipping: [vagrant]\u001b[0m\r\n"
+    ],
+    [
+      0.001747,
+      "\r\nTASK [databases : service] *****************************************************"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.268742,
+      "\u001b[0;32mok: [vagrant]\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.001743,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "TASK [webapp : check mandatory parameters] *************************************\r\n"
+    ],
+    [
+      0.016570,
+      "\u001b[0;36mskipping: [vagrant]\u001b[0m\r\n"
+    ],
+    [
+      0.001688,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "TASK [webapp : Creates webroot] ************************************************\r\n"
+    ],
+    [
+      0.177157,
+      "\u001b[0;33mchanged: [vagrant]\u001b[0m"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.004735,
+      "\r\n"
+    ],
+    [
+      0.000028,
+      "TASK [webapp : create user my_project with home /var/www/example] **************"
+    ],
+    [
+      0.000071,
+      "\r\n"
+    ],
+    [
+      0.274242,
+      "\u001b[0;33mchanged: [vagrant]\u001b[0m\r\n"
+    ],
+    [
+      0.001641,
+      "\r\n"
+    ],
+    [
+      0.000010,
+      "TASK [webapp : change permission on home] **************************************\r\n"
+    ],
+    [
+      0.207303,
+      "\u001b[0;33mchanged: [vagrant]\u001b[0m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.002771,
+      "\r\n"
+    ],
+    [
+      0.000046,
+      "TASK [webapp : Creates webroot app] ********************************************\r\n"
+    ],
+    [
+      0.707475,
+      "\u001b[0;33mchanged: [vagrant] =\u003e (item=app)\u001b[0m"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.002306,
+      "\u001b[0;33mchanged: [vagrant] =\u003e (item=static)\u001b[0m\r\n"
+    ],
+    [
+      0.002371,
+      "\u001b[0;33mchanged: [vagrant] =\u003e (item=media)\u001b[0m\r\n"
+    ],
+    [
+      0.002278,
+      "\u001b[0;33mchanged: [vagrant] =\u003e (item=logs)\u001b[0m\r\n"
+    ],
+    [
+      0.003285,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "TASK [webapp : configure authorize_keys for id_rsa_my_project.pub] *************\r\n"
+    ],
+    [
+      0.227845,
+      "\u001b[0;33mchanged: [vagrant]\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.001749,
+      "\r\n"
+    ],
+    [
+      0.000011,
+      "TASK [supervisor : install necessary packages] *********************************\r\n"
+    ],
+    [
+      4.060603,
+      "\u001b[0;33mchanged: [vagrant] =\u003e (item=[u'supervisor'])\u001b[0m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.001525,
+      "\r\n"
+    ],
+    [
+      0.000009,
+      "TASK [supervisor : create supervisor configuration file] ***********************\r\n"
+    ],
+    [
+      0.312874,
+      "\u001b[0;33mchanged: [vagrant]\u001b[0m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.002916,
+      "\r\nTASK [supervisor : configure sudo for restart my_project] **********************\r\n"
+    ],
+    [
+      0.183919,
+      "\u001b[0;33mchanged: [vagrant]\u001b[0m\r\n"
+    ],
+    [
+      0.001723,
+      "\r\n"
+    ],
+    [
+      0.000007,
+      "TASK [supervisor : enforce supervisor running state] ***************************\r\n"
+    ],
+    [
+      0.202471,
+      "\u001b[0;32mok: [vagrant]\u001b[0m\r\n"
+    ],
+    [
+      0.001883,
+      "\r\nTASK [redis : install necessary packages] **************************************\r\n"
+    ],
+    [
+      4.465156,
+      "\u001b[0;33mchanged: [vagrant] =\u003e (item=[u'redis-server'])\u001b[0m"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.001660,
+      "\r\n"
+    ],
+    [
+      0.000008,
+      "TASK [redis : start the service] ***********************************************\r\n"
+    ],
+    [
+      0.221746,
+      "\u001b[0;32mok: [vagrant]\u001b[0m\r\n"
+    ],
+    [
+      0.001113,
+      "\r\nRUNNING HANDLER [nginx : restart nginx] ****************************************\r\n"
+    ],
+    [
+      0.274491,
+      "\u001b[0;33mchanged: [vagrant]\u001b[0m\r\n"
+    ],
+    [
+      0.001243,
+      "\r\nRUNNING HANDLER [supervisor : restart supervisor] ******************************\r\n"
+    ],
+    [
+      1.307507,
+      "\u001b[0;33mchanged: [vagrant]\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.003364,
+      "\r\nPLAY RECAP *********************************************************************\r\n\u001b[0;33mvagrant\u001b[0m                    : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m24\u001b[0m   \u001b[0;33mchanged\u001b[0m\u001b[0;33m=\u001b[0m\u001b[0;33m19\u001b[0m   unreachable=0    failed=0   \r\n\r\n"
+    ],
+    [
+      0.018920,
+      "\u001b[32m\u001b[1mdeploy\u001b[0m\r\n"
+    ],
+    [
+      0.023023,
+      "Warning: Permanently added '[127.0.0.1]:2222' (ECDSA) to the list of known hosts.\r\r\n"
+    ],
+    [
+      0.281860,
+      "New python executable in .virtualenv/bin/python2\r\nAlso creating executable in .virtualenv/bin/python"
+    ],
+    [
+      0.000009,
+      "\r\nInstalling setuptools, pip..."
+    ],
+    [
+      0.655488,
+      "done.\r\n"
+    ],
+    [
+      0.008599,
+      "Running virtualenv with interpreter /usr/bin/python2"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.035775,
+      "Warning: Permanently added '[127.0.0.1]:2222' (ECDSA) to the list of known hosts.\r\r\n"
+    ],
+    [
+      0.399264,
+      "Downloading/unpacking uwsgi"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      1.462059,
+      "  Running setup.py (path:/tmp/pip-build-J2B5oO/uwsgi/setup.py) egg_info for package uwsgi"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.128998,
+      "    \r\n"
+    ],
+    [
+      0.031329,
+      "Downloading/unpacking celery\r\n"
+    ],
+    [
+      0.833770,
+      "Downloading/unpacking redis"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.207626,
+      "Downloading/unpacking kombu\u003e=3.0.29,\u003c3.1 (from celery)"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.436069,
+      "Downloading/unpacking pytz\u003edev (from celery)"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.834550,
+      "Downloading/unpacking billiard\u003e=3.3.0.21,\u003c3.4 (from celery)\r\n"
+    ],
+    [
+      0.309854,
+      "  Running setup.py (path:/tmp/pip-build-J2B5oO/billiard/setup.py) egg_info for package billiard"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.096653,
+      "    "
+    ],
+    [
+      0.000026,
+      "\r\n"
+    ],
+    [
+      0.016355,
+      "    warning: no files found matching '*.py' under directory 'Lib'"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.022559,
+      "Downloading/unpacking amqp\u003e=1.4.5,\u003c2.0 (from kombu\u003e=3.0.29,\u003c3.1-\u003ecelery)"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.198860,
+      "Downloading/unpacking anyjson\u003e=0.3.3 (from kombu\u003e=3.0.29,\u003c3.1-\u003ecelery)"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.124020,
+      "  Downloading anyjson-0.3.3.tar.gz"
+    ],
+    [
+      0.000027,
+      "\r\n"
+    ],
+    [
+      0.006420,
+      "  Running setup.py (path:/tmp/pip-build-J2B5oO/anyjson/setup.py) egg_info for package anyjson"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.091194,
+      "    \r\n"
+    ],
+    [
+      0.027856,
+      "Installing collected packages: uwsgi, celery, redis, kombu, pytz, billiard, amqp, anyjson\r\n"
+    ],
+    [
+      0.000517,
+      "  Running setup.py install for uwsgi\r\n"
+    ],
+    [
+      13.194830,
+      "    using profile: buildconf/default.ini\r\n"
+    ],
+    [
+      0.000023,
+      "    detected include path: ['/usr/lib/gcc/x86_64-linux-gnu/4.9/include', '/usr/local/include', '/usr/lib/gcc/x86_64-linux-gnu/4.9/include-fixed', '/usr/include/x86_64-linux-gnu', '/usr/include']\r\n    Patching \"bin_name\" to properly install_scripts dir\r\n    detected CPU cores: 1\r\n    configured CFLAGS: -O2 -I. -Wall -Werror -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64 -fno-strict-aliasing -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DUWSGI_HAS_IFADDRS -DUWSGI_ZLIB -DUWSGI_LOCK_USE_MUTEX -DUWSGI_EVENT_USE_EPOLL -DUWSGI_EVENT_TIMER_USE_TIMERFD -DUWSGI_EVENT_FILEMONITOR_USE_INOTIFY -DUWSGI_VERSION=\"\\\"2.0.12\\\"\" -DUWSGI_VERSION_BASE=\"2\" -DUWSGI_VERSION_MAJOR=\"0\" -DUWSGI_VERSION_MINOR=\"12\" -DUWSGI_VERSION_REVISION=\"0\" -DUWSGI_VERSION_CUSTOM=\"\\\"\\\"\" -DUWSGI_YAML -DUWSGI_SSL -DUWSGI_XML -DUWSGI_XML_EXPAT -DUWSGI_PLUGIN_DIR=\"\\\".\\\"\" -DUWSGI_DECLARE_EMBEDDED_PLUGINS=\"UDEP(python);UDEP(gevent);UDEP(ping);UDEP(cache);UDEP(nagios);UDEP(rrdtool);UDEP(carbon);UDEP(rpc);UDEP(corerouter);UDEP(fastrouter);UDEP(http);UDEP(ugreen);UDEP(signal);UDEP(syslog);UDEP(rsyslog);UDEP(logsocket);UDEP(router_uwsgi);UDEP(router_redirect);UDEP(router_basicauth);UDEP(zergpool);UDEP(redislog);UDEP(mongodblog);UDEP(router_rewrite);UDEP(router_http);UDEP(logfile);UDEP(router_cache);UDEP(rawrouter);UDEP(router_static);UDEP(sslrouter);UDEP(spooler);UDEP(cheaper_busyness);UDEP(symcall);UDEP(transformation_tofile);UDEP(transformation_gzip);UDEP(transformation_chunked);UDEP(transformation_offload);UDEP(router_memcached);UDEP(router_redis);UDEP(router_hash);UDEP(router_expires);UDEP(router_metrics);UDEP(transformation_template);UDEP(stats_pusher_socket);\" -DUWSGI_LOAD_EMBEDDED_PLUGINS=\"ULEP(python);ULEP(gevent);ULEP(ping);ULEP(cache);ULEP(nagios);ULEP(rrdtool);ULEP(carbon);ULEP(rpc);ULEP(corerouter);ULEP(fastrouter);ULEP(http);ULEP(ugreen);ULEP(signal);ULEP(syslog);ULEP(rsyslog);ULEP(logsocket);ULEP(router_uwsgi);ULEP(router_redirect);ULEP(router_basicauth);ULEP(zergpool);ULEP(redislog);ULEP(mongodblog);ULEP(router_rewrite);ULEP(router_http);ULEP(logfile);ULEP(router_cache);ULEP(rawrouter);ULEP(router_static);ULEP(sslrouter);ULEP(spooler);ULEP(cheaper_busyness);ULEP(symcall);ULEP(transformation_tofile);ULEP(transformation_gzip);ULEP(transformation_chunked);ULEP(transformation_offload);ULEP(router_memcached);ULEP(router_redis);ULEP(router_hash);ULEP(router_expires);ULEP(router_metrics);ULEP(transformation_template);ULEP(stats_pusher_socket);\"\r\n    *** uWSGI compiling server core ***\r\n    [x86_64-linux-gnu-gcc -pthread] core/utils.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/protocol.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/socket.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/logging.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/master.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/master_utils.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/emperor.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/notify.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/mule.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/subscription.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/stats.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/sendfile.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/async.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/master_checks.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/fifo.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/offload.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/io.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/static.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/websockets.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/spooler.o\r\n"
+    ],
+    [
+      0.000013,
+      "    [x86_64-linux-gnu-gcc -pthread] core/snmp.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/exceptions.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/config.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/setup_utils.o\r\n"
+    ],
+    [
+      0.000007,
+      "    [x86_64-linux-gnu-gcc -pthread] core/clock.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/init.o\r\n"
+    ],
+    [
+      0.000006,
+      "    [x86_64-linux-gnu-gcc -pthread] core/buffer.o\r\n"
+    ],
+    [
+      0.000006,
+      "    [x86_64-linux-gnu-gcc -pthread] core/reader.o\r\n"
+    ],
+    [
+      0.000006,
+      "    [x86_64-linux-gnu-gcc -pthread] core/writer.o\r\n"
+    ],
+    [
+      0.000007,
+      "    [x86_64-linux-gnu-gcc -pthread] core/alarm.o\r\n    [x86_64-linux-gnu-gcc -pthread] cor"
+    ],
+    [
+      0.000006,
+      "e/cron.o\r\n"
+    ],
+    [
+      0.000006,
+      "    [x86_64-linux-gnu-gcc -pthread] core/hooks.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/plugins.o"
+    ],
+    [
+      0.000006,
+      "\r\n    [x86_64-linux-gnu-gcc -pthread] core/lock.o"
+    ],
+    [
+      0.000044,
+      "\r\n"
+    ],
+    [
+      17.919175,
+      "    [x86_64-linux-gnu-gcc -pthread] core/cache.o"
+    ],
+    [
+      0.000021,
+      "\r\n    [x86_64-linux-gnu-gcc -pthread] core/daemons.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/errors.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/hash.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/master_events.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/chunked.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/queue.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/event.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/signal.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/strings.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/progress.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/timebomb.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/ini.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/fsmon.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/mount.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/metrics.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/plugins_builder.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/sharedarea.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/rpc.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/gateway.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/loop.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/cookie.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/querystring.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/rb_timers.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/transformations.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/uwsgi.o\r\n    [x86_64-linux-gnu-gcc -pthread] proto/base.o\r\n    [x86_64-linux-gnu-gcc -pthread] proto/uwsgi.o\r\n    [x86_64-linux-gnu-gcc -pthread] proto/http.o\r\n    [x86_64-linux-gnu-gcc -pthread] proto/fastcgi.o\r\n    [x86_64-linux-gnu-gcc -pthread] proto/scgi.o\r\n    [x86_64-linux-gnu-gcc -pthread] proto/puwsgi.o\r\n    [x86_64-linux-gnu-gcc -pthread] lib/linux_ns.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/zlib.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/yaml.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/ssl.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/legion.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/xmlconf.o\r\n    [x86_64-linux-gnu-gcc -pthread] core/dot_h.o\r\n"
+    ],
+    [
+      0.000009,
+      "    [x86_64-linux-gnu-gcc -pthread] core/config_py.o\r\n    *** uWSGI compiling embedded plugins ***\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/python/python_plugin.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/python/pyutils.o\r\n"
+    ],
+    [
+      0.000007,
+      "    [x86_64-linux-gnu-gcc -pthread] plugins/python/pyloader.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/python/wsgi_handlers.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/python/wsgi_headers.o"
+    ],
+    [
+      0.000005,
+      "\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/python/wsgi_subhandler.o\r\n"
+    ],
+    [
+      0.000006,
+      "    [x86_64-linux-gnu-gcc -pthread] plugins/python/web3_subhandler.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/python/pump_subhandler.o\r\n"
+    ],
+    [
+      0.000051,
+      "    [x86_64-linux-gnu-gcc -pthread] plugins/python/gil.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/python/uwsgi_pymodule.o"
+    ],
+    [
+      0.000011,
+      "\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/python/profiler.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/python/symimporter.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/python/tracebacker.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/python/raw.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/gevent/gevent.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/gevent/hooks.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/ping/ping_plugin.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/cache/cache.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/nagios/nagios.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/rrdtool/rrdtool.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/carbon/carbon.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/rpc/rpc_plugin.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/corerouter/cr_common.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/corerouter/cr_map.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/corerouter/corerouter.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/fastrouter/fastrouter.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/http/http.o\r\n"
+    ],
+    [
+      0.000011,
+      "    [x86_64-linux-gnu-gcc -pthread] plugins/http/keepalive.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/http/https.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/http/spdy3.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/ugreen/ugreen.o\r\n"
+    ],
+    [
+      0.000006,
+      "    [x86_64-linux-gnu-gcc -pthread] plugins/signal/signal_plugin.o\r\n    [x86_64-"
+    ],
+    [
+      0.000005,
+      "linux-gnu-gcc -pthread] plugins/syslog/syslog_plugin.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/rsyslog/rsyslog_plugin.o\r\n"
+    ],
+    [
+      0.000005,
+      "    [x86_64-linux-gnu-gcc -pthread] plugins/logsocket/logsocket_plugin.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/router_uwsgi/router_uwsgi.o"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      3.514186,
+      "    [x86_64-linux-gnu-gcc -pthread] plugins/router_redirect/router_redirect.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/router_basicauth/router_basicauth.o"
+    ],
+    [
+      0.000017,
+      "\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/zergpool/zergpool.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/redislog/redislog_plugin.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/mongodblog/mongodblog_plugin.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/router_rewrite/router_rewrite.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/router_http/router_http.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/logfile/logfile.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/router_cache/router_cache.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/rawrouter/rawrouter.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/router_static/router_static.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/sslrouter/sslrouter.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/spooler/spooler_plugin.o\r\n"
+    ],
+    [
+      0.000013,
+      "    [x86_64-linux-gnu-gcc -pthread] plugins/cheaper_busyness/cheaper_busyness.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/symcall/symcall_plugin.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/transformation_tofile/tofile.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/transformation_gzip/gzip.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/transformation_chunked/chunked.o\r\n"
+    ],
+    [
+      0.000006,
+      "    [x86_64-linux-gnu-gcc -pthread] plugins/transformation_offload/offload.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/router_memcached/router_memcached.o\r\n"
+    ],
+    [
+      0.000007,
+      "    [x86_64-linux-gnu-gcc -pthread] plugins/router_redis/router_redis.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/router_hash/router_hash.o\r\n"
+    ],
+    [
+      0.000006,
+      "    [x86_64-linux-gnu-gcc -pthread] plugins/router_expires/expires.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/router_metrics/plugin.o\r\n"
+    ],
+    [
+      0.000006,
+      "    [x86_64-linux-gnu-gcc -pthread] plugins/transformation_template/tt.o\r\n    [x86_64-linux-gnu-gcc -pthread] plugins/stats_pusher_socket/plugin.o\r\n"
+    ],
+    [
+      0.000005,
+      "    *** uWSGI linking ***\r\n"
+    ],
+    [
+      0.128931,
+      "    x86_64-linux-gnu-gcc -pthread -o /var/www/example/.virtualenv/bin/uwsgi -L/usr/lib -Wl,-rpath=/usr/lib core/utils.o core/protocol.o core/socket.o core/logging.o core/master.o core/master_utils.o core/emperor.o core/notify.o core/mule.o core/subscription.o core/stats.o core/sendfile.o core/async.o core/master_checks.o core/fifo.o core/offload.o core/io.o core/static.o core/websockets.o core/spooler.o core/snmp.o core/exceptions.o core/config.o core/setup_utils.o core/clock.o core/init.o core/buffer.o core/reader.o core/writer.o core/alarm.o core/cron.o core/hooks.o core/plugins.o core/lock.o core/cache.o core/daemons.o core/errors.o core/hash.o core/master_events.o core/chunked.o core/queue.o core/event.o core/signal.o core/strings.o core/progress.o core/timebomb.o core/ini.o core/fsmon.o core/mount.o core/metrics.o core/plugins_builder.o core/sharedarea.o core/rpc.o core/gateway.o core/loop.o core/cookie.o core/querystring.o core/rb_timers.o core/transformations.o core/uwsgi.o proto/base.o proto/uwsgi.o proto/http.o proto/fastcgi.o proto/scgi.o proto/puwsgi.o lib/linux_ns.o core/zlib.o core/yaml.o core/ssl.o core/legion.o core/xmlconf.o core/dot_h.o core/config_py.o plugins/python/python_plugin.o plugins/python/pyutils.o plugins/python/pyloader.o plugins/python/wsgi_handlers.o plugins/python/wsgi_headers.o plugins/python/wsgi_subhandler.o plugins/python/web3_subhandler.o plugins/python/pump_subhandler.o plugins/python/gil.o plugins/python/uwsgi_pymodule.o plugins/python/profiler.o plugins/python/symimporter.o plugins/python/tracebacker.o plugins/python/raw.o plugins/gevent/gevent.o plugins/gevent/hooks.o plugins/ping/ping_plugin.o plugins/cache/cache.o plugins/nagios/nagios.o plugins/rrdtool/rrdtool.o plugins/carbon/carbon.o plugins/rpc/rpc_plugin.o plugins/corerouter/cr_common.o plugins/corerouter/cr_map.o plugins/corerouter/corerouter.o plugins/fastrouter/fastrouter.o plugins/http/http.o plugins/http/keepalive.o plugins/http/https.o plugins/http/spdy3.o plugins/ugreen/ugreen.o plugins/signal/signal_plugin.o"
+    ],
+    [
+      0.000021,
+      " plugins/syslog/syslog_plugin.o plugins/rsyslog/rsyslog_plugin.o plugins/logsocket/logsocket_plugin.o plugins/router_uwsgi/router_uwsgi.o plugins/router_redirect/router_redirect.o plugins/router_basicauth/router_basicauth.o plugins/zergpool/zergpool.o plugins/redislog/redislog_plugin.o plugins/mongodblog/mongodblog_plugin.o plugins/router_rewrite/router_rewrite.o plugins/router_http/router_http.o plugins/logfile/logfile.o plugins/router_cache/router_cache.o plugins/rawrouter/rawrouter.o plugins/router_static/router_static.o plugins/sslrouter/sslrouter.o plugins/spooler/spooler_plugin.o plugins/cheaper_busyness/cheaper_busyness.o plugins/symcall/symcall_plugin.o plugins/transformation_tofile/tofile.o plugins/transformation_gzip/gzip.o plugins/transformation_chunked/chunked.o plugins/transformation_offload/offload.o plugins/router_memcached/router_memcached.o plugins/router_redis/router_redis.o plugins/router_hash/router_hash.o plugins/router_expires/expires.o plugins/router_metrics/plugin.o plugins/transformation_template/tt.o plugins/stats_pusher_socket/plugin.o -lpthread -lm -rdynamic -ldl -lz -lssl -lcrypto -lexpat -lpthread -ldl -lutil -lm -lpython2.7 -lcrypt\r\n    ################# uWSGI configuration #################\r\n    \r\n    pcre = False\r\n    kernel = Linux"
+    ],
+    [
+      0.000007,
+      "\r\n    malloc = libc\r\n    execinfo = False\r\n"
+    ],
+    [
+      0.000006,
+      "    ifaddrs = True\r\n    ssl = True"
+    ],
+    [
+      0.000005,
+      "\r\n    zlib = True"
+    ],
+    [
+      0.000006,
+      "\r\n    locking = pthread_mutex\r\n"
+    ],
+    [
+      0.000005,
+      "    plugin_dir = .\r\n"
+    ],
+    [
+      0.000006,
+      "    timer = timerfd\r\n"
+    ],
+    [
+      0.000006,
+      "    yaml = embedded"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000006,
+      "    json = False\r\n"
+    ],
+    [
+      0.000006,
+      "    filemonitor = inotify\r\n    routing = False"
+    ],
+    [
+      0.000006,
+      "\r\n    debug = False"
+    ],
+    [
+      0.000006,
+      "\r\n    capabilities = False"
+    ],
+    [
+      0.000006,
+      "\r\n    xml = expat\r\n"
+    ],
+    [
+      0.000005,
+      "    event = epoll\r\n"
+    ],
+    [
+      0.000005,
+      "    \r\n"
+    ],
+    [
+      0.000006,
+      "    ############## end of uWSGI configuration #############\r\n    total build time: 34 seconds"
+    ],
+    [
+      0.000006,
+      "\r\n    *** uWSGI is ready, launch it with /var/www/example/.virtualenv/bin/uwsgi ***"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.019792,
+      "    \r\n"
+    ],
+    [
+      0.852047,
+      "  Running setup.py install for billiard"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.095425,
+      "    building '_billiard' extension"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.000832,
+      "    x86_64-linux-gnu-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -DHAVE_SEM_OPEN=1 -DHAVE_FD_TRANSFER=1 -DHAVE_SEM_TIMEDWAIT=1 -IModules/_billiard -I/usr/include/python2.7 -c Modules/_billiard/multiprocessing.c -o build/temp.linux-x86_64-2.7/Modules/_billiard/multiprocessing.o"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.148030,
+      "    x86_64-linux-gnu-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -DHAVE_SEM_OPEN=1 -DHAVE_FD_TRANSFER=1 -DHAVE_SEM_TIMEDWAIT=1 -IModules/_billiard -I/usr/include/python2.7 -c Modules/_billiard/socket_connection.c -o build/temp.linux-x86_64-2.7/Modules/_billiard/socket_connection.o"
+    ],
+    [
+      0.000019,
+      "\r\n"
+    ],
+    [
+      0.248770,
+      "    x86_64-linux-gnu-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fno-strict-aliasing -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -fPIC -DHAVE_SEM_OPEN=1 -DHAVE_FD_TRANSFER=1 -DHAVE_SEM_TIMEDWAIT=1 -IModules/_billiard -I/usr/include/python2.7 -c Modules/_billiard/semaphore.c -o build/temp.linux-x86_64-2.7/Modules/_billiard/semaphore.o"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.175580,
+      "    x86_64-linux-gnu-gcc -pthread -shared -Wl,-O1 -Wl,-Bsymbolic-functions -Wl,-z,relro -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security -Wl,-z,relro -D_FORTIFY_SOURCE=2 -g -fstack-protector-strong -Wformat -Werror=format-security build/temp.linux-x86_64-2.7/Modules/_billiard/multiprocessing.o build/temp.linux-x86_64-2.7/Modules/_billiard/socket_connection.o build/temp.linux-x86_64-2.7/Modules/_billiard/semaphore.o -lrt -o build/lib.linux-x86_64-2.7/_billiard.so"
+    ],
+    [
+      0.000015,
+      "\r\n"
+    ],
+    [
+      0.100931,
+      "    \r\n"
+    ],
+    [
+      0.015561,
+      "    warning: no files found matching '*.py' under directory 'Lib'"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      0.055271,
+      "  Running setup.py install for anyjson"
+    ],
+    [
+      0.000011,
+      "\r\n"
+    ],
+    [
+      0.102490,
+      "    "
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.033593,
+      "Successfully installed uwsgi celery redis kombu pytz billiard amqp anyjson"
+    ],
+    [
+      0.000012,
+      "\r\nCleaning up...\r\n"
+    ],
+    [
+      0.118517,
+      "Warning: Permanently added '[127.0.0.1]:2222' (ECDSA) to the list of known hosts.\r"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.099703,
+      "\rfoobar.py                                                 0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.022531,
+      "\rfoobar.py                                               100% 1131     1.1KB/s   00:00    "
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.001150,
+      "\r__init__.py                                             100%    0     0.0KB/s   00:00    "
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000545,
+      "\rtasks.py                                                  0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000163,
+      "\rtasks.py                                                100%  576     0.6KB/s   00:00    "
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.059877,
+      "Warning: Permanently added '[127.0.0.1]:2222' (ECDSA) to the list of known hosts.\r"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.099608,
+      "\ruwsgi.ini                                                 0%    0     0.0KB/s   --:-- ETA"
+    ],
+    [
+      0.000014,
+      "\ruwsgi.ini                                               100%  695     0.7KB/s   00:00    \r\n"
+    ],
+    [
+      0.057943,
+      "Warning: Permanently added '[127.0.0.1]:2222' (ECDSA) to the list of known hosts.\r\r\n"
+    ],
+    [
+      0.119891,
+      "Warning: Permanently added '[127.0.0.1]:2222' (ECDSA) to the list of known hosts.\r"
+    ],
+    [
+      0.000013,
+      "\r\n"
+    ],
+    [
+      1.290075,
+      "uwsgi_example: ERROR (not running)"
+    ],
+    [
+      0.000022,
+      "\r\n"
+    ],
+    [
+      0.000016,
+      "uwsgi_example: started"
+    ],
+    [
+      0.000016,
+      "\r\n"
+    ],
+    [
+      0.004541,
+      "temporary directory at /tmp/tmp.dDnIsIR1nv/provision\r\n"
+    ],
+    [
+      0.000012,
+      "go to https://192.168.33.10/\r\n"
+    ],
+    [
+      0.510334,
+      "[\u001b[1mgp\u001b(B\u001b[m\u001b[32m:\u001b(B\u001b[m\u001b[1m/tmp/…/provision\u001b(B\u001b[m] \u001b[30m$\u001b(B\u001b[m "
+    ],
+    [
+      3.652031,
+      "exit"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.164065,
+      "[\u001b[1mgp\u001b(B\u001b[m\u001b[32m:\u001b(B\u001b[m\u001b[1m/opt/…-eep-provisioning\u001b(B\u001b[m] \u001b[31mmaster\u001b(B\u001b[m(\u001b[35m+5/-2\u001b(B\u001b[m)\u001b(B\u001b[m \u001b[30m±\u001b(B\u001b[m "
+    ],
+    [
+      2.793871,
+      "exit\r\n"
+    ]
+  ]
+}
