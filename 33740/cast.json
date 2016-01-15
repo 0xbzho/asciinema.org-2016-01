@@ -1,0 +1,2022 @@
+{
+  "version": 1,
+  "width": 125,
+  "height": 35,
+  "duration": 253.448328,
+  "command": "_scripts/tests/deploy-deis.sh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/bash"
+  },
+  "stdout": [
+    [
+      0.348637,
+      "Downloading chart-mate from Bintray...\r\n"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.000031,
+      "All components are up to date.\r\n"
+    ],
+    [
+      0.246598,
+      "Activated service account credentials for: [account-1@helm-testing.iam.gserviceaccount.com]\r\n"
+    ],
+    [
+      0.495395,
+      "\u001b[1m\u001b[34m==\u003e Creating cluster helm-testing-b201...\u001b(B\u001b[m\r\n"
+    ],
+    [
+      1.000000,
+      "Creating cluster helm-testing-b201..."
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201..."
+    ],
+    [
+      0.000010,
+      "-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201..."
+    ],
+    [
+      0.000010,
+      "\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201..."
+    ],
+    [
+      0.000011,
+      "\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201..."
+    ],
+    [
+      0.000006,
+      "|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201..."
+    ],
+    [
+      0.000007,
+      "\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201..."
+    ],
+    [
+      0.000013,
+      "-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201..."
+    ],
+    [
+      0.000008,
+      "-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201..."
+    ],
+    [
+      0.000006,
+      "|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201..."
+    ],
+    [
+      0.000006,
+      "-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201..."
+    ],
+    [
+      0.000009,
+      "\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201..."
+    ],
+    [
+      0.000009,
+      "-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201..."
+    ],
+    [
+      0.000008,
+      "|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201..."
+    ],
+    [
+      0.000010,
+      "\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201..."
+    ],
+    [
+      0.000010,
+      "-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201..."
+    ],
+    [
+      0.000012,
+      "-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201..."
+    ],
+    [
+      0.000028,
+      "\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201..."
+    ],
+    [
+      0.000011,
+      "-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201..."
+    ],
+    [
+      0.000011,
+      "\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201..."
+    ],
+    [
+      0.000012,
+      "/"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201..."
+    ],
+    [
+      0.000011,
+      "-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...-"
+    ],
+    [
+      0.999980,
+      "\rCreating cluster helm-testing-b201...\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201..."
+    ],
+    [
+      0.000010,
+      "|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201..."
+    ],
+    [
+      0.000009,
+      "-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201..."
+    ],
+    [
+      0.000010,
+      "/"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201.../"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...-"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201...\\"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201..."
+    ],
+    [
+      0.000007,
+      "|"
+    ],
+    [
+      1.000000,
+      "\rCreating cluster helm-testing-b201..."
+    ],
+    [
+      0.000011,
+      "/"
+    ],
+    [
+      0.326195,
+      "\rCreating cluster helm-testing-b201...done.\r\n"
+    ],
+    [
+      0.058474,
+      "Created [https://container.googleapis.com/v1/projects/helm-testing/zones/us-central1-b/clusters/helm-testing-b201].\r\n"
+    ],
+    [
+      0.793729,
+      "kubeconfig entry generated for helm-testing-b201.\r\n"
+    ],
+    [
+      0.000594,
+      "NAME               ZONE           MASTER_VERSION  MASTER_IP       MACHINE_TYPE   NUM_NODES  STATUS\r\n"
+    ],
+    [
+      0.000249,
+      "helm-testing-b201  us-central1-b  1.1.4           199.223.236.37  n1-standard-1  3          RUNNING\r\n"
+    ],
+    [
+      1.000000,
+      "Fetching cluster endpoint and auth data.\r\n"
+    ],
+    [
+      1.000000,
+      "kubeconfig entry generated for helm-testing-b201.\r\n"
+    ],
+    [
+      0.050238,
+      "\u001b[0;33m[WARN]\u001b[0m Oops! Looks like we had some issues running your command! Running `helm doctor` to ensure we have all the necessary prerequisites in place...\r\n\u001b[0;32m---\u003e\u001b[0m "
+    ],
+    [
+      0.000010,
+      "Checking things locally...\r\n"
+    ],
+    [
+      0.000165,
+      "\u001b[0;32m---\u003e\u001b[0m Creating /Users/sethgoings/.helm/config.yaml\r\n"
+    ],
+    [
+      0.000205,
+      "\u001b[0;32m---\u003e\u001b[0m Everything looks good! Happy helming!\r\n"
+    ],
+    [
+      0.001360,
+      "\u001b[0;32m---\u003e\u001b[0m Continuing onwards and upwards!\r\n"
+    ],
+    [
+      0.764759,
+      "\u001b[0;33m---\u003e\u001b[0m Cloning into '/Users/sethgoings/.helm/cache/deis'...\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[0;32m---\u003e\u001b[0m Hooray! Successfully added the repo.\r\n"
+    ],
+    [
+      0.360841,
+      "\u001b[0;32m---\u003e\u001b[0m Checking repository charts\r\n"
+    ],
+    [
+      0.725983,
+      "\u001b[0;33m---\u003e\u001b[0m Cloning into '/Users/sethgoings/.helm/cache/charts'...\r\n"
+    ],
+    [
+      1.000000,
+      "Already up-to-date.\r\n"
+    ],
+    [
+      0.000055,
+      "\u001b[0;32m---\u003e\u001b[0m Checking repository deis\r\n"
+    ],
+    [
+      1.000000,
+      "Already up-to-date.\r\n"
+    ],
+    [
+      0.000037,
+      "\u001b[0;32m---\u003e\u001b[0m Done\r\n"
+    ],
+    [
+      0.021972,
+      "\u001b[0;32m---\u003e\u001b[0m Fetched chart into workspace /Users/sethgoings/.helm/workspace/charts/deis-dev\r\n\u001b[0;32m---\u003e\u001b[0m "
+    ],
+    [
+      0.000007,
+      "Done\r\n"
+    ],
+    [
+      0.043801,
+      "\u001b[0;32m---\u003e\u001b[0m Ran 2 generators.\r\n"
+    ],
+    [
+      0.016781,
+      "\u001b[0;32m---\u003e\u001b[0m Running `kubectl create -f` ...\r\n"
+    ],
+    [
+      0.567237,
+      "namespace \"deis\" created\r\n\r\n"
+    ],
+    [
+      0.538699,
+      "secret \"deis-etcd-discovery-token\" created\r\n\r\n"
+    ],
+    [
+      0.505199,
+      "secret \"minio-admin\" created\r\n\r\n"
+    ],
+    [
+      0.505947,
+      "secret \"minio-ssl\" created\r\n\r\n"
+    ],
+    [
+      0.519112,
+      "secret \"minio-user\" created\r\n\r\n"
+    ],
+    [
+      0.500692,
+      "secret \"builder-key-auth\" created\r\n\r\n"
+    ],
+    [
+      0.503207,
+      "secret \"django-secret-key\" created\r\n\r\n"
+    ],
+    [
+      0.501193,
+      "serviceaccount \"deis\" created\r\n\r\n"
+    ],
+    [
+      0.502759,
+      "service \"deis-builder\" created\r\n\r\n"
+    ],
+    [
+      0.513897,
+      "service \"deis-database\" created\r\n\r\n"
+    ],
+    [
+      0.513503,
+      "service \"deis-etcd-discovery\" created\r\n\r\n"
+    ],
+    [
+      0.572510,
+      "service \"deis-etcd-1\" created\r\n\r\n"
+    ],
+    [
+      0.524659,
+      "service \"deis-minio\" created\r\n\r\n"
+    ],
+    [
+      0.519685,
+      "service \"deis-registry\" created\r\n\r\n"
+    ],
+    [
+      0.517779,
+      "service \"deis-router\" created\r\n\r\n"
+    ],
+    [
+      0.497316,
+      "service \"deis-workflow\" created\r\n\r\n"
+    ],
+    [
+      0.526231,
+      "replicationcontroller \"deis-builder\" created\r\n\r\n"
+    ],
+    [
+      0.505679,
+      "replicationcontroller \"deis-database\" created\r\n\r\n"
+    ],
+    [
+      0.528151,
+      "replicationcontroller \"deis-etcd-discovery\" created\r\n\r\n"
+    ],
+    [
+      0.511459,
+      "replicationcontroller \"deis-etcd-1\" created\r\n\r\n"
+    ],
+    [
+      0.519980,
+      "replicationcontroller \"deis-minio\" created\r\n\r\n"
+    ],
+    [
+      0.512573,
+      "replicationcontroller \"deis-registry\" created\r\n\r\n"
+    ],
+    [
+      0.497197,
+      "replicationcontroller \"deis-router\" created\r\n\r\n"
+    ],
+    [
+      0.499627,
+      "replicationcontroller \"deis-workflow\" created\r\n\r\n"
+    ],
+    [
+      0.000085,
+      "\u001b[0;32m---\u003e\u001b[0m Done\r\n"
+    ],
+    [
+      0.000615,
+      "========================================\r\n"
+    ],
+    [
+      0.000005,
+      "# Deis 2.0.0-beta\r\n\r\nWARNING: this chart is for testing only! Features may not work, the\r\ncomponents are not HA, and there are likely to be bugs.\r\n\r\nPlease report any issues you find in testing Deis v2 on Kubernetes\r\nto the appropriate GitHub repository:\r\n- builder: https://github.com/deis/builder\r\n- chart: https://github.com/deis/charts\r\n- database: https://github.com/deis/postgres\r\n- etcd: https://github.com/deis/etcd\r\n- helm: https://github.com/helm/helm\r\n- minio: https://github.com/deis/minio\r\n- registry: https://github.com/deis/registry\r\n- router: https://github.com/deis/router\r\n- workflow: https://github.com/deis/workflow\r\n========================================\r\n"
+    ],
+    [
+      0.001711,
+      "Checking: deis\r\n"
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      1.000000,
+      "."
+    ],
+    [
+      0.512148,
+      "Deis is up and running.\r\nChecking DNS...\r\n"
+    ],
+    [
+      1.000000,
+      "Running Suite: Deis Workflow\r\n"
+    ],
+    [
+      0.000220,
+      "============================\r\n"
+    ],
+    [
+      0.000207,
+      "Random Seed: \u001b[1m1452838774\u001b[0m"
+    ],
+    [
+      0.000112,
+      "\r\n"
+    ],
+    [
+      0.000220,
+      "Will run \u001b[1m35\u001b[0m of \u001b[1m56\u001b[0m specs\r\n"
+    ],
+    [
+      0.000233,
+      "\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[32m•\u001b[0m"
+    ],
+    [
+      1.000000,
+      "\u001b[32m•\u001b[0m"
+    ],
+    [
+      1.000000,
+      "\u001b[32m•\u001b[0m"
+    ],
+    [
+      1.000000,
+      "\u001b[32m•\u001b[0m"
+    ],
+    [
+      1.000000,
+      "\u001b[32m•\u001b[0m"
+    ],
+    [
+      1.000000,
+      "\u001b[32m•\u001b[0m"
+    ],
+    [
+      1.000000,
+      "\u001b[32m•\u001b[0m"
+    ],
+    [
+      1.000000,
+      "\u001b[32m•\u001b[0m"
+    ],
+    [
+      1.000000,
+      "\u001b[32m•\u001b[0m"
+    ],
+    [
+      1.000000,
+      "\u001b[32m•\u001b[0m"
+    ],
+    [
+      1.000000,
+      "\u001b[32m•\u001b[0m"
+    ],
+    [
+      1.000000,
+      "\u001b[32m•\u001b[0m"
+    ],
+    [
+      1.000000,
+      "Logged in as test-81\r\nLogged in as test-81\r\nCreating Application... ...\u0008\u0008\u0008done, created test-939984059\r\nfatal: Not a git repository (or any of the parent directories): .git\r\nTo replace the existing git remote entry, run:\r\n  git remote rename deis deis.old \u0026\u0026 deis git:remote -a test-939984059\r\nError: exit status 128\r\nError: App deis-workflow-test792107592 does not match confirm test-939984059, aborting.\r\n"
+    ],
+    [
+      0.000244,
+      "\r\n"
+    ],
+    [
+      0.000189,
+      "\u001b[90m------------------------------\u001b[0m\r\n"
+    ],
+    [
+      0.000190,
+      "\u001b[91m\u001b[1m• Failure in Spec Setup (BeforeEach) [1.801 seconds]\u001b[0m\r\n"
+    ],
+    [
+      0.000120,
+      "Healthcheck\r\n"
+    ],
+    [
+      0.000191,
+      "\u001b[90m/go/src/github.com/deis/workflow/_tests/tests/healthcheck_test.go:69\u001b[0m\r\n"
+    ],
+    [
+      0.000152,
+      "  with a deployed app\r\n"
+    ],
+    [
+      0.000233,
+      "  \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/healthcheck_test.go:68\u001b[0m\r\n"
+    ],
+    [
+      0.000142,
+      "    \u001b[91m\u001b[1mcan stay running during a scale event [BeforeEach]\u001b[0m\r\n"
+    ],
+    [
+      0.000157,
+      "    \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/healthcheck_test.go:66\u001b[0m\r\n"
+    ],
+    [
+      0.000136,
+      "\r\n"
+    ],
+    [
+      0.000164,
+      "    \u001b[91mNo future change is possible.  Bailing out early after 0.216s.\r\n    Expected\r\n        \u003cint\u003e: 1\r\n    to match exit code:\r\n        \u003cint\u003e: 0\u001b[0m\r\n"
+    ],
+    [
+      0.000217,
+      "\r\n"
+    ],
+    [
+      0.000146,
+      "    /go/src/github.com/deis/workflow/_tests/tests/healthcheck_test.go:21\r\n"
+    ],
+    [
+      0.000176,
+      "\u001b[90m------------------------------\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[32m•\u001b[0m"
+    ],
+    [
+      0.000276,
+      "\r\n"
+    ],
+    [
+      0.000231,
+      "\u001b[90m------------------------------\u001b[0m\r\n"
+    ],
+    [
+      0.000193,
+      "\u001b[33mP [PENDING]\u001b[0m\r\n"
+    ],
+    [
+      0.000237,
+      "Perms\r\n"
+    ],
+    [
+      0.000178,
+      "\u001b[90m/go/src/github.com/deis/workflow/_tests/tests/perms_test.go:70\u001b[0m\r\n"
+    ],
+    [
+      0.000175,
+      "  when logged in as an admin user\r\n"
+    ],
+    [
+      0.000177,
+      "  \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/perms_test.go:44\u001b[0m\r\n"
+    ],
+    [
+      0.000142,
+      "    can create, list, and delete app permissions\r\n"
+    ],
+    [
+      0.000173,
+      "    \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/perms_test.go:43\u001b[0m\r\n"
+    ],
+    [
+      0.000211,
+      "\u001b[90m------------------------------\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[32m• [SLOW TEST:7.348 seconds]\u001b[0m\r\n"
+    ],
+    [
+      0.000281,
+      "Perms\r\n"
+    ],
+    [
+      0.000226,
+      "\u001b[90m/go/src/github.com/deis/workflow/_tests/tests/perms_test.go:70\u001b[0m\r\n"
+    ],
+    [
+      0.000127,
+      "  when logged in as a normal user\r\n"
+    ],
+    [
+      0.000176,
+      "  \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/perms_test.go:69\u001b[0m\r\n"
+    ],
+    [
+      0.000186,
+      "    can't create, list, or delete admin permissions\r\n"
+    ],
+    [
+      0.000241,
+      "    \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/perms_test.go:60\u001b[0m\r\n"
+    ],
+    [
+      0.000219,
+      "\u001b[90m------------------------------\u001b[0m\r\n"
+    ],
+    [
+      0.000247,
+      "\u001b[33mP [PENDING]\u001b[0m\r\n"
+    ],
+    [
+      0.000163,
+      "Perms\r\n"
+    ],
+    [
+      0.000197,
+      "\u001b[90m/go/src/github.com/deis/workflow/_tests/tests/perms_test.go:70\u001b[0m\r\n"
+    ],
+    [
+      0.000170,
+      "  when logged in as a normal user\r\n"
+    ],
+    [
+      0.000189,
+      "  \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/perms_test.go:69\u001b[0m\r\n"
+    ],
+    [
+      0.000171,
+      "    can create, list, and delete app permissions\r\n"
+    ],
+    [
+      0.000171,
+      "    \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/perms_test.go:68\u001b[0m\r\n"
+    ],
+    [
+      0.001768,
+      "\u001b[90m------------------------------\u001b[0m\r\n\u001b[33mP [PENDING]\u001b[0m\r\nDomains\r\n\u001b[90m/go/src/github.com/deis/workflow/_tests/tests/domains_test.go:34\u001b[0m\r\n  with a deployed app\r\n  \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/domains_test.go:33\u001b[0m\r\n    can add, list, and remove domains\r\n    \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/domains_test.go:19\u001b[0m\r\n\u001b[90m------------------------------\u001b[0m\r\n\u001b[33mP [PENDING]\u001b[0m\r\nDomains\r\n\u001b[90m/go/src/github.com/deis/workflow/_tests/tests/domains_test.go:34\u001b[0m\r\n  with a deployed app\r\n  \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/domains_test.go:33\u001b[0m\r\n    can add, list, and remove certs\r\n    \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/domains_test.go:32\u001b[0m\r\n\u001b[90m------------------------------\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[32m•\u001b[0m"
+    ],
+    [
+      1.000000,
+      "\u001b[32m•\u001b[0m"
+    ],
+    [
+      0.000160,
+      "\r\n"
+    ],
+    [
+      0.000258,
+      "\u001b[90m------------------------------\u001b[0m\r\n"
+    ],
+    [
+      0.000198,
+      "\u001b[33mP [PENDING]\u001b[0m\r\n"
+    ],
+    [
+      0.000193,
+      "Builds\r\n"
+    ],
+    [
+      0.000192,
+      "\u001b[90m/go/src/github.com/deis/workflow/_tests/tests/builds_test.go:49\u001b[0m\r\n"
+    ],
+    [
+      0.000344,
+      "  with a logged-in user\r\n"
+    ],
+    [
+      0.000187,
+      "  \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/builds_test.go:48\u001b[0m\r\n"
+    ],
+    [
+      0.000129,
+      "    with no app\r\n"
+    ],
+    [
+      0.000145,
+      "    \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/builds_test.go:31\u001b[0m\r\n"
+    ],
+    [
+      0.000179,
+      "      can list app builds\r\n"
+    ],
+    [
+      0.000143,
+      "      \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/builds_test.go:30\u001b[0m\r\n"
+    ],
+    [
+      0.000140,
+      "\u001b[90m------------------------------\u001b[0m\r\n"
+    ],
+    [
+      0.000168,
+      "\u001b[33mP [PENDING]\u001b[0m\r\n"
+    ],
+    [
+      0.000131,
+      "Builds\r\n"
+    ],
+    [
+      0.000152,
+      "\u001b[90m/go/src/github.com/deis/workflow/_tests/tests/builds_test.go:49\u001b[0m\r\n"
+    ],
+    [
+      0.000140,
+      "  with a logged-in user\r\n"
+    ],
+    [
+      0.000218,
+      "  \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/builds_test.go:48\u001b[0m\r\n    with a deployed app\r\n    \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/builds_test.go:46\u001b[0m\r\n      can list app builds\r\n      \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/builds_test.go:37\u001b[0m\r\n\u001b[90m------------------------------\u001b[0m\r\n"
+    ],
+    [
+      0.000295,
+      "\u001b[33mP [PENDING]\u001b[0m\r\nBuilds\r\n\u001b[90m/go/src/github.com/deis/workflow/_tests/tests/builds_test.go:49\u001b[0m\r\n  with a logged-in user\r\n  \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/builds_test.go:48\u001b[0m\r\n    with a deployed app\r\n    \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/builds_test.go:46\u001b[0m\r\n      can create a build from an existing image (\"deis pull\")\r\n      \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/builds_test.go:45\u001b[0m\r\n"
+    ],
+    [
+      0.000310,
+      "\u001b[90m------------------------------\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[32m•\u001b[0m"
+    ],
+    [
+      1.000000,
+      "\u001b[32m•\u001b[0m"
+    ],
+    [
+      1.000000,
+      "\u001b[32m•\u001b[0m"
+    ],
+    [
+      1.000000,
+      "\u001b[32m•\u001b[0m"
+    ],
+    [
+      0.000184,
+      "\r\n"
+    ],
+    [
+      0.000225,
+      "\u001b[90m------------------------------\u001b[0m\r\n"
+    ],
+    [
+      0.000131,
+      "\u001b[33mP [PENDING]\u001b[0m\r\n"
+    ],
+    [
+      0.000200,
+      "Apps\r\n"
+    ],
+    [
+      0.000271,
+      "\u001b[90m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:167\u001b[0m\r\n"
+    ],
+    [
+      0.000170,
+      "  with no app\r\n"
+    ],
+    [
+      0.000231,
+      "  \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:41\u001b[0m\r\n"
+    ],
+    [
+      0.000203,
+      "    can't run a command in the app environment\r\n"
+    ],
+    [
+      0.000208,
+      "    \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:39\u001b[0m\r\n"
+    ],
+    [
+      0.000280,
+      "\u001b[90m------------------------------\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "Logged in as test-81\r\nCreating Application... ...\u0008\u0008\u0008done, created test-640085437\r\nfatal: Not a git repository (or any of the parent directories): .git\r\nTo replace the existing git remote entry, run:\r\n  git remote rename deis deis.old \u0026\u0026 deis git:remote -a test-640085437\r\nError: exit status 128\r\nDestroying test-640085437...\r\ndone in 0s\r\n"
+    ],
+    [
+      0.000256,
+      "\u001b[91m\u001b[1m• Failure [1.827 seconds]\u001b[0m\r\n"
+    ],
+    [
+      0.000153,
+      "Apps\r\n"
+    ],
+    [
+      0.000215,
+      "\u001b[90m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:167\u001b[0m\r\n"
+    ],
+    [
+      0.000181,
+      "  when creating an app\r\n"
+    ],
+    [
+      0.000258,
+      "  \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:91\u001b[0m\r\n"
+    ],
+    [
+      0.000223,
+      "    \u001b[91m\u001b[1mcreates an app with a git remote [It]\u001b[0m\r\n"
+    ],
+    [
+      0.000209,
+      "    \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:63\u001b[0m\r\n"
+    ],
+    [
+      0.000205,
+      "\r\n"
+    ],
+    [
+      0.000337,
+      "    \u001b[91mNo future change is possible.  Bailing out early after 0.000s.\r\n    Got stuck at:\r\n        \r\n        fatal: Not a git repository (or any of the parent directories): .git\r\n        To replace the existing git remote entry, run:\r\n          git remote rename deis deis.old \u0026\u0026 deis git:remote -a test-640085437\r\n        \r\n    Waiting for:\r\n        Git remote deis added\u001b[0m\r\n"
+    ],
+    [
+      0.000213,
+      "\r\n"
+    ],
+    [
+      0.000179,
+      "    /go/src/github.com/deis/workflow/_tests/tests/apps_test.go:61\r\n"
+    ],
+    [
+      0.000221,
+      "\u001b[90m------------------------------\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[32m•\u001b[0m"
+    ],
+    [
+      1.000000,
+      "Logged in as test-81\r\nCreating Application... ...\u0008\u0008\u0008done, created test-171182222\r\nfatal: Not a git repository (or any of the parent directories): .git\r\nTo replace the existing git remote entry, run:\r\n  git remote rename deis deis.old \u0026\u0026 deis git:remote -a test-171182222\r\nError: exit status 128\r\nDestroying test-171182222...\r\ndone in 0s\r\n"
+    ],
+    [
+      0.000276,
+      "\r\n"
+    ],
+    [
+      0.000174,
+      "\u001b[90m------------------------------\u001b[0m\r\n"
+    ],
+    [
+      0.000189,
+      "\u001b[91m\u001b[1m• Failure [1.862 seconds]\u001b[0m\r\n"
+    ],
+    [
+      0.000206,
+      "Apps\r\n"
+    ],
+    [
+      0.000191,
+      "\u001b[90m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:167\u001b[0m\r\n"
+    ],
+    [
+      0.000135,
+      "  when creating an app\r\n"
+    ],
+    [
+      0.000161,
+      "  \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:91\u001b[0m\r\n"
+    ],
+    [
+      0.000164,
+      "    \u001b[91m\u001b[1mcreates an app with a custom buildpack [It]\u001b[0m\r\n"
+    ],
+    [
+      0.000172,
+      "    \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:90\u001b[0m\r\n"
+    ],
+    [
+      0.000143,
+      "\r\n"
+    ],
+    [
+      0.000156,
+      "    \u001b[91mNo future change is possible.  Bailing out early after 0.319s.\r\n    Expected\r\n        \u003cint\u003e: 1\r\n    to match exit code:\r\n        \u003cint\u003e: 0\u001b[0m\r\n"
+    ],
+    [
+      0.000156,
+      "\r\n"
+    ],
+    [
+      0.000164,
+      "    /go/src/github.com/deis/workflow/_tests/tests/apps_test.go:81\r\n"
+    ],
+    [
+      0.000128,
+      "\u001b[90m------------------------------\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "Logged in as test-81\r\nCreating Application... ...\u0008\u0008\u0008done, created test-282697725\r\nfatal: Not a git repository (or any of the parent directories): .git\r\nTo replace the existing git remote entry, run:\r\n  git remote rename deis deis.old \u0026\u0026 deis git:remote -a test-282697725\r\nError: exit status 128\r\nDestroying test-282697725...\r\ndone in 0s\r\n"
+    ],
+    [
+      0.000338,
+      "\u001b[91m\u001b[1m• Failure in Spec Setup (BeforeEach) [1.657 seconds]\u001b[0m\r\n"
+    ],
+    [
+      0.000205,
+      "Apps\r\n"
+    ],
+    [
+      0.000165,
+      "\u001b[90m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:167\u001b[0m\r\n"
+    ],
+    [
+      0.000155,
+      "  with a deployed app\r\n"
+    ],
+    [
+      0.000172,
+      "  \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:166\u001b[0m\r\n"
+    ],
+    [
+      0.000153,
+      "    \u001b[91m\u001b[1mcan't create an existing app [BeforeEach]\u001b[0m\r\n"
+    ],
+    [
+      0.000189,
+      "    \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:117\u001b[0m\r\n"
+    ],
+    [
+      0.000141,
+      "\r\n"
+    ],
+    [
+      0.000203,
+      "    \u001b[91mNo future change is possible.  Bailing out early after 0.011s.\r\n    Got stuck at:\r\n        \r\n        fatal: Not a git repository (or any of the parent directories): .git\r\n        To replace the existing git remote entry, run:\r\n          git remote rename deis deis.old \u0026\u0026 deis git:remote -a test-282697725\r\n        \r\n    Waiting for:\r\n        Git remote deis added\u001b[0m\r\n"
+    ],
+    [
+      0.000158,
+      "\r\n"
+    ],
+    [
+      0.000134,
+      "    /go/src/github.com/deis/workflow/_tests/tests/apps_test.go:101\r\n"
+    ],
+    [
+      0.000659,
+      "\u001b[90m------------------------------\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "Logged in as test-81\r\nCreating Application... ...\u0008\u0008\u0008done, created test-589559751\r\nfatal: Not a git repository (or any of the parent directories): .git\r\nTo replace the existing git remote entry, run:\r\n  git remote rename deis deis.old \u0026\u0026 deis git:remote -a test-589559751\r\nError: exit status 128\r\nDestroying test-589559751...\r\ndone in 0s\r\n"
+    ],
+    [
+      0.000373,
+      "\u001b[91m\u001b[1m• Failure in Spec Setup (BeforeEach) [1.796 seconds]\u001b[0m\r\n"
+    ],
+    [
+      0.000138,
+      "Apps\r\n"
+    ],
+    [
+      0.000214,
+      "\u001b[90m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:167\u001b[0m\r\n"
+    ],
+    [
+      0.000162,
+      "  with a deployed app\r\n"
+    ],
+    [
+      0.000159,
+      "  \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:166\u001b[0m\r\n"
+    ],
+    [
+      0.000151,
+      "    \u001b[91m\u001b[1mcan get app info [BeforeEach]\u001b[0m\r\n"
+    ],
+    [
+      0.000189,
+      "    \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:128\u001b[0m\r\n"
+    ],
+    [
+      0.000191,
+      "\r\n"
+    ],
+    [
+      0.000197,
+      "    \u001b[91mNo future change is possible.  Bailing out early after 0.000s.\r\n    Got stuck at:\r\n        \r\n        fatal: Not a git repository (or any of the parent directories): .git\r\n        To replace the existing git remote entry, run:\r\n          git remote rename deis deis.old \u0026\u0026 deis git:remote -a test-589559751\r\n        \r\n    Waiting for:\r\n        Git remote deis added\u001b[0m\r\n"
+    ],
+    [
+      0.000177,
+      "\r\n"
+    ],
+    [
+      0.000166,
+      "    /go/src/github.com/deis/workflow/_tests/tests/apps_test.go:101\r\n"
+    ],
+    [
+      0.000139,
+      "\u001b[90m------------------------------\u001b[0m\r\n"
+    ],
+    [
+      0.000152,
+      "\u001b[33mP [PENDING]\u001b[0m\r\n"
+    ],
+    [
+      0.000122,
+      "Apps\r\n"
+    ],
+    [
+      0.000146,
+      "\u001b[90m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:167\u001b[0m\r\n"
+    ],
+    [
+      0.000141,
+      "  with a deployed app\r\n"
+    ],
+    [
+      0.001699,
+      "  \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:166\u001b[0m\r\n    can get app logs\r\n    \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:138\u001b[0m\r\n\u001b[90m------------------------------\u001b[0m\r\n\u001b[33mP [PENDING]\u001b[0m\r\nApps\r\n\u001b[90m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:167\u001b[0m\r\n  with a deployed app\r\n  \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:166\u001b[0m\r\n    can open the app's URL\r\n    \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:145\u001b[0m\r\n\u001b[90m------------------------------\u001b[0m\r\n\u001b[33mP [PENDING]\u001b[0m\r\nApps\r\n\u001b[90m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:167\u001b[0m\r\n  with a deployed app\r\n  \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:166\u001b[0m\r\n    can't open a bogus app URL\r\n    \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:152\u001b[0m\r\n\u001b[90m------------------------------\u001b[0m\r\n\u001b[33mP [PENDING]\u001b[0m\r\nApps\r\n\u001b[90m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:167\u001b[0m\r\n  with a deplo"
+    ],
+    [
+      0.000033,
+      "yed app\r\n  \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:166\u001b[0m\r\n    can run a command in the app environment\r\n    \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:161\u001b[0m\r\n\u001b[90m------------------------------\u001b[0m\r\n\u001b[33mP [PENDING]\u001b[0m\r\nApps\r\n\u001b[90m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:167\u001b[0m\r\n  with a deployed app\r\n  \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:166\u001b[0m\r\n    can transfer the app to another owner\r\n    \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:165\u001b[0m\r\n\u001b[90m------------------------------\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "Logged in as test-81\r\n"
+    ],
+    [
+      0.000301,
+      "\u001b[91m\u001b[1m• Failure [1.488 seconds]\u001b[0m\r\n"
+    ],
+    [
+      0.000293,
+      "Config\r\n"
+    ],
+    [
+      0.000208,
+      "\u001b[90m/go/src/github.com/deis/workflow/_tests/tests/config_test.go:76\u001b[0m\r\n"
+    ],
+    [
+      0.000179,
+      "  with a deployed app\r\n"
+    ],
+    [
+      0.000229,
+      "  \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/config_test.go:75\u001b[0m\r\n"
+    ],
+    [
+      0.000248,
+      "    \u001b[91m\u001b[1mcan list environment variables [It]\u001b[0m\r\n"
+    ],
+    [
+      0.000182,
+      "    \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/config_test.go:32\u001b[0m\r\n"
+    ],
+    [
+      0.000145,
+      "\r\n"
+    ],
+    [
+      0.000328,
+      "    \u001b[91mCreating Application... ...\u0008\u0008\u0008done, created test-427131848\r\n    fatal: Not a git repository (or any of the parent directories): .git\r\n    To replace the existing git remote entry, run:\r\n      git remote rename deis deis.old \u0026\u0026 deis git:remote -a test-427131848\r\n    Error: exit status 128\r\n    \r\n    Expected error:\r\n        \u003c*exec.ExitError | 0xc8200226c8\u003e: {\r\n            ProcessState: {\r\n                pid: 644,\r\n                status: 256,\r\n                rusage: {\r\n                    Utime: {Sec: 0, Usec: 0},\r\n                    Stime: {Sec: 0, Usec: 0},\r\n                    Maxrss: 48852,\r\n                    Ixrss: 0,\r\n                    Idrss: 0,\r\n                    Isrss: 0,\r\n                    Minflt: 596,\r\n                    Majflt: 0,\r\n                    Nswap: 0,\r\n                    Inblock: 0,\r\n                    Oublock: 0,\r\n                    Msgsnd: 0,\r\n                    Msgrcv: 0,\r\n                    Nsignals: 0,\r\n                    Nvcsw: 47,\r\n                    Nivc"
+    ],
+    [
+      0.000015,
+      "sw: 42,\r\n                },\r\n            },\r\n        }\r\n        exit status 1\r\n    not to have occurred\u001b[0m\r\n"
+    ],
+    [
+      0.000231,
+      "\r\n"
+    ],
+    [
+      0.000145,
+      "    /go/src/github.com/deis/workflow/_tests/tests/config_test.go:14\r\n"
+    ],
+    [
+      0.000149,
+      "\u001b[90m------------------------------\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[32m•\u001b[0m"
+    ],
+    [
+      1.000000,
+      "\u001b[32m•\u001b[0m"
+    ],
+    [
+      1.000000,
+      "\u001b[32m•\u001b[0m"
+    ],
+    [
+      1.000000,
+      "\u001b[32m•\u001b[0m"
+    ],
+    [
+      1.000000,
+      "\u001b[32m•\u001b[0m"
+    ],
+    [
+      0.000157,
+      "\r\n"
+    ],
+    [
+      0.000181,
+      "\u001b[90m------------------------------\u001b[0m\r\n"
+    ],
+    [
+      0.000160,
+      "\u001b[33mP [PENDING]\u001b[0m\r\n"
+    ],
+    [
+      0.000147,
+      "Config\r\n"
+    ],
+    [
+      0.000160,
+      "\u001b[90m/go/src/github.com/deis/workflow/_tests/tests/config_test.go:76\u001b[0m\r\n"
+    ],
+    [
+      0.000208,
+      "  with a deployed app\r\n"
+    ],
+    [
+      0.000216,
+      "  \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/config_test.go:75\u001b[0m\r\n"
+    ],
+    [
+      0.000214,
+      "    can pull the configuration to an .env file\r\n"
+    ],
+    [
+      0.000228,
+      "    \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/config_test.go:70\u001b[0m\r\n"
+    ],
+    [
+      0.000159,
+      "\u001b[90m------------------------------\u001b[0m\r\n"
+    ],
+    [
+      0.000161,
+      "\u001b[33mP [PENDING]\u001b[0m\r\n"
+    ],
+    [
+      0.000135,
+      "Config\r\n"
+    ],
+    [
+      0.000146,
+      "\u001b[90m/go/src/github.com/deis/workflow/_tests/tests/config_test.go:76\u001b[0m\r\n"
+    ],
+    [
+      0.000127,
+      "  with a deployed app\r\n"
+    ],
+    [
+      0.000158,
+      "  \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/config_test.go:75\u001b[0m\r\n"
+    ],
+    [
+      0.000126,
+      "    can push the configuration from an .env file\r\n"
+    ],
+    [
+      0.000142,
+      "    \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/config_test.go:74\u001b[0m\r\n"
+    ],
+    [
+      0.001729,
+      "\u001b[90m------------------------------\u001b[0m\r\n\u001b[33mP [PENDING]\u001b[0m\r\ndeis\r\n\u001b[90m/go/src/github.com/deis/workflow/_tests/tests/ps_test.go:44\u001b[0m\r\n  with a deployed app\r\n  \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/ps_test.go:43\u001b[0m\r\n    can scale upward\r\n    \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/ps_test.go:18\u001b[0m\r\n\u001b[90m------------------------------\u001b[0m\r\n\u001b[33mP [PENDING]\u001b[0m\r\ndeis\r\n\u001b[90m/go/src/github.com/deis/workflow/_tests/tests/ps_test.go:44\u001b[0m\r\n  with a deployed app\r\n  \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/ps_test.go:43\u001b[0m\r\n    can scale down to 0\r\n    \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/ps_test.go:27\u001b[0m\r\n\u001b[90m------------------------------\u001b[0m\r\n\u001b[33mP [PENDING]\u001b[0m\r\ndeis\r\n\u001b[90m/go/src/github.com/deis/workflow/_tests/tests/ps_test.go:44\u001b[0m\r\n  with a deployed app\r\n  \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/ps_test.go:43\u001b[0m\r\n    can restart all processes\r\n    \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/ps_test.go:36\u001b[0m\r\n\u001b[90m-----------------"
+    ],
+    [
+      0.000031,
+      "-------------\u001b[0m\r\n\u001b[33mP [PENDING]\u001b[0m\r\ndeis\r\n\u001b[90m/go/src/github.com/deis/workflow/_tests/tests/ps_test.go:44\u001b[0m\r\n  with a deployed app\r\n  \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/ps_test.go:43\u001b[0m\r\n    can restart a specific process\r\n    \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/ps_test.go:42\u001b[0m\r\n\u001b[90m------------------------------\u001b[0m\r\n\u001b[33mP [PENDING]\u001b[0m\r\nReleases\r\n\u001b[90m/go/src/github.com/deis/workflow/_tests/tests/releases_test.go:57\u001b[0m\r\n  with a deployed app\r\n  \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/releases_test.go:56\u001b[0m\r\n    can deploy the app\r\n    \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/releases_test.go:26\u001b[0m\r\n\u001b[90m------------------------------\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[32m• [SLOW TEST:6.844 seconds]\u001b[0m\r\n"
+    ],
+    [
+      0.000166,
+      "Releases\r\n"
+    ],
+    [
+      0.000201,
+      "\u001b[90m/go/src/github.com/deis/workflow/_tests/tests/releases_test.go:57\u001b[0m\r\n"
+    ],
+    [
+      0.000141,
+      "  with a deployed app\r\n"
+    ],
+    [
+      0.000174,
+      "  \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/releases_test.go:56\u001b[0m\r\n"
+    ],
+    [
+      0.000159,
+      "    can list releases\r\n"
+    ],
+    [
+      0.000174,
+      "    \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/releases_test.go:34\u001b[0m\r\n"
+    ],
+    [
+      0.000172,
+      "\u001b[90m------------------------------\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b[32m•\u001b[0m"
+    ],
+    [
+      1.000000,
+      "\u001b[32m•\u001b[0m"
+    ],
+    [
+      0.000248,
+      "\r\n"
+    ],
+    [
+      0.000211,
+      "\u001b[90m------------------------------\u001b[0m\r\n"
+    ],
+    [
+      0.000203,
+      "\u001b[33mP [PENDING]\u001b[0m\r\n"
+    ],
+    [
+      0.000238,
+      "Tags\r\n"
+    ],
+    [
+      0.000178,
+      "\u001b[90m/go/src/github.com/deis/workflow/_tests/tests/tags_test.go:16\u001b[0m\r\n"
+    ],
+    [
+      0.000149,
+      "  with a deployed app\r\n"
+    ],
+    [
+      0.000157,
+      "  \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/tags_test.go:15\u001b[0m\r\n"
+    ],
+    [
+      0.000144,
+      "    can set a tag\r\n"
+    ],
+    [
+      0.012344,
+      "    \u001b[90m/go/src/github.com/deis/workflow/_tests/tests/tags_test.go:14\u001b[0m\r\n\u001b[90m------------------------------\u001b[0m\r\n"
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.000308,
+      "\r\n"
+    ],
+    [
+      0.000246,
+      "\u001b[91m\u001b[1mSummarizing 6 Failures:\u001b[0m\r\n"
+    ],
+    [
+      0.000205,
+      "\r\n"
+    ],
+    [
+      0.000196,
+      "\u001b[91m\u001b[1m[Fail] \u001b[0m"
+    ],
+    [
+      0.000273,
+      "\u001b[90mHealthcheck \u001b[0m"
+    ],
+    [
+      0.000207,
+      "\u001b[0mwith a deployed app \u001b[0m"
+    ],
+    [
+      0.000181,
+      "\u001b[91m\u001b[1m[BeforeEach] can stay running during a scale event \u001b[0m"
+    ],
+    [
+      0.000190,
+      "\r\n"
+    ],
+    [
+      0.000219,
+      "\u001b[37m/go/src/github.com/deis/workflow/_tests/tests/healthcheck_test.go:21\u001b[0m\r\n"
+    ],
+    [
+      0.000206,
+      "\r\n"
+    ],
+    [
+      0.000897,
+      "\u001b[91m\u001b[1m[Fail] \u001b[0m\u001b[90mApps \u001b[0m\u001b[0mwhen creating an app \u001b[0m\u001b[91m\u001b[1m[It] creates an app with a git remote \u001b[0m\r\n\u001b[37m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:61\u001b[0m\r\n\r\n\u001b[91m\u001b[1m[Fail] \u001b[0m\u001b[90mApps \u001b[0m\u001b[0mwhen creating an app \u001b[0m\u001b[91m\u001b[1m[It] creates an app with a custom buildpack \u001b[0m\r\n\u001b[37m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:81\u001b[0m\r\n\r\n\u001b[91m\u001b[1m[Fail] \u001b[0m\u001b[90mApps \u001b[0m\u001b[0mwith a deployed app \u001b[0m\u001b[91m\u001b[1m[BeforeEach] can't create an existing app \u001b[0m\r\n\u001b[37m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:101\u001b[0m\r\n\r\n\u001b[91m\u001b[1m[Fail] \u001b[0m\u001b[90mApps \u001b[0m\u001b[0mwith a deployed app \u001b[0m\u001b[91m\u001b[1m[BeforeEach] can get app info \u001b[0m\r\n\u001b[37m/go/src/github.com/deis/workflow/_tests/tests/apps_test.go:101\u001b[0m\r\n\r\n\u001b[91m\u001b[1m[Fail] \u001b[0m\u001b[90mConfig \u001b[0m\u001b[0mwith a deployed app \u001b[0m\u001b[91m\u001b[1m[It] can list environment variables \u001b[0m\r\n\u001b[37m/go/src/github.com/deis/workflow/_tests/tests/config_test.go:14\u001b[0m\r\n\r\n\u001b[1m\u001b[91mRan 35 of 56 Specs in 77.479 seconds\u001b[0m\r\n\u001b[1m\u001b[91mFAIL!\u001b[0m -"
+    ],
+    [
+      0.000039,
+      "- \u001b[32m\u001b[1m29 Passed\u001b[0m | \u001b[91m\u001b[1m6 Failed\u001b[0m | \u001b[33m\u001b[1m21 Pending\u001b[0m | \u001b[36m\u001b[1m0 Skipped\u001b[0m --- FAIL: TestTests (77.48s)\r\nFAIL\r\n"
+    ],
+    [
+      0.219617,
+      "\u001b[1m\u001b[34m==\u003e Destroying cluster helm-testing-b201...\u001b(B\u001b[m\r\n"
+    ]
+  ]
+}
