@@ -1,0 +1,238 @@
+{
+  "version": 1,
+  "width": 134,
+  "height": 36,
+  "duration": 60.900180,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.010687,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000030,
+      "bash-3.2$ "
+    ],
+    [
+      1.485061,
+      "s"
+    ],
+    [
+      0.176023,
+      "s"
+    ],
+    [
+      0.087857,
+      "h"
+    ],
+    [
+      0.128029,
+      " "
+    ],
+    [
+      0.104028,
+      "w"
+    ],
+    [
+      0.144101,
+      "o"
+    ],
+    [
+      0.567946,
+      "r"
+    ],
+    [
+      0.120029,
+      "k"
+    ],
+    [
+      0.167631,
+      "e"
+    ],
+    [
+      0.216372,
+      "r"
+    ],
+    [
+      0.392042,
+      "-"
+    ],
+    [
+      0.087982,
+      "1"
+    ],
+    [
+      0.552058,
+      "\r\n"
+    ],
+    [
+      0.683454,
+      "Last login: Fri Jan 15 12:47:41 2016 from 161.pool85-48-138.dynamic.orange.es\r\r\nCentOS Linux release 7.2.1511 (Core) \r\n\r\nLinux worker-1.sourced.rocks 3.10.0-327.3.1.el7.x86_64 #1 SMP Wed Dec 9 14:09:15 UTC 2015 x86_64 x86_64 x86_64 GNU/Linux\r\n\r\nserver    : 421482\r\nhostname  : worker-1.sourced.rocks\r\neth0 IPv4 : 178.33.123.60\r\neth0 IPv6 : 2001:41d0:2:f03c::/64\r\n\r\n"
+    ],
+    [
+      0.041500,
+      "\u001b]0;root@worker-1:~\u0007\u001b[?1034h[\u001b[01;31mroot\u001b[00m]@[\u001b[01;32mworker-1.sourced.rocks\u001b[00m][12:49:45]\r\r\n~$\u003e"
+    ],
+    [
+      6.553002,
+      "env ETCD_SERVERS='http://etcd.oss.tyba.cc:2379' ENVIRONMENT='production' ./hermes  test-email --staffer=vr --offer=tyba-backend  --s\rsize=10 --email=\"miguel@tyba.com\""
+    ],
+    [
+      1.296523,
+      "\u0008"
+    ],
+    [
+      0.149043,
+      "\u0008"
+    ],
+    [
+      0.151518,
+      "\u0008"
+    ],
+    [
+      0.152851,
+      "\u0008"
+    ],
+    [
+      0.144010,
+      "\u0008"
+    ],
+    [
+      0.143771,
+      "\u0008"
+    ],
+    [
+      0.173191,
+      "\u0008"
+    ],
+    [
+      0.138918,
+      "\u0008"
+    ],
+    [
+      0.152296,
+      "\u0008"
+    ],
+    [
+      0.179900,
+      "\u0008"
+    ],
+    [
+      0.867455,
+      ".@tyba.com\"\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.431659,
+      "a@tyba.com\"\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008"
+    ],
+    [
+      0.945453,
+      "\r\n"
+    ],
+    [
+      21.316879,
+      "Sending email destined for  (winstonwee)\r\n"
+    ],
+    [
+      0.477787,
+      "Sent email for staffer vr and offer tyba-backend to =\u003e miguel.a@tyba.com\r\nSending email destined for  (tiptoptek)\r\n"
+    ],
+    [
+      0.780686,
+      "Sent email for staffer vr and offer tyba-backend to =\u003e miguel.a@tyba.com\r\nSending email destined for  (Winston With)\r\n"
+    ],
+    [
+      0.233492,
+      "Sent email for staffer vr and offer tyba-backend to =\u003e miguel.a@tyba.com\r\nSending email destined for  (winstonwolfe)\r\n"
+    ],
+    [
+      0.699457,
+      "Sent email for staffer vr and offer tyba-backend to =\u003e miguel.a@tyba.com\r\nSending email destined for  (winstonww)\r\n"
+    ],
+    [
+      0.260525,
+      "Sent email for staffer vr and offer tyba-backend to =\u003e miguel.a@tyba.com\r\nSending email destined for  (winstonwp)\r\n"
+    ],
+    [
+      0.661154,
+      "Sent email for staffer vr and offer tyba-backend to =\u003e miguel.a@tyba.com\r\nSending email destined for  (Winston Wright)\r\n"
+    ],
+    [
+      0.613920,
+      "Sent email for staffer vr and offer tyba-backend to =\u003e miguel.a@tyba.com\r\nSending email destined for  (Winston)\r\n"
+    ],
+    [
+      0.307917,
+      "Sent email for staffer vr and offer tyba-backend to =\u003e miguel.a@tyba.com\r\nSending email destined for  (Winston)\r\n"
+    ],
+    [
+      0.588571,
+      "Sent email for staffer vr and offer tyba-backend to =\u003e miguel.a@tyba.com\r\nSending email destined for  ()\r\n"
+    ],
+    [
+      0.333047,
+      "2016/01/15 12:50:22 [WARN] Trying to send email to person without name (miguel.a@tyba.com)\r\n\u001b]0;root@worker-1:~\u0007[\u001b[01;31mroot\u001b[00m]@[\u001b[01;32mworker-1.sourced.rocks\u001b[00m][12:50:22]\r\r\n~$\u003e"
+    ],
+    [
+      13.015364,
+      "b"
+    ],
+    [
+      0.199514,
+      "y"
+    ],
+    [
+      0.217874,
+      "e"
+    ],
+    [
+      0.902940,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.207222,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.330923,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.453929,
+      "e"
+    ],
+    [
+      0.223830,
+      "x"
+    ],
+    [
+      0.151571,
+      "i"
+    ],
+    [
+      0.152003,
+      "t"
+    ],
+    [
+      0.507062,
+      "\r\nlogout\r\n"
+    ],
+    [
+      0.000230,
+      "Connection to worker-1.oss.tyba.cc closed.\r\r\n"
+    ],
+    [
+      0.001496,
+      "bash-3.2$ "
+    ],
+    [
+      1.816447,
+      "exit\r\n"
+    ]
+  ]
+}
