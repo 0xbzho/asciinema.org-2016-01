@@ -1,0 +1,1934 @@
+{
+  "version": 1,
+  "width": 168,
+  "height": 45,
+  "duration": 23.202996,
+  "command": "/usr/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.706874,
+      "\u001b[?25h"
+    ],
+    [
+      0.000421,
+      "\u001b[0G"
+    ],
+    [
+      0.000042,
+      "\u001b[K"
+    ],
+    [
+      0.000153,
+      "\u001b[?25h"
+    ],
+    [
+      0.000045,
+      "\u001b[0G"
+    ],
+    [
+      0.000034,
+      "\u001b[K"
+    ],
+    [
+      0.018272,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                       \r \r"
+    ],
+    [
+      0.000175,
+      "\u001b]2;kristories@debian: ~\u0007"
+    ],
+    [
+      0.000050,
+      "\u001b]1;~\u0007"
+    ],
+    [
+      0.070068,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[34m~\u001b[00m   \r\n▶ \u001b[K\u001b[163C\u001b[1A  \u001b[31m\u001b[00m\u001b[1B\u001b[165D\u001b[?1h\u001b="
+    ],
+    [
+      1.182271,
+      "p"
+    ],
+    [
+      0.174448,
+      "\u0008ph"
+    ],
+    [
+      0.234949,
+      "u"
+    ],
+    [
+      0.178965,
+      "n"
+    ],
+    [
+      0.125335,
+      "t"
+    ],
+    [
+      0.332118,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;phunt\u0007\u001b]1;phunt\u0007"
+    ],
+    [
+      0.369069,
+      "\u001b[2mttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\u001b[22m\r\n"
+    ],
+    [
+      0.000641,
+      "\u001b[2mttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\u001b[22m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000132,
+      "\u001b[2mttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\u001b[22m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000041,
+      "\u001b[2mttttttttttttttttttt;                   `ttttttttttttttttttttt\u001b[22m\r\n"
+    ],
+    [
+      0.000003,
+      "\u001b[2mttttttttttttttttttt;                      ttttttttttttttttttt\u001b[22m\r\n"
+    ],
+    [
+      0.000045,
+      "\u001b[2mttttttttttttttttttt;                       tttttttttttttttttt\u001b[22m\r\n\u001b[2mttttttttttttttttttt;     ;ttttttttttt,      ttttttttttttttttt\u001b[22m\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[2mttttttttttttttttttt;     ;tttttttttttt,     ;tttttttttttttttt\u001b[22m\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[2mttttttttttttttttttt;     ;tttttttttttt,     ;tttttttttttttttt\u001b[22m\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[2mttttttttttttttttttt;     ;ttttttttttt,      ttttttttttttttttt\u001b[22m\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[2mttttttttttttttttttt;                       tttttttttttttttttt\u001b[22m\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[2mttttttttttttttttttt;                      ttttttttttttttttttt\u001b[22m\r\n"
+    ],
+    [
+      0.000022,
+      "\u001b[2mttttttttttttttttttt;                   ,ttttttttttttttttttttt\u001b[22m\r\n"
+    ],
+    [
+      0.000019,
+      "\u001b[2mttttttttttttttttttt;     ;ttttttttttttttttttttttttttttttttttt\u001b[22m\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[2mttttttttttttttttttt;     ;ttttttttttttttttttttttttttttttttttt\u001b[22m\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[2mttttttttttttttttttt;     ;ttttttttttttttttttttttttttttttttttt\u001b[22m\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[2mttttttttttttttttttt;     ;ttttttttttttttttttttttttttttttttttt\u001b[22m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[2mttttttttttttttttttt;     ;ttttttttttttttttttttttttttttttttttt\u001b[22m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000018,
+      "\u001b[2mttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\u001b[22m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[2mttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\u001b[22m\r\n"
+    ],
+    [
+      0.000023,
+      "\u001b[2mttttttttttt                                       ttttttttttt\u001b[22m\r\n"
+    ],
+    [
+      0.000056,
+      "\u001b[2mttttttttttt    \u001b[22m\u001b[1m------------ PHUNT ------------\u001b[22m\u001b[2m    ttttttttttt\u001b[22m"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000021,
+      "\u001b[2mttttttttttt    PRODUCTHUNT COMMAND LINE CLIENT    ttttttttttt\u001b[22m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[2mttttttttttt                                       ttttttttttt\u001b[22m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000017,
+      "\u001b[2mttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\u001b[22m"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.000020,
+      "\u001b[2mttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\r\n"
+    ],
+    [
+      0.000005,
+      "\u001b[22m\r\n"
+    ],
+    [
+      0.000870,
+      "\u001b[2mBefore you use PHUNT, you need to add an application"
+    ],
+    [
+      0.000003,
+      "\r\nand create token from :\r\nhttps://www.producthunt.com/v1/oauth/applications.\u001b[22m\r\n"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.000002,
+      "\r\n"
+    ],
+    [
+      0.013963,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m "
+    ],
+    [
+      0.000103,
+      "\u001b[18D"
+    ],
+    [
+      0.000096,
+      "\u001b[18C"
+    ],
+    [
+      1.600778,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000381,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m *"
+    ],
+    [
+      0.000151,
+      "\u001b[19D"
+    ],
+    [
+      0.000133,
+      "\u001b[19C"
+    ],
+    [
+      0.003114,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000209,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m **"
+    ],
+    [
+      0.000132,
+      "\u001b[20D"
+    ],
+    [
+      0.000054,
+      "\u001b[20C"
+    ],
+    [
+      0.000462,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000153,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ***"
+    ],
+    [
+      0.000125,
+      "\u001b[21D\u001b[21C"
+    ],
+    [
+      0.000358,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000170,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ****"
+    ],
+    [
+      0.000136,
+      "\u001b[22D"
+    ],
+    [
+      0.000055,
+      "\u001b[22C"
+    ],
+    [
+      0.003830,
+      "\u001b[1000D\u001b[K\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m *****"
+    ],
+    [
+      0.000468,
+      "\u001b[23D"
+    ],
+    [
+      0.000056,
+      "\u001b[23C"
+    ],
+    [
+      0.000394,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.002648,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ******\u001b[24D\u001b[24C\u001b[1000D\u001b[K\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m *******\u001b[25D\u001b[25C\u001b[1000D\u001b[K\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ********\u001b[26D\u001b[26C\u001b[1000D\u001b[K\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m *********\u001b[27D\u001b[27C"
+    ],
+    [
+      0.000436,
+      "\u001b[1000D\u001b[K\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m **********\u001b[28D\u001b[28C"
+    ],
+    [
+      0.000801,
+      "\u001b[1000D\u001b[K\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ***********\u001b[29D\u001b[29C"
+    ],
+    [
+      0.000411,
+      "\u001b[1000D\u001b[K\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ************"
+    ],
+    [
+      0.000164,
+      "\u001b[30D"
+    ],
+    [
+      0.000050,
+      "\u001b[30C"
+    ],
+    [
+      0.000411,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000112,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m *************"
+    ],
+    [
+      0.000085,
+      "\u001b[31D"
+    ],
+    [
+      0.000088,
+      "\u001b[31C"
+    ],
+    [
+      0.000342,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000133,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m **************"
+    ],
+    [
+      0.000081,
+      "\u001b[32D"
+    ],
+    [
+      0.000070,
+      "\u001b[32C"
+    ],
+    [
+      0.000320,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000134,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ***************"
+    ],
+    [
+      0.000090,
+      "\u001b[33D"
+    ],
+    [
+      0.000066,
+      "\u001b[33C"
+    ],
+    [
+      0.000326,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000139,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ****************"
+    ],
+    [
+      0.000081,
+      "\u001b[34D"
+    ],
+    [
+      0.000069,
+      "\u001b[34C"
+    ],
+    [
+      0.001503,
+      "\u001b[1000D\u001b[K\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m *****************\u001b[35D\u001b[35C"
+    ],
+    [
+      0.000320,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000146,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ******************"
+    ],
+    [
+      0.000081,
+      "\u001b[36D"
+    ],
+    [
+      0.000082,
+      "\u001b[36C"
+    ],
+    [
+      0.001339,
+      "\u001b[1000D\u001b[K\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m *******************\u001b[37D\u001b[37C"
+    ],
+    [
+      0.001079,
+      "\u001b[1000D\u001b[K\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ********************\u001b[38D\u001b[38C\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000737,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m *********************"
+    ],
+    [
+      0.000262,
+      "\u001b[39D"
+    ],
+    [
+      0.000114,
+      "\u001b[39C"
+    ],
+    [
+      0.000328,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000168,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m **********************"
+    ],
+    [
+      0.000068,
+      "\u001b[40D"
+    ],
+    [
+      0.000056,
+      "\u001b[40C"
+    ],
+    [
+      0.000551,
+      "\u001b[1000D\u001b[K\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ***********************\u001b[41D\u001b[41C"
+    ],
+    [
+      0.000253,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000114,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ************************"
+    ],
+    [
+      0.000075,
+      "\u001b[42D"
+    ],
+    [
+      0.000056,
+      "\u001b[42C"
+    ],
+    [
+      0.000414,
+      "\u001b[1000D\u001b[K\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m *************************"
+    ],
+    [
+      0.000041,
+      "\u001b[43D"
+    ],
+    [
+      0.000073,
+      "\u001b[43C"
+    ],
+    [
+      0.002259,
+      "\u001b[1000D\u001b[K\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m **************************\u001b[44D\u001b[44C"
+    ],
+    [
+      0.000103,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.001084,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ***************************\u001b[45D\u001b[45C"
+    ],
+    [
+      0.001465,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000124,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ****************************"
+    ],
+    [
+      0.000064,
+      "\u001b[46D"
+    ],
+    [
+      0.000049,
+      "\u001b[46C"
+    ],
+    [
+      0.000298,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000102,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m *****************************"
+    ],
+    [
+      0.000060,
+      "\u001b[47D"
+    ],
+    [
+      0.000051,
+      "\u001b[47C"
+    ],
+    [
+      0.000262,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000098,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ******************************"
+    ],
+    [
+      0.000060,
+      "\u001b[48D"
+    ],
+    [
+      0.000050,
+      "\u001b[48C"
+    ],
+    [
+      0.000290,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000099,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m *******************************"
+    ],
+    [
+      0.000058,
+      "\u001b[49D"
+    ],
+    [
+      0.000050,
+      "\u001b[49C"
+    ],
+    [
+      0.000500,
+      "\u001b[1000D\u001b[K\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ********************************\u001b[50D"
+    ],
+    [
+      0.001806,
+      "\u001b[50C"
+    ],
+    [
+      0.000238,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000087,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m *********************************"
+    ],
+    [
+      0.000041,
+      "\u001b[51D"
+    ],
+    [
+      0.000031,
+      "\u001b[51C"
+    ],
+    [
+      0.000157,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000067,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m **********************************"
+    ],
+    [
+      0.000358,
+      "\u001b[52D"
+    ],
+    [
+      0.000047,
+      "\u001b[52C"
+    ],
+    [
+      0.000183,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000144,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ***********************************"
+    ],
+    [
+      0.000066,
+      "\u001b[53D"
+    ],
+    [
+      0.000032,
+      "\u001b[53C"
+    ],
+    [
+      0.000158,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000088,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ************************************"
+    ],
+    [
+      0.000049,
+      "\u001b[54D"
+    ],
+    [
+      0.000029,
+      "\u001b[54C"
+    ],
+    [
+      0.000155,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000094,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m *************************************"
+    ],
+    [
+      0.000038,
+      "\u001b[55D"
+    ],
+    [
+      0.000029,
+      "\u001b[55C"
+    ],
+    [
+      0.000138,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000078,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m **************************************"
+    ],
+    [
+      0.000044,
+      "\u001b[56D"
+    ],
+    [
+      0.000029,
+      "\u001b[56C"
+    ],
+    [
+      0.000142,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000064,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ***************************************"
+    ],
+    [
+      0.000034,
+      "\u001b[57D"
+    ],
+    [
+      0.000028,
+      "\u001b[57C"
+    ],
+    [
+      0.000261,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000069,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ****************************************"
+    ],
+    [
+      0.000112,
+      "\u001b[58D"
+    ],
+    [
+      0.000051,
+      "\u001b[58C"
+    ],
+    [
+      0.000176,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000093,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m *****************************************"
+    ],
+    [
+      0.000038,
+      "\u001b[59D"
+    ],
+    [
+      0.000029,
+      "\u001b[59C"
+    ],
+    [
+      0.000157,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000086,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ******************************************"
+    ],
+    [
+      0.000056,
+      "\u001b[60D"
+    ],
+    [
+      0.000038,
+      "\u001b[60C"
+    ],
+    [
+      0.000144,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000080,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m *******************************************"
+    ],
+    [
+      0.001522,
+      "\u001b[61D"
+    ],
+    [
+      0.000219,
+      "\u001b[61C"
+    ],
+    [
+      0.000236,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000111,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ********************************************"
+    ],
+    [
+      0.000035,
+      "\u001b[62D"
+    ],
+    [
+      0.000026,
+      "\u001b[62C"
+    ],
+    [
+      0.000165,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000084,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m *********************************************"
+    ],
+    [
+      0.000055,
+      "\u001b[63D"
+    ],
+    [
+      0.000041,
+      "\u001b[63C"
+    ],
+    [
+      0.000163,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000094,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m **********************************************"
+    ],
+    [
+      0.000054,
+      "\u001b[64D"
+    ],
+    [
+      0.000028,
+      "\u001b[64C"
+    ],
+    [
+      0.000146,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000063,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ***********************************************"
+    ],
+    [
+      0.000032,
+      "\u001b[65D"
+    ],
+    [
+      0.000028,
+      "\u001b[65C"
+    ],
+    [
+      0.000144,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000062,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ************************************************"
+    ],
+    [
+      0.000033,
+      "\u001b[66D"
+    ],
+    [
+      0.000028,
+      "\u001b[66C"
+    ],
+    [
+      0.000158,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000058,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m *************************************************"
+    ],
+    [
+      0.000031,
+      "\u001b[67D"
+    ],
+    [
+      0.000028,
+      "\u001b[67C"
+    ],
+    [
+      0.000369,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000063,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m **************************************************"
+    ],
+    [
+      0.000033,
+      "\u001b[68D"
+    ],
+    [
+      0.000197,
+      "\u001b[68C"
+    ],
+    [
+      0.000374,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000083,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ***************************************************"
+    ],
+    [
+      0.000034,
+      "\u001b[69D"
+    ],
+    [
+      0.000025,
+      "\u001b[69C"
+    ],
+    [
+      0.000334,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000095,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ****************************************************"
+    ],
+    [
+      0.000068,
+      "\u001b[70D"
+    ],
+    [
+      0.000039,
+      "\u001b[70C"
+    ],
+    [
+      0.000174,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000100,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m *****************************************************"
+    ],
+    [
+      0.000029,
+      "\u001b[71D"
+    ],
+    [
+      0.000028,
+      "\u001b[71C"
+    ],
+    [
+      0.000148,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000064,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ******************************************************"
+    ],
+    [
+      0.000057,
+      "\u001b[72D"
+    ],
+    [
+      0.000028,
+      "\u001b[72C"
+    ],
+    [
+      0.000129,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000069,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m *******************************************************"
+    ],
+    [
+      0.000042,
+      "\u001b[73D"
+    ],
+    [
+      0.000029,
+      "\u001b[73C"
+    ],
+    [
+      0.000156,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000276,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ********************************************************"
+    ],
+    [
+      0.000058,
+      "\u001b[74D"
+    ],
+    [
+      0.000049,
+      "\u001b[74C"
+    ],
+    [
+      0.000201,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000084,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m *********************************************************"
+    ],
+    [
+      0.000197,
+      "\u001b[75D"
+    ],
+    [
+      0.000066,
+      "\u001b[75C"
+    ],
+    [
+      0.000157,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000090,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m **********************************************************"
+    ],
+    [
+      0.000079,
+      "\u001b[76D"
+    ],
+    [
+      0.000036,
+      "\u001b[76C"
+    ],
+    [
+      0.000158,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000095,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ***********************************************************"
+    ],
+    [
+      0.000049,
+      "\u001b[77D"
+    ],
+    [
+      0.000027,
+      "\u001b[77C"
+    ],
+    [
+      0.000134,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000064,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ************************************************************"
+    ],
+    [
+      0.000048,
+      "\u001b[78D"
+    ],
+    [
+      0.000027,
+      "\u001b[78C"
+    ],
+    [
+      0.000133,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000062,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m *************************************************************"
+    ],
+    [
+      0.000047,
+      "\u001b[79D"
+    ],
+    [
+      0.000028,
+      "\u001b[79C"
+    ],
+    [
+      0.000136,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000063,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m **************************************************************"
+    ],
+    [
+      0.000047,
+      "\u001b[80D"
+    ],
+    [
+      0.000028,
+      "\u001b[80C"
+    ],
+    [
+      0.000137,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000060,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ***************************************************************"
+    ],
+    [
+      0.000051,
+      "\u001b[81D"
+    ],
+    [
+      0.000031,
+      "\u001b[81C"
+    ],
+    [
+      0.000168,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000056,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m ****************************************************************"
+    ],
+    [
+      0.000029,
+      "\u001b[82D"
+    ],
+    [
+      0.000050,
+      "\u001b[82C"
+    ],
+    [
+      0.443000,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000060,
+      "\u001b[32m?\u001b[39m \u001b[1mToken: \u001b[2m(hidden)\u001b[1m\u001b[22m \u001b[36m****************************************************************\u001b[39m"
+    ],
+    [
+      0.000055,
+      "\u001b[82D"
+    ],
+    [
+      0.000053,
+      "\u001b[82C"
+    ],
+    [
+      0.000188,
+      "\r\n"
+    ],
+    [
+      5.269400,
+      "\u001b[2mttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\u001b[22m"
+    ],
+    [
+      0.000012,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "\u001b[2mttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\u001b[22m"
+    ],
+    [
+      0.000018,
+      "\r\n"
+    ],
+    [
+      0.000058,
+      "\u001b[2mttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\u001b[22m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000068,
+      "\u001b[2mttttttttttttttttttt;                   `ttttttttttttttttttttt\u001b[22m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "\u001b[2mttttttttttttttttttt;                      ttttttttttttttttttt\u001b[22m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000065,
+      "\u001b[2mttttttttttttttttttt;                       tttttttttttttttttt\u001b[22m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "\u001b[2mttttttttttttttttttt;     ;ttttttttttt,      ttttttttttttttttt\u001b[22m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "\u001b[2mttttttttttttttttttt;     ;tttttttttttt,     ;tttttttttttttttt\u001b[22m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "\u001b[2mttttttttttttttttttt;     ;tttttttttttt,     ;tttttttttttttttt\u001b[22m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000062,
+      "\u001b[2mttttttttttttttttttt;     ;ttttttttttt,      ttttttttttttttttt\u001b[22m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "\u001b[2mttttttttttttttttttt;                       tttttttttttttttttt\u001b[22m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "\u001b[2mttttttttttttttttttt;                      ttttttttttttttttttt\u001b[22m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000060,
+      "\u001b[2mttttttttttttttttttt;                   ,ttttttttttttttttttttt\u001b[22m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000062,
+      "\u001b[2mttttttttttttttttttt;     ;ttttttttttttttttttttttttttttttttttt\u001b[22m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000061,
+      "\u001b[2mttttttttttttttttttt;     ;ttttttttttttttttttttttttttttttttttt\u001b[22m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "\u001b[2mttttttttttttttttttt;     ;ttttttttttttttttttttttttttttttttttt\u001b[22m\r\n"
+    ],
+    [
+      0.000056,
+      "\u001b[2mttttttttttttttttttt;     ;ttttttttttttttttttttttttttttttttttt\u001b[22m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000050,
+      "\u001b[2mttttttttttttttttttt;     ;ttttttttttttttttttttttttttttttttttt\u001b[22m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000051,
+      "\u001b[2mttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\u001b[22m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "\u001b[2mttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\u001b[22m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[2mttttttttttt                                       ttttttttttt\u001b[22m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000098,
+      "\u001b[2mttttttttttt    \u001b[22m\u001b[1m------------ PHUNT ------------\u001b[22m\u001b[2m    ttttttttttt\u001b[22m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000064,
+      "\u001b[2mttttttttttt    PRODUCTHUNT COMMAND LINE CLIENT    ttttttttttt\u001b[22m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000062,
+      "\u001b[2mttttttttttt                                       ttttttttttt\u001b[22m"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "\u001b[2mttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt\u001b[22m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000063,
+      "\u001b[2mttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt"
+    ],
+    [
+      0.000007,
+      "\r\n\u001b[22m\r\n"
+    ],
+    [
+      0.009279,
+      "@kristories =\u003e "
+    ],
+    [
+      0.000484,
+      "\u001b[15D"
+    ],
+    [
+      0.000117,
+      "\u001b[15C"
+    ],
+    [
+      0.517910,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000345,
+      "@kristories =\u003e m"
+    ],
+    [
+      0.000211,
+      "\u001b[16D"
+    ],
+    [
+      0.000090,
+      "\u001b[16C"
+    ],
+    [
+      0.320281,
+      "\u001b[1000D\u001b[K@kristories =\u003e me\u001b[17D\u001b[17C"
+    ],
+    [
+      0.276665,
+      "\u001b[1000D\u001b[K@kristories =\u003e \u001b[36mme\u001b[39m\u001b[17D\u001b[17C\r\n"
+    ],
+    [
+      3.404991,
+      "\r\n  \u001b[1m\u001b[34mWahyu Kristianto\u001b[39m\u001b[22m \u001b[1m(@kristories)\u001b[22m"
+    ],
+    [
+      0.000014,
+      "\r\n"
+    ],
+    [
+      0.000178,
+      "  \u001b[3m@kristories\u001b[23m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000205,
+      "  \u001b[2mFollowers\u001b[22m: \u001b[1m45\u001b[22m   \u001b[2mFollowings\u001b[22m: \u001b[1m114\u001b[22m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000156,
+      "  \u001b[3m\u001b[4m\u001b[2mhttps://www.producthunt.com/@kristories\u001b[22m\u001b[24m\u001b[23m\r\n"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.005958,
+      "@kristories =\u003e "
+    ],
+    [
+      0.000093,
+      "\u001b[15D"
+    ],
+    [
+      0.000057,
+      "\u001b[15C"
+    ],
+    [
+      0.521870,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000318,
+      "@kristories =\u003e p"
+    ],
+    [
+      0.000207,
+      "\u001b[16D"
+    ],
+    [
+      0.000129,
+      "\u001b[16C"
+    ],
+    [
+      0.096756,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000121,
+      "@kristories =\u003e po"
+    ],
+    [
+      0.000125,
+      "\u001b[17D"
+    ],
+    [
+      0.000163,
+      "\u001b[17C"
+    ],
+    [
+      0.115682,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000210,
+      "@kristories =\u003e pos"
+    ],
+    [
+      0.000223,
+      "\u001b[18D"
+    ],
+    [
+      0.000073,
+      "\u001b[18C"
+    ],
+    [
+      0.179483,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000103,
+      "@kristories =\u003e pos"
+    ],
+    [
+      0.000125,
+      "\u001b[18D"
+    ],
+    [
+      0.000050,
+      "\u001b[18C"
+    ],
+    [
+      0.004038,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000074,
+      "@kristories =\u003e posts "
+    ],
+    [
+      0.000079,
+      "\u001b[21D"
+    ],
+    [
+      0.000056,
+      "\u001b[21C"
+    ],
+    [
+      0.221675,
+      "\u001b[1000D\u001b[K"
+    ],
+    [
+      0.000085,
+      "@kristories =\u003e \u001b[36mposts \u001b[39m"
+    ],
+    [
+      0.000124,
+      "\u001b[21D"
+    ],
+    [
+      0.000048,
+      "\u001b[21C"
+    ],
+    [
+      0.000110,
+      "\r\n"
+    ],
+    [
+      2.441901,
+      "\u001b[1m\u001b[34m\r\n- Peach for Mac\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000137,
+      "  \u001b[3mUnofficial desktop client for 🍑\u001b[23m\r\n"
+    ],
+    [
+      0.000641,
+      "  ❤️ 95   💭 15\r\n"
+    ],
+    [
+      0.000198,
+      "  \u001b[3m\u001b[4m\u001b[2mhttps://www.producthunt.com/tech/peach-for-mac\u001b[22m\u001b[24m\u001b[23m"
+    ],
+    [
+      0.000007,
+      "\r\n\r\n"
+    ],
+    [
+      0.000196,
+      "\u001b[1m\u001b[34m"
+    ],
+    [
+      0.000006,
+      "\r\n- Dribbble 2015 Year in Review\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000142,
+      "  \u001b[3mEverything awesome at Dribbble in the year 2015\u001b[23m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000148,
+      "  ❤️ 72   💭 0"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000186,
+      "  \u001b[3m\u001b[4m\u001b[2mhttps://www.producthunt.com/tech/dribbble-2015-year-in-review\u001b[22m\u001b[24m\u001b[23m"
+    ],
+    [
+      0.000009,
+      "\r\n\r\n"
+    ],
+    [
+      0.000136,
+      "\u001b[1m\u001b[34m"
+    ],
+    [
+      0.000006,
+      "\r\n- Soundbow\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000093,
+      "  \u001b[3mDrawing based music instrument\u001b[23m"
+    ],
+    [
+      0.000009,
+      "\r\n"
+    ],
+    [
+      0.000294,
+      "  ❤️ 42   💭 4"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000149,
+      "  \u001b[3m\u001b[4m\u001b[2mhttps://www.producthunt.com/tech/soundbow\u001b[22m\u001b[24m\u001b[23m\r\n\r\n"
+    ],
+    [
+      0.000149,
+      "\u001b[1m\u001b[34m\r\n- Goodshows\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.001568,
+      "  \u001b[3mDiscover movies \u0026 TV shows with friends\u001b[23m"
+    ],
+    [
+      0.000025,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "  ❤️ 44   💭 6"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000148,
+      "  \u001b[3m\u001b[4m\u001b[2mhttps://www.producthunt.com/tech/goodshows\u001b[22m\u001b[24m\u001b[23m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000156,
+      "\u001b[1m\u001b[34m"
+    ],
+    [
+      0.000006,
+      "\r\n- Prepo 2.0\u001b[39m\u001b[22m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "  \u001b[3mPrepare, share and preview App artwork and icons\u001b[23m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000130,
+      "  ❤️ 28   💭 2"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000152,
+      "  \u001b[3m\u001b[4m\u001b[2mhttps://www.producthunt.com/tech/prepo-2-0\u001b[22m\u001b[24m\u001b[23m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000414,
+      "\u001b[1m\u001b[34m"
+    ],
+    [
+      0.000028,
+      "\r\n- slackcat\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000091,
+      "  \u001b[3mPost command line output directly to Slack. \u001b[23m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000473,
+      "  ❤️ 50   💭 2"
+    ],
+    [
+      0.000007,
+      "\r\n"
+    ],
+    [
+      0.000092,
+      "  \u001b[3m\u001b[4m\u001b[2mhttps://www.producthunt.com/tech/slackcat\u001b[22m\u001b[24m\u001b[23m\r\n"
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000283,
+      "\u001b[1m\u001b[34m"
+    ],
+    [
+      0.000006,
+      "\r\n- EmailOnDeck\u001b[39m\u001b[22m"
+    ],
+    [
+      0.000021,
+      "\r\n"
+    ],
+    [
+      0.000084,
+      "  \u001b[3mFree \u0026 fast, temporary emails in 2 easy steps\u001b[23m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000760,
+      "  ❤️ 33   💭 4\r\n"
+    ],
+    [
+      0.000227,
+      "  \u001b[3m\u001b[4m\u001b[2mhttps://www.producthunt.com/tech/emailondeck\u001b[22m\u001b[24m\u001b[23m\r\n\r\n\u001b[1m\u001b[34m\r\n- Symbols for Sketch\u001b[39m\u001b[22m\r\n  \u001b[3mA set of templates to make an icon font with Sketch (gulp)\u001b[23m\r\n  ❤️ 32   💭 0\r\n"
+    ],
+    [
+      0.000134,
+      "  \u001b[3m\u001b[4m\u001b[2mhttps://www.producthunt.com/tech/symbols-for-sketch\u001b[22m\u001b[24m\u001b[23m\r\n\r\n"
+    ],
+    [
+      0.000035,
+      "\u001b[1m\u001b[34m\r\n- Select Similar Layers\u001b[39m\u001b[22m"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000066,
+      "  \u001b[3mSketch plugin to select layers with the same attributes\u001b[23m\r\n"
+    ],
+    [
+      0.001213,
+      "  ❤️ 6   💭 1\r\n"
+    ],
+    [
+      0.000264,
+      "  \u001b[3m\u001b[4m\u001b[2mhttps://www.producthunt.com/tech/select-similar-layers\u001b[22m\u001b[24m\u001b[23m\r\n\r\n\u001b[1m\u001b[34m\r\n- NewsBlur\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000096,
+      "  \u001b[3mRSS Reader with filtering and sharing.\u001b[23m\r\n"
+    ],
+    [
+      0.000084,
+      "  ❤️ 35   💭 5\r\n"
+    ],
+    [
+      0.000083,
+      "  \u001b[3m\u001b[4m\u001b[2mhttps://www.producthunt.com/tech/newsblur\u001b[22m\u001b[24m\u001b[23m\r\n\r\n"
+    ],
+    [
+      0.000034,
+      "\u001b[1m\u001b[34m"
+    ],
+    [
+      0.000006,
+      "\r\n- Cubebrush.co\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000068,
+      "  \u001b[3mNew revolutionary marketplace for Artists\u001b[23m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000083,
+      "  ❤️ 27   💭 3\r\n"
+    ],
+    [
+      0.000040,
+      "  \u001b[3m\u001b[4m\u001b[2mhttps://www.producthunt.com/tech/cubebrush-co\u001b[22m\u001b[24m\u001b[23m"
+    ],
+    [
+      0.000006,
+      "\r\n\r\n"
+    ],
+    [
+      0.000073,
+      "\u001b[1m\u001b[34m\r\n"
+    ],
+    [
+      0.000006,
+      "- Drinkify\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000101,
+      "  \u001b[3mI'm listening to _______. What should I drink?\u001b[23m\r\n  ❤️ 15   💭 2"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000082,
+      "  \u001b[3m\u001b[4m\u001b[2mhttps://www.producthunt.com/tech/drinkify\u001b[22m\u001b[24m\u001b[23m\r\n\r\n"
+    ],
+    [
+      0.000052,
+      "\u001b[1m\u001b[34m"
+    ],
+    [
+      0.000006,
+      "\r\n- Sharbit\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000063,
+      "  \u001b[3mRent the things you need from people nearby\u001b[23m\r\n"
+    ],
+    [
+      0.000078,
+      "  ❤️ 30   💭 3\r\n"
+    ],
+    [
+      0.002396,
+      "  \u001b[3m\u001b[4m\u001b[2mhttps://www.producthunt.com/tech/sharbit\u001b[22m\u001b[24m\u001b[23m\r\n\r\n\u001b[1m\u001b[34m\r\n- Readinity\u001b[39m\u001b[22m\r\n  \u001b[3mSend link from mobile to any web browser by scanning QR code\u001b[23m\r\n  ❤️ 17   💭 1\r\n  \u001b[3m\u001b[4m\u001b[2mhttps://www.producthunt.com/tech/readinity\u001b[22m\u001b[24m\u001b[23m\r\n\r\n\u001b[1m\u001b[34m\r\n- Lyft Calculator\u001b[39m\u001b[22m\r\n  \u001b[3mTracking any time Lyft changes price in different cities\u001b[23m\r\n  ❤️ 11   💭 4\r\n  \u001b[3m\u001b[4m\u001b[2mhttps://www.producthunt.com/tech/lyft-calculator\u001b[22m\u001b[24m\u001b[23m\r\n\r\n\u001b[1m\u001b[34m\r\n- app.eal\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.003938,
+      "  \u001b[3mImage based prototyping tool\u001b[23m\r\n  ❤️ 120   💭 0\r\n  \u001b[3m\u001b[4m\u001b[2mhttps://www.producthunt.com/tech/app-eal\u001b[22m\u001b[24m\u001b[23m\r\n\r\n\u001b[1m\u001b[34m\r\n- Letterboxd 2015 Year in Review\u001b[39m\u001b[22m\r\n  \u001b[3mThe 2015 in movies according to Letterboxd\u001b[23m\r\n  ❤️ 13   💭 0\r\n  \u001b[3m\u001b[4m\u001b[2mhttps://www.producthunt.com/tech/letterboxd-2015-year-in-review\u001b[22m\u001b[24m\u001b[23m\r\n\r\n\u001b[1m\u001b[34m\r\n- SPOT News\u001b[39m\u001b[22m\r\n  \u001b[3mTrending local news that you should care about\u001b[23m\r\n  ❤️ 10   💭 0\r\n  \u001b[3m\u001b[4m\u001b[2mhttps://www.producthunt.com/tech/spot-news\u001b[22m\u001b[24m\u001b[23m\r\n\r\n\u001b[1m\u001b[34m\r\n- Titans Now\u001b[39m\u001b[22m\r\n  \u001b[3mNews Feed aggregator from The World's Billionaires\u001b[23m\r\n  ❤️ 77   💭 3\r\n  \u001b[3m\u001b[4m\u001b[2mhttps://www.producthunt.com/tech/titans-now\u001b[22m\u001b[24m\u001b[23m\r\n\r\n\u001b[1m\u001b[34m\r\n- Gigfairy\u001b[39m\u001b[22m\r\n  \u001b[3mBook live music easier and faster.\u001b[23m\r\n  ❤️ 5   💭 0\r\n"
+    ],
+    [
+      0.000014,
+      "  \u001b[3m\u001b[4m\u001b[2mhttps://www.producthunt.com/tech/gigfairy\u001b[22m\u001b[24m\u001b[23m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000005,
+      "\r\n"
+    ],
+    [
+      0.000097,
+      "\u001b[1m\u001b[34m"
+    ],
+    [
+      0.000006,
+      "\r\n- Niche Video Media\u001b[39m\u001b[22m\r\n"
+    ],
+    [
+      0.000066,
+      "  \u001b[3mBuild your own branded private media channel\u001b[23m"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000165,
+      "  ❤️ 10   💭 2"
+    ],
+    [
+      0.000006,
+      "\r\n"
+    ],
+    [
+      0.000107,
+      "  \u001b[3m\u001b[4m\u001b[2mhttps://www.producthunt.com/tech/niche-video-media\u001b[22m\u001b[24m\u001b[23m"
+    ],
+    [
+      0.000007,
+      "\r\n\r\n"
+    ],
+    [
+      0.002252,
+      "@kristories =\u003e "
+    ],
+    [
+      0.000089,
+      "\u001b[15D"
+    ],
+    [
+      0.000061,
+      "\u001b[15C"
+    ],
+    [
+      0.928685,
+      "\u001b[1000D\u001b[K@kristories =\u003e e\u001b[16D\u001b[16C"
+    ],
+    [
+      0.223952,
+      "\u001b[1000D\u001b[K@kristories =\u003e ex\u001b[17D\u001b[17C"
+    ],
+    [
+      0.222985,
+      "\u001b[1000D\u001b[K@kristories =\u003e exi\u001b[18D\u001b[18C"
+    ],
+    [
+      0.167821,
+      "\u001b[1000D\u001b[K@kristories =\u003e exit\u001b[19D\u001b[19C"
+    ],
+    [
+      0.263684,
+      "\u001b[1000D\u001b[K@kristories =\u003e \u001b[36mexit\u001b[39m\u001b[19D\u001b[19C\r\n\u001b[32m?\u001b[39m \u001b[1mThis will actually kill this node process. Continue?\u001b[22m \u001b[2m(y/N) \u001b[22m\u001b[61D\u001b[61C"
+    ],
+    [
+      1.205651,
+      "\u001b[1000D\u001b[K\u001b[32m?\u001b[39m \u001b[1mThis will actually kill this node process. Continue?\u001b[22m \u001b[2m(y/N) \u001b[22my\u001b[62D\u001b[62C"
+    ],
+    [
+      0.084772,
+      "\u001b[1000D\u001b[K\u001b[32m?\u001b[39m \u001b[1mThis will actually kill this node process. Continue?\u001b[22m \u001b[55D\u001b[55C"
+    ],
+    [
+      0.000070,
+      "\r\n"
+    ],
+    [
+      0.007202,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                       \r \r\u001b]2;kristories@debian: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.130086,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[34m~\u001b[00m   \r\n▶ \u001b[K\u001b[162C\u001b[1A  \u001b[31m⍉\u001b[00m\u001b[1B\u001b[165D\u001b[?1h\u001b="
+    ],
+    [
+      0.420290,
+      "e"
+    ],
+    [
+      0.186519,
+      "\u0008ex"
+    ],
+    [
+      0.185378,
+      "i"
+    ],
+    [
+      0.127368,
+      "t"
+    ],
+    [
+      0.130629,
+      "\u001b[?1l\u001b\u003e\r\r\n\u001b]2;exit\u0007\u001b]1;exit\u0007"
+    ]
+  ]
+}
