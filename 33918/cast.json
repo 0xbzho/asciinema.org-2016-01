@@ -1,0 +1,466 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 43.804489,
+  "command": "/bin/bash",
+  "title": "bower install --save backbone",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.041675,
+      "\u001b]0;vagrant@vagrant-ubuntu-trusty-64: ~/projetos/tutorial-bower\u0007vagrant@vagrant-ubuntu-trusty-64:~/projetos/tutorial-bower$ "
+    ],
+    [
+      0.866978,
+      "b"
+    ],
+    [
+      0.075714,
+      "o"
+    ],
+    [
+      0.151265,
+      "w"
+    ],
+    [
+      0.203522,
+      "e"
+    ],
+    [
+      0.069182,
+      "r"
+    ],
+    [
+      0.066256,
+      " "
+    ],
+    [
+      0.066918,
+      "i"
+    ],
+    [
+      0.030065,
+      "n"
+    ],
+    [
+      0.076867,
+      "s"
+    ],
+    [
+      0.064734,
+      "t"
+    ],
+    [
+      0.102051,
+      "a"
+    ],
+    [
+      0.074368,
+      "l"
+    ],
+    [
+      0.152393,
+      "l"
+    ],
+    [
+      0.085417,
+      " "
+    ],
+    [
+      0.099203,
+      "-"
+    ],
+    [
+      0.154545,
+      "-"
+    ],
+    [
+      0.080162,
+      "s"
+    ],
+    [
+      0.039133,
+      "a"
+    ],
+    [
+      0.183846,
+      "v"
+    ],
+    [
+      0.071193,
+      "e \r"
+    ],
+    [
+      0.111099,
+      " "
+    ],
+    [
+      0.306253,
+      "b"
+    ],
+    [
+      0.159583,
+      "a"
+    ],
+    [
+      0.159320,
+      "c"
+    ],
+    [
+      0.069461,
+      "k"
+    ],
+    [
+      0.157421,
+      "b"
+    ],
+    [
+      0.100995,
+      "o"
+    ],
+    [
+      0.062763,
+      "n"
+    ],
+    [
+      0.059125,
+      "e"
+    ],
+    [
+      0.233971,
+      "\r\n"
+    ],
+    [
+      0.918513,
+      "bower \u001b[36mnot-cached   \u001b[39m git://github.com/jashkenas/backbone.git#*"
+    ],
+    [
+      0.000210,
+      "\r\n"
+    ],
+    [
+      0.001595,
+      "bower \u001b[36mresolve      \u001b[39m git://github.com/jashkenas/backbone.git#*"
+    ],
+    [
+      0.000049,
+      "\r\n"
+    ],
+    [
+      0.899991,
+      "bower \u001b[36mdownload     \u001b[39m https://github.com/jashkenas/backbone/archive/1.2.3.tar.gz"
+    ],
+    [
+      0.000467,
+      "\r\n"
+    ],
+    [
+      10.030425,
+      "bower \u001b[36mprogress     \u001b[39m backbone#* received 1.1MB of 5.8MB downloaded, 18%"
+    ],
+    [
+      0.000888,
+      "\r\n"
+    ],
+    [
+      1.983656,
+      "bower \u001b[36mprogress     \u001b[39m backbone#* received 1.4MB of 5.8MB downloaded, 24%"
+    ],
+    [
+      0.001497,
+      "\r\n"
+    ],
+    [
+      2.001159,
+      "bower \u001b[36mprogress     \u001b[39m backbone#* received 1.5MB of 5.8MB downloaded, 26%"
+    ],
+    [
+      0.002197,
+      "\r\n"
+    ],
+    [
+      1.994634,
+      "bower \u001b[36mprogress     \u001b[39m backbone#* received 1.6MB of 5.8MB downloaded, 27%"
+    ],
+    [
+      0.000336,
+      "\r\n"
+    ],
+    [
+      1.085337,
+      "bower \u001b[36mprogress     \u001b[39m backbone#* received 3.2MB of 5.8MB downloaded, 54%"
+    ],
+    [
+      0.000494,
+      "\r\n"
+    ],
+    [
+      1.032383,
+      "bower \u001b[36mprogress     \u001b[39m backbone#* received 3.4MB of 5.8MB downloaded, 59%"
+    ],
+    [
+      0.000548,
+      "\r\n"
+    ],
+    [
+      1.005904,
+      "bower \u001b[36mprogress     \u001b[39m backbone#* received 3.7MB of 5.8MB downloaded, 64%"
+    ],
+    [
+      0.000236,
+      "\r\n"
+    ],
+    [
+      1.023463,
+      "bower \u001b[36mprogress     \u001b[39m backbone#* received 4.0MB of 5.8MB downloaded, 68%"
+    ],
+    [
+      0.000182,
+      "\r\n"
+    ],
+    [
+      1.038782,
+      "bower \u001b[36mprogress     \u001b[39m backbone#* received 4.3MB of 5.8MB downloaded, 73%"
+    ],
+    [
+      0.000120,
+      "\r\n"
+    ],
+    [
+      1.017979,
+      "bower \u001b[36mprogress     \u001b[39m backbone#* received 4.6MB of 5.8MB downloaded, 79%"
+    ],
+    [
+      0.000270,
+      "\r\n"
+    ],
+    [
+      1.047570,
+      "bower \u001b[36mprogress     \u001b[39m backbone#* received 4.9MB of 5.8MB downloaded, 84%"
+    ],
+    [
+      0.000362,
+      "\r\n"
+    ],
+    [
+      1.019774,
+      "bower \u001b[36mprogress     \u001b[39m backbone#* received 5.2MB of 5.8MB downloaded, 90%"
+    ],
+    [
+      0.000504,
+      "\r\n"
+    ],
+    [
+      1.012640,
+      "bower \u001b[36mprogress     \u001b[39m backbone#* received 5.6MB of 5.8MB downloaded, 95%"
+    ],
+    [
+      0.000683,
+      "\r\n"
+    ],
+    [
+      0.658373,
+      "bower \u001b[36mextract      \u001b[39m backbone#* archive.tar.gz"
+    ],
+    [
+      0.000375,
+      "\r\n"
+    ],
+    [
+      0.437783,
+      "bower \u001b[36mresolved     \u001b[39m git://github.com/jashkenas/backbone.git#1.2.3"
+    ],
+    [
+      0.000315,
+      "\r\n"
+    ],
+    [
+      0.716476,
+      "bower \u001b[36mnot-cached   \u001b[39m git://github.com/jashkenas/underscore.git#\u003e=1.7.0"
+    ],
+    [
+      0.000195,
+      "\r\n"
+    ],
+    [
+      0.000359,
+      "bower \u001b[36mresolve      \u001b[39m git://github.com/jashkenas/underscore.git#\u003e=1.7.0"
+    ],
+    [
+      0.000081,
+      "\r\n"
+    ],
+    [
+      0.832679,
+      "bower \u001b[36mdownload     \u001b[39m https://github.com/jashkenas/underscore/archive/1.8.3.tar.gz"
+    ],
+    [
+      0.001068,
+      "\r\n"
+    ],
+    [
+      2.762218,
+      "bower \u001b[36mextract      \u001b[39m underscore#\u003e=1.7.0 archive.tar.gz"
+    ],
+    [
+      0.001285,
+      "\r\n"
+    ],
+    [
+      0.138993,
+      "bower \u001b[36mresolved     \u001b[39m git://github.com/jashkenas/underscore.git#1.8.3"
+    ],
+    [
+      0.000182,
+      "\r\n"
+    ],
+    [
+      0.007928,
+      "bower \u001b[36minstall      \u001b[39m backbone#1.2.3"
+    ],
+    [
+      0.000188,
+      "\r\n"
+    ],
+    [
+      0.000560,
+      "bower \u001b[36minstall      \u001b[39m underscore#1.8.3"
+    ],
+    [
+      0.000039,
+      "\r\n"
+    ],
+    [
+      0.075861,
+      "\r\n"
+    ],
+    [
+      0.000186,
+      "backbone#1.2.3 bower_components/backbone"
+    ],
+    [
+      0.000152,
+      "\r\n"
+    ],
+    [
+      0.000176,
+      "└── underscore#1.8.3"
+    ],
+    [
+      0.000899,
+      "\r\n"
+    ],
+    [
+      0.000132,
+      "\r\n"
+    ],
+    [
+      0.000161,
+      "underscore#1.8.3 bower_components/underscore"
+    ],
+    [
+      0.000115,
+      "\r\n"
+    ],
+    [
+      0.005794,
+      "\u001b]0;vagrant@vagrant-ubuntu-trusty-64: ~/projetos/tutorial-bower\u0007vagrant@vagrant-ubuntu-trusty-64:~/projetos/tutorial-bower$ "
+    ],
+    [
+      2.003479,
+      "l"
+    ],
+    [
+      0.014819,
+      "s"
+    ],
+    [
+      0.391317,
+      "\r\n"
+    ],
+    [
+      0.001898,
+      "\u001b[0m\u001b[01;34mbower_components\u001b[0m  \u001b[01;32mbower.json\u001b[0m"
+    ],
+    [
+      0.001028,
+      "\r\n"
+    ],
+    [
+      0.000692,
+      "\u001b]0;vagrant@vagrant-ubuntu-trusty-64: ~/projetos/tutorial-bower\u0007vagrant@vagrant-ubuntu-trusty-64:~/projetos/tutorial-bower$ "
+    ],
+    [
+      0.353455,
+      "c"
+    ],
+    [
+      0.059699,
+      "d"
+    ],
+    [
+      0.384008,
+      " "
+    ],
+    [
+      0.170270,
+      "b"
+    ],
+    [
+      0.086165,
+      "o"
+    ],
+    [
+      0.148882,
+      "wer_components/ \r"
+    ],
+    [
+      0.139283,
+      "\u001b[A"
+    ],
+    [
+      0.000115,
+      "\r\n"
+    ],
+    [
+      0.001643,
+      "\u001b]0;vagrant@vagrant-ubuntu-trusty-64: ~/projetos/tutorial-bower/bower_components\u0007vagrant@vagrant-ubuntu-trusty-64:~/projetos/tutorial-bower/bower_components$ "
+    ],
+    [
+      0.096196,
+      "l"
+    ],
+    [
+      0.046078,
+      "s"
+    ],
+    [
+      0.126430,
+      "\r\n"
+    ],
+    [
+      0.004493,
+      "\u001b[0m\u001b[01;34mbackbone\u001b[0m  \u001b[01;34munderscore\u001b[0m"
+    ],
+    [
+      0.000409,
+      "\r\n"
+    ],
+    [
+      0.003548,
+      "\u001b]0;vagrant@vagrant-ubuntu-trusty-64: ~/projetos/tutorial-bower/bower_components\u0007vagrant@vagrant-ubuntu-trusty-64:~/projetos/tutorial-bower/bower_components$ "
+    ],
+    [
+      2.828824,
+      "exit"
+    ],
+    [
+      0.000097,
+      "\r\n"
+    ]
+  ]
+}
