@@ -1,0 +1,534 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 25,
+  "duration": 11.014316,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.163112,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000046,
+      "\u001b]2;mahir@MacBook-Pro: ~/Workspace\u0007\u001b]1;~/Workspace\u0007"
+    ],
+    [
+      0.026261,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;32m➜ \u001b[01;32m \u001b[36mWorkspace \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000033,
+      "\u001b[K"
+    ],
+    [
+      0.000060,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.252380,
+      "r"
+    ],
+    [
+      0.070923,
+      "\u0008ra"
+    ],
+    [
+      0.103943,
+      "i"
+    ],
+    [
+      0.175881,
+      "l"
+    ],
+    [
+      0.080095,
+      "s"
+    ],
+    [
+      0.079992,
+      " "
+    ],
+    [
+      0.191384,
+      "n"
+    ],
+    [
+      0.104596,
+      "e"
+    ],
+    [
+      0.087801,
+      "w"
+    ],
+    [
+      0.184113,
+      " "
+    ],
+    [
+      0.568083,
+      "c"
+    ],
+    [
+      0.183318,
+      "A"
+    ],
+    [
+      0.112588,
+      "L"
+    ],
+    [
+      0.224388,
+      "İ"
+    ],
+    [
+      0.223518,
+      "\u0008 \u0008"
+    ],
+    [
+      0.135884,
+      "\u0008 \u0008"
+    ],
+    [
+      0.136110,
+      "\u0008 \u0008"
+    ],
+    [
+      0.183965,
+      "\u0008 \u0008"
+    ],
+    [
+      0.424113,
+      "c"
+    ],
+    [
+      0.063898,
+      "a"
+    ],
+    [
+      0.112049,
+      "l"
+    ],
+    [
+      0.200058,
+      "i"
+    ],
+    [
+      0.071851,
+      "s"
+    ],
+    [
+      0.248097,
+      "m"
+    ],
+    [
+      0.135894,
+      "a"
+    ],
+    [
+      0.512116,
+      "S"
+    ],
+    [
+      0.159856,
+      "a"
+    ],
+    [
+      0.096140,
+      "r"
+    ],
+    [
+      0.191986,
+      "t"
+    ],
+    [
+      0.087872,
+      "l"
+    ],
+    [
+      0.120086,
+      "a"
+    ],
+    [
+      0.079647,
+      "r"
+    ],
+    [
+      0.088311,
+      "i"
+    ],
+    [
+      0.431978,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000084,
+      "\r\r\n"
+    ],
+    [
+      0.000877,
+      "\u001b]2;rails new calismaSartlari\u0007"
+    ],
+    [
+      0.000006,
+      "\u001b]1;rails\u0007"
+    ],
+    [
+      0.282517,
+      "\u001b[1m\u001b[32m      create\u001b[0m  \r\n"
+    ],
+    [
+      0.000433,
+      "\u001b[1m\u001b[32m      create\u001b[0m  README.rdoc\r\n"
+    ],
+    [
+      0.000616,
+      "\u001b[1m\u001b[32m      create\u001b[0m  Rakefile\r\n"
+    ],
+    [
+      0.000734,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config.ru\r\n"
+    ],
+    [
+      0.000561,
+      "\u001b[1m\u001b[32m      create\u001b[0m  .gitignore\r\n"
+    ],
+    [
+      0.000690,
+      "\u001b[1m\u001b[32m      create\u001b[0m  Gemfile\r\n"
+    ],
+    [
+      0.001254,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app\r\n"
+    ],
+    [
+      0.000472,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/assets/javascripts/application.js\r\n"
+    ],
+    [
+      0.001002,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/assets/stylesheets/application.css\r\n"
+    ],
+    [
+      0.000690,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/controllers/application_controller.rb\r\n"
+    ],
+    [
+      0.000623,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/helpers/application_helper.rb\r\n"
+    ],
+    [
+      0.000611,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/views/layouts/application.html.erb\r\n"
+    ],
+    [
+      0.001020,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/assets/images/.keep\r\n"
+    ],
+    [
+      0.000335,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/mailers/.keep\r\n"
+    ],
+    [
+      0.000268,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/models/.keep\r\n"
+    ],
+    [
+      0.000295,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/controllers/concerns/.keep\r\n"
+    ],
+    [
+      0.000220,
+      "\u001b[1m\u001b[32m      create\u001b[0m  app/models/concerns/.keep\r\n"
+    ],
+    [
+      0.000420,
+      "\u001b[1m\u001b[32m      create\u001b[0m  bin\r\n"
+    ],
+    [
+      0.000262,
+      "\u001b[1m\u001b[32m      create\u001b[0m  bin/bundle\r\n"
+    ],
+    [
+      0.000579,
+      "\u001b[1m\u001b[32m      create\u001b[0m  bin/rails\r\n"
+    ],
+    [
+      0.000663,
+      "\u001b[1m\u001b[32m      create\u001b[0m  bin/rake\r\n"
+    ],
+    [
+      0.000614,
+      "\u001b[1m\u001b[32m      create\u001b[0m  bin/setup\r\n"
+    ],
+    [
+      0.000799,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config\r\n"
+    ],
+    [
+      0.000280,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/routes.rb\r\n"
+    ],
+    [
+      0.000770,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/application.rb\r\n"
+    ],
+    [
+      0.001022,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/environment.rb\r\n"
+    ],
+    [
+      0.000599,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/secrets.yml\r\n"
+    ],
+    [
+      0.000781,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/environments\r\n"
+    ],
+    [
+      0.000369,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/environments/development.rb\r\n"
+    ],
+    [
+      0.000883,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/environments/production.rb\r\n"
+    ],
+    [
+      0.001154,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/environments/test.rb\r\n"
+    ],
+    [
+      0.000743,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers\r\n"
+    ],
+    [
+      0.000293,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/assets.rb\r\n"
+    ],
+    [
+      0.000722,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/backtrace_silencers.rb\r\n"
+    ],
+    [
+      0.000483,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/cookies_serializer.rb\r\n"
+    ],
+    [
+      0.000509,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/filter_parameter_logging.rb\r\n"
+    ],
+    [
+      0.000472,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/inflections.rb\r\n"
+    ],
+    [
+      0.000466,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/mime_types.rb\r\n"
+    ],
+    [
+      0.000510,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/session_store.rb\r\n"
+    ],
+    [
+      0.000682,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/initializers/wrap_parameters.rb\r\n"
+    ],
+    [
+      0.000689,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/locales\r\n"
+    ],
+    [
+      0.000284,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/locales/en.yml\r\n"
+    ],
+    [
+      0.000681,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/boot.rb\r\n"
+    ],
+    [
+      0.000779,
+      "\u001b[1m\u001b[32m      create\u001b[0m  config/database.yml\r\n"
+    ],
+    [
+      0.000724,
+      "\u001b[1m\u001b[32m      create\u001b[0m  db\r\n"
+    ],
+    [
+      0.000264,
+      "\u001b[1m\u001b[32m      create\u001b[0m  db/seeds.rb\r\n"
+    ],
+    [
+      0.000712,
+      "\u001b[1m\u001b[32m      create\u001b[0m  lib\r\n"
+    ],
+    [
+      0.000130,
+      "\u001b[1m\u001b[32m      create\u001b[0m  lib/tasks\r\n"
+    ],
+    [
+      0.000108,
+      "\u001b[1m\u001b[32m      create\u001b[0m  lib/tasks/.keep\r\n"
+    ],
+    [
+      0.000159,
+      "\u001b[1m\u001b[32m      create\u001b[0m  lib/assets\r\n"
+    ],
+    [
+      0.000099,
+      "\u001b[1m\u001b[32m      create\u001b[0m  lib/assets/.keep\r\n"
+    ],
+    [
+      0.000392,
+      "\u001b[1m\u001b[32m      create\u001b[0m  log\r\n"
+    ],
+    [
+      0.000079,
+      "\u001b[1m\u001b[32m      create\u001b[0m  log/.keep\r\n"
+    ],
+    [
+      0.000381,
+      "\u001b[1m\u001b[32m      create\u001b[0m  public\r\n"
+    ],
+    [
+      0.000214,
+      "\u001b[1m\u001b[32m      create\u001b[0m  public/404.html\r\n"
+    ],
+    [
+      0.000563,
+      "\u001b[1m\u001b[32m      create\u001b[0m  public/422.html\r\n"
+    ],
+    [
+      0.000542,
+      "\u001b[1m\u001b[32m      create\u001b[0m  public/500.html\r\n"
+    ],
+    [
+      0.000541,
+      "\u001b[1m\u001b[32m      create\u001b[0m  public/favicon.ico\r\n"
+    ],
+    [
+      0.000305,
+      "\u001b[1m\u001b[32m      create\u001b[0m  public/robots.txt\r\n"
+    ],
+    [
+      0.000809,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/fixtures\r\n"
+    ],
+    [
+      0.000613,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/fixtures/.keep\r\n"
+    ],
+    [
+      0.000248,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/controllers\r\n"
+    ],
+    [
+      0.000122,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/controllers/.keep\r\n"
+    ],
+    [
+      0.000189,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/mailers\r\n"
+    ],
+    [
+      0.000108,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/mailers/.keep\r\n"
+    ],
+    [
+      0.000206,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/models\r\n"
+    ],
+    [
+      0.000112,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/models/.keep\r\n"
+    ],
+    [
+      0.000208,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/helpers\r\n"
+    ],
+    [
+      0.000120,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/helpers/.keep\r\n"
+    ],
+    [
+      0.000229,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/integration\r\n"
+    ],
+    [
+      0.000125,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/integration/.keep\r\n"
+    ],
+    [
+      0.000316,
+      "\u001b[1m\u001b[32m      create\u001b[0m  test/test_helper.rb\r\n"
+    ],
+    [
+      0.000888,
+      "\u001b[1m\u001b[32m      create\u001b[0m  tmp/cache\r\n"
+    ],
+    [
+      0.000203,
+      "\u001b[1m\u001b[32m      create\u001b[0m  tmp/cache/assets\r\n"
+    ],
+    [
+      0.000270,
+      "\u001b[1m\u001b[32m      create\u001b[0m  vendor/assets/javascripts\r\n"
+    ],
+    [
+      0.000177,
+      "\u001b[1m\u001b[32m      create\u001b[0m  vendor/assets/javascripts/.keep\r\n"
+    ],
+    [
+      0.000185,
+      "\u001b[1m\u001b[32m      create\u001b[0m  vendor/assets/stylesheets\r\n"
+    ],
+    [
+      0.000071,
+      "\u001b[1m\u001b[32m      create\u001b[0m  vendor/assets/stylesheets/.keep\r\n"
+    ],
+    [
+      0.000916,
+      "\u001b[1m\u001b[32m         run\u001b[0m  bundle install\r\n"
+    ],
+    [
+      2.151069,
+      "^C"
+    ],
+    [
+      0.000245,
+      "\r\n"
+    ],
+    [
+      0.014114,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                               \r \r"
+    ],
+    [
+      0.000093,
+      "\u001b]2;mahir@MacBook-Pro: ~/Workspace\u0007"
+    ],
+    [
+      0.000053,
+      "\u001b]1;~/Workspace\u0007"
+    ],
+    [
+      0.026100,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[01;31m➜ \u001b[27m\u001b[01;32m \u001b[36mWorkspace \u001b[01;34m\u001b[01;34m \u001b[00m"
+    ],
+    [
+      0.000024,
+      "\u001b[K"
+    ],
+    [
+      0.000003,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.183266,
+      "\r\r\n"
+    ]
+  ]
+}
