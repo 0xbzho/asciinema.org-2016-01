@@ -1,0 +1,4054 @@
+{
+  "version": 1,
+  "width": 110,
+  "height": 29,
+  "duration": 99.802071,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.157080,
+      "\u001b[0;36m~/source/moon-buggy-1.0.51\u001b[01m\u001b[30m$\u001b[0m "
+    ],
+    [
+      1.463700,
+      "./src/nudoku "
+    ],
+    [
+      0.955061,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u001b[K"
+    ],
+    [
+      0.231898,
+      "\u0007"
+    ],
+    [
+      1.942952,
+      "."
+    ],
+    [
+      0.197007,
+      "/"
+    ],
+    [
+      0.317865,
+      "m"
+    ],
+    [
+      0.071928,
+      "o"
+    ],
+    [
+      0.311230,
+      "o"
+    ],
+    [
+      0.118177,
+      "n-buggy "
+    ],
+    [
+      0.465716,
+      "\r\n"
+    ],
+    [
+      0.007028,
+      "\u001b)0\u001b7\u001b[?47h\u001b[1;29r\u001b[m\u001b[4l\u001b[?1h\u001b="
+    ],
+    [
+      0.000217,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000075,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000761,
+      "\u001b[H\u001b[2J  Moon-Buggy version 1.0.51, Copyright 2004 Jochen Voss \u003cvoss@seehuhn.de\u003e\r\n  Moon-Buggy comes with ABSOLUTELY NO WARRANTY; for details type 'w'.\r\n  This is free software, and you are welcome to redistribute it\r\n  under certain conditions; type 'c' for details.\u001b[6;31HMM     MM   OOOOO    OOOOO   NN     N\u001b[7;31HM M   M M  O     O  O     O  N N    N\u001b[8;31HM  M M  M  O     O  O     O  N  N   N\u001b[9;31HM   M   M  O     O  O     O  N   N  N\u001b[10;31HM\u001b[7CM  O     O  O     O  N    N N\u001b[11;31HM\u001b[7CM   OOOOO    OOOOO   N     NN\u001b[13;37HBBBBBB   U     U   GGGGG    GGGGG   Y     Y\u001b[14;37HB     B  U     U  G     G  G     G   Y   Y\u001b[15;37HBBBBBB   U     U  G\u001b[15;64HG\u001b[15;75HY Y\u001b[16;37HB     B  U     U  G   GGG  G   GGG     Y\u001b[17;37HB     B  U     U  G     G  G     G    Y\u001b[18;37HBBBBBB    UUUUU    GGGGG    GGGGG   YY\u001b[24;72HOmm\n\u001b[6D(|)-(|)\r\n##############################################################################################################\u001b[27;1H##################################################################"
+    ],
+    [
+      0.000039,
+      "############################################\u001b[28;1Hy,SPC,RET:start game  q,n:quit  c:show copyright  w:show warranty  s:show scores  r,C-l:redraw"
+    ],
+    [
+      2.983865,
+      "\u001b[H                            NO WARRANTY\u001b[K\r\n  \u001b[K\n  11. BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY\r\n  FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.  EXCEPT WHEN\r\n  OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES\r\n  PROVIDE THE PROGRAM \"AS IS\" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED\r\n  OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF\r\n  MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  THE ENTIRE RISK AS\r\n  TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU.  SHOULD THE\r\n  PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING,\r\n  REPAIR OR CORRECTION.\u001b[K\n\n\u001b[19D12. IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING  \r\n  WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR\u001b[K\r\n  REDISTRIBUTE THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, \r\n  INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING\r\n  OUT OF THE USE OR INABIL"
+    ],
+    [
+      0.000062,
+      "ITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED\r\n  TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED B\r\n  YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER\r\n  PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE\r\n  POSSIBILITY OF SUCH DAMAGES.\u001b[23;22HEND OF TERMS AND CONDITIONS\u001b[24;72H   \u001b[25;13HHow to Apply These Terms to Your New Programs\u001b[K\r\n\u001b[K\n\u001b[K\nq,n:quit  UP,C-p:up  DOWN,C-n:down  PREV,b:pg up  SPC,NEXT:pg down  \u003c:home  \u003e:end  r,C-l:redraw\r\n=== COPYING  76% ==="
+    ],
+    [
+      2.070020,
+      "\u001b[1;27r\u001b[27;1H\n\u001b[1;29r\u001b[26;5HIf you develop a new program, and you want it to be of the greatest"
+    ],
+    [
+      0.285231,
+      "\u001b[1;27r\u001b[27;1H\n\u001b[1;29r\u001b[26;3Hpossible use to the public, the best way to achieve this is to make it"
+    ],
+    [
+      0.440275,
+      "\u001b[H  free software which everyone can redistribute and change under these terms.\r\n  \u001b[K\n  To do so, attach the following notices to the program.  It is safest\r\n  to attach them to the start of each source file to most effectively\u001b[K\r\n  convey the exclusion of warranty; and each file should have at least\r\n  the \"copyright\" line and a pointer to where the full notice is found.\u001b[K\r\n  \u001b[K\n    \u003cone line to give the program's name and a brief idea of what it does.\u003e\r\n      Copyright (C) \u003cyear\u003e  \u003cname of author\u003e\n\n\u001b[40D  This program is free software; you can redistribute it and/or modify   \r\n      it under the terms of the GNU General Public License as published by\r\n      the Free Software Foundation; either version 2 of the License, or\u001b[K\r\n      (at your option) any later version.\u001b[K\r\n  \u001b[K\n    This program is distributed in the hope that it will be useful,\u001b[K\r\n      but WITHOUT ANY WARRANTY; without even the implied warranty of\u001b[K\r\n      MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\u001b[K\r\n      GNU Ge"
+    ],
+    [
+      0.000048,
+      "neral Public License for more details.\n\n\u001b[44DYou should have received a copy of the GNU General Public License\n\u001b[65Dalong with this program; if not, write to the Free Software\n\u001b[59DFoundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA\n\n\u001b[80D\u001b[K\n\u0008\u0008Also add information on how to contact you by electronic and paper mail.\u001b[29;14H84"
+    ],
+    [
+      0.442000,
+      "\u001b[H  \u001b[K\nIf the program is interactive, make it output a short notice like this\r\n  when it starts in an interactive mode:\u001b[K\r\n  \u001b[K\n    Gnomovision version 69, Copyright (C) year  name of author\u001b[K\r\n      Gnomovision comes with ABSOLUTELY NO WARRANTY; for details type `show w'.\n\u001b[73DThis is free software, and you are welcome to redistribute it\n\u001b[61Dunder certain conditions; type `show c' for details.\u001b[K\n\u001b[52D\u001b[K\r\n  The hypothetical commands `show w' and `show c' should show the appropriate\r\n  parts of the General Public License.  Of course, the commands you use may\r\n  be called something other than `show w' and `show c'; they could even be\r\n  mouse-clicks or menu items--whatever suits your program.\u001b[K\n\u001b[52D\u001b[K\r\n  You should also get your employer (if you work as a programmer) or your\r\n  school, if any, to sign a \"copyright disclaimer\" for the program, if\r\n  necessary.  Here is a sample; alter the names:\u001b[K\n\u001b[42D\u001b[K\n\u0008\u0008Yoyodyne, Inc., hereby disclaims all copyright interest in the program\n\u001b[70D`Gnomovision' (wh"
+    ],
+    [
+      0.000055,
+      "ich makes passes at compilers) written by James Hacker.\n\u001b[70D\u001b[K\n\u0008\u0008\u003csignature of Ty Coon\u003e, 1 April 1989\u001b[K\n\u001b[36DTy Coon, President of Vice\u001b[K\r\n\n  This General Public License does not permit incorporating your program into\r\n  proprietary programs.  If your program is a subroutine library, you may \u001b[29;14H92"
+    ],
+    [
+      0.490523,
+      "\u001b[H  consider it more useful to permit linking proprietary applications with the\r\n  library.  If this is what you want to do, use the GNU Library General \r\n  Public License instead of this License.\r\n  ~\n\u0008~\u001b[K\n\u0008~\u001b[K\n\u0008~\u001b[K\n\u0008~\u001b[K\n\u0008~\n\u0008~\u001b[K\n\u0008~\u001b[K\n\u0008~\u001b[K\n\u0008~\u001b[K\n\u0008~\n\u0008~\u001b[K\n\u0008~\u001b[K\n\u0008~\u001b[K\n\u0008~\n\u0008~\u001b[K\n\u0008~\u001b[K\n\u0008~\n\u0008~\u001b[K\n\u0008~\u001b[K\n\u0008~\n\u0008~\u001b[K\n\u0008~\u001b[K\u001b[29;15H9"
+    ],
+    [
+      0.640833,
+      "\u001b[1;27r\u001b[1;1H\u001b[2M\u001b[1;29r\u001b[25;3H~\n\u0008~\u001b[29;13H100"
+    ],
+    [
+      2.094677,
+      "\r\u001b[J\u001b[H  Moon-Buggy version 1.0.51, Copyright 2004 Jochen Voss \u003cvoss@seehuhn.de\u003e\r\n  Moon-Buggy comes with ABSOLUTELY NO WARRANTY; for details type 'w'.\r\n  This is free software, and you are welcome to redistribute it\r\n  under certain conditions; type 'c' for details.\r\n   \n\u0008 \u001b[6;31HMM     MM   OOOOO    OOOOO   NN     N\r\n   \u001b[7;31HM M   M M  O     O  O     O  N N    N\r\n   \u001b[8;31HM  M M  M  O     O  O     O  N  N   N\r\n   \u001b[9;31HM   M   M  O     O  O     O  N   N  N\r\n   \u001b[10;31HM\u001b[7CM  O     O  O     O  N    N N\r\n   \u001b[11;31HM\u001b[7CM   OOOOO    OOOOO   N     NN\r\n   \n\u0008 \u001b[13;37HBBBBBB   U     U   GGGGG    GGGGG   Y     Y\r\n   \u001b[14;37HB     B  U     U  G     G  G     G   Y   Y\r\n   \u001b[15;37HBBBBBB   U     U  G\u001b[15;64HG\u001b[15;75HY Y\r\n   \u001b[16;37HB     B  U     U  G   GGG  G   GGG     Y\r\n   \u001b[17;37HB     B  U     U  G     G  G     G    Y\r\n   \u001b[18;37HBBBBBB    UUUUU    GGGGG    GGGGG   YY\r\n   \n\u0008 \n\u0008 \n\u0008 \n\u0008 \n\u0008 \u001b[24;72HOmm\r\n   \u001b[25;69H(\\)-(\\)\r\n#########################################################################################"
+    ],
+    [
+      0.000081,
+      "#####################\u001b[27;1H##############################################################################################################\u001b[28;1Hy,SPC,RET:start game  q,n:quit  c:show copyright  w:show warranty  s:show scores\u001b[1P"
+    ],
+    [
+      1.684217,
+      "\u001b[H  \u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[6;31H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[13;37H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[25;70H-)-(-\r\n\n\nloading score file ...\u001b[K"
+    ],
+    [
+      0.004399,
+      "\u001b[2;6Hrank   score lvl     date  expires  name\n\n\u001b[38D1     1000 1    2016-01-19  --   Dwalin\n\u001b[39D2\u001b[6C990 1    2016-01-19  --   Nori\n\u001b[37D3\u001b[6C980 1    2016-01-19  --   Dwalin\n\u001b[39D...\n\u0008\u0008\u0008\u000889\u001b[6C120 1    2016-01-19  33d  Nori\n\u001b[38D90\u001b[6C110 1    2016-01-19  31d  Bifur\n\u001b[39D91\u001b[6C100 1    2016-01-19  30d  Kili\n\u001b[38D92\u001b[7C90 1    2016-01-19  28d  Gloin\n\u001b[39D93\u001b[7C80 1    2016-01-19  26d  Gloin\n\u001b[39D94\u001b[7C72 1    2016-01-19  24d  Sergey Bronnikov\n\u001b[50D95\u001b[7C70 1    2016-01-19  23d  Thorin\n\u001b[40D96\u001b[7C60 1    2016-01-19  21d  Oin\n\u001b[37D97\u001b[7C50 1    2016-01-19  19d  Dwalin\n\u001b[40D98\u001b[7C40 1    2016-01-19  17d  Kili\n\u001b[38D99\u001b[7C30 1    2016-01-19  16d  Nori\n\u001b[39D100\u001b[7C20 1    2016-01-19  14d  Bifur\u001b[25;70H/)-(/\r\n\n\ny,SPC,RET:new game  q,n:quit  UP,C-p:up  DOWN,C-n:down  PREV,b:pg up  NEXT:pg down  s:reload  r,C-l:redraw\u001b[29;49Hlives: 0     score: 0"
+    ],
+    [
+      1.673273,
+      "\u001b[19;68HGAME OVER"
+    ],
+    [
+      0.000013,
+      "\u001b[28;107H"
+    ],
+    [
+      0.000035,
+      "\r\n\u001b[J"
+    ],
+    [
+      0.000034,
+      "\u001b[29;1H\u001b[2J\u001b[?47l\u001b8\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.006995,
+      "\u001b[0;36m~/source/moon-buggy-1.0.51\u001b[01m\u001b[30m$\u001b[0m "
+    ],
+    [
+      0.713816,
+      "./moon-buggy "
+    ],
+    [
+      0.284939,
+      "\r\n"
+    ],
+    [
+      0.006737,
+      "\u001b)0\u001b7\u001b[?47h\u001b[1;29r\u001b[m\u001b[4l\u001b[?1h\u001b="
+    ],
+    [
+      0.000015,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000111,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000851,
+      "\u001b[H\u001b[2J  Moon-Buggy version 1.0.51, Copyright 2004 Jochen Voss \u003cvoss@seehuhn.de\u003e\r\n  Moon-Buggy comes with ABSOLUTELY NO WARRANTY; for details type 'w'.\r\n  This is free software, and you are welcome to redistribute it\r\n  under certain conditions; type 'c' for details.\u001b[6;31HMM     MM   OOOOO    OOOOO   NN     N\u001b[7;31HM M   M M  O     O  O     O  N N    N\u001b[8;31HM  M M  M  O     O  O     O  N  N   N\u001b[9;31HM   M   M  O     O  O     O  N   N  N\u001b[10;31HM\u001b[7CM  O     O  O     O  N    N N\u001b[11;31HM\u001b[7CM   OOOOO    OOOOO   N     NN\u001b[13;37HBBBBBB   U     U   GGGGG    GGGGG   Y     Y\u001b[14;37HB     B  U     U  G     G  G     G   Y   Y\u001b[15;37HBBBBBB   U     U  G\u001b[15;64HG\u001b[15;75HY Y\u001b[16;37HB     B  U     U  G   GGG  G   GGG     Y\u001b[17;37HB     B  U     U  G     G  G     G    Y\u001b[18;37HBBBBBB    UUUUU    GGGGG    GGGGG   YY\u001b[24;72HOmm\n\u001b[6D(|)-(|)\r\n##############################################################################################################\u001b[27;1H##################################################################"
+    ],
+    [
+      0.000049,
+      "############################################\u001b[28;1Hy,SPC,RET:start game  q,n:quit  c:show copyright  w:show warranty  s:show scores  r,C-l:redraw"
+    ],
+    [
+      3.606246,
+      "\u001b[H  \u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[6;31H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[13;37H\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\n\u001b[K\u001b[25;70H\\)-(\\\r\n\n\nSPC,j:jump  a,l:fir\u001b[7Cabort game\u001b[44P\u001b[29;49Hlives: 3     score: 0"
+    ],
+    [
+      0.999962,
+      "\u001b[19;56Hgood luck (or use \u003cSPC\u003e to jump)\u001b[25;70H-)-(-\r\n \u001b[29;37Hlevel: 1"
+    ],
+    [
+      0.085008,
+      "\u001b[25;70H/)-(/\r\n  "
+    ],
+    [
+      0.080015,
+      "\u001b[25;70H|)-(|\r\n#  "
+    ],
+    [
+      0.079987,
+      "\u001b[25;70H\\)-(\\\r\n##  "
+    ],
+    [
+      0.079989,
+      "\u001b[25;70H-)-(-\r\n###  "
+    ],
+    [
+      0.075931,
+      "\u001b[25;70H/)-(/\r\n####  "
+    ],
+    [
+      0.084096,
+      "\u001b[25;70H|)-(|\n\u001b[70D#  "
+    ],
+    [
+      0.079973,
+      "\u001b[25;70H\\)-(\\\n\u001b[69D#  "
+    ],
+    [
+      0.077845,
+      "\u001b[25;70H-)-(-\n\u001b[68D#  "
+    ],
+    [
+      0.082168,
+      "\u001b[25;70H/)-(/\n\u001b[67D#  "
+    ],
+    [
+      0.075652,
+      "\u001b[25;70H|)-(|\u001b[26;9H#  "
+    ],
+    [
+      0.084284,
+      "\u001b[25;70H\\)-(\\\u001b[26;10H#  "
+    ],
+    [
+      0.080045,
+      "\u001b[25;70H-)-(-\u001b[26;11H#  "
+    ],
+    [
+      0.079081,
+      "\u001b[25;70H/)-(/\u001b[26;12H#  "
+    ],
+    [
+      0.076256,
+      "\u001b[25;70H|)-(|\u001b[26;13H#  "
+    ],
+    [
+      0.084656,
+      "\u001b[25;70H\\)-(\\\u001b[26;14H#  "
+    ],
+    [
+      0.076752,
+      "\u001b[25;70H-)-(-\u001b[26;15H#  "
+    ],
+    [
+      0.083279,
+      "\u001b[25;70H/)-(/\r\n \u001b[26;16H#  "
+    ],
+    [
+      0.080023,
+      "\u001b[25;70H|)-(|\r\n  \u001b[26;17H#  "
+    ],
+    [
+      0.080004,
+      "\u001b[25;70H\\)-(\\\r\n#  \u001b[26;18H#  "
+    ],
+    [
+      0.077394,
+      "\u001b[25;70H-)-(-\r\n##  \u001b[26;19H#  "
+    ],
+    [
+      0.082564,
+      "\u001b[25;70H/)-(/\r\n###  \u001b[26;20H#  "
+    ],
+    [
+      0.076924,
+      "\u001b[25;70H|)-(|\r\n####  \u001b[26;21H#  "
+    ],
+    [
+      0.083078,
+      "\u001b[25;70H\\)-(\\\n\u001b[70D#  \u001b[26;22H#  "
+    ],
+    [
+      0.080017,
+      "\u001b[25;70H-)-(-\n\u001b[69D#  \u001b[26;23H#  "
+    ],
+    [
+      0.078981,
+      "\u001b[25;70H/)-(/\n\u001b[68D#  \u001b[26;24H#  "
+    ],
+    [
+      0.081055,
+      "\u001b[25;70H|)-(|\n\u001b[67D#  \u001b[26;25H#  "
+    ],
+    [
+      0.079936,
+      "\u001b[25;70H\\)-(\\\u001b[26;9H#  \u001b[26;26H#  "
+    ],
+    [
+      0.080016,
+      "\u001b[25;70H-)-(-\u001b[26;10H#  \u001b[26;27H#  "
+    ],
+    [
+      0.079998,
+      "\u001b[25;70H/)-(/\u001b[26;11H#  \u001b[26;28H#  "
+    ],
+    [
+      0.077715,
+      "\u001b[25;70H|)-(|\u001b[26;12H#  \u001b[26;29H#  "
+    ],
+    [
+      0.082284,
+      "\u001b[25;70H\\)-(\\\u001b[26;13H#  \u001b[26;30H#  "
+    ],
+    [
+      0.075693,
+      "\u001b[25;70H-)-(-\u001b[26;14H#  \u001b[26;31H#  "
+    ],
+    [
+      0.084310,
+      "\u001b[25;70H/)-(/\r\n \u001b[26;15H#  \u001b[26;32H#  "
+    ],
+    [
+      0.080009,
+      "\u001b[25;70H|)-(|\r\n  \u001b[26;16H#  \u001b[26;33H#  "
+    ],
+    [
+      0.080067,
+      "\u001b[25;70H\\)-(\\\r\n#  \u001b[26;17H#  \u001b[26;34H#  "
+    ],
+    [
+      0.079923,
+      "\u001b[25;70H-)-(-\r\n##  \u001b[26;18H#  \u001b[26;35H#  "
+    ],
+    [
+      0.080011,
+      "\u001b[25;70H/)-(/\r\n###  \u001b[26;19H#  \u001b[26;36H#  "
+    ],
+    [
+      0.079993,
+      "\u001b[25;70H|)-(|\r\n####  \u001b[26;20H#  \u001b[26;37H#  "
+    ],
+    [
+      0.080014,
+      "\u001b[25;70H\\)-(\\\n\u001b[70D#  \u001b[26;21H#  \u001b[26;38H#  "
+    ],
+    [
+      0.079989,
+      "\u001b[25;70H-)-(-\n\u001b[69D#  \u001b[26;22H#  \u001b[26;39H#  "
+    ],
+    [
+      0.080051,
+      "\u001b[25;70H/)-(/\n\u001b[68D#  \u001b[26;23H#  \u001b[26;40H#  "
+    ],
+    [
+      0.079939,
+      "\u001b[25;70H|)-(|\n\u001b[67D#  \u001b[26;24H#  \u001b[26;41H#  "
+    ],
+    [
+      0.079991,
+      "\u001b[25;70H\\)-(\\\u001b[26;9H#  \u001b[26;25H#  \u001b[26;42H#  "
+    ],
+    [
+      0.080015,
+      "\u001b[25;70H-)-(-\u001b[26;10H#  \u001b[26;26H#  \u001b[26;43H#  "
+    ],
+    [
+      0.080022,
+      "\u001b[25;70H/)-(/\u001b[26;11H#  \u001b[26;27H#  \u001b[26;44H#  "
+    ],
+    [
+      0.079963,
+      "\u001b[25;70H|)-(|\u001b[26;12H#  \u001b[26;28H#  \u001b[26;45H#  "
+    ],
+    [
+      0.075532,
+      "\u001b[25;70H\\)-(\\\u001b[26;13H#  \u001b[26;29H#  \u001b[26;46H#  "
+    ],
+    [
+      0.084472,
+      "\u001b[25;70H-)-(-\u001b[26;14H#  \u001b[26;30H#  \u001b[26;47H#  "
+    ],
+    [
+      0.080005,
+      "\u001b[25;70H/)-(/\u001b[26;15H#  \u001b[26;31H#  \u001b[26;48H#  "
+    ],
+    [
+      0.080013,
+      "\u001b[19;56H\u001b[K\u001b[25;70H|)-(|\u001b[26;16H#  \u001b[26;32H#  \u001b[26;49H#  "
+    ],
+    [
+      0.079982,
+      "\u001b[25;70H\\)-(\\\r\n \u001b[26;17H#  \u001b[26;33H#  \u001b[26;50H#  "
+    ],
+    [
+      0.076236,
+      "\u001b[25;70H-)-(-\r\n  \u001b[26;18H#  \u001b[26;34H#  \u001b[26;51H#  "
+    ],
+    [
+      0.083779,
+      "\u001b[25;70H/)-(/\r\n#  \u001b[26;19H#  \u001b[26;35H#  \u001b[26;52H#  "
+    ],
+    [
+      0.080026,
+      "\u001b[25;70H|)-(|\r\n##  \u001b[26;20H#  \u001b[26;36H#  \u001b[26;53H#  "
+    ],
+    [
+      0.079959,
+      "\u001b[25;70H\\)-(\\\r\n###  \u001b[26;21H#  \u001b[26;37H#  \u001b[26;54H#  "
+    ],
+    [
+      0.080006,
+      "\u001b[25;70H-)-(-\r\n####  \u001b[26;22H#  \u001b[26;38H#  \u001b[26;55H#  "
+    ],
+    [
+      0.080004,
+      "\u001b[25;70H/)-(/\n\u001b[70D#  \u001b[26;23H#  \u001b[26;39H#  \u001b[26;56H#  "
+    ],
+    [
+      0.079998,
+      "\u001b[25;70H|)-(|\n\u001b[69D#  \u001b[26;24H#  \u001b[26;40H#  \u001b[26;57H#  "
+    ],
+    [
+      0.080011,
+      "\u001b[25;70H\\)-(\\\n\u001b[68D#  \u001b[26;25H#  \u001b[26;41H#  \u001b[26;58H#  "
+    ],
+    [
+      0.080070,
+      "\u001b[25;70H-)-(-\n\u001b[67D#  \u001b[26;26H#  \u001b[26;42H#  \u001b[26;59H#  "
+    ],
+    [
+      0.079915,
+      "\u001b[25;70H/)-(/\u001b[26;9H#  \u001b[26;27H#  \u001b[26;43H#  \u001b[26;60H#  "
+    ],
+    [
+      0.079992,
+      "\u001b[25;70H|)-(|\u001b[26;10H#  \u001b[26;28H#  \u001b[26;44H#  \u001b[26;61H#  "
+    ],
+    [
+      0.075596,
+      "\u001b[25;70H\\)-(\\\u001b[26;11H#  \u001b[26;29H#  \u001b[26;45H#  \u001b[26;62H#  "
+    ],
+    [
+      0.059468,
+      "\u001b[24;73HMM\n\u001b[5DU)-(U"
+    ],
+    [
+      0.024849,
+      "\u001b[26;12H#  \u001b[26;30H#  \u001b[26;46H#  \u001b[26;63H#  "
+    ],
+    [
+      0.060338,
+      "\u001b[23;72HOMm\n\u001b[6D(|)-(|)\u001b[25;69H\u001b[K"
+    ],
+    [
+      0.015348,
+      "\u001b[26;13H#  \u001b[26;31H#  \u001b[26;47H#  \u001b[26;64H#  "
+    ],
+    [
+      0.081474,
+      "\u001b[26;14H#  \u001b[26;32H#  \u001b[26;48H#  \u001b[26;65H#  "
+    ],
+    [
+      0.081475,
+      "\r \u001b[26;15H#  \u001b[26;33H#  \u001b[26;49H#  \u001b[26;66H#  "
+    ],
+    [
+      0.017865,
+      "\u001b[22;72HoMm\n\u001b[6D(\\)-(\\)\u001b[24;69H\u001b[K"
+    ],
+    [
+      0.063594,
+      "\r\n\n  \u001b[26;16H#  \u001b[26;34H#  \u001b[26;50H#  \u001b[26;67H#  "
+    ],
+    [
+      0.077665,
+      "\r#  \u001b[26;17H#  \u001b[26;35H#  \u001b[26;51H#  \u001b[26;68H#  "
+    ],
+    [
+      0.079016,
+      "\r##  \u001b[26;18H#  \u001b[26;36H#  \u001b[26;52H#  \u001b[26;69H#  "
+    ],
+    [
+      0.083320,
+      "\r###  \u001b[26;19H#  \u001b[26;37H#  \u001b[26;53H#  \u001b[26;70H#  "
+    ],
+    [
+      0.078705,
+      "\r####  \u001b[26;20H#  \u001b[26;38H#  \u001b[26;54H#  \u001b[26;71H#  "
+    ],
+    [
+      0.017626,
+      "\u001b[4A\u0008\u0008   \n\u001b[6D   OMm \u001b[24;69H(|)-(|)"
+    ],
+    [
+      0.063672,
+      "\n\n\u001b[71D#  \u001b[26;21H#  \u001b[26;39H#  \u001b[26;55H#  \u001b[26;72H#  "
+    ],
+    [
+      0.080005,
+      "\u001b[69D#  \u001b[26;22H#  \u001b[26;40H#  \u001b[26;56H#  \u001b[26;73H#  "
+    ],
+    [
+      0.055680,
+      "\u001b[23;72H   \n\u001b[6D   omm \u001b[25;69H(-)_(-)"
+    ],
+    [
+      0.024085,
+      "\n\u001b[69D#  \u001b[26;23H#  \u001b[26;41H#  \u001b[26;57H#  \u001b[26;74H#  \u001b[29;69H4"
+    ],
+    [
+      0.080261,
+      "\u001b[26;8H#  \u001b[26;24H#  \u001b[26;42H#  \u001b[26;58H#  \u001b[26;75H#  "
+    ],
+    [
+      0.078539,
+      "\u001b[26;9H#  \u001b[26;25H#  \u001b[26;43H#  \u001b[26;59H#  \u001b[26;76H#  "
+    ],
+    [
+      0.020766,
+      "\u001b[24;72HO\n\u0008\u0008\u0008\\)-(\\"
+    ],
+    [
+      0.060756,
+      "\u001b[5D-)-(-\u001b[26;10H#  \u001b[26;26H#  \u001b[26;44H#  \u001b[26;60H#  \u001b[26;77H#  "
+    ],
+    [
+      0.079920,
+      "\u001b[25;70H/)-(/\u001b[26;11H#  \u001b[26;27H#  \u001b[26;45H#  \u001b[26;61H#  \u001b[26;78H#  "
+    ],
+    [
+      0.079986,
+      "\u001b[25;70H|)-(|\u001b[26;12H#  \u001b[26;28H#  \u001b[26;46H#  \u001b[26;62H#  \u001b[26;79H#  "
+    ],
+    [
+      0.080007,
+      "\u001b[25;70H\\)-(\\\u001b[26;13H#  \u001b[26;29H#  \u001b[26;47H#  \u001b[26;63H#  \u001b[26;80H#  "
+    ],
+    [
+      0.080014,
+      "\u001b[25;70H-)-(-\u001b[26;14H#  \u001b[26;30H#  \u001b[26;48H#  \u001b[26;64H#  \u001b[26;81H#  "
+    ],
+    [
+      0.079977,
+      "\u001b[25;70H/)-(/\u001b[26;15H#  \u001b[26;31H#  \u001b[26;49H#  \u001b[26;65H#  \u001b[26;82H#  "
+    ],
+    [
+      0.076540,
+      "\u001b[25;70H|)-(|\u001b[26;16H#  \u001b[26;32H#  \u001b[26;50H#  \u001b[26;66H#  \u001b[26;83H#  "
+    ],
+    [
+      0.060113,
+      "\u001b[24;73HMM\n\u001b[5DU)-(U"
+    ],
+    [
+      0.018390,
+      "\r\n \u001b[26;17H#  \u001b[26;33H#  \u001b[26;51H#  \u001b[26;67H#  \u001b[26;84H#  "
+    ],
+    [
+      0.061871,
+      "\u001b[23;72HOMm\n\u001b[6D(|)-(|)\u001b[25;69H\u001b[K"
+    ],
+    [
+      0.018616,
+      "\r\n  \u001b[26;18H#  \u001b[26;34H#  \u001b[26;52H#  \u001b[26;68H#  \u001b[26;85H#  "
+    ],
+    [
+      0.084468,
+      "\r#  \u001b[26;19H#  \u001b[26;35H#  \u001b[26;53H#  \u001b[26;69H#  \u001b[26;86H#  "
+    ],
+    [
+      0.080006,
+      "\r##  \u001b[26;20H#  \u001b[26;36H#  \u001b[26;54H#  \u001b[26;70H#  \u001b[26;87H#  "
+    ],
+    [
+      0.019918,
+      "\u001b[22;72HoMm\n\u001b[6D(\\)-(\\)\u001b[24;69H\u001b[K"
+    ],
+    [
+      0.060079,
+      "\r\n\n###  \u001b[26;21H#  \u001b[26;37H#  \u001b[26;55H#  \u001b[26;71H#  \u001b[26;88H#  "
+    ],
+    [
+      0.077666,
+      "\r####  \u001b[26;22H#  \u001b[26;38H#  \u001b[26;56H#  \u001b[26;72H#  \u001b[26;89H#  "
+    ],
+    [
+      0.080662,
+      "\u001b[87D#  \u001b[26;23H#  \u001b[26;39H#  \u001b[26;57H#  \u001b[26;73H#  \u001b[26;90H#  "
+    ],
+    [
+      0.076972,
+      "\u001b[87D#  \u001b[26;24H#  \u001b[26;40H#  \u001b[26;58H#  \u001b[26;74H#  \u001b[26;91H#  "
+    ],
+    [
+      0.084717,
+      "\u001b[87D#  \u001b[26;25H#  \u001b[26;41H#  \u001b[26;59H#  \u001b[26;75H#  \u001b[26;92H#  "
+    ],
+    [
+      0.020995,
+      "\u001b[22;72H   \n\u001b[6D   OMm \u001b[24;69H(|)-(|)"
+    ],
+    [
+      0.059035,
+      "\n\n\u001b[68D#  \u001b[26;26H#  \u001b[26;42H#  \u001b[26;60H#  \u001b[26;76H#  \u001b[26;93H#  "
+    ],
+    [
+      0.079944,
+      "\u001b[26;9H#  \u001b[26;27H#  \u001b[26;43H#  \u001b[26;61H#  \u001b[26;77H#  \u001b[26;94H#  "
+    ],
+    [
+      0.057732,
+      "\u001b[23;72H   \n\u001b[6D   omm \u001b[25;69H(-)_(-)"
+    ],
+    [
+      0.021537,
+      "\u001b[26;10H#  \u001b[26;28H#  \u001b[26;44H#  \u001b[26;62H#  \u001b[26;78H#  \u001b[26;95H#  \u001b[29;69H8"
+    ],
+    [
+      0.078370,
+      "\u001b[26;11H#  \u001b[26;29H#  \u001b[26;45H#  \u001b[26;63H#  \u001b[26;79H#  \u001b[26;96H#  "
+    ],
+    [
+      0.082332,
+      "\u001b[26;12H#  \u001b[26;30H#  \u001b[26;46H#  \u001b[26;64H#  \u001b[26;80H#  \u001b[26;97H#  "
+    ],
+    [
+      0.021025,
+      "\u001b[24;72HO\n\u0008\u0008\u0008|)-(|"
+    ],
+    [
+      0.057545,
+      "\u001b[5D\\)-(\\\u001b[26;13H#  \u001b[26;31H#  \u001b[26;47H#  \u001b[26;65H#  \u001b[26;81H#  \u001b[26;98H#  "
+    ],
+    [
+      0.019977,
+      "\u001b[24;73HMM\n\u001b[5DU)-(U"
+    ],
+    [
+      0.061484,
+      "\u001b[26;14H#  \u001b[26;32H#  \u001b[26;48H#  \u001b[26;66H#  \u001b[26;82H#  \u001b[26;99H#  "
+    ],
+    [
+      0.023329,
+      "\u001b[23;72HOMm\n\u001b[6D(|)-(|)\u001b[25;69H\u001b[K"
+    ],
+    [
+      0.056708,
+      "\u001b[26;15H#  \u001b[26;33H#  \u001b[26;49H#  \u001b[26;67H#  \u001b[26;83H#  \u001b[26;100H#  "
+    ],
+    [
+      0.079878,
+      "\r \u001b[26;16H#  \u001b[26;34H#  \u001b[26;50H#  \u001b[26;68H#  \u001b[26;84H#  \u001b[26;101H#  "
+    ],
+    [
+      0.058956,
+      "\u001b[22;72HoMm\n\u001b[6D(\\)-(\\)\u001b[24;69H\u001b[K"
+    ],
+    [
+      0.020148,
+      "\r\n\n  \u001b[26;17H#  \u001b[26;35H#  \u001b[26;51H#  \u001b[26;69H#  \u001b[26;85H#  \u001b[26;102H#  "
+    ],
+    [
+      0.079846,
+      "\r#  \u001b[26;18H#  \u001b[26;36H#  \u001b[26;52H#  \u001b[26;70H#  \u001b[26;86H#  \u001b[14C#  "
+    ],
+    [
+      0.081156,
+      "\r##  \u001b[26;19H#  \u001b[26;37H#  \u001b[26;53H#  \u001b[26;71H#  \u001b[26;87H#  \u001b[14C#  "
+    ],
+    [
+      0.080009,
+      "\r###  \u001b[26;20H#  \u001b[26;38H#  \u001b[26;54H#  \u001b[26;72H#  \u001b[26;88H#  \u001b[14C#  "
+    ],
+    [
+      0.080008,
+      "\r####  \u001b[26;21H#  \u001b[26;39H#  \u001b[26;55H#  \u001b[26;73H#  \u001b[26;89H#  \u001b[14C#  "
+    ],
+    [
+      0.063679,
+      "\u001b[22;72H   \n\u001b[6D   OMm \u001b[24;69H(|)-(|)"
+    ],
+    [
+      0.014147,
+      "\n\n\u001b[71D#  \u001b[26;22H#  \u001b[26;40H#  \u001b[26;56H#  \u001b[26;74H#  \u001b[26;90H#  \u001b[14C#  "
+    ],
+    [
+      0.078527,
+      "\u001b[104D#  \u001b[26;23H#  \u001b[26;41H#  \u001b[26;57H#  \u001b[26;75H#  \u001b[26;91H#  \u001b[14C#  "
+    ],
+    [
+      0.083701,
+      "\u001b[26;1H\u001b[6C#  \u001b[26;24H#  \u001b[26;42H#  \u001b[26;58H#  \u001b[26;76H#  \u001b[26;92H#  \u001b[14C#"
+    ],
+    [
+      0.023207,
+      "\u001b[23;72H   \n\u001b[6D   omm \u001b[25;69H(-)_(-)"
+    ],
+    [
+      0.056758,
+      "\n\u001b[68D#  \u001b[26;25H#  \u001b[26;43H#  \u001b[26;59H#  \u001b[26;77H#  \u001b[26;93H#  \u001b[14C#\u001b[29;69H12"
+    ],
+    [
+      0.078677,
+      "\u001b[26;9H#  \u001b[26;26H#  \u001b[26;44H#  \u001b[26;60H#  \u001b[26;78H#  \u001b[26;94H#  "
+    ],
+    [
+      0.061912,
+      "\u001b[24;72HO\n\u0008\u0008\u0008|)-(|"
+    ],
+    [
+      0.015429,
+      "\u001b[5D\\)-(\\\u001b[26;10H#  \u001b[26;27H#  \u001b[26;45H#  \u001b[26;61H#  \u001b[26;79H#  \u001b[26;95H#  "
+    ],
+    [
+      0.084004,
+      "\u001b[25;70H-)-(-\u001b[26;11H#  \u001b[26;28H#  \u001b[26;46H#  \u001b[26;62H#  \u001b[26;80H#  \u001b[26;96H#  "
+    ],
+    [
+      0.079992,
+      "\u001b[25;70H/)-(/\u001b[26;12H#  \u001b[26;29H#  \u001b[26;47H#  \u001b[26;63H#  \u001b[26;81H#  \u001b[26;97H#  "
+    ],
+    [
+      0.079943,
+      "\u001b[25;70H|)-(|\u001b[26;13H#  \u001b[26;30H#  \u001b[26;48H#  \u001b[26;64H#  \u001b[26;82H#  \u001b[26;98H#  "
+    ],
+    [
+      0.076531,
+      "\u001b[25;70H\\)-(\\\u001b[26;14H#  \u001b[26;31H#  \u001b[26;49H#  \u001b[26;65H#  \u001b[26;83H#  \u001b[26;99H#  "
+    ],
+    [
+      0.083481,
+      "\u001b[25;70H-)-(-\u001b[26;15H#  \u001b[26;32H#  \u001b[26;50H#  \u001b[26;66H#  \u001b[26;84H#  \u001b[26;100H#  "
+    ],
+    [
+      0.003191,
+      "\u001b[24;73HMM\n\u001b[5DU)-(U"
+    ],
+    [
+      0.071825,
+      "\r\n \u001b[26;16H#  \u001b[26;33H#  \u001b[26;51H#  \u001b[26;67H#  \u001b[26;85H#  \u001b[26;101H#  "
+    ],
+    [
+      0.010370,
+      "\u001b[23;72HOMm\n\u001b[6D(|)-(|)\u001b[25;69H\u001b[K"
+    ],
+    [
+      0.074601,
+      "\r\n  \u001b[26;17H#  \u001b[26;34H#  \u001b[26;52H#  \u001b[26;68H#  \u001b[26;86H#  \u001b[26;102H#  "
+    ],
+    [
+      0.077688,
+      "\r#  \u001b[26;18H#  \u001b[26;35H#  \u001b[26;53H#  \u001b[26;69H#  \u001b[26;87H#  \u001b[13C#  "
+    ],
+    [
+      0.047302,
+      "\u001b[22;72HoMm\n\u001b[6D(\\)-(\\)\u001b[24;69H\u001b[K"
+    ],
+    [
+      0.032697,
+      "\r\n\n##  \u001b[26;19H#  \u001b[26;36H#  \u001b[26;54H#  \u001b[26;70H#  \u001b[26;88H#  \u001b[13C#  "
+    ],
+    [
+      0.082325,
+      "\r###  \u001b[26;20H#  \u001b[26;37H#  \u001b[26;55H#  \u001b[26;71H#  \u001b[26;89H#  \u001b[13C#  "
+    ],
+    [
+      0.080039,
+      "\r####  \u001b[26;21H#  \u001b[26;38H#  \u001b[26;56H#  \u001b[26;72H#  \u001b[26;90H#  \u001b[13C#  "
+    ],
+    [
+      0.079976,
+      "\u001b[104D#  \u001b[26;22H#  \u001b[26;39H#  \u001b[26;57H#  \u001b[26;73H#  \u001b[26;91H#  \u001b[13C#  "
+    ],
+    [
+      0.078038,
+      "\u001b[104D#  \u001b[26;23H#  \u001b[26;40H#  \u001b[26;58H#  \u001b[26;74H#  \u001b[26;92H#  \u001b[13C#  "
+    ],
+    [
+      0.047346,
+      "\u001b[22;72H   \n\u001b[6D   OMm \u001b[24;69H(|)-(|)"
+    ],
+    [
+      0.034617,
+      "\r\n\n\u001b[6C#  \u001b[26;24H#  \u001b[26;41H#  \u001b[26;59H#  \u001b[26;75H#  \u001b[26;93H#  \u001b[13C#"
+    ],
+    [
+      0.080068,
+      "\u001b[102D#  \u001b[26;25H#  \u001b[26;42H#  \u001b[26;60H#  \u001b[26;76H#  \u001b[26;94H#  \u001b[13C#"
+    ],
+    [
+      0.079904,
+      "\u001b[26;9H#  \u001b[26;26H#  \u001b[26;43H#  \u001b[26;61H#  \u001b[26;77H#  \u001b[26;95H#  "
+    ],
+    [
+      0.004122,
+      "\u001b[23;72H   \n\u001b[6D   omm \u001b[25;69H(-)_(-)"
+    ],
+    [
+      0.075879,
+      "\u001b[26;10H#  \u001b[26;27H#  \u001b[26;44H#  \u001b[26;62H#  \u001b[26;78H#  \u001b[26;96H#  \u001b[29;70H6"
+    ],
+    [
+      0.079993,
+      "\u001b[26;11H#  \u001b[26;28H#  \u001b[26;45H#  \u001b[26;63H#  \u001b[26;79H#  \u001b[26;97H#  "
+    ],
+    [
+      0.043400,
+      "\u001b[24;72HO\n\u0008\u0008\u0008\\)-(\\"
+    ],
+    [
+      0.036612,
+      "\u001b[5D-)-(-\u001b[26;12H#  \u001b[26;29H#  \u001b[26;46H#  \u001b[26;64H#  \u001b[26;80H#  \u001b[26;98H#  "
+    ],
+    [
+      0.079990,
+      "\u001b[25;70H/)-(/\u001b[26;13H#  \u001b[26;30H#  \u001b[26;47H#  \u001b[26;65H#  \u001b[26;81H#  \u001b[26;99H#  "
+    ],
+    [
+      0.078740,
+      "\u001b[25;70H|)-(|\u001b[26;14H#  \u001b[26;31H#  \u001b[26;48H#  \u001b[26;66H#  \u001b[26;82H#  \u001b[26;100H#  "
+    ],
+    [
+      0.078716,
+      "\u001b[25;70H\\)-(\\\u001b[26;15H#  \u001b[26;32H#  \u001b[26;49H#  \u001b[26;67H#  \u001b[26;83H#  \u001b[26;101H#  "
+    ],
+    [
+      0.013305,
+      "\u001b[24;73HMM\n\u001b[5DU)-(U"
+    ],
+    [
+      0.069232,
+      "\u001b[26;16H#  \u001b[26;33H#  \u001b[26;50H#  \u001b[26;68H#  \u001b[26;84H#  \u001b[26;102H#  "
+    ],
+    [
+      0.013543,
+      "\u001b[23;72HOMm\n\u001b[6D(|)-(|)\u001b[25;69H\u001b[K"
+    ],
+    [
+      0.066471,
+      "\u001b[26;17H#  \u001b[26;34H#  \u001b[26;51H#  \u001b[26;69H#  \u001b[26;85H#  \u001b[15C#  "
+    ],
+    [
+      0.080036,
+      "\r \u001b[26;18H#  \u001b[26;35H#  \u001b[26;52H#  \u001b[26;70H#  \u001b[26;86H#  \u001b[15C#  "
+    ],
+    [
+      0.051410,
+      "\u001b[22;72HoMm\n\u001b[6D(\\)-(\\)\u001b[24;69H\u001b[K"
+    ],
+    [
+      0.025085,
+      "\r\n\n  \u001b[26;19H#  \u001b[26;36H#  \u001b[26;53H#  \u001b[26;71H#  \u001b[26;87H#  \u001b[15C#  "
+    ],
+    [
+      0.083569,
+      "\r#  \u001b[26;20H#  \u001b[26;37H#  \u001b[26;54H#  \u001b[26;72H#  \u001b[26;88H#  \u001b[15C#  "
+    ],
+    [
+      0.079910,
+      "\r##  \u001b[26;21H#  \u001b[26;38H#  \u001b[26;55H#  \u001b[26;73H#  \u001b[26;89H#  \u001b[15C#  "
+    ],
+    [
+      0.080053,
+      "\r###  \u001b[26;22H#  \u001b[26;39H#  \u001b[26;56H#  \u001b[26;74H#  \u001b[26;90H#  \u001b[15C#  "
+    ],
+    [
+      0.080027,
+      "\u001b[26;1H####  \u001b[26;23H#  \u001b[26;40H#  \u001b[26;57H#  \u001b[26;75H#  \u001b[26;91H#  \u001b[15C#"
+    ],
+    [
+      0.051479,
+      "\u001b[22;72H   \n\u001b[6D   OMm \u001b[24;69H(|)-(|)"
+    ],
+    [
+      0.025423,
+      "\n\n\u001b[71D#  \u001b[26;24H#  \u001b[26;41H#  \u001b[26;58H#  \u001b[26;76H#  \u001b[26;92H#  \u001b[15C#"
+    ],
+    [
+      0.083001,
+      "\u001b[26;6H#  \u001b[26;25H#  \u001b[26;42H#  \u001b[26;59H#  \u001b[26;77H#  \u001b[26;93H#  "
+    ],
+    [
+      0.080004,
+      "\u001b[89D#  \u001b[26;26H#  \u001b[26;43H#  \u001b[26;60H#  \u001b[26;78H#  \u001b[26;94H#  "
+    ],
+    [
+      0.013605,
+      "\u001b[23;72H   \n\u001b[6D   omm \u001b[25;69H(-)_(-)"
+    ],
+    [
+      0.063916,
+      "\n\u001b[68D#  \u001b[26;27H#  \u001b[26;44H#  \u001b[26;61H#  \u001b[26;79H#  \u001b[26;95H#  \u001b[29;69H20"
+    ],
+    [
+      0.079349,
+      "\u001b[26;9H#  \u001b[26;28H#  \u001b[26;45H#  \u001b[26;62H#  \u001b[26;80H#  \u001b[26;96H#  "
+    ],
+    [
+      0.054471,
+      "\u001b[24;72HO\n\u0008\u0008\u0008|)-(|"
+    ],
+    [
+      0.023813,
+      "\u001b[5D\\)-(\\\u001b[26;10H#  \u001b[26;29H#  \u001b[26;46H#  \u001b[26;63H#  \u001b[26;81H#  \u001b[26;97H#  "
+    ],
+    [
+      0.080660,
+      "\u001b[25;70H-)-(-\u001b[26;11H#  \u001b[26;30H#  \u001b[26;47H#  \u001b[26;64H#  \u001b[26;82H#  \u001b[26;98H#  "
+    ],
+    [
+      0.080746,
+      "\u001b[25;70H/)-(/\u001b[26;12H#  \u001b[26;31H#  \u001b[26;48H#  \u001b[26;65H#  \u001b[26;83H#  \u001b[26;99H#  "
+    ],
+    [
+      0.079246,
+      "\u001b[25;70H|)-(|\u001b[26;13H#  \u001b[26;32H#  \u001b[26;49H#  \u001b[26;66H#  \u001b[26;84H#  \u001b[26;100H#  "
+    ],
+    [
+      0.001636,
+      "\u001b[24;73HMM\n\u001b[5DU)-(U"
+    ],
+    [
+      0.082598,
+      "\u001b[23;72HOMm\n\u001b[6D(|)-(|)\u001b[25;69H\u001b[K\r\n \u001b[26;14H#  \u001b[26;33H#  \u001b[26;50H#  \u001b[26;67H#  \u001b[26;85H#  \u001b[26;101H#  "
+    ],
+    [
+      0.076453,
+      "\r  \u001b[26;15H#  \u001b[26;34H#  \u001b[26;51H#  \u001b[26;68H#  \u001b[26;86H#  \u001b[26;102H#  "
+    ],
+    [
+      0.083515,
+      "\r#  \u001b[26;16H#  \u001b[26;35H#  \u001b[26;52H#  \u001b[26;69H#  \u001b[26;87H#  \u001b[13C#  "
+    ],
+    [
+      0.037649,
+      "\u001b[22;72HoMm\n\u001b[6D(\\)-(\\)\u001b[24;69H\u001b[K"
+    ],
+    [
+      0.042415,
+      "\r\n\n##  \u001b[26;17H#  \u001b[26;36H#  \u001b[26;53H#  \u001b[26;70H#  \u001b[26;88H#  \u001b[13C#  "
+    ],
+    [
+      0.075067,
+      "\r###  \u001b[26;18H#  \u001b[26;37H#  \u001b[26;54H#  \u001b[26;71H#  \u001b[26;89H#  \u001b[13C#  "
+    ],
+    [
+      0.084900,
+      "\r####  \u001b[26;19H#  \u001b[26;38H#  \u001b[26;55H#  \u001b[26;72H#  \u001b[26;90H#  \u001b[13C#  "
+    ],
+    [
+      0.079979,
+      "\u001b[104D#  \u001b[26;20H#  \u001b[26;39H#  \u001b[26;56H#  \u001b[26;73H#  \u001b[26;91H#  \u001b[13C#  "
+    ],
+    [
+      0.077852,
+      "\u001b[104D#  \u001b[26;21H#  \u001b[26;40H#  \u001b[26;57H#  \u001b[26;74H#  \u001b[26;92H#  \u001b[13C#  "
+    ],
+    [
+      0.043526,
+      "\u001b[22;72H   \n\u001b[6D   OMm \u001b[24;69H(|)-(|)"
+    ],
+    [
+      0.037670,
+      "\r\n\n\u001b[6C#  \u001b[26;22H#  \u001b[26;41H#  \u001b[26;58H#  \u001b[26;75H#  \u001b[26;93H#  \u001b[13C#"
+    ],
+    [
+      0.080994,
+      "\u001b[102D#  \u001b[26;23H#  \u001b[26;42H#  \u001b[26;59H#  \u001b[26;76H#  \u001b[26;94H#  \u001b[13C#"
+    ],
+    [
+      0.079955,
+      "\u001b[23;72H   \n\u001b[6D   omm \u001b[25;69H(-)_(-)\u001b[26;9H#  \u001b[26;24H#  \u001b[26;43H#  \u001b[26;60H#  \u001b[26;77H#  \u001b[26;95H#  "
+    ],
+    [
+      0.078661,
+      "\u001b[26;10H#  \u001b[26;25H#  \u001b[26;44H#  \u001b[26;61H#  \u001b[26;78H#  \u001b[26;96H#  \u001b[29;70H4"
+    ],
+    [
+      0.081517,
+      "\u001b[26;11H#  \u001b[26;26H#  \u001b[26;45H#  \u001b[26;62H#  \u001b[26;79H#  \u001b[26;97H#  "
+    ],
+    [
+      0.037425,
+      "\u001b[24;72HO\n\u0008\u0008\u0008/)-(/"
+    ],
+    [
+      0.037976,
+      "\u001b[5D|)-(|\u001b[26;12H#  \u001b[26;27H#  \u001b[26;46H#  \u001b[26;63H#  \u001b[26;80H#  \u001b[26;98H#  "
+    ],
+    [
+      0.080593,
+      "\u001b[25;70H\\)-(\\\r\n \u001b[26;13H#  \u001b[26;28H#  \u001b[26;47H#  \u001b[26;64H#  \u001b[26;81H#  \u001b[26;99H#  "
+    ],
+    [
+      0.081372,
+      "\u001b[25;70H-)-(-\r\n  \u001b[26;14H#  \u001b[26;29H#  \u001b[26;48H#  \u001b[26;65H#  \u001b[26;82H#  \u001b[26;100H#  "
+    ],
+    [
+      0.082451,
+      "\u001b[25;70H/)-(/\r\n#  \u001b[26;15H#  \u001b[26;30H#  \u001b[26;49H#  \u001b[26;66H#  \u001b[26;83H#  \u001b[26;101H#  "
+    ],
+    [
+      0.019366,
+      "\u001b[24;73HMM\n\u001b[5DU)-(U"
+    ],
+    [
+      0.060627,
+      "\r\n##  \u001b[26;16H#  \u001b[26;31H#  \u001b[26;50H#  \u001b[26;67H#  \u001b[26;84H#  \u001b[26;102H#  "
+    ],
+    [
+      0.022324,
+      "\u001b[23;72HOMm\n\u001b[6D(|)-(|)\u001b[25;69H\u001b[K"
+    ],
+    [
+      0.053719,
+      "\r\n###  \u001b[26;17H#  \u001b[26;32H#  \u001b[26;51H#  \u001b[26;68H#  \u001b[26;85H#  \u001b[15C#  "
+    ],
+    [
+      0.079606,
+      "\r####  \u001b[26;18H#  \u001b[26;33H#  \u001b[26;52H#  \u001b[26;69H#  \u001b[26;86H#  \u001b[15C#  "
+    ],
+    [
+      0.068940,
+      "\u001b[22;72HoMm\n\u001b[6D(\\)-(\\)\u001b[24;69H\u001b[K"
+    ],
+    [
+      0.013016,
+      "\n\n\u001b[64D#  \u001b[26;19H#  \u001b[26;34H#  \u001b[26;53H#  \u001b[26;70H#  \u001b[26;87H#  \u001b[15C#  "
+    ],
+    [
+      0.082410,
+      "\u001b[102D#  \u001b[26;20H#  \u001b[26;35H#  \u001b[26;54H#  \u001b[26;71H#  \u001b[26;88H#  \u001b[15C#  "
+    ],
+    [
+      0.075810,
+      "\u001b[102D#  \u001b[26;21H#  \u001b[26;36H#  \u001b[26;55H#  \u001b[26;72H#  \u001b[26;89H#  \u001b[15C#  "
+    ],
+    [
+      0.081202,
+      "\u001b[102D#  \u001b[26;22H#  \u001b[26;37H#  \u001b[26;56H#  \u001b[26;73H#  \u001b[26;90H#  \u001b[15C#  "
+    ],
+    [
+      0.077759,
+      "\u001b[26;1H\u001b[26;9H#  \u001b[26;23H#  \u001b[26;38H#  \u001b[26;57H#  \u001b[26;74H#  \u001b[26;91H#  \u001b[15C#"
+    ],
+    [
+      0.064573,
+      "\u001b[22;72H   \n\u001b[6D   OMm \u001b[24;69H(|)-(|)"
+    ],
+    [
+      0.017637,
+      "\u001b[26;10H#  \u001b[26;24H#  \u001b[26;39H#  \u001b[26;58H#  \u001b[26;75H#  \u001b[26;92H#  \u001b[15C#"
+    ],
+    [
+      0.080354,
+      "\u001b[26;11H#  \u001b[26;25H#  \u001b[26;40H#  \u001b[26;59H#  \u001b[26;76H#  \u001b[26;93H#  "
+    ],
+    [
+      0.077444,
+      "\u001b[26;12H#  \u001b[26;26H#  \u001b[26;41H#  \u001b[26;60H#  \u001b[26;77H#  \u001b[26;94H#  "
+    ],
+    [
+      0.025598,
+      "\u001b[23;72H   \n\u001b[6D   omm \u001b[25;69H(-)_(-)"
+    ],
+    [
+      0.055360,
+      "\u001b[26;13H#  \u001b[26;27H#  \u001b[26;42H#  \u001b[26;61H#  \u001b[26;78H#  \u001b[26;95H#  \u001b[29;70H8"
+    ],
+    [
+      0.083685,
+      "\u001b[26;14H#  \u001b[26;28H#  \u001b[26;43H#  \u001b[26;62H#  \u001b[26;79H#  \u001b[26;96H#  "
+    ],
+    [
+      0.063334,
+      "\u001b[24;72HO\n\u0008-"
+    ],
+    [
+      0.014155,
+      "\u0008\u0008\u0008/)-(/\u001b[26;15H#  \u001b[26;29H#  \u001b[26;44H#  \u001b[26;63H#  \u001b[26;80H#  \u001b[26;97H#  "
+    ],
+    [
+      0.082971,
+      "\u001b[25;70H|)-(|\r\n \u001b[26;16H#  \u001b[26;30H#  \u001b[26;45H#  \u001b[26;64H#  \u001b[26;81H#  \u001b[26;98H#  "
+    ],
+    [
+      0.077425,
+      "\u001b[25;70H\\)-(\\\r\n  \u001b[26;17H#  \u001b[26;31H#  \u001b[26;46H#  \u001b[26;65H#  \u001b[26;82H#  \u001b[26;99H#  "
+    ],
+    [
+      0.078962,
+      "\u001b[25;70H-)-(-\r\n#  \u001b[26;18H#  \u001b[26;32H#  \u001b[26;47H#  \u001b[26;66H#  \u001b[26;83H#  \u001b[26;100H#  "
+    ],
+    [
+      0.001036,
+      "\u001b[24;73HMM\n\u001b[5DU)-(U"
+    ],
+    [
+      0.082723,
+      "\u001b[23;72HOMm\n\u001b[6D(|)-(|)\u001b[25;69H\u001b[K\r\n##  \u001b[26;19H#  \u001b[26;33H#  \u001b[26;48H#  \u001b[26;67H#  \u001b[26;84H#  \u001b[26;101H#  "
+    ],
+    [
+      0.080050,
+      "\r###  \u001b[26;20H#  \u001b[26;34H#  \u001b[26;49H#  \u001b[26;68H#  \u001b[26;85H#  \u001b[26;102H#  "
+    ],
+    [
+      0.079951,
+      "\r####  \u001b[26;21H#  \u001b[26;35H#  \u001b[26;50H#  \u001b[26;69H#  \u001b[26;86H#  \u001b[14C#  "
+    ],
+    [
+      0.037882,
+      "\u001b[22;72HoMm\n\u001b[6D(\\)-(\\)\u001b[24;69H\u001b[K"
+    ],
+    [
+      0.039714,
+      "\n\n\u001b[64D#  \u001b[26;22H#  \u001b[26;36H#  \u001b[26;51H#  \u001b[26;70H#  \u001b[26;87H#  \u001b[14C#  "
+    ],
+    [
+      0.082352,
+      "\u001b[101D#  \u001b[26;23H#  \u001b[26;37H#  \u001b[26;52H#  \u001b[26;71H#  \u001b[26;88H#  \u001b[14C#  "
+    ],
+    [
+      0.080059,
+      "\u001b[101D#  \u001b[26;24H#  \u001b[26;38H#  \u001b[26;53H#  \u001b[26;72H#  \u001b[26;89H#  \u001b[14C#  "
+    ],
+    [
+      0.077093,
+      "\u001b[101D#  \u001b[26;25H#  \u001b[26;39H#  \u001b[26;54H#  \u001b[26;73H#  \u001b[26;90H#  \u001b[14C#  "
+    ],
+    [
+      0.082867,
+      "\u001b[26;9H#  \u001b[26;26H#  \u001b[26;40H#  \u001b[26;55H#  \u001b[26;74H#  \u001b[26;91H#  \u001b[14C#  "
+    ],
+    [
+      0.038114,
+      "\u001b[22;72H   \n\u001b[6D   OMm \u001b[24;69H(|)-(|)"
+    ],
+    [
+      0.036690,
+      "\r\n\n\u001b[26;10H#  \u001b[26;27H#  \u001b[26;41H#  \u001b[26;56H#  \u001b[26;75H#  \u001b[26;92H#  \u001b[14C#"
+    ],
+    [
+      0.081420,
+      "\u001b[26;11H#  \u001b[26;28H#  \u001b[26;42H#  \u001b[26;57H#  \u001b[26;76H#  \u001b[26;93H#  \u001b[14C#"
+    ],
+    [
+      0.080148,
+      "\u001b[26;12H#  \u001b[26;29H#  \u001b[26;43H#  \u001b[26;58H#  \u001b[26;77H#  \u001b[26;94H#  "
+    ],
+    [
+      0.001082,
+      "\u001b[23;72H   \n\u001b[6D   omm \u001b[25;69H(-)_(-)"
+    ],
+    [
+      0.078680,
+      "\u001b[26;13H#  \u001b[26;30H#  \u001b[26;44H#  \u001b[26;59H#  \u001b[26;78H#  \u001b[26;95H#  \u001b[29;69H32"
+    ],
+    [
+      0.080482,
+      "\u001b[26;14H#  \u001b[26;31H#  \u001b[26;45H#  \u001b[26;60H#  \u001b[26;79H#  \u001b[26;96H#  "
+    ],
+    [
+      0.043812,
+      "\u001b[24;72HO\n\u0008\u0008\u0008\\)-(\\"
+    ],
+    [
+      0.036497,
+      "\u001b[5D-)-(-\u001b[26;15H#  \u001b[26;32H#  \u001b[26;46H#  \u001b[26;61H#  \u001b[26;80H#  \u001b[26;97H#  "
+    ],
+    [
+      0.077868,
+      "\u001b[25;70H/)-(/\r\n \u001b[26;16H#  \u001b[26;33H#  \u001b[26;47H#  \u001b[26;62H#  \u001b[26;81H#  \u001b[26;98H#  "
+    ],
+    [
+      0.079987,
+      "\u001b[25;70H|)-(|\r\n  \u001b[26;17H#  \u001b[26;34H#  \u001b[26;48H#  \u001b[26;63H#  \u001b[26;82H#  \u001b[26;99H#  "
+    ],
+    [
+      0.080734,
+      "\u001b[25;70H\\)-(\\\r\n#  \u001b[26;18H#  \u001b[26;35H#  \u001b[26;49H#  \u001b[26;64H#  \u001b[26;83H#  \u001b[26;100H#  "
+    ],
+    [
+      0.055756,
+      "\u001b[24;73HMM\n\u001b[5DU)-(U"
+    ],
+    [
+      0.023507,
+      "\r\n##  \u001b[26;19H#  \u001b[26;36H#  \u001b[26;50H#  \u001b[26;65H#  \u001b[26;84H#  \u001b[26;101H#  "
+    ],
+    [
+      0.057757,
+      "\u001b[23;72HOMm\n\u001b[6D(|)-(|)\u001b[25;69H\u001b[K"
+    ],
+    [
+      0.027307,
+      "\r\n###  \u001b[26;20H#  \u001b[26;37H#  \u001b[26;51H#  \u001b[26;66H#  \u001b[26;85H#  \u001b[26;102H#  "
+    ],
+    [
+      0.076468,
+      "\r####  \u001b[26;21H#  \u001b[26;38H#  \u001b[26;52H#  \u001b[26;67H#  \u001b[26;86H#  \u001b[14C#  "
+    ],
+    [
+      0.079203,
+      "\u001b[101D#  \u001b[26;22H#  \u001b[26;39H#  \u001b[26;53H#  \u001b[26;68H#  \u001b[26;87H#  \u001b[14C#  "
+    ],
+    [
+      0.016108,
+      "\u001b[22;72HoMm\n\u001b[6D(\\)-(\\)\u001b[24;69H\u001b[K"
+    ],
+    [
+      0.068539,
+      "\n\n\u001b[63D#  \u001b[26;23H#  \u001b[26;40H#  \u001b[26;54H#  \u001b[26;69H#  \u001b[26;88H#  \u001b[14C#  "
+    ],
+    [
+      0.079920,
+      "\u001b[101D#  \u001b[26;24H#  \u001b[26;41H#  \u001b[26;55H#  \u001b[26;70H#  \u001b[26;89H#  \u001b[14C#  "
+    ],
+    [
+      0.076286,
+      "\u001b[101D#  \u001b[26;25H#  \u001b[26;42H#  \u001b[26;56H#  \u001b[26;71H#  \u001b[26;90H#  \u001b[14C#  "
+    ],
+    [
+      0.079560,
+      "\u001b[26;9H#  \u001b[26;26H#  \u001b[26;43H#  \u001b[26;57H#  \u001b[26;72H#  \u001b[26;91H#  \u001b[14C#  "
+    ],
+    [
+      0.081356,
+      "\u001b[26;1H\u001b[26;10H#  \u001b[26;27H#  \u001b[26;44H#  \u001b[26;58H#  \u001b[26;73H#  \u001b[26;92H#  \u001b[14C#"
+    ],
+    [
+      0.014624,
+      "\u001b[22;72H   \n\u001b[6D   OMm \u001b[24;69H(|)-(|)"
+    ],
+    [
+      0.068095,
+      "\u001b[26;11H#  \u001b[26;28H#  \u001b[26;45H#  \u001b[26;59H#  \u001b[26;74H#  \u001b[26;93H#  \u001b[14C#"
+    ],
+    [
+      0.080189,
+      "\u001b[26;12H#  \u001b[26;29H#  \u001b[26;46H#  \u001b[26;60H#  \u001b[26;75H#  \u001b[26;94H#  "
+    ],
+    [
+      0.052809,
+      "\u001b[23;72H   \n\u001b[6D   omm \u001b[25;69H(-)_(-)"
+    ],
+    [
+      0.023014,
+      "\u001b[26;13H#  \u001b[26;30H#  \u001b[26;47H#  \u001b[26;61H#  \u001b[26;76H#  \u001b[26;95H#  \u001b[29;70H6"
+    ],
+    [
+      0.084111,
+      "\u001b[26;14H#  \u001b[26;31H#  \u001b[26;48H#  \u001b[26;62H#  \u001b[26;77H#  \u001b[26;96H#  "
+    ],
+    [
+      0.079930,
+      "\u001b[26;15H#  \u001b[26;32H#  \u001b[26;49H#  \u001b[26;63H#  \u001b[26;78H#  \u001b[26;97H#  "
+    ],
+    [
+      0.014357,
+      "\u001b[24;72HO\n\u0008\u0008\u0008\\)-(\\"
+    ],
+    [
+      0.060541,
+      "\u001b[5D-)-(-\u001b[26;16H#  \u001b[26;33H#  \u001b[26;50H#  \u001b[26;64H#  \u001b[26;79H#  \u001b[26;98H#  "
+    ],
+    [
+      0.081017,
+      "\u001b[25;70H/)-(/\u001b[26;17H#  \u001b[26;34H#  \u001b[26;51H#  \u001b[26;65H#  \u001b[26;80H#  \u001b[26;99H#  "
+    ],
+    [
+      0.084025,
+      "\u001b[25;70H|)-(|\r\n \u001b[26;18H#  \u001b[26;35H#  \u001b[26;52H#  \u001b[26;66H#  \u001b[26;81H#  \u001b[26;100H#  "
+    ],
+    [
+      0.077119,
+      "\u001b[25;70H\\)-(\\\r\n  \u001b[26;19H#  \u001b[26;36H#  \u001b[26;53H#  \u001b[26;67H#  \u001b[26;82H#  \u001b[26;101H#  "
+    ],
+    [
+      0.022225,
+      "\u001b[24;73HMM\n\u001b[5DU)-(U"
+    ],
+    [
+      0.058809,
+      "\r\n#  \u001b[26;20H#  \u001b[26;37H#  \u001b[26;54H#  \u001b[26;68H#  \u001b[26;83H#  \u001b[26;102H#  "
+    ],
+    [
+      0.024084,
+      "\u001b[23;72HOMm\n\u001b[6D(|)-(|)\u001b[25;69H\u001b[K"
+    ],
+    [
+      0.057439,
+      "\r\n##  \u001b[26;21H#  \u001b[26;38H#  \u001b[26;55H#  \u001b[26;69H#  \u001b[26;84H#  \u001b[16C#  "
+    ],
+    [
+      0.075274,
+      "\r###  \u001b[26;22H#  \u001b[26;39H#  \u001b[26;56H#  \u001b[26;70H#  \u001b[26;85H#  \u001b[16C#  "
+    ],
+    [
+      0.069553,
+      "\u001b[22;72HoMm\n\u001b[6D(\\)-(\\)\u001b[24;69H\u001b[K"
+    ],
+    [
+      0.012490,
+      "\r\n\n####  \u001b[26;23H#  \u001b[26;40H#  \u001b[26;57H#  \u001b[26;71H#  \u001b[26;86H#  \u001b[16C#  "
+    ],
+    [
+      0.077897,
+      "\u001b[103D#  \u001b[26;24H#  \u001b[26;41H#  \u001b[26;58H#  \u001b[26;72H#  \u001b[26;87H#  \u001b[16C#  "
+    ],
+    [
+      0.080096,
+      "\u001b[103D#  \u001b[26;25H#  \u001b[26;42H#  \u001b[26;59H#  \u001b[26;73H#  \u001b[26;88H#  \u001b[16C#  "
+    ],
+    [
+      0.081611,
+      "\u001b[103D#  \u001b[26;26H#  \u001b[26;43H#  \u001b[26;60H#  \u001b[26;74H#  \u001b[26;89H#  \u001b[16C#  "
+    ],
+    [
+      0.083459,
+      "\u001b[26;1H\u001b[7C#  \u001b[26;27H#  \u001b[26;44H#  \u001b[26;61H#  \u001b[26;75H#  \u001b[26;90H#  \u001b[16C#"
+    ],
+    [
+      0.064445,
+      "\u001b[22;72H   \n\u001b[6D   OMm \u001b[24;69H(|)-(|)"
+    ],
+    [
+      0.013059,
+      "\u001b[26;9H#  \u001b[26;28H#  \u001b[26;45H#  \u001b[26;62H#  \u001b[26;76H#  \u001b[26;91H#  \u001b[16C#"
+    ],
+    [
+      0.080882,
+      "\u001b[26;10H#  \u001b[26;29H#  \u001b[26;46H#  \u001b[26;63H#  \u001b[26;77H#  \u001b[26;92H#  "
+    ],
+    [
+      0.080776,
+      "\u001b[26;11H#  \u001b[26;30H#  \u001b[26;47H#  \u001b[26;64H#  \u001b[26;78H#  \u001b[26;93H#  "
+    ],
+    [
+      0.020422,
+      "\u001b[23;72H   \n\u001b[6D   omm \u001b[25;69H(-)_(-)"
+    ],
+    [
+      0.056833,
+      "\u001b[26;12H#  \u001b[26;31H#  \u001b[26;48H#  \u001b[26;65H#  \u001b[26;79H#  \u001b[26;94H#  \u001b[29;69H40"
+    ],
+    [
+      0.079376,
+      "\r\u001b[3A \u001b[26;13H#  \u001b[26;32H#  \u001b[26;49H#  \u001b[26;66H#  \u001b[26;80H#  \u001b[26;95H#  "
+    ],
+    [
+      0.063534,
+      "\u001b[24;72HO\n\u0008\u0008\u0008|)-(|"
+    ],
+    [
+      0.018137,
+      "\u001b[5D\\)-(\\\r\n  \u001b[26;14H#  \u001b[26;33H#  \u001b[26;50H#  \u001b[26;67H#  \u001b[26;81H#  \u001b[26;96H#  "
+    ],
+    [
+      0.061768,
+      "\u001b[24;73HMM\n\u001b[5DU)-(U"
+    ],
+    [
+      0.017801,
+      "\r\n#  \u001b[26;15H#  \u001b[26;34H#  \u001b[26;51H#  \u001b[26;68H#  \u001b[26;82H#  \u001b[26;97H#  "
+    ],
+    [
+      0.063685,
+      "\u001b[23;72HOMm\n\u001b[6D(|)-(|)\u001b[25;69H\u001b[K"
+    ],
+    [
+      0.014350,
+      "\r\n##  \u001b[26;16H#  \u001b[26;35H#  \u001b[26;52H#  \u001b[26;69H#  \u001b[26;83H#  \u001b[26;98H#  "
+    ],
+    [
+      0.082869,
+      "\r###  \u001b[26;17H#  \u001b[26;36H#  \u001b[26;53H#  \u001b[26;70H#  \u001b[26;84H#  \u001b[26;99H#  "
+    ],
+    [
+      0.077281,
+      "\r####  \u001b[26;18H#  \u001b[26;37H#  \u001b[26;54H#  \u001b[26;71H#  \u001b[26;85H#  \u001b[26;100H#  "
+    ],
+    [
+      0.023903,
+      "\u001b[22;72HoMm\n\u001b[6D(\\)-(\\)\u001b[24;69H\u001b[K"
+    ],
+    [
+      0.055592,
+      "\n\n\u001b[64D#  \u001b[26;19H#  \u001b[26;38H#  \u001b[26;55H#  \u001b[26;72H#  \u001b[26;86H#  \u001b[26;101H#  "
+    ],
+    [
+      0.085225,
+      "\u001b[98D#  \u001b[26;20H#  \u001b[26;39H#  \u001b[26;56H#  \u001b[26;73H#  \u001b[26;87H#  \u001b[26;102H#  "
+    ],
+    [
+      0.075081,
+      "\u001b[98D#  \u001b[26;21H#  \u001b[26;40H#  \u001b[26;57H#  \u001b[26;74H#  \u001b[26;88H#  \u001b[12C#  "
+    ],
+    [
+      0.080253,
+      "\u001b[98D#  \u001b[26;22H#  \u001b[26;41H#  \u001b[26;58H#  \u001b[26;75H#  \u001b[26;89H#  \u001b[12C#  "
+    ],
+    [
+      0.084691,
+      "\u001b[26;9H#  \u001b[26;23H#  \u001b[26;42H#  \u001b[26;59H#  \u001b[26;76H#  \u001b[26;90H#  \u001b[12C#  "
+    ],
+    [
+      0.021107,
+      "\u001b[22;72H   \n\u001b[6D   OMm \u001b[24;69H(|)-(|)"
+    ],
+    [
+      0.058886,
+      "\u001b[26;10H#  \u001b[26;24H#  \u001b[26;43H#  \u001b[26;60H#  \u001b[26;77H#  \u001b[26;91H#  \u001b[12C#  "
+    ],
+    [
+      0.076881,
+      "\u001b[26;11H#  \u001b[26;25H#  \u001b[26;44H#  \u001b[26;61H#  \u001b[26;78H#  \u001b[26;92H#  \u001b[12C#  "
+    ],
+    [
+      0.065374,
+      "\u001b[23;72H   \n\u001b[6D   omm \u001b[25;69H(-)_(-)"
+    ],
+    [
+      0.015321,
+      "\u001b[26;12H#  \u001b[26;26H#  \u001b[26;45H#  \u001b[26;62H#  \u001b[26;79H#  \u001b[26;93H#  \u001b[12C#  \u001b[29;70H4"
+    ],
+    [
+      0.082422,
+      "\r\u001b[3A\u001b[26;13H#  \u001b[26;27H#  \u001b[26;46H#  \u001b[26;63H#  \u001b[26;80H#  \u001b[26;94H#  \u001b[12C#"
+    ],
+    [
+      0.076391,
+      "\u001b[26;14H#  \u001b[26;28H#  \u001b[26;47H#  \u001b[26;64H#  \u001b[26;81H#  \u001b[26;95H#  \u001b[12C#"
+    ],
+    [
+      0.028083,
+      "\u001b[24;72HO\n\u0008\u0008\u0008\\)-(\\"
+    ],
+    [
+      0.055510,
+      "\u001b[5D-)-(-\u001b[26;15H#  \u001b[26;29H#  \u001b[26;48H#  \u001b[26;65H#  \u001b[26;82H#  \u001b[26;96H#  "
+    ],
+    [
+      0.058226,
+      "\u001b[24;73HMM\n\u001b[5DU)-(U"
+    ],
+    [
+      0.019363,
+      "\u001b[26;16H#  \u001b[26;30H#  \u001b[26;49H#  \u001b[26;66H#  \u001b[26;83H#  \u001b[26;97H#  "
+    ],
+    [
+      0.062166,
+      "\u001b[23;72HOMm\n\u001b[6D(|)-(|)\u001b[25;69H\u001b[K"
+    ],
+    [
+      0.018996,
+      "\r\n \u001b[26;17H#  \u001b[26;31H#  \u001b[26;50H#  \u001b[26;67H#  \u001b[26;84H#  \u001b[26;98H#  "
+    ],
+    [
+      0.081441,
+      "\r  \u001b[26;18H#  \u001b[26;32H#  \u001b[26;51H#  \u001b[26;68H#  \u001b[26;85H#  \u001b[26;99H#  "
+    ],
+    [
+      0.079817,
+      "\r#  \u001b[26;19H#  \u001b[26;33H#  \u001b[26;52H#  \u001b[26;69H#  \u001b[26;86H#  \u001b[26;100H#  "
+    ],
+    [
+      0.020748,
+      "\u001b[22;72HoMm\n\u001b[6D(\\)-(\\)\u001b[24;69H\u001b[K"
+    ],
+    [
+      0.057211,
+      "\r\n\n##  \u001b[26;20H#  \u001b[26;34H#  \u001b[26;53H#  \u001b[26;70H#  \u001b[26;87H#  \u001b[26;101H#  "
+    ],
+    [
+      0.076875,
+      "\r###  \u001b[26;21H#  \u001b[26;35H#  \u001b[26;54H#  \u001b[26;71H#  \u001b[26;88H#  \u001b[26;102H#  "
+    ],
+    [
+      0.084882,
+      "\r####  \u001b[26;22H#  \u001b[26;36H#  \u001b[26;55H#  \u001b[26;72H#  \u001b[26;89H#  \u001b[11C#  "
+    ],
+    [
+      0.080077,
+      "\u001b[101D#  \u001b[26;23H#  \u001b[26;37H#  \u001b[26;56H#  \u001b[26;73H#  \u001b[26;90H#  \u001b[11C#  "
+    ],
+    [
+      0.080065,
+      "\u001b[101D#  \u001b[26;24H#  \u001b[26;38H#  \u001b[26;57H#  \u001b[26;74H#  \u001b[26;91H#  \u001b[11C#  "
+    ],
+    [
+      0.018367,
+      "\u001b[22;72H   \n\u001b[6D   OMm \u001b[24;69H(|)-(|)"
+    ],
+    [
+      0.060188,
+      "\n\n\u001b[69D#  \u001b[26;25H#  \u001b[26;39H#  \u001b[26;58H#  \u001b[26;75H#  \u001b[26;92H#  \u001b[11C#  "
+    ],
+    [
+      0.076412,
+      "\u001b[101D#  \u001b[26;26H#  \u001b[26;40H#  \u001b[26;59H#  \u001b[26;76H#  \u001b[26;93H#  \u001b[11C#  "
+    ],
+    [
+      0.063360,
+      "\u001b[23;72H   \n\u001b[6D   omm \u001b[25;69H(-)_(-)"
+    ],
+    [
+      0.016580,
+      "\u001b[26;9H#  \u001b[26;27H#  \u001b[26;41H#  \u001b[26;60H#  \u001b[26;77H#  \u001b[26;94H#  \u001b[11C#  \u001b[29;70H8"
+    ],
+    [
+      0.083995,
+      "\r\u001b[3A\u001b[26;10H#  \u001b[26;28H#  \u001b[26;42H#  \u001b[26;61H#  \u001b[26;78H#  \u001b[26;95H#  \u001b[11C#"
+    ],
+    [
+      0.081297,
+      "\u001b[26;11H#  \u001b[26;29H#  \u001b[26;43H#  \u001b[26;62H#  \u001b[26;79H#  \u001b[26;96H#  \u001b[11C#"
+    ],
+    [
+      0.022858,
+      "\u001b[24;72HO\n\u0008-"
+    ],
+    [
+      0.057243,
+      "\u0008\u0008\u0008/)-(/\u001b[26;12H#  \u001b[26;30H#  \u001b[26;44H#  \u001b[26;63H#  \u001b[26;80H#  \u001b[26;97H#  "
+    ],
+    [
+      0.079993,
+      "\u001b[25;70H|)-(|\r\n \u001b[26;13H#  \u001b[26;31H#  \u001b[26;45H#  \u001b[26;64H#  \u001b[26;81H#  \u001b[26;98H#  "
+    ],
+    [
+      0.050367,
+      "\u001b[24;73HMM\n\u001b[5DU)-(U"
+    ],
+    [
+      0.028577,
+      "\r\n  \u001b[26;14H#  \u001b[26;32H#  \u001b[26;46H#  \u001b[26;65H#  \u001b[26;82H#  \u001b[26;99H#  "
+    ],
+    [
+      0.051791,
+      "\u001b[23;72HOMm\n\u001b[6D(|)-(|)\u001b[25;69H\u001b[K"
+    ],
+    [
+      0.029106,
+      "\r\n#  \u001b[26;15H#  \u001b[26;33H#  \u001b[26;47H#  \u001b[26;66H#  \u001b[26;83H#  \u001b[26;100H#  "
+    ],
+    [
+      0.080148,
+      "\r##  \u001b[26;16H#  \u001b[26;34H#  \u001b[26;48H#  \u001b[26;67H#  \u001b[26;84H#  \u001b[26;101H#  "
+    ],
+    [
+      0.079027,
+      "\r###  \u001b[26;17H#  \u001b[26;35H#  \u001b[26;49H#  \u001b[26;68H#  \u001b[26;85H#  \u001b[26;102H#  "
+    ],
+    [
+      0.014345,
+      "\u001b[22;72HoMm\n\u001b[6D(\\)-(\\)\u001b[24;69H\u001b[K"
+    ],
+    [
+      0.062343,
+      "\r\n\n####  \u001b[26;18H#  \u001b[26;36H#  \u001b[26;50H#  \u001b[26;69H#  \u001b[26;86H#  \u001b[14C#  "
+    ],
+    [
+      0.079116,
+      "\u001b[101D#  \u001b[26;19H#  \u001b[26;37H#  \u001b[26;51H#  \u001b[26;70H#  \u001b[26;87H#  \u001b[14C#  "
+    ],
+    [
+      0.081520,
+      "\u001b[101D#  \u001b[26;20H#  \u001b[26;38H#  \u001b[26;52H#  \u001b[26;71H#  \u001b[26;88H#  \u001b[14C#  "
+    ],
+    [
+      0.083552,
+      "\u001b[101D#  \u001b[26;21H#  \u001b[26;39H#  \u001b[26;53H#  \u001b[26;72H#  \u001b[26;89H#  \u001b[14C#  "
+    ],
+    [
+      0.079960,
+      "\u001b[101D#  \u001b[26;22H#  \u001b[26;40H#  \u001b[26;54H#  \u001b[26;73H#  \u001b[26;90H#  \u001b[14C#  "
+    ],
+    [
+      0.012608,
+      "\u001b[22;72H   \n\u001b[6D   OMm \u001b[24;69H(|)-(|)"
+    ],
+    [
+      0.065093,
+      "\u001b[26;9H#  \u001b[26;23H#  \u001b[26;41H#  \u001b[26;55H#  \u001b[26;74H#  \u001b[26;91H#  \u001b[14C#  "
+    ],
+    [
+      0.082307,
+      "\u001b[26;1H\u001b[26;10H#  \u001b[26;24H#  \u001b[26;42H#  \u001b[26;56H#  \u001b[26;75H#  \u001b[26;92H#  \u001b[14C#"
+    ],
+    [
+      0.051004,
+      "\u001b[23;72H   \n\u001b[6D   omm \u001b[25;69H(-)_(-)"
+    ],
+    [
+      0.028987,
+      "\u001b[26;11H#  \u001b[26;25H#  \u001b[26;43H#  \u001b[26;57H#  \u001b[26;76H#  \u001b[26;93H#  \u001b[14C#\u001b[29;69H52"
+    ],
+    [
+      0.079988,
+      "\r\u001b[3A \u001b[26;12H#  \u001b[26;26H#  \u001b[26;44H#  \u001b[26;58H#  \u001b[26;77H#  \u001b[26;94H#  "
+    ],
+    [
+      0.075405,
+      "\r  \u001b[26;13H#  \u001b[26;27H#  \u001b[26;45H#  \u001b[26;59H#  \u001b[26;78H#  \u001b[26;95H#  "
+    ],
+    [
+      0.015476,
+      "\u001b[24;72HO\n\u0008\u0008\u0008|)-(|"
+    ],
+    [
+      0.069131,
+      "\u001b[5D\\)-(\\\r\n#  \u001b[26;14H#  \u001b[26;28H#  \u001b[26;46H#  \u001b[26;60H#  \u001b[26;79H#  \u001b[26;96H#  "
+    ],
+    [
+      0.080084,
+      "\u001b[25;70H-)-(-\r\n##  \u001b[26;15H#  \u001b[26;29H#  \u001b[26;47H#  \u001b[26;61H#  \u001b[26;80H#  \u001b[26;97H#  "
+    ],
+    [
+      0.079904,
+      "\u001b[25;70H/)-(/\r\n###  \u001b[26;16H#  \u001b[26;30H#  \u001b[26;48H#  \u001b[26;62H#  \u001b[26;81H#  \u001b[26;98H#  "
+    ],
+    [
+      0.075119,
+      "\u001b[25;70H|)-(|\r\n####  \u001b[26;17H#  \u001b[26;31H#  \u001b[26;49H#  \u001b[26;63H#  \u001b[26;82H#  \u001b[26;99H#  "
+    ],
+    [
+      0.082823,
+      "\u001b[25;70H\\)-(\\\n\u001b[70D#  \u001b[26;18H#  \u001b[26;32H#  \u001b[26;50H#  \u001b[26;64H#  \u001b[26;83H#  \u001b[26;100H#  "
+    ],
+    [
+      0.082162,
+      "\u001b[25;70H-)-(-\n\u001b[69D#  \u001b[26;19H#  \u001b[26;33H#  \u001b[26;51H#  \u001b[26;65H#  \u001b[26;84H#  \u001b[26;101H#  "
+    ],
+    [
+      0.050795,
+      "\u001b[24;73HMM\n\u001b[5DU)-(U"
+    ],
+    [
+      0.028358,
+      "\n\u001b[68D#  \u001b[26;20H#  \u001b[26;34H#  \u001b[26;52H#  \u001b[26;66H#  \u001b[26;85H#  \u001b[26;102H#  "
+    ],
+    [
+      0.052910,
+      "\u001b[23;72HOMm\n\u001b[6D(|)-(|)\u001b[25;69H\u001b[K"
+    ],
+    [
+      0.022978,
+      "\n\u001b[61D#  \u001b[26;21H#  \u001b[26;35H#  \u001b[26;53H#  \u001b[26;67H#  \u001b[26;86H#  \u001b[14C#  "
+    ],
+    [
+      0.081797,
+      "\u001b[26;9H#  \u001b[26;22H#  \u001b[26;36H#  \u001b[26;54H#  \u001b[26;68H#  \u001b[26;87H#  \u001b[14C#  "
+    ],
+    [
+      0.077845,
+      "\u001b[26;10H#  \u001b[26;23H#  \u001b[26;37H#  \u001b[26;55H#  \u001b[26;69H#  \u001b[26;88H#  \u001b[14C#  "
+    ],
+    [
+      0.016081,
+      "\u001b[22;72HoMm\n\u001b[6D(\\)-(\\)\u001b[24;69H\u001b[K"
+    ],
+    [
+      0.064874,
+      "\u001b[26;11H#  \u001b[26;24H#  \u001b[26;38H#  \u001b[26;56H#  \u001b[26;70H#  \u001b[26;89H#  \u001b[14C#  "
+    ],
+    [
+      0.084272,
+      "\u001b[26;12H#  \u001b[26;25H#  \u001b[26;39H#  \u001b[26;57H#  \u001b[26;71H#  \u001b[26;90H#  \u001b[14C#  "
+    ],
+    [
+      0.080007,
+      "\u001b[26;13H#  \u001b[26;26H#  \u001b[26;40H#  \u001b[26;58H#  \u001b[26;72H#  \u001b[26;91H#  \u001b[14C#  "
+    ],
+    [
+      0.076893,
+      "\u001b[26;1H\u001b[26;14H#  \u001b[26;27H#  \u001b[26;41H#  \u001b[26;59H#  \u001b[26;73H#  \u001b[26;92H#  \u001b[14C#"
+    ],
+    [
+      0.083099,
+      "\r \u001b[26;15H#  \u001b[26;28H#  \u001b[26;42H#  \u001b[26;60H#  \u001b[26;74H#  \u001b[26;93H#  \u001b[14C#"
+    ],
+    [
+      0.013743,
+      "\u001b[22;72H   \n\u001b[6D   OMm \u001b[24;69H(|)-(|)"
+    ],
+    [
+      0.066242,
+      "\r\n\n  \u001b[26;16H#  \u001b[26;29H#  \u001b[26;43H#  \u001b[26;61H#  \u001b[26;75H#  \u001b[26;94H#  "
+    ],
+    [
+      0.078506,
+      "\r#  \u001b[26;17H#  \u001b[26;30H#  \u001b[26;44H#  \u001b[26;62H#  \u001b[26;76H#  \u001b[26;95H#  "
+    ],
+    [
+      0.052930,
+      "\u001b[23;72H   \n\u001b[6D   omm \u001b[25;69H(-)_(-)"
+    ],
+    [
+      0.028591,
+      "\r\n##  \u001b[26;18H#  \u001b[26;31H#  \u001b[26;45H#  \u001b[26;63H#  \u001b[26;77H#  \u001b[26;96H#  \u001b[29;70H6"
+    ],
+    [
+      0.076842,
+      "\u001b[26;3H#  \u001b[26;19H#  \u001b[26;32H#  \u001b[26;46H#  \u001b[26;64H#  \u001b[26;78H#  \u001b[26;97H#  "
+    ],
+    [
+      0.083132,
+      "\r####  \u001b[26;20H#  \u001b[26;33H#  \u001b[26;47H#  \u001b[26;65H#  \u001b[26;79H#  \u001b[26;98H#  "
+    ],
+    [
+      0.011621,
+      "\u001b[24;72HO\n\u0008-"
+    ],
+    [
+      0.068408,
+      "\u0008\u0008\u0008/)-(/\n\u001b[70D#  \u001b[26;21H#  \u001b[26;34H#  \u001b[26;48H#  \u001b[26;66H#  \u001b[26;80H#  \u001b[26;99H#  "
+    ],
+    [
+      0.073107,
+      "\u001b[24;73HMM\n\u001b[5DU)-(U"
+    ],
+    [
+      0.001823,
+      "\n\u001b[69D#  \u001b[26;22H#  \u001b[26;35H#  \u001b[26;49H#  \u001b[26;67H#  \u001b[26;81H#  \u001b[26;100H#  "
+    ],
+    [
+      0.082176,
+      "\u001b[23;72HOMm\n\u001b[6D(|)-(|)\u001b[25;69H\u001b[K\n\u001b[62D#  \u001b[26;23H#  \u001b[26;36H#  \u001b[26;50H#  \u001b[26;68H#  \u001b[26;82H#  \u001b[26;101H#  "
+    ],
+    [
+      0.082876,
+      "\u001b[96D#  \u001b[26;24H#  \u001b[26;37H#  \u001b[26;51H#  \u001b[26;69H#  \u001b[26;83H#  \u001b[26;102H#  "
+    ],
+    [
+      0.079988,
+      "\u001b[26;9H#  \u001b[26;25H#  \u001b[26;38H#  \u001b[26;52H#  \u001b[26;70H#  \u001b[26;84H#  \u001b[16C#  "
+    ],
+    [
+      0.035924,
+      "\u001b[22;72HoMm\n\u001b[6D(\\)-(\\)\u001b[24;69H\u001b[K"
+    ],
+    [
+      0.044087,
+      "\u001b[26;10H#  \u001b[26;26H#  \u001b[26;39H#  \u001b[26;53H#  \u001b[26;71H#  \u001b[26;85H#  \u001b[16C#  "
+    ],
+    [
+      0.079386,
+      "\u001b[26;11H#  \u001b[26;27H#  \u001b[26;40H#  \u001b[26;54H#  \u001b[26;72H#  \u001b[26;86H#  \u001b[16C#  "
+    ],
+    [
+      0.080613,
+      "\u001b[26;12H#  \u001b[26;28H#  \u001b[26;41H#  \u001b[26;55H#  \u001b[26;73H#  \u001b[26;87H#  \u001b[16C#  "
+    ],
+    [
+      0.079998,
+      "\u001b[26;13H#  \u001b[26;29H#  \u001b[26;42H#  \u001b[26;56H#  \u001b[26;74H#  \u001b[26;88H#  \u001b[16C#  "
+    ],
+    [
+      0.075501,
+      "\u001b[26;14H#  \u001b[26;30H#  \u001b[26;43H#  \u001b[26;57H#  \u001b[26;75H#  \u001b[26;89H#  \u001b[16C#  "
+    ],
+    [
+      0.037817,
+      "\u001b[22;72H   \n\u001b[6D   OMm \u001b[24;69H(|)-(|)"
+    ],
+    [
+      0.046793,
+      "\r\n\n \u001b[26;15H#  \u001b[26;31H#  \u001b[26;44H#  \u001b[26;58H#  \u001b[26;76H#  \u001b[26;90H#  \u001b[16C#"
+    ],
+    [
+      0.079410,
+      "\r  \u001b[26;16H#  \u001b[26;32H#  \u001b[26;45H#  \u001b[26;59H#  \u001b[26;77H#  \u001b[26;91H#  \u001b[16C#"
+    ],
+    [
+      0.078866,
+      "\u001b[23;72H   \n\u001b[6D   omm \u001b[25;69H(-)_(-)\r\n#  \u001b[26;17H#  \u001b[26;33H#  \u001b[26;46H#  \u001b[26;60H#  \u001b[26;78H#  \u001b[26;92H#  \u001b[29;69H60"
+    ],
+    [
+      0.081610,
+      "\r\u001b[3A##  \u001b[26;18H#  \u001b[26;34H#  \u001b[26;47H#  \u001b[26;61H#  \u001b[26;79H#  \u001b[26;93H#  "
+    ],
+    [
+      0.080012,
+      "\r###  \u001b[26;19H#  \u001b[26;35H#  \u001b[26;48H#  \u001b[26;62H#  \u001b[26;80H#  \u001b[26;94H#  "
+    ],
+    [
+      0.035095,
+      "\u001b[24;72HO\n\u0008\u0008\u0008/)-(/"
+    ],
+    [
+      0.044899,
+      "\u001b[5D|)-(|\r\n####  \u001b[26;20H#  \u001b[26;36H#  \u001b[26;49H#  \u001b[26;63H#  \u001b[26;81H#  \u001b[26;95H#  "
+    ],
+    [
+      0.076276,
+      "\u001b[25;70H\\)-(\\\n\u001b[70D#  \u001b[26;21H#  \u001b[26;37H#  \u001b[26;50H#  \u001b[26;64H#  \u001b[26;82H#  \u001b[26;96H#  "
+    ],
+    [
+      0.083804,
+      "\u001b[25;70H-)-(-\n\u001b[69D#  \u001b[26;22H#  \u001b[26;38H#  \u001b[26;51H#  \u001b[26;65H#  \u001b[26;83H#  \u001b[26;97H#  "
+    ],
+    [
+      0.077220,
+      "\u001b[25;70H/)-(/\n\u001b[68D#  \u001b[26;23H#  \u001b[26;39H#  \u001b[26;52H#  \u001b[26;66H#  \u001b[26;84H#  \u001b[26;98H#  "
+    ],
+    [
+      0.047573,
+      "\u001b[24;73HMM\n\u001b[5DU)-(U"
+    ],
+    [
+      0.034952,
+      "\n\u001b[67D#  \u001b[26;24H#  \u001b[26;40H#  \u001b[26;53H#  \u001b[26;67H#  \u001b[26;85H#  \u001b[26;99H#  "
+    ],
+    [
+      0.045817,
+      "\u001b[23;72HOMm\n\u001b[6D(|)-(|)\u001b[25;69H\u001b[K"
+    ],
+    [
+      0.034386,
+      "\u001b[26;9H#  \u001b[26;25H#  \u001b[26;41H#  \u001b[26;54H#  \u001b[26;68H#  \u001b[26;86H#  \u001b[26;100H#  "
+    ],
+    [
+      0.077924,
+      "\u001b[26;10H#  \u001b[26;26H#  \u001b[26;42H#  \u001b[26;55H#  \u001b[26;69H#  \u001b[26;87H#  \u001b[26;101H#  "
+    ],
+    [
+      0.082033,
+      "\u001b[26;11H#  \u001b[26;27H#  \u001b[26;43H#  \u001b[26;56H#  \u001b[26;70H#  \u001b[26;88H#  \u001b[26;102H#  "
+    ],
+    [
+      0.005402,
+      "\u001b[22;72HoMm\n\u001b[6D(\\)-(\\)\u001b[24;69H\u001b[K"
+    ],
+    [
+      0.074607,
+      "\u001b[26;12H#  \u001b[26;28H#  \u001b[26;44H#  \u001b[26;57H#  \u001b[26;71H#  \u001b[26;89H#  \u001b[11C#  "
+    ],
+    [
+      0.075739,
+      "\u001b[26;13H#  \u001b[26;29H#  \u001b[26;45H#  \u001b[26;58H#  \u001b[26;72H#  \u001b[26;90H#  \u001b[11C#  "
+    ],
+    [
+      0.079654,
+      "\u001b[26;14H#  \u001b[26;30H#  \u001b[26;46H#  \u001b[26;59H#  \u001b[26;73H#  \u001b[26;91H#  \u001b[11C#  "
+    ],
+    [
+      0.084701,
+      "\u001b[26;15H#  \u001b[26;31H#  \u001b[26;47H#  \u001b[26;60H#  \u001b[26;74H#  \u001b[26;92H#  \u001b[11C#  "
+    ],
+    [
+      0.079910,
+      "\u001b[26;16H#  \u001b[26;32H#  \u001b[26;48H#  \u001b[26;61H#  \u001b[26;75H#  \u001b[26;93H#  \u001b[11C#  "
+    ],
+    [
+      0.005427,
+      "\u001b[22;72H   \n\u001b[6D   OMm \u001b[24;69H(|)-(|)"
+    ],
+    [
+      0.074572,
+      "\u001b[26;17H#  \u001b[26;33H#  \u001b[26;49H#  \u001b[26;62H#  \u001b[26;76H#  \u001b[26;94H#  \u001b[11C#  "
+    ],
+    [
+      0.076084,
+      "\u001b[26;1H \u001b[26;18H#  \u001b[26;34H#  \u001b[26;50H#  \u001b[26;63H#  \u001b[26;77H#  \u001b[26;95H#  \u001b[11C#"
+    ],
+    [
+      0.049356,
+      "\u001b[23;72H   \n\u001b[6D   omm \u001b[25;69H(-)_(-)"
+    ],
+    [
+      0.034610,
+      "\r\n  \u001b[26;19H#  \u001b[26;35H#  \u001b[26;51H#  \u001b[26;64H#  \u001b[26;78H#  \u001b[26;96H#  \u001b[11C#\u001b[29;70H4"
+    ],
+    [
+      0.079588,
+      "\r\u001b[3A#  \u001b[26;20H#  \u001b[26;36H#  \u001b[26;52H#  \u001b[26;65H#  \u001b[26;79H#  \u001b[26;97H#  "
+    ],
+    [
+      0.080378,
+      "\r##  \u001b[26;21H#  \u001b[26;37H#  \u001b[26;53H#  \u001b[26;66H#  \u001b[26;80H#  \u001b[26;98H#  "
+    ],
+    [
+      0.006229,
+      "\u001b[24;72HO\n\u0008\u0008\u0008/)-(/"
+    ],
+    [
+      0.073622,
+      "\u001b[5D|)-(|\r\n###  \u001b[26;22H#  \u001b[26;38H#  \u001b[26;54H#  \u001b[26;67H#  \u001b[26;81H#  \u001b[26;99H#  "
+    ],
+    [
+      0.078356,
+      "\u001b[24;72H__ \n\u001b[6DcnOMMnb\r\n####  \u001b[26;23H#  \u001b[26;39H#  \u001b[26;55H#  \u001b[26;68H# o\u001b[26;82H#  \u001b[26;100H#  "
+    ],
+    [
+      0.044676,
+      "\u001b[24;68Ho"
+    ],
+    [
+      0.032347,
+      "    __\r\n\u001b[25;69H cnOMMnb\n\u001b[72D#  \u001b[26;24H#  \u001b[26;40H#  \u001b[26;56H#  \u001b[26;69H# o\u001b[26;83H#  \u001b[26;101H#  "
+    ],
+    [
+      0.084831,
+      "\u001b[24;69H     __\r\n\u001b[25;70H cnOMMnb\n\u001b[72D#  \u001b[26;25H#  \u001b[26;41H#  \u001b[26;57H#  \u001b[26;70H# o\u001b[26;84H#  \u001b[26;102H#  "
+    ],
+    [
+      0.066260,
+      "\u001b[23;67Ho\n "
+    ],
+    [
+      0.181614,
+      "\u001b[A\u0008\u0008 \n\u0008\u0008o"
+    ],
+    [
+      0.186681,
+      "\u0008 \n\u0008\u0008o"
+    ],
+    [
+      0.179699,
+      "\u001b[A\u0008\u0008o\n "
+    ],
+    [
+      0.183958,
+      "\u001b[A\u0008\u0008\u0008o "
+    ],
+    [
+      0.183888,
+      "\u0008\u0008\u0008o "
+    ],
+    [
+      0.186302,
+      "\u0008\u0008 \n\u0008\u0008o"
+    ],
+    [
+      0.181690,
+      "\u0008\u0008o "
+    ],
+    [
+      0.187732,
+      "\u0008\u0008\u0008o "
+    ],
+    [
+      0.180347,
+      "\u0008\u0008 "
+    ],
+    [
+      0.036723,
+      "\r\n\n\ny,SPC,RET:continu\u001b[2P"
+    ],
+    [
+      1.205006,
+      "\u001b[29;56H2"
+    ],
+    [
+      0.795043,
+      "\u001b[24;72HOmm \u001b[25;69H(\\)-(\\)  \n\u001b[71D##\u001b[26;26H##\u001b[26;42H##\u001b[26;58H##\u001b[26;71H##\u001b[26;85H##\u001b[16C##\r\n\nSPC,j:jump  a,l:fire  q,n:abort game  r,C-l:redraw"
+    ],
+    [
+      1.005400,
+      "\u001b[19;56Hgood luck (or use \u003cSPC\u003e to jump)\u001b[25;70H-)-(-\r\n "
+    ],
+    [
+      0.079784,
+      "\u001b[25;70H/)-(/\r\n  "
+    ],
+    [
+      0.076572,
+      "\u001b[25;70H|)-(|\r\n#  "
+    ],
+    [
+      0.083438,
+      "\u001b[25;70H\\)-(\\\r\n##  "
+    ],
+    [
+      0.074801,
+      "\u001b[25;70H-)-(-\r\n###  "
+    ],
+    [
+      0.081797,
+      "\u001b[25;70H/)-(/\r\n####  "
+    ],
+    [
+      0.079847,
+      "\u001b[25;70H|)-(|\n\u001b[70D#  "
+    ],
+    [
+      0.083396,
+      "\u001b[25;70H\\)-(\\\n\u001b[69D#  "
+    ],
+    [
+      0.079943,
+      "\u001b[25;70H-)-(-\n\u001b[68D#  "
+    ],
+    [
+      0.076740,
+      "\u001b[25;70H/)-(/\n\u001b[67D#  "
+    ],
+    [
+      0.079810,
+      "\u001b[25;70H|)-(|\u001b[26;9H#  "
+    ],
+    [
+      0.083482,
+      "\u001b[25;70H\\)-(\\\u001b[26;10H#  "
+    ],
+    [
+      0.078844,
+      "\u001b[25;70H-)-(-\u001b[26;11H#  "
+    ],
+    [
+      0.081467,
+      "\u001b[25;70H/)-(/\u001b[26;12H#  "
+    ],
+    [
+      0.079739,
+      "\u001b[25;70H|)-(|\u001b[26;13H#  "
+    ],
+    [
+      0.074914,
+      "\u001b[25;70H\\)-(\\\u001b[26;14H#  "
+    ],
+    [
+      0.085054,
+      "\u001b[25;70H-)-(-\u001b[26;15H#  "
+    ],
+    [
+      0.079993,
+      "\u001b[25;70H/)-(/\u001b[26;16H#  "
+    ],
+    [
+      0.077666,
+      "\u001b[25;70H|)-(|\r\n \u001b[26;17H#  "
+    ],
+    [
+      0.077342,
+      "\u001b[25;70H\\)-(\\\r\n  \u001b[26;18H#  "
+    ],
+    [
+      0.084972,
+      "\u001b[25;70H-)-(-\r\n#  \u001b[26;19H#  "
+    ],
+    [
+      0.077846,
+      "\u001b[25;70H/)-(/\r\n##  \u001b[26;20H#  "
+    ],
+    [
+      0.081659,
+      "\u001b[25;70H|)-(|\r\n###  \u001b[26;21H#  "
+    ],
+    [
+      0.078188,
+      "\u001b[25;70H\\)-(\\\r\n####  \u001b[26;22H#  "
+    ],
+    [
+      0.082335,
+      "\u001b[25;70H-)-(-\n\u001b[70D#  \u001b[26;23H#  "
+    ],
+    [
+      0.079965,
+      "\u001b[25;70H/)-(/\n\u001b[69D#  \u001b[26;24H#  "
+    ],
+    [
+      0.075929,
+      "\u001b[25;70H|)-(|\n\u001b[68D#  \u001b[26;25H#  "
+    ],
+    [
+      0.082843,
+      "\u001b[25;70H\\)-(\\\n\u001b[67D#  \u001b[26;26H#  "
+    ],
+    [
+      0.081039,
+      "\u001b[25;70H-)-(-\u001b[26;9H#  \u001b[26;27H#  "
+    ],
+    [
+      0.080436,
+      "\u001b[25;70H/)-(/\u001b[26;10H#  \u001b[26;28H#  "
+    ],
+    [
+      0.079935,
+      "\u001b[25;70H|)-(|\u001b[26;11H#  \u001b[26;29H#  "
+    ],
+    [
+      0.080001,
+      "\u001b[25;70H\\)-(\\\u001b[26;12H#  \u001b[26;30H#  "
+    ],
+    [
+      0.074950,
+      "\u001b[25;70H-)-(-\u001b[26;13H#  \u001b[26;31H#  "
+    ],
+    [
+      0.080905,
+      "\u001b[25;70H/)-(/\u001b[26;14H#  \u001b[26;32H#  "
+    ],
+    [
+      0.084155,
+      "\u001b[25;70H|)-(|\u001b[26;15H#  \u001b[26;33H#  "
+    ],
+    [
+      0.079995,
+      "\u001b[25;70H\\)-(\\\r\n \u001b[26;16H#  \u001b[26;34H#  "
+    ],
+    [
+      0.077750,
+      "\u001b[25;70H-)-(-\r\n  \u001b[26;17H#  \u001b[26;35H#  "
+    ],
+    [
+      0.082255,
+      "\u001b[25;70H/)-(/\r\n#  \u001b[26;18H#  \u001b[26;36H#  "
+    ],
+    [
+      0.078168,
+      "\u001b[25;70H|)-(|\r\n##  \u001b[26;19H#  \u001b[26;37H#  "
+    ],
+    [
+      0.081917,
+      "\u001b[25;70H\\)-(\\\r\n###  \u001b[26;20H#  \u001b[26;38H#  "
+    ],
+    [
+      0.079949,
+      "\u001b[25;70H-)-(-\r\n####  \u001b[26;21H#  \u001b[26;39H#  "
+    ],
+    [
+      0.079972,
+      "\u001b[25;70H/)-(/\n\u001b[70D#  \u001b[26;22H#  \u001b[26;40H#  "
+    ],
+    [
+      0.079997,
+      "\u001b[25;70H|)-(|\n\u001b[69D#  \u001b[26;23H#  \u001b[26;41H#  "
+    ],
+    [
+      0.080005,
+      "\u001b[25;70H\\)-(\\\n\u001b[68D#  \u001b[26;24H#  \u001b[26;42H#  "
+    ],
+    [
+      0.080007,
+      "\u001b[25;70H-)-(-\n\u001b[67D#  \u001b[26;25H#  \u001b[26;43H#  "
+    ],
+    [
+      0.079313,
+      "\u001b[25;70H/)-(/\u001b[26;9H#  \u001b[26;26H#  \u001b[26;44H#  "
+    ],
+    [
+      0.077248,
+      "\u001b[25;70H|)-(|\u001b[26;10H#  \u001b[26;27H#  \u001b[26;45H#  "
+    ],
+    [
+      0.083418,
+      "\u001b[25;70H\\)-(\\\u001b[26;11H#  \u001b[26;28H#  \u001b[26;46H#  "
+    ],
+    [
+      0.080006,
+      "\u001b[25;70H-)-(-\u001b[26;12H#  \u001b[26;29H#  \u001b[26;47H#  "
+    ],
+    [
+      0.079996,
+      "\u001b[25;70H/)-(/\u001b[26;13H#  \u001b[26;30H#  \u001b[26;48H#  "
+    ],
+    [
+      0.080017,
+      "\u001b[19;56H\u001b[K\u001b[25;70H|)-(|\u001b[26;14H#  \u001b[26;31H#  \u001b[26;49H#  "
+    ],
+    [
+      0.077520,
+      "\u001b[25;70H\\)-(\\\u001b[26;15H#  \u001b[26;32H#  \u001b[26;50H#  "
+    ],
+    [
+      0.082460,
+      "\u001b[25;70H-)-(-\u001b[26;16H#  \u001b[26;33H#  \u001b[26;51H#  "
+    ],
+    [
+      0.080002,
+      "\u001b[25;70H/)-(/\r\n \u001b[26;17H#  \u001b[26;34H#  \u001b[26;52H#  "
+    ],
+    [
+      0.075860,
+      "\u001b[25;70H|)-(|\r\n  \u001b[26;18H#  \u001b[26;35H#  \u001b[26;53H#  "
+    ],
+    [
+      0.082320,
+      "\u001b[25;70H\\)-(\\\r\n#  \u001b[26;19H#  \u001b[26;36H#  \u001b[26;54H#  "
+    ],
+    [
+      0.081827,
+      "\u001b[25;70H-)-(-\r\n##  \u001b[26;20H#  \u001b[26;37H#  \u001b[26;55H#  "
+    ],
+    [
+      0.079918,
+      "\u001b[25;70H/)-(/\r\n###  \u001b[26;21H#  \u001b[26;38H#  \u001b[26;56H#  "
+    ],
+    [
+      0.080145,
+      "\u001b[25;70H|)-(|\r\n####  \u001b[26;22H#  \u001b[26;39H#  \u001b[26;57H#  "
+    ],
+    [
+      0.079937,
+      "\u001b[25;70H\\)-(\\\n\u001b[70D#  \u001b[26;23H#  \u001b[26;40H#  \u001b[26;58H#  "
+    ],
+    [
+      0.080040,
+      "\u001b[25;70H-)-(-\n\u001b[69D#  \u001b[26;24H#  \u001b[26;41H#  \u001b[26;59H#  "
+    ],
+    [
+      0.079963,
+      "\u001b[25;70H/)-(/\n\u001b[68D#  \u001b[26;25H#  \u001b[26;42H#  \u001b[26;60H#  "
+    ],
+    [
+      0.075602,
+      "\u001b[25;70H|)-(|\n\u001b[67D#  \u001b[26;26H#  \u001b[26;43H#  \u001b[26;61H#  "
+    ],
+    [
+      0.081442,
+      "\u001b[25;70H\\)-(\\\u001b[26;9H#  \u001b[26;27H#  \u001b[26;44H#  \u001b[26;62H#  "
+    ],
+    [
+      0.083103,
+      "\u001b[25;70H-)-(-\u001b[26;10H#  \u001b[26;28H#  \u001b[26;45H#  \u001b[26;63H#  "
+    ],
+    [
+      0.079854,
+      "\u001b[A   (/)-(/\u001b[26;11H#  \u001b[26;29H#  \u001b[26;46H#  \u001b[26;64H#  "
+    ],
+    [
+      0.080001,
+      "\u001b[A  (|)-(|\u001b[26;12H#  \u001b[26;30H#  \u001b[26;47H#  \u001b[26;65H#  "
+    ],
+    [
+      0.028082,
+      "\u001b[24;73HMM\n\u001b[5DU)-(U"
+    ],
+    [
+      0.050695,
+      "\u001b[26;13H#  \u001b[26;31H#  \u001b[26;48H#  \u001b[26;66H#  "
+    ],
+    [
+      0.032252,
+      "\u001b[23;72HOMm\n\u001b[6D(|)-(|)\u001b[25;69H\u001b[K"
+    ],
+    [
+      0.048958,
+      "\r\n \u001b[26;14H#  \u001b[26;32H#  \u001b[26;49H#  \u001b[26;67H#  "
+    ],
+    [
+      0.079994,
+      "\r  \u001b[26;15H#  \u001b[26;33H#  \u001b[26;50H#  \u001b[26;68H#  "
+    ],
+    [
+      0.070491,
+      "\u001b[4A oMm\n\u001b[6D(\\)-(\\)\u001b[24;69H\u001b[K"
+    ],
+    [
+      0.005492,
+      "\r\n\n#  \u001b[26;16H#  \u001b[26;34H#  \u001b[26;51H#  \u001b[26;69H#  "
+    ],
+    [
+      0.083608,
+      "\r##  \u001b[26;17H#  \u001b[26;35H#  \u001b[26;52H#  \u001b[26;70H#  "
+    ],
+    [
+      0.080417,
+      "\r###  \u001b[26;18H#  \u001b[26;36H#  \u001b[26;53H#  \u001b[26;71H#  "
+    ],
+    [
+      0.080109,
+      "\r####  \u001b[26;19H#  \u001b[26;37H#  \u001b[26;54H#  \u001b[26;72H#  "
+    ],
+    [
+      0.079918,
+      "\u001b[70D#  \u001b[26;20H#  \u001b[26;38H#  \u001b[26;55H#  \u001b[26;73H#  "
+    ],
+    [
+      0.070485,
+      "\u001b[22;72H   \n\u001b[6D   OMm \u001b[24;69H(|)-(|)"
+    ],
+    [
+      0.005495,
+      "\n\n\u001b[70D#  \u001b[26;21H#  \u001b[26;39H#  \u001b[26;56H#  \u001b[26;74H#  "
+    ],
+    [
+      0.084037,
+      "\u001b[70D#  \u001b[26;22H#  \u001b[26;40H#  \u001b[26;57H#  \u001b[26;75H#  "
+    ],
+    [
+      0.079957,
+      "\u001b[70D#  \u001b[26;23H#  \u001b[26;41H#  \u001b[26;58H#  \u001b[26;76H#  "
+    ],
+    [
+      0.033230,
+      "\u001b[23;72H   \n\u001b[6D   omm \u001b[25;69H(-)_(-)"
+    ],
+    [
+      0.046777,
+      "\u001b[26;9H#  \u001b[26;24H#  \u001b[26;42H#  \u001b[26;59H#  \u001b[26;77H#  \u001b[29;70H8"
+    ],
+    [
+      0.080001,
+      "\u001b[26;10H#  \u001b[26;25H#  \u001b[26;43H#  \u001b[26;60H#  \u001b[26;78H#  "
+    ],
+    [
+      0.070578,
+      "\u001b[24;72HO\n\u0008\u0008\u0008/)-(/"
+    ],
+    [
+      0.005466,
+      "\u001b[5D|)-(|\u001b[26;11H#  \u001b[26;26H#  \u001b[26;44H#  \u001b[26;61H#  \u001b[26;79H#  "
+    ],
+    [
+      0.083956,
+      "\u001b[25;70H\\)-(\\\u001b[26;12H#  \u001b[26;27H#  \u001b[26;45H#  \u001b[26;62H#  \u001b[26;80H#  "
+    ],
+    [
+      0.079985,
+      "\u001b[25;70H-)-(-\u001b[26;13H#  \u001b[26;28H#  \u001b[26;46H#  \u001b[26;63H#  \u001b[26;81H#  "
+    ],
+    [
+      0.080019,
+      "\u001b[25;70H/)-(/\u001b[26;14H#  \u001b[26;29H#  \u001b[26;47H#  \u001b[26;64H#  \u001b[26;82H#  "
+    ],
+    [
+      0.076521,
+      "\u001b[25;70H|)-(|\u001b[26;15H#  \u001b[26;30H#  \u001b[26;48H#  \u001b[26;65H#  \u001b[26;83H#  "
+    ],
+    [
+      0.064293,
+      "\u001b[24;73HMM\n\u001b[5DU)-(U"
+    ],
+    [
+      0.015765,
+      "\u001b[26;16H#  \u001b[26;31H#  \u001b[26;49H#  \u001b[26;66H#  \u001b[26;84H#  "
+    ],
+    [
+      0.069500,
+      "\u001b[23;72HOMm\n\u001b[6D(|)-(|)\u001b[25;69H\u001b[K"
+    ],
+    [
+      0.008760,
+      "\u001b[26;17H#  \u001b[26;32H#  \u001b[26;50H#  \u001b[26;67H#  \u001b[26;85H#  "
+    ],
+    [
+      0.085147,
+      "\r \u001b[26;18H#  \u001b[26;33H#  \u001b[26;51H#  \u001b[26;68H#  \u001b[26;86H#  "
+    ],
+    [
+      0.078797,
+      "\r  \u001b[26;19H#  \u001b[26;34H#  \u001b[26;52H#  \u001b[26;69H#  \u001b[26;87H#  "
+    ],
+    [
+      0.025335,
+      "\u001b[22;72HoMm\n\u001b[6D(\\)-(\\)\u001b[24;69H\u001b[K"
+    ],
+    [
+      0.055872,
+      "\r\n\n#  \u001b[26;20H#  \u001b[26;35H#  \u001b[26;53H#  \u001b[26;70H#  \u001b[26;88H#  "
+    ],
+    [
+      0.080016,
+      "\r##  \u001b[26;21H#  \u001b[26;36H#  \u001b[26;54H#  \u001b[26;71H#  \u001b[26;89H#  "
+    ],
+    [
+      0.079988,
+      "\r###  \u001b[26;22H#  \u001b[26;37H#  \u001b[26;55H#  \u001b[26;72H#  \u001b[26;90H#  "
+    ],
+    [
+      0.079997,
+      "\r####  \u001b[26;23H#  \u001b[26;38H#  \u001b[26;56H#  \u001b[26;73H#  \u001b[26;91H#  "
+    ],
+    [
+      0.080005,
+      "\u001b[89D#  \u001b[26;24H#  \u001b[26;39H#  \u001b[26;57H#  \u001b[26;74H#  \u001b[26;92H#  "
+    ],
+    [
+      0.025936,
+      "\u001b[22;72H   \n\u001b[6D   OMm \u001b[24;69H(|)-(|)"
+    ],
+    [
+      0.049322,
+      "\n\n\u001b[70D#  \u001b[26;25H#  \u001b[26;40H#  \u001b[26;58H#  \u001b[26;75H#  \u001b[26;93H#  "
+    ],
+    [
+      0.084741,
+      "\u001b[89D#  \u001b[26;26H#  \u001b[26;41H#  \u001b[26;59H#  \u001b[26;76H#  \u001b[26;94H#  "
+    ],
+    [
+      0.064935,
+      "\u001b[23;72H   \n\u001b[6D   omm \u001b[25;69H(-)_(-)"
+    ],
+    [
+      0.010155,
+      "\n\u001b[68D#  \u001b[26;27H#  \u001b[26;42H#  \u001b[26;60H#  \u001b[26;77H#  \u001b[26;95H#  \u001b[29;69H72"
+    ],
+    [
+      0.080598,
+      "\u001b[26;9H#  \u001b[26;28H#  \u001b[26;43H#  \u001b[26;61H#  \u001b[26;78H#  \u001b[26;96H#  "
+    ],
+    [
+      0.084305,
+      "\u001b[26;10H#  \u001b[26;29H#  \u001b[26;44H#  \u001b[26;62H#  \u001b[26;79H#  \u001b[26;97H#  "
+    ],
+    [
+      0.021170,
+      "\u001b[24;72HO\n\u0008\u0008\u0008|)-(|"
+    ],
+    [
+      0.058840,
+      "\u001b[5D\\)-(\\\u001b[26;11H#  \u001b[26;30H#  \u001b[26;45H#  \u001b[26;63H#  \u001b[26;80H#  \u001b[26;98H#  "
+    ],
+    [
+      0.079956,
+      "\u001b[25;70H-)-(-\u001b[26;12H#  \u001b[26;31H#  \u001b[26;46H#  \u001b[26;64H#  \u001b[26;81H#  \u001b[26;99H#  "
+    ],
+    [
+      0.079931,
+      "\u001b[25;70H/)-(/\u001b[26;13H#  \u001b[26;32H#  \u001b[26;47H#  \u001b[26;65H#  \u001b[26;82H#  \u001b[26;100H#  "
+    ],
+    [
+      0.056773,
+      "\u001b[24;73HMM\n\u001b[5DU)-(U"
+    ],
+    [
+      0.022232,
+      "\r\n \u001b[26;14H#  \u001b[26;33H#  \u001b[26;48H#  \u001b[26;66H#  \u001b[26;83H#  \u001b[26;101H#  "
+    ],
+    [
+      0.062943,
+      "\u001b[23;72HOMm\n\u001b[6D(|)-(|)\u001b[25;69H\u001b[K"
+    ],
+    [
+      0.015346,
+      "\r\n  \u001b[26;15H#  \u001b[26;34H#  \u001b[26;49H#  \u001b[26;67H#  \u001b[26;84H#  \u001b[26;102H#  "
+    ],
+    [
+      0.078323,
+      "\r#  \u001b[26;16H#  \u001b[26;35H#  \u001b[26;50H#  \u001b[26;68H#  \u001b[26;85H#  \u001b[15C#  "
+    ],
+    [
+      0.084611,
+      "\r##  \u001b[26;17H#  \u001b[26;36H#  \u001b[26;51H#  \u001b[26;69H#  \u001b[26;86H#  \u001b[15C#  "
+    ],
+    [
+      0.020893,
+      "\u001b[22;72HoMm\n\u001b[6D(\\)-(\\)\u001b[24;69H\u001b[K"
+    ],
+    [
+      0.056197,
+      "\r\n\n###  \u001b[26;18H#  \u001b[26;37H#  \u001b[26;52H#  \u001b[26;70H#  \u001b[26;87H#  \u001b[15C#  "
+    ],
+    [
+      0.079301,
+      "\r####  \u001b[26;19H#  \u001b[26;38H#  \u001b[26;53H#  \u001b[26;71H#  \u001b[26;88H#  \u001b[15C#  "
+    ],
+    [
+      0.081889,
+      "\u001b[104D#  \u001b[26;20H#  \u001b[26;39H#  \u001b[26;54H#  \u001b[26;72H#  \u001b[26;89H#  \u001b[15C#  "
+    ],
+    [
+      0.081611,
+      "\u001b[104D#  \u001b[26;21H#  \u001b[26;40H#  \u001b[26;55H#  \u001b[26;73H#  \u001b[26;90H#  \u001b[15C#  "
+    ],
+    [
+      0.074886,
+      "\u001b[26;1H\u001b[6C#  \u001b[26;22H#  \u001b[26;41H#  \u001b[26;56H#  \u001b[26;74H#  \u001b[26;91H#  \u001b[15C#"
+    ],
+    [
+      0.026936,
+      "\u001b[22;72H   \n\u001b[6D   OMm \u001b[24;69H(|)-(|)"
+    ],
+    [
+      0.058198,
+      "\n\n\u001b[68D#  \u001b[26;23H#  \u001b[26;42H#  \u001b[26;57H#  \u001b[26;75H#  \u001b[26;92H#  \u001b[15C#"
+    ],
+    [
+      0.080043,
+      "\u001b[26;9H#  \u001b[26;24H#  \u001b[26;43H#  \u001b[26;58H#  \u001b[26;76H#  \u001b[26;93H#  "
+    ],
+    [
+      0.058229,
+      "\u001b[23;72H   \n\u001b[6D   omm \u001b[25;69H(-)_(-)"
+    ],
+    [
+      0.019012,
+      "\u001b[26;10H#  \u001b[26;25H#  \u001b[26;44H#  \u001b[26;59H#  \u001b[26;77H#  \u001b[26;94H#  \u001b[29;70H6"
+    ],
+    [
+      0.082535,
+      "\u001b[26;11H#  \u001b[26;26H#  \u001b[26;45H#  \u001b[26;60H#  \u001b[26;78H#  \u001b[26;95H#  "
+    ],
+    [
+      0.077809,
+      "\u001b[26;12H#  \u001b[26;27H#  \u001b[26;46H#  \u001b[26;61H#  \u001b[26;79H#  \u001b[26;96H#  "
+    ],
+    [
+      0.023907,
+      "\u001b[24;72HO\n\u0008\u0008\u0008/)-(/"
+    ],
+    [
+      0.055108,
+      "\u001b[5D|)-(|\u001b[26;13H#  \u001b[26;28H#  \u001b[26;47H#  \u001b[26;62H#  \u001b[26;80H#  \u001b[26;97H#  "
+    ],
+    [
+      0.083297,
+      "\u001b[25;70H\\)-(\\\u001b[26;14H#  \u001b[26;29H#  \u001b[26;48H#  \u001b[26;63H#  \u001b[26;81H#  \u001b[26;98H#  "
+    ],
+    [
+      0.080026,
+      "\u001b[25;70H-)-(-\u001b[26;15H#  \u001b[26;30H#  \u001b[26;49H#  \u001b[26;64H#  \u001b[26;82H#  \u001b[26;99H#  "
+    ],
+    [
+      0.078405,
+      "\u001b[25;70H/)-(/\r\n \u001b[26;16H#  \u001b[26;31H#  \u001b[26;50H#  \u001b[26;65H#  \u001b[26;83H#  \u001b[26;100H#  "
+    ],
+    [
+      0.081648,
+      "\u001b[25;70H|)-(|\r\n  \u001b[26;17H#  \u001b[26;32H#  \u001b[26;51H#  \u001b[26;66H#  \u001b[26;84H#  \u001b[26;101H#  "
+    ],
+    [
+      0.017634,
+      "\u001b[24;73HMM\n\u001b[5DU)-(U"
+    ],
+    [
+      0.057712,
+      "\r\n#  \u001b[26;18H#  \u001b[26;33H#  \u001b[26;52H#  \u001b[26;67H#  \u001b[26;85H#  \u001b[26;102H#  "
+    ],
+    [
+      0.023696,
+      "\u001b[23;72HOMm\n\u001b[6D(|)-(|)\u001b[25;69H\u001b[K"
+    ],
+    [
+      0.060919,
+      "\r\n##  \u001b[26;19H#  \u001b[26;34H#  \u001b[26;53H#  \u001b[26;68H#  \u001b[26;86H#  \u001b[14C#  "
+    ],
+    [
+      0.079961,
+      "\r###  \u001b[26;20H#  \u001b[26;35H#  \u001b[26;54H#  \u001b[26;69H#  \u001b[26;87H#  \u001b[14C#  "
+    ],
+    [
+      0.060228,
+      "\u001b[22;72HoMm\n\u001b[6D(\\)-(\\)\u001b[24;69H\u001b[K"
+    ],
+    [
+      0.015407,
+      "\r\n\n####  \u001b[26;21H#  \u001b[26;36H#  \u001b[26;55H#  \u001b[26;70H#  \u001b[26;88H#  \u001b[14C#  "
+    ],
+    [
+      0.084409,
+      "\u001b[103D#  \u001b[26;22H#  \u001b[26;37H#  \u001b[26;56H#  \u001b[26;71H#  \u001b[26;89H#  \u001b[14C#  "
+    ],
+    [
+      0.076408,
+      "\u001b[103D#  \u001b[26;23H#  \u001b[26;38H#  \u001b[26;57H#  \u001b[26;72H#  \u001b[26;90H#  \u001b[14C#  "
+    ],
+    [
+      0.083593,
+      "\u001b[103D#  \u001b[26;24H#  \u001b[26;39H#  \u001b[26;58H#  \u001b[26;73H#  \u001b[26;91H#  \u001b[14C#  "
+    ],
+    [
+      0.075406,
+      "\u001b[26;1H\u001b[7C#  \u001b[26;25H#  \u001b[26;40H#  \u001b[26;59H#  \u001b[26;74H#  \u001b[26;92H#  \u001b[14C#"
+    ],
+    [
+      0.064593,
+      "\u001b[22;72H   \n\u001b[6D   OMm \u001b[24;69H(|)-(|)"
+    ],
+    [
+      0.015478,
+      "\u001b[26;9H#  \u001b[26;26H#  \u001b[26;41H#  \u001b[26;60H#  \u001b[26;75H#  \u001b[26;93H#  \u001b[14C#"
+    ],
+    [
+      0.080909,
+      "\u001b[26;10H#  \u001b[26;27H#  \u001b[26;42H#  \u001b[26;61H#  \u001b[26;76H#  \u001b[26;94H#  "
+    ],
+    [
+      0.083587,
+      "\u001b[26;11H#  \u001b[26;28H#  \u001b[26;43H#  \u001b[26;62H#  \u001b[26;77H#  \u001b[26;95H#  "
+    ],
+    [
+      0.022301,
+      "\u001b[23;72H   \n\u001b[6D   omm \u001b[25;69H(-)_(-)"
+    ],
+    [
+      0.057719,
+      "\u001b[26;12H#  \u001b[26;29H#  \u001b[26;44H#  \u001b[26;63H#  \u001b[26;78H#  \u001b[26;96H#  \u001b[29;69H80"
+    ],
+    [
+      0.080013,
+      "\u001b[26;13H#  \u001b[26;30H#  \u001b[26;45H#  \u001b[26;64H#  \u001b[26;79H#  \u001b[26;97H#  "
+    ],
+    [
+      0.062329,
+      "\u001b[24;72HO\n\u0008\u0008\u0008/)-(/"
+    ],
+    [
+      0.015385,
+      "\u001b[5D|)-(|\u001b[26;14H#  \u001b[26;31H#  \u001b[26;46H#  \u001b[26;65H#  \u001b[26;80H#  \u001b[26;98H#  "
+    ],
+    [
+      0.063904,
+      "\u001b[24;73HMM\n\u001b[5DU)-(U"
+    ],
+    [
+      0.014742,
+      "\u001b[26;15H#  \u001b[26;32H#  \u001b[26;47H#  \u001b[26;66H#  \u001b[26;81H#  \u001b[26;99H#  "
+    ],
+    [
+      0.066586,
+      "\u001b[23;72HOMm\n\u001b[6D(|)-(|)\u001b[25;69H\u001b[K"
+    ],
+    [
+      0.014976,
+      "\r\n \u001b[26;16H#  \u001b[26;33H#  \u001b[26;48H#  \u001b[26;67H#  \u001b[26;82H#  \u001b[26;100H#  "
+    ],
+    [
+      0.082054,
+      "\r  \u001b[26;17H#  \u001b[26;34H#  \u001b[26;49H#  \u001b[26;68H#  \u001b[26;83H#  \u001b[26;101H#  "
+    ],
+    [
+      0.075206,
+      "\r#  \u001b[26;18H#  \u001b[26;35H#  \u001b[26;50H#  \u001b[26;69H#  \u001b[26;84H#  \u001b[26;102H#  "
+    ],
+    [
+      0.031697,
+      "\u001b[22;72HoMm\n\u001b[6D(\\)-(\\)\u001b[24;69H\u001b[K"
+    ],
+    [
+      0.053122,
+      "\r\n\n##  \u001b[26;19H#  \u001b[26;36H#  \u001b[26;51H#  \u001b[26;70H#  \u001b[26;85H#  \u001b[15C#  "
+    ],
+    [
+      0.080034,
+      "\r###  \u001b[26;20H#  \u001b[26;37H#  \u001b[26;52H#  \u001b[26;71H#  \u001b[26;86H#  \u001b[15C#  "
+    ],
+    [
+      0.077345,
+      "\r####  \u001b[26;21H#  \u001b[26;38H#  \u001b[26;53H#  \u001b[26;72H#  \u001b[26;87H#  \u001b[15C#  "
+    ],
+    [
+      0.082632,
+      "\u001b[103D#  \u001b[26;22H#  \u001b[26;39H#  \u001b[26;54H#  \u001b[26;73H#  \u001b[26;88H#  \u001b[15C#  "
+    ],
+    [
+      0.079996,
+      "\u001b[103D#  \u001b[26;23H#  \u001b[26;40H#  \u001b[26;55H#  \u001b[26;74H#  \u001b[26;89H#  \u001b[15C#  "
+    ],
+    [
+      0.024352,
+      "\u001b[22;72H   \n\u001b[6D   OMm \u001b[24;69H(|)-(|)"
+    ],
+    [
+      0.055659,
+      "\n\n\u001b[69D#  \u001b[26;24H#  \u001b[26;41H#  \u001b[26;56H#  \u001b[26;75H#  \u001b[26;90H#  \u001b[15C#  "
+    ],
+    [
+      0.080018,
+      "\u001b[26;1H\u001b[7C#  \u001b[26;25H#  \u001b[26;42H#  \u001b[26;57H#  \u001b[26;76H#  \u001b[26;91H#  \u001b[15C#"
+    ],
+    [
+      0.066788,
+      "\u001b[23;72H   \n\u001b[6D   omm \u001b[25;69H(-)_(-)"
+    ],
+    [
+      0.010202,
+      "\u001b[26;9H#  \u001b[26;26H#  \u001b[26;43H#  \u001b[26;58H#  \u001b[26;77H#  \u001b[26;92H#  \u001b[15C#\u001b[29;70H4"
+    ],
+    [
+      0.082961,
+      "\u001b[26;10H#  \u001b[26;27H#  \u001b[26;44H#  \u001b[26;59H#  \u001b[26;78H#  \u001b[26;93H#  "
+    ],
+    [
+      0.075767,
+      "\u001b[26;11H#  \u001b[26;28H#  \u001b[26;45H#  \u001b[26;60H#  \u001b[26;79H#  \u001b[26;94H#  "
+    ],
+    [
+      0.025992,
+      "\u001b[24;72HO\n\u0008\u0008\u0008|)-(|"
+    ],
+    [
+      0.053760,
+      "\u001b[5D\\)-(\\\u001b[26;12H#  \u001b[26;29H#  \u001b[26;46H#  \u001b[26;61H#  \u001b[26;80H#  \u001b[26;95H#  "
+    ],
+    [
+      0.084550,
+      "\u001b[25;70H-)-(-\u001b[26;13H#  \u001b[26;30H#  \u001b[26;47H#  \u001b[26;62H#  \u001b[26;81H#  \u001b[26;96H#  "
+    ],
+    [
+      0.076018,
+      "\u001b[25;70H/)-(/\u001b[26;14H#  \u001b[26;31H#  \u001b[26;48H#  \u001b[26;63H#  \u001b[26;82H#  \u001b[26;97H#  "
+    ],
+    [
+      0.083896,
+      "\u001b[25;70H|)-(|\u001b[26;15H#  \u001b[26;32H#  \u001b[26;49H#  \u001b[26;64H#  \u001b[26;83H#  \u001b[26;98H#  "
+    ],
+    [
+      0.064607,
+      "\u001b[24;73HMM\n\u001b[5DU)-(U"
+    ],
+    [
+      0.012926,
+      "\u001b[26;16H#  \u001b[26;33H#  \u001b[26;50H#  \u001b[26;65H#  \u001b[26;84H#  \u001b[26;99H#  "
+    ],
+    [
+      0.069442,
+      "\u001b[23;72HOMm\n\u001b[6D(|)-(|)\u001b[25;69H\u001b[K"
+    ],
+    [
+      0.008985,
+      "\u001b[26;17H#  \u001b[26;34H#  \u001b[26;51H#  \u001b[26;66H#  \u001b[26;85H#  \u001b[26;100H#  "
+    ],
+    [
+      0.084047,
+      "\r \u001b[26;18H#  \u001b[26;35H#  \u001b[26;52H#  \u001b[26;67H#  \u001b[26;86H#  \u001b[26;101H#  "
+    ],
+    [
+      0.080000,
+      "\r  \u001b[26;19H#  \u001b[26;36H#  \u001b[26;53H#  \u001b[26;68H#  \u001b[26;87H#  \u001b[26;102H#  "
+    ],
+    [
+      0.029802,
+      "\u001b[22;72HoMm\n\u001b[6D(\\)-(\\)\u001b[24;69H\u001b[K"
+    ],
+    [
+      0.050217,
+      "\r\n\n#  \u001b[26;20H#  \u001b[26;37H#  \u001b[26;54H#  \u001b[26;69H#  \u001b[26;88H#  \u001b[12C#  "
+    ],
+    [
+      0.079990,
+      "\r##  \u001b[26;21H#  \u001b[26;38H#  \u001b[26;55H#  \u001b[26;70H#  \u001b[26;89H#  \u001b[12C#  "
+    ],
+    [
+      0.079997,
+      "\r###  \u001b[26;22H#  \u001b[26;39H#  \u001b[26;56H#  \u001b[26;71H#  \u001b[26;90H#  \u001b[12C#  "
+    ],
+    [
+      0.075957,
+      "\r####  \u001b[26;23H#  \u001b[26;40H#  \u001b[26;57H#  \u001b[26;72H#  \u001b[26;91H#  \u001b[12C#  "
+    ],
+    [
+      0.084047,
+      "\u001b[104D#  \u001b[26;24H#  \u001b[26;41H#  \u001b[26;58H#  \u001b[26;73H#  \u001b[26;92H#  \u001b[12C#  "
+    ],
+    [
+      0.029776,
+      "\u001b[22;72H   \n\u001b[6D   OMm \u001b[24;69H(|)-(|)"
+    ],
+    [
+      0.050227,
+      "\n\n\u001b[70D#  \u001b[26;25H#  \u001b[26;42H#  \u001b[26;59H#  \u001b[26;74H#  \u001b[26;93H#  \u001b[12C#  "
+    ],
+    [
+      0.078108,
+      "\u001b[26;1H\u001b[6C#  \u001b[26;26H#  \u001b[26;43H#  \u001b[26;60H#  \u001b[26;75H#  \u001b[26;94H#  \u001b[12C#"
+    ],
+    [
+      0.069913,
+      "\u001b[23;72H   \n\u001b[6D   omm \u001b[25;69H(-)_(-)"
+    ],
+    [
+      0.008727,
+      "\n\u001b[68D#  \u001b[26;27H#  \u001b[26;44H#  \u001b[26;61H#  \u001b[26;76H#  \u001b[26;95H#  \u001b[12C#\u001b[29;70H8"
+    ],
+    [
+      0.083230,
+      "\u001b[26;9H#  \u001b[26;28H#  \u001b[26;45H#  \u001b[26;62H#  \u001b[26;77H#  \u001b[26;96H#  "
+    ],
+    [
+      0.080018,
+      "\u001b[26;10H#  \u001b[26;29H#  \u001b[26;46H#  \u001b[26;63H#  \u001b[26;78H#  \u001b[26;97H#  "
+    ],
+    [
+      0.027827,
+      "\u001b[24;72HO\n\u0008\u0008\u0008|)-(|"
+    ],
+    [
+      0.052170,
+      "\u001b[5D\\)-(\\\u001b[26;11H#  \u001b[26;30H#  \u001b[26;47H#  \u001b[26;64H#  \u001b[26;79H#  \u001b[26;98H#  "
+    ],
+    [
+      0.075001,
+      "\u001b[25;70H-)-(-\u001b[26;12H#  \u001b[26;31H#  \u001b[26;48H#  \u001b[26;65H#  \u001b[26;80H#  \u001b[26;99H#  "
+    ],
+    [
+      0.085014,
+      "\u001b[25;70H/)-(/\r\n \u001b[26;13H#  \u001b[26;32H#  \u001b[26;49H#  \u001b[26;66H#  \u001b[26;81H#  \u001b[26;100H#  "
+    ],
+    [
+      0.079988,
+      "\u001b[25;70H|)-(|\r\n  \u001b[26;14H#  \u001b[26;33H#  \u001b[26;50H#  \u001b[26;67H#  \u001b[26;82H#  \u001b[26;101H#  "
+    ],
+    [
+      0.002114,
+      "\u001b[24;73HMM\n\u001b[5DU)-(U"
+    ],
+    [
+      0.074883,
+      "\r\n#  \u001b[26;15H#  \u001b[26;34H#  \u001b[26;51H#  \u001b[26;68H#  \u001b[26;83H#  \u001b[26;102H#  "
+    ],
+    [
+      0.005659,
+      "\u001b[23;72HOMm\n\u001b[6D(|)-(|)\u001b[25;69H\u001b[K"
+    ],
+    [
+      0.076443,
+      "\r\n##  \u001b[26;16H#  \u001b[26;35H#  \u001b[26;52H#  \u001b[26;69H#  \u001b[26;84H#  \u001b[16C#  "
+    ],
+    [
+      0.080906,
+      "\r###  \u001b[26;17H#  \u001b[26;36H#  \u001b[26;53H#  \u001b[26;70H#  \u001b[26;85H#  \u001b[16C#  "
+    ],
+    [
+      0.047294,
+      "\u001b[22;72HoMm\n\u001b[6D(\\)-(\\)\u001b[24;69H\u001b[K"
+    ],
+    [
+      0.032749,
+      "\r\n\n####  \u001b[26;18H#  \u001b[26;37H#  \u001b[26;54H#  \u001b[26;71H#  \u001b[26;86H#  \u001b[16C#  "
+    ],
+    [
+      0.079956,
+      "\u001b[103D#  \u001b[26;19H#  \u001b[26;38H#  \u001b[26;55H#  \u001b[26;72H#  \u001b[26;87H#  \u001b[16C#  "
+    ],
+    [
+      0.076062,
+      "\u001b[103D#  \u001b[26;20H#  \u001b[26;39H#  \u001b[26;56H#  \u001b[26;73H#  \u001b[26;88H#  \u001b[16C#  "
+    ],
+    [
+      0.083948,
+      "\u001b[103D#  \u001b[26;21H#  \u001b[26;40H#  \u001b[26;57H#  \u001b[26;74H#  \u001b[26;89H#  \u001b[16C#  "
+    ],
+    [
+      0.076792,
+      "\u001b[26;1H\u001b[7C#  \u001b[26;22H#  \u001b[26;41H#  \u001b[26;58H#  \u001b[26;75H#  \u001b[26;90H#  \u001b[16C#"
+    ],
+    [
+      0.049623,
+      "\u001b[22;72H   \n\u001b[6D   OMm \u001b[24;69H(|)-(|)"
+    ],
+    [
+      0.028834,
+      "\u001b[26;9H#  \u001b[26;23H#  \u001b[26;42H#  \u001b[26;59H#  \u001b[26;76H#  \u001b[26;91H#  \u001b[16C#"
+    ],
+    [
+      0.084736,
+      "\u001b[26;10H#  \u001b[26;24H#  \u001b[26;43H#  \u001b[26;60H#  \u001b[26;77H#  \u001b[26;92H#  "
+    ],
+    [
+      0.078041,
+      "\u001b[26;11H#  \u001b[26;25H#  \u001b[26;44H#  \u001b[26;61H#  \u001b[26;78H#  \u001b[26;93H#  "
+    ],
+    [
+      0.005246,
+      "\u001b[23;72H   \n\u001b[6D   omm \u001b[25;69H(-)_(-)"
+    ],
+    [
+      0.076661,
+      "\u001b[26;12H#  \u001b[26;26H#  \u001b[26;45H#  \u001b[26;62H#  \u001b[26;79H#  \u001b[26;94H#  \u001b[29;69H92"
+    ],
+    [
+      0.079108,
+      "\u001b[26;13H#  \u001b[26;27H#  \u001b[26;46H#  \u001b[26;63H#  \u001b[26;80H#  \u001b[26;95H#  "
+    ],
+    [
+      0.044119,
+      "\u001b[24;72HO\n\u0008\u0008\u0008/)-(/"
+    ],
+    [
+      0.034757,
+      "\u001b[5D|)-(|\u001b[26;14H#  \u001b[26;28H#  \u001b[26;47H#  \u001b[26;64H#  \u001b[26;81H#  \u001b[26;96H#  "
+    ],
+    [
+      0.081924,
+      "\u001b[25;70H\\)-(\\\u001b[26;15H#  \u001b[26;29H#  \u001b[26;48H#  \u001b[26;65H#  \u001b[26;82H#  \u001b[26;97H#  "
+    ],
+    [
+      0.011797,
+      "\u001b[24;73HMM\n\u001b[5DU)-(U"
+    ],
+    [
+      0.068360,
+      "\u001b[26;16H#  \u001b[26;30H#  \u001b[26;49H#  \u001b[26;66H#  \u001b[26;83H#  \u001b[26;98H#  "
+    ],
+    [
+      0.012147,
+      "\u001b[23;72HOMm\n\u001b[6D(|)-(|)\u001b[25;69H\u001b[K"
+    ],
+    [
+      0.067829,
+      "\r\n \u001b[26;17H#  \u001b[26;31H#  \u001b[26;50H#  \u001b[26;67H#  \u001b[26;84H#  \u001b[26;99H#  "
+    ],
+    [
+      0.075022,
+      "\r  \u001b[26;18H#  \u001b[26;32H#  \u001b[26;51H#  \u001b[26;68H#  \u001b[26;85H#  \u001b[26;100H#  "
+    ],
+    [
+      0.061947,
+      "\u001b[22;72HoMm\n\u001b[6D(\\)-(\\)\u001b[24;69H\u001b[K"
+    ],
+    [
+      0.021882,
+      "\r\n\n#  \u001b[26;19H#  \u001b[26;33H#  \u001b[26;52H#  \u001b[26;69H#  \u001b[26;86H#  \u001b[26;101H#  "
+    ],
+    [
+      0.081147,
+      "\r##  \u001b[26;20H#  \u001b[26;34H#  \u001b[26;53H#  \u001b[26;70H#  \u001b[26;87H#  \u001b[26;102H#  "
+    ],
+    [
+      0.080015,
+      "\r###  \u001b[26;21H#  \u001b[26;35H#  \u001b[26;54H#  \u001b[26;71H#  \u001b[26;88H#  \u001b[12C#  "
+    ],
+    [
+      0.075878,
+      "\r####  \u001b[26;22H#  \u001b[26;36H#  \u001b[26;55H#  \u001b[26;72H#  \u001b[26;89H#  \u001b[12C#  "
+    ],
+    [
+      0.084143,
+      "\u001b[102D#  \u001b[26;23H#  \u001b[26;37H#  \u001b[26;56H#  \u001b[26;73H#  \u001b[26;90H#  \u001b[12C#  "
+    ],
+    [
+      0.052032,
+      "\u001b[22;72H   \n\u001b[6D   OMm \u001b[24;69H(|)-(|)"
+    ],
+    [
+      0.026321,
+      "\n\n\u001b[70D#  \u001b[26;24H#  \u001b[26;38H#  \u001b[26;57H#  \u001b[26;74H#  \u001b[26;91H#  \u001b[12C#  "
+    ],
+    [
+      0.081631,
+      "\u001b[102D#  \u001b[26;25H#  \u001b[26;39H#  \u001b[26;58H#  \u001b[26;75H#  \u001b[26;92H#  \u001b[12C#  "
+    ],
+    [
+      0.078466,
+      "\u001b[102D#  \u001b[26;26H#  \u001b[26;40H#  \u001b[26;59H#  \u001b[26;76H#  \u001b[26;93H#  \u001b[12C#  "
+    ],
+    [
+      0.015256,
+      "\u001b[23;72H   \n\u001b[6D   omm \u001b[25;69H(-)_(-)"
+    ],
+    [
+      0.066285,
+      "\r\n\u001b[26;9H#  \u001b[26;27H#  \u001b[26;41H#  \u001b[26;60H#  \u001b[26;77H#  \u001b[26;94H#  \u001b[12C#\u001b[29;70H6"
+    ],
+    [
+      0.075844,
+      "\u001b[26;10H#  \u001b[26;28H#  \u001b[26;42H#  \u001b[26;61H#  \u001b[26;78H#  \u001b[26;95H#  \u001b[12C#"
+    ],
+    [
+      0.056701,
+      "\u001b[24;72HO\n\u0008\u0008\u0008|)-(|"
+    ],
+    [
+      0.027449,
+      "\u001b[5D\\)-(\\\u001b[26;11H#  \u001b[26;29H#  \u001b[26;43H#  \u001b[26;62H#  \u001b[26;79H#  \u001b[26;96H#  "
+    ],
+    [
+      0.079974,
+      "\u001b[25;70H-)-(-\u001b[26;12H#  \u001b[26;30H#  \u001b[26;44H#  \u001b[26;63H#  \u001b[26;80H#  \u001b[26;97H#  "
+    ],
+    [
+      0.080015,
+      "\u001b[25;70H/)-(/\u001b[26;13H#  \u001b[26;31H#  \u001b[26;45H#  \u001b[26;64H#  \u001b[26;81H#  \u001b[26;98H#  "
+    ],
+    [
+      0.079990,
+      "\u001b[25;70H|)-(|\u001b[26;14H#  \u001b[26;32H#  \u001b[26;46H#  \u001b[26;65H#  \u001b[26;82H#  \u001b[26;99H#  "
+    ],
+    [
+      0.008430,
+      "\u001b[24;73HMM\n\u001b[5DU)-(U"
+    ],
+    [
+      0.071558,
+      "\u001b[26;15H#  \u001b[26;33H#  \u001b[26;47H#  \u001b[26;66H#  \u001b[26;83H#  \u001b[26;100H#  "
+    ],
+    [
+      0.008498,
+      "\u001b[23;72HOMm\n\u001b[6D(|)-(|)\u001b[25;69H\u001b[K"
+    ],
+    [
+      0.071522,
+      "\u001b[26;16H#  \u001b[26;34H#  \u001b[26;48H#  \u001b[26;67H#  \u001b[26;84H#  \u001b[26;101H#  "
+    ],
+    [
+      0.077589,
+      "\r \u001b[26;17H#  \u001b[26;35H#  \u001b[26;49H#  \u001b[26;68H#  \u001b[26;85H#  \u001b[26;102H#  "
+    ],
+    [
+      0.056024,
+      "\u001b[22;72HoMm\n\u001b[6D(\\)-(\\)\u001b[24;69H\u001b[K"
+    ],
+    [
+      0.022304,
+      "\r\n\n  \u001b[26;18H#  \u001b[26;36H#  \u001b[26;50H#  \u001b[26;69H#  \u001b[26;86H#  \u001b[14C#  "
+    ],
+    [
+      0.084116,
+      "\r#  \u001b[26;19H#  \u001b[26;37H#  \u001b[26;51H#  \u001b[26;70H#  \u001b[26;87H#  \u001b[14C#  "
+    ],
+    [
+      0.079985,
+      "\r##  \u001b[26;20H#  \u001b[26;38H#  \u001b[26;52H#  \u001b[26;71H#  \u001b[26;88H#  \u001b[14C#  "
+    ],
+    [
+      0.080007,
+      "\r###  \u001b[26;21H#  \u001b[26;39H#  \u001b[26;53H#  \u001b[26;72H#  \u001b[26;89H#  \u001b[14C#  "
+    ],
+    [
+      0.079998,
+      "\r####  \u001b[26;22H#  \u001b[26;40H#  \u001b[26;54H#  \u001b[26;73H#  \u001b[26;90H#  \u001b[14C#  "
+    ],
+    [
+      0.053570,
+      "\u001b[22;72H   \n\u001b[6D   OMm \u001b[24;69H(|)-(|)"
+    ],
+    [
+      0.024749,
+      "\n\n\u001b[71D#  \u001b[26;23H#  \u001b[26;41H#  \u001b[26;55H#  \u001b[26;74H#  \u001b[26;91H#  \u001b[14C#  "
+    ],
+    [
+      0.076793,
+      "\u001b[26;1H######  \u001b[26;24H#  \u001b[26;42H#  \u001b[26;56H#  \u001b[26;75H#  \u001b[26;92H#  \u001b[14C#"
+    ],
+    [
+      0.081497,
+      "\u001b[103D#  \u001b[26;25H#  \u001b[26;43H#  \u001b[26;57H#  \u001b[26;76H#  \u001b[26;93H#  \u001b[14C#"
+    ],
+    [
+      0.014945,
+      "\u001b[23;72H   \n\u001b[6D   omm \u001b[25;69H(-)_(-)"
+    ],
+    [
+      0.068465,
+      "\n\u001b[68D#  \u001b[26;26H#  \u001b[26;44H#  \u001b[26;58H#  \u001b[26;77H#  \u001b[26;94H#  \u001b[29;69H100"
+    ],
+    [
+      0.078907,
+      "\u001b[26;9H#  \u001b[26;27H#  \u001b[26;45H#  \u001b[26;59H#  \u001b[26;78H#  \u001b[26;95H#  "
+    ],
+    [
+      0.051584,
+      "\u001b[24;72HO\n\u0008\u0008\u0008/)-(/"
+    ],
+    [
+      0.029470,
+      "\u001b[5D|)-(|\u001b[26;10H#  \u001b[26;28H#  \u001b[26;46H#  \u001b[26;60H#  \u001b[26;79H#  \u001b[26;96H#  "
+    ],
+    [
+      0.080001,
+      "\u001b[25;70H\\)-(\\\u001b[26;11H#  \u001b[26;29H#  \u001b[26;47H#  \u001b[26;61H#  \u001b[26;80H#  \u001b[26;97H#  "
+    ],
+    [
+      0.080012,
+      "\u001b[25;70H-)-(-\u001b[26;12H#  \u001b[26;30H#  \u001b[26;48H#  \u001b[26;62H#  \u001b[26;81H#  \u001b[26;98H#  "
+    ],
+    [
+      0.079975,
+      "\u001b[25;70H/)-(/\u001b[26;13H#  \u001b[26;31H#  \u001b[26;49H#  \u001b[26;63H#  \u001b[26;82H#  \u001b[26;99H#  "
+    ],
+    [
+      0.018597,
+      "\u001b[24;73HMM\n\u001b[5DU)-(U"
+    ],
+    [
+      0.058304,
+      "\u001b[26;14H#  \u001b[26;32H#  \u001b[26;50H#  \u001b[26;64H#  \u001b[26;83H#  \u001b[26;100H#  "
+    ],
+    [
+      0.026882,
+      "\u001b[23;72HOMm\n\u001b[6D(|)-(|)\u001b[25;69H\u001b[K"
+    ],
+    [
+      0.056229,
+      "\r\n \u001b[26;15H#  \u001b[26;33H#  \u001b[26;51H#  \u001b[26;65H#  \u001b[26;84H#  \u001b[26;101H#  "
+    ],
+    [
+      0.078281,
+      "\r  \u001b[26;16H#  \u001b[26;34H#  \u001b[26;52H#  \u001b[26;66H#  \u001b[26;85H#  \u001b[26;102H#  "
+    ],
+    [
+      0.060361,
+      "\u001b[22;72HoMm\n\u001b[6D(\\)-(\\)\u001b[24;69H\u001b[K"
+    ],
+    [
+      0.020383,
+      "\r\n\n#  \u001b[26;17H#  \u001b[26;35H#  \u001b[26;53H#  \u001b[26;67H#  \u001b[26;86H#  \u001b[14C#  "
+    ],
+    [
+      0.077040,
+      "\r##  \u001b[26;18H#  \u001b[26;36H#  \u001b[26;54H#  \u001b[26;68H#  \u001b[26;87H#  \u001b[14C#  "
+    ],
+    [
+      0.079557,
+      "\r###  \u001b[26;19H#  \u001b[26;37H#  \u001b[26;55H#  \u001b[26;69H#  \u001b[26;88H#  \u001b[14C#  "
+    ],
+    [
+      0.082409,
+      "\r####  \u001b[26;20H#  \u001b[26;38H#  \u001b[26;56H#  \u001b[26;70H#  \u001b[26;89H#  \u001b[14C#  "
+    ],
+    [
+      0.082097,
+      "\u001b[104D#  \u001b[26;21H#  \u001b[26;39H#  \u001b[26;57H#  \u001b[26;71H#  \u001b[26;90H#  \u001b[14C#  "
+    ],
+    [
+      0.063161,
+      "\u001b[22;72H   \n\u001b[6D   OMm \u001b[24;69H(|)-(|)"
+    ],
+    [
+      0.014619,
+      "\n\n\u001b[70D#  \u001b[26;22H#  \u001b[26;40H#  \u001b[26;58H#  \u001b[26;72H#  \u001b[26;91H#  \u001b[14C#  "
+    ],
+    [
+      0.082096,
+      "\u001b[26;1H\u001b[6C#  \u001b[26;23H#  \u001b[26;41H#  \u001b[26;59H#  \u001b[26;73H#  \u001b[26;92H#  \u001b[14C#"
+    ],
+    [
+      0.076521,
+      "\u001b[102D#  \u001b[26;24H#  \u001b[26;42H#  \u001b[26;60H#  \u001b[26;74H#  \u001b[26;93H#  \u001b[14C#"
+    ],
+    [
+      0.027237,
+      "\u001b[23;72H   \n\u001b[6D   omm \u001b[25;69H(-)_(-)"
+    ],
+    [
+      0.053367,
+      "\u001b[26;9H#  \u001b[26;25H#  \u001b[26;43H#  \u001b[26;61H#  \u001b[26;75H#  \u001b[26;94H#  \u001b[29;71H4"
+    ],
+    [
+      0.082879,
+      "\u001b[26;10H#  \u001b[26;26H#  \u001b[26;44H#  \u001b[26;62H#  \u001b[26;76H#  \u001b[26;95H#  "
+    ],
+    [
+      0.063743,
+      "\u001b[24;72HO\n\u0008-"
+    ],
+    [
+      0.014053,
+      "\u0008\u0008\u0008/)-(/\u001b[26;11H#  \u001b[26;27H#  \u001b[26;45H#  \u001b[26;63H#  \u001b[26;77H#  \u001b[26;96H#  "
+    ],
+    [
+      0.082203,
+      "\u001b[25;70H|)-(|\u001b[26;12H#  \u001b[26;28H#  \u001b[26;46H#  \u001b[26;64H#  \u001b[26;78H#  \u001b[26;97H#  "
+    ],
+    [
+      0.076633,
+      "\u001b[25;70H\\)-(\\\r\n \u001b[26;13H#  \u001b[26;29H#  \u001b[26;47H#  \u001b[26;65H#  \u001b[26;79H#  \u001b[26;98H#  "
+    ],
+    [
+      0.083360,
+      "\u001b[25;70H-)-(-\r\n  \u001b[26;14H#  \u001b[26;30H#  \u001b[26;48H#  \u001b[26;66H#  \u001b[26;80H#  \u001b[26;99H#  "
+    ],
+    [
+      0.080034,
+      "\u001b[25;70H/)-(/\r\n#  \u001b[26;15H#  \u001b[26;31H#  \u001b[26;49H#  \u001b[26;67H#  \u001b[26;81H#  \u001b[26;100H#  "
+    ],
+    [
+      0.075847,
+      "\u001b[24;72H__ \n\u001b[6DcnOMMnb\r\n##  \u001b[26;16H#  \u001b[26;32H#  \u001b[26;50H#  \u001b[26;68H# o\u001b[26;82H#  \u001b[26;101H#  "
+    ],
+    [
+      0.041322,
+      "\u001b[24;68Ho"
+    ],
+    [
+      0.042834,
+      "    __\r\n\u001b[25;69H cnOMMnb\r\n###  \u001b[26;17H#  \u001b[26;33H#  \u001b[26;51H#  \u001b[26;69H# o\u001b[26;83H#  \u001b[26;102H#  "
+    ],
+    [
+      0.080051,
+      "\u001b[24;69H     __\r\n\u001b[25;70H cnOMMnb\r\n####  \u001b[26;18H#  \u001b[26;34H#  \u001b[26;52H#  \u001b[26;70H# o\u001b[26;84H#  \u001b[16C#  "
+    ],
+    [
+      0.064910,
+      "\u001b[23;67Ho\n "
+    ],
+    [
+      0.180009,
+      "\u001b[A\u0008\u0008 \n\u0008\u0008o"
+    ],
+    [
+      0.188006,
+      "\u0008 \n\u0008\u0008o"
+    ],
+    [
+      0.182156,
+      "\u001b[A\u0008\u0008o\n "
+    ],
+    [
+      0.184775,
+      "\u001b[A\u0008\u0008\u0008o "
+    ],
+    [
+      0.183040,
+      "\u0008\u0008\u0008o "
+    ],
+    [
+      0.186025,
+      "\u0008\u0008 \n\u0008\u0008o"
+    ],
+    [
+      0.183988,
+      "\u0008\u0008o "
+    ],
+    [
+      0.181970,
+      "\u0008\u0008\u0008o "
+    ],
+    [
+      0.184291,
+      "\u0008\u0008\u0008o "
+    ],
+    [
+      0.185805,
+      "\u0008\u0008\u0008o "
+    ],
+    [
+      0.179921,
+      "\u0008\u0008\u0008o "
+    ],
+    [
+      0.188010,
+      "\u0008\u0008\u0008o "
+    ],
+    [
+      0.182625,
+      "\u0008\u0008\u0008o "
+    ],
+    [
+      0.184477,
+      "\u0008\u0008 \r\n\n\ny,SPC,RET:continu\u001b[2P"
+    ],
+    [
+      0.545679,
+      "\u0007"
+    ],
+    [
+      0.656622,
+      "\u001b[29;56H1"
+    ],
+    [
+      0.803089,
+      "\u001b[24;72HOmm \u001b[25;69H(|)-(|)  \n\u001b[73D##\u001b[26;19H##\u001b[26;35H##\u001b[26;53H##\u001b[26;71H##\u001b[26;85H##\u001b[17C##\r\n\nSPC,j:jump  a,l:fire  q,n:abort game  r,C-l:redraw"
+    ],
+    [
+      1.005065,
+      "\u001b[19;56Hgood luck (or use \u003cSPC\u003e to jump)\u001b[25;70H\\)-(\\\r\n "
+    ],
+    [
+      0.079980,
+      "\u001b[25;70H-)-(-\r\n  "
+    ],
+    [
+      0.080033,
+      "\u001b[25;70H/)-(/\r\n#  "
+    ],
+    [
+      0.080139,
+      "\u001b[25;70H|)-(|\r\n##  "
+    ],
+    [
+      0.079841,
+      "\u001b[25;70H\\)-(\\\r\n###  "
+    ],
+    [
+      0.079985,
+      "\u001b[25;70H-)-(-\r\n####  "
+    ],
+    [
+      0.080005,
+      "\u001b[25;70H/)-(/\n\u001b[70D#  "
+    ],
+    [
+      0.079967,
+      "\u001b[25;70H|)-(|\n\u001b[69D#  "
+    ],
+    [
+      0.074976,
+      "\u001b[25;70H\\)-(\\\n\u001b[68D#  "
+    ],
+    [
+      0.085063,
+      "\u001b[25;70H-)-(-\n\u001b[67D#  "
+    ],
+    [
+      0.076935,
+      "\u001b[25;70H/)-(/\u001b[26;9H#  "
+    ],
+    [
+      0.079308,
+      "\u001b[25;70H|)-(|\u001b[26;10H#  "
+    ],
+    [
+      0.083762,
+      "\u001b[25;70H\\)-(\\\u001b[26;11H#  "
+    ],
+    [
+      0.076668,
+      "\u001b[25;70H-)-(-\u001b[26;12H#  "
+    ],
+    [
+      0.083022,
+      "\u001b[25;70H/)-(/\u001b[26;13H#  "
+    ],
+    [
+      0.080289,
+      "\u001b[25;70H|)-(|\u001b[26;14H#  "
+    ],
+    [
+      0.080012,
+      "\u001b[25;70H\\)-(\\\u001b[26;15H#  "
+    ],
+    [
+      0.078379,
+      "\u001b[25;70H-)-(-\u001b[26;16H#  "
+    ],
+    [
+      0.081639,
+      "\u001b[25;70H/)-(/\u001b[26;17H#  "
+    ],
+    [
+      0.079982,
+      "\u001b[25;70H|)-(|\r\n \u001b[26;18H#  "
+    ],
+    [
+      0.075579,
+      "\u001b[25;70H\\)-(\\\r\n  \u001b[26;19H#  "
+    ],
+    [
+      0.084422,
+      "\u001b[25;70H-)-(-\r\n#  \u001b[26;20H#  "
+    ],
+    [
+      0.080035,
+      "\u001b[25;70H/)-(/\r\n##  \u001b[26;21H#  "
+    ],
+    [
+      0.079974,
+      "\u001b[25;70H|)-(|\r\n###  \u001b[26;22H#  "
+    ],
+    [
+      0.019735,
+      "\u001b[29;71H3"
+    ],
+    [
+      0.020267,
+      "\u001b[25;61H--------"
+    ],
+    [
+      0.024831,
+      "\u001b[25;60H-\u001b[7C "
+    ],
+    [
+      0.012627,
+      "(\\)-(\\\r\n####  \u001b[26;23H#  "
+    ],
+    [
+      0.002698,
+      "\u001b[25;59H-\u001b[7C "
+    ],
+    [
+      0.019660,
+      "\u001b[25;58H-\u001b[7C "
+    ],
+    [
+      0.021842,
+      "\u001b[25;57H-\u001b[7C "
+    ],
+    [
+      0.022767,
+      "\u001b[25;56H-\u001b[7C "
+    ],
+    [
+      0.012796,
+      "\u001b[5C-)-(-\n\u001b[70D#  \u001b[26;24H#  "
+    ],
+    [
+      0.002649,
+      "\u001b[25;55H-\u001b[7C "
+    ],
+    [
+      0.021617,
+      "\u001b[25;54H-\u001b[7C "
+    ],
+    [
+      0.022982,
+      "\u001b[25;53H-\u001b[7C "
+    ],
+    [
+      0.017300,
+      "\u001b[25;52H-\u001b[7C "
+    ],
+    [
+      0.015148,
+      "\u001b[25;70H/)-(/\n\u001b[69D#  \u001b[26;25H#  "
+    ],
+    [
+      0.003653,
+      "\u001b[25;51H-\u001b[7C "
+    ],
+    [
+      0.019487,
+      "\u001b[25;50H-\u001b[7C "
+    ],
+    [
+      0.024770,
+      "\u001b[25;49H-\u001b[7C "
+    ],
+    [
+      0.018810,
+      "\u001b[25;48H-\u001b[7C "
+    ],
+    [
+      0.014143,
+      "\u001b[25;70H|)-(|\n\u001b[68D#  \u001b[26;26H#  "
+    ],
+    [
+      0.002241,
+      "\u001b[25;47H-\u001b[7C "
+    ],
+    [
+      0.021159,
+      "\u001b[25;46H-\u001b[7C "
+    ],
+    [
+      0.023361,
+      "\u001b[25;45H-\u001b[7C "
+    ],
+    [
+      0.019238,
+      "\u001b[25;44H-\u001b[7C "
+    ],
+    [
+      0.013930,
+      "\u001b[25;70H\\)-(\\\n\u001b[67D#  \u001b[26;27H#  "
+    ],
+    [
+      0.002724,
+      "\u001b[25;43H-\u001b[7C "
+    ],
+    [
+      0.020010,
+      "\u001b[25;42H-\u001b[7C "
+    ],
+    [
+      0.024328,
+      "\u001b[25;41H-\u001b[7C "
+    ],
+    [
+      0.015052,
+      "\u001b[25;40H-\u001b[7C "
+    ],
+    [
+      0.015360,
+      "\u001b[25;70H-)-(-\u001b[26;9H#  \u001b[26;28H#  "
+    ],
+    [
+      0.005798,
+      "\u001b[25;39H-\u001b[7C "
+    ],
+    [
+      0.022237,
+      "\u001b[25;38H-\u001b[7C "
+    ],
+    [
+      0.018010,
+      "\u001b[25;37H-\u001b[7C "
+    ],
+    [
+      0.023271,
+      "\u001b[25;36H-\u001b[7C "
+    ],
+    [
+      0.013044,
+      "\u001b[25;70H/)-(/\u001b[26;10H#  \u001b[26;29H#  "
+    ],
+    [
+      0.002584,
+      "\u001b[A   -\u001b[7C "
+    ],
+    [
+      0.020333,
+      "\u001b[25;34H-\u001b[7C "
+    ],
+    [
+      0.022691,
+      "\u001b[25;33H-\u001b[7C "
+    ],
+    [
+      0.017597,
+      "\u001b[25;32H-\u001b[7C "
+    ],
+    [
+      0.014936,
+      "\u001b[25;70H|)-(|\u001b[26;11H#  \u001b[26;30H#  "
+    ],
+    [
+      0.005247,
+      "\u001b[A\u0008\u0008-\u001b[7C "
+    ],
+    [
+      0.022597,
+      "\u001b[25;30H-\u001b[7C "
+    ],
+    [
+      0.020453,
+      "\u001b[25;29H-\u001b[7C "
+    ],
+    [
+      0.019859,
+      "\u001b[25;28H-\u001b[7C "
+    ],
+    [
+      0.013866,
+      "\u001b[25;70H\\)-(\\\u001b[26;12H#  \u001b[26;31H#  "
+    ],
+    [
+      0.002592,
+      "\u001b[25;27H-\u001b[7C "
+    ],
+    [
+      0.024468,
+      "\u001b[25;26H-\u001b[7C "
+    ],
+    [
+      0.015071,
+      "\u001b[25;25H-\u001b[7C "
+    ],
+    [
+      0.025062,
+      "\u001b[25;24H-\u001b[7C "
+    ],
+    [
+      0.012383,
+      "\u001b[25;70H-)-(-\u001b[26;13H#  \u001b[26;32H#  "
+    ],
+    [
+      0.003015,
+      "\u001b[25;23H-\u001b[7C "
+    ],
+    [
+      0.020375,
+      "\u001b[25;22H-\u001b[7C "
+    ],
+    [
+      0.020998,
+      "\u001b[25;21H-\u001b[7C "
+    ],
+    [
+      0.018295,
+      "\u001b[25;21H**      "
+    ],
+    [
+      0.015291,
+      "\u001b[25;70H/)-(/\u001b[26;14H#  \u001b[26;33H#  "
+    ],
+    [
+      0.069661,
+      "\u001b[25;21H **"
+    ],
+    [
+      0.012536,
+      "\u001b[25;70H|)-(|\u001b[26;15H#  \u001b[26;34H#  "
+    ],
+    [
+      0.065313,
+      "\u001b[25;22H **"
+    ],
+    [
+      0.013787,
+      "\u001b[25;70H\\)-(\\\r\n \u001b[26;16H#  \u001b[26;35H#  "
+    ],
+    [
+      0.068376,
+      "\u001b[25;23H .."
+    ],
+    [
+      0.012502,
+      "\u001b[25;70H-)-(-\r\n  \u001b[26;17H#  \u001b[26;36H#  "
+    ],
+    [
+      0.067470,
+      "\u001b[25;24H  "
+    ],
+    [
+      0.011366,
+      "\u001b[25;70H/)-(/\r\n#  \u001b[26;18H#  \u001b[26;37H#  "
+    ],
+    [
+      0.083720,
+      "\u001b[25;70H|)-(|\r\n##  \u001b[26;19H#  \u001b[26;38H#  "
+    ],
+    [
+      0.075141,
+      "\u001b[25;70H\\)-(\\\r\n###  \u001b[26;20H#  \u001b[26;39H#  "
+    ],
+    [
+      0.084865,
+      "\u001b[25;70H-)-(-\r\n####  \u001b[26;21H#  \u001b[26;40H#  "
+    ],
+    [
+      0.080037,
+      "\u001b[25;70H/)-(/\n\u001b[70D#  \u001b[26;22H#  \u001b[26;41H#  "
+    ],
+    [
+      0.079974,
+      "\u001b[25;70H|)-(|\n\u001b[69D#  \u001b[26;23H#  \u001b[26;42H#  "
+    ],
+    [
+      0.034268,
+      "\u001b[29;71H2"
+    ],
+    [
+      0.020124,
+      "\u001b[25;61H--------"
+    ],
+    [
+      0.022629,
+      "\u001b[25;60H-\u001b[7C (\\)-(\\\n\u001b[68D#  \u001b[26;24H#  \u001b[26;43H#  "
+    ],
+    [
+      0.021708,
+      "\u001b[25;59H-\u001b[7C "
+    ],
+    [
+      0.019600,
+      "\u001b[25;58H-\u001b[7C "
+    ],
+    [
+      0.020088,
+      "\u001b[25;57H-\u001b[7C "
+    ],
+    [
+      0.016016,
+      "\u001b[25;56H-\u001b[7C "
+    ],
+    [
+      0.000496,
+      "\u001b[5C-)-(-\n\u001b[67D#  \u001b[26;25H#  \u001b[26;44H#  "
+    ],
+    [
+      0.024336,
+      "\u001b[25;55H-\u001b[7C "
+    ],
+    [
+      0.018931,
+      "\u001b[25;54H-\u001b[7C "
+    ],
+    [
+      0.020269,
+      "\u001b[25;53H-\u001b[7C "
+    ],
+    [
+      0.019977,
+      "\u001b[25;52H-\u001b[7C \u001b[25;70H/)-(/\u001b[26;9H#  \u001b[26;26H#  \u001b[26;45H#  "
+    ],
+    [
+      0.016078,
+      "\u001b[A   -\u001b[7C "
+    ],
+    [
+      0.020528,
+      "\u001b[25;50H-\u001b[7C "
+    ],
+    [
+      0.024187,
+      "\u001b[25;49H-\u001b[7C "
+    ],
+    [
+      0.019024,
+      "\u001b[25;48H-\u001b[7C \u001b[25;70H|)-(|\u001b[26;10H#  \u001b[26;27H#  \u001b[26;46H#  "
+    ],
+    [
+      0.020185,
+      "\u001b[A\u0008\u0008-\u001b[7C "
+    ],
+    [
+      0.016080,
+      "\u001b[25;46H-\u001b[7C "
+    ],
+    [
+      0.022920,
+      "\u001b[25;45H-\u001b[7C "
+    ],
+    [
+      0.021242,
+      "\u001b[25;44H-\u001b[7C \u001b[25;70H\\)-(\\\u001b[26;11H#  \u001b[26;28H#  \u001b[26;47H#  "
+    ],
+    [
+      0.016863,
+      "\u001b[25;43H-\u001b[7C "
+    ],
+    [
+      0.023572,
+      "\u001b[25;42H-\u001b[7C "
+    ],
+    [
+      0.015247,
+      "\u001b[25;41H-\u001b[7C "
+    ],
+    [
+      0.025110,
+      "\u001b[25;40H-\u001b[7C \u001b[25;70H-)-(-\u001b[26;12H#  \u001b[26;29H#  \u001b[26;48H#  "
+    ],
+    [
+      0.014871,
+      "\u001b[25;39H-\u001b[7C "
+    ],
+    [
+      0.024567,
+      "\u001b[25;38H-\u001b[7C "
+    ],
+    [
+      0.015408,
+      "\u001b[25;37H-\u001b[7C "
+    ],
+    [
+      0.022047,
+      "\u001b[19;56H\u001b[K\u001b[25;36H-\u001b[7C \u001b[25;70H/)-(/\u001b[26;13H#  \u001b[26;30H#  \u001b[26;49H#  "
+    ],
+    [
+      0.022525,
+      "\u001b[25;35H-\u001b[7C "
+    ],
+    [
+      0.015608,
+      "\u001b[25;34H-\u001b[7C "
+    ],
+    [
+      0.024423,
+      "\u001b[25;33H-\u001b[7C "
+    ],
+    [
+      0.019382,
+      "\u001b[25;32H-\u001b[7C \u001b[25;70H|)-(|\u001b[26;14H#  \u001b[26;31H#  \u001b[26;50H#  "
+    ],
+    [
+      0.016104,
+      "\u001b[25;31H-\u001b[7C "
+    ],
+    [
+      0.025004,
+      "\u001b[25;30H-\u001b[7C "
+    ],
+    [
+      0.018718,
+      "\u001b[25;29H-\u001b[7C "
+    ],
+    [
+      0.020369,
+      "\u001b[25;28H-\u001b[7C \u001b[25;70H\\)-(\\\u001b[26;15H#  \u001b[26;32H#  \u001b[26;51H#  "
+    ],
+    [
+      0.019883,
+      "\u001b[25;27H-\u001b[7C "
+    ],
+    [
+      0.016087,
+      "\u001b[25;26H-\u001b[7C "
+    ],
+    [
+      0.020871,
+      "\u001b[25;25H-\u001b[7C "
+    ],
+    [
+      0.020250,
+      "\u001b[25;24H-\u001b[7C \u001b[25;70H-)-(-\u001b[26;16H#  \u001b[26;33H#  \u001b[26;52H#  "
+    ],
+    [
+      0.022924,
+      "\u001b[25;23H-\u001b[7C "
+    ],
+    [
+      0.019867,
+      "\u001b[25;22H-\u001b[7C "
+    ],
+    [
+      0.016108,
+      "\u001b[25;21H-\u001b[7C "
+    ],
+    [
+      0.024952,
+      "\u001b[25;21H**      \u001b[25;70H/)-(/\r\n \u001b[26;17H#  \u001b[26;34H#  \u001b[26;53H#  "
+    ],
+    [
+      0.078885,
+      "\u001b[25;21H **\u001b[25;70H|)-(|\r\n  \u001b[26;18H#  \u001b[26;35H#  \u001b[26;54H#  "
+    ],
+    [
+      0.081157,
+      "\u001b[25;22H **\u001b[25;70H\\)-(\\\r\n#  \u001b[26;19H#  \u001b[26;36H#  \u001b[26;55H#  "
+    ],
+    [
+      0.080041,
+      "\u001b[25;23H ..\u001b[25;70H-)-(-\r\n##  \u001b[26;20H#  \u001b[26;37H#  \u001b[26;56H#  "
+    ],
+    [
+      0.080000,
+      "\u001b[25;24H  \u001b[25;70H/)-(/\r\n###  \u001b[26;21H#  \u001b[26;38H#  \u001b[26;57H#  "
+    ],
+    [
+      0.080451,
+      "\u001b[25;70H|)-(|\r\n####  \u001b[26;22H#  \u001b[26;39H#  \u001b[26;58H#  "
+    ],
+    [
+      0.078557,
+      "\u001b[25;70H\\)-(\\\n\u001b[70D#  \u001b[26;23H#  \u001b[26;40H#  \u001b[26;59H#  "
+    ],
+    [
+      0.076504,
+      "\u001b[25;70H-)-(-\n\u001b[69D#  \u001b[26;24H#  \u001b[26;41H#  \u001b[26;60H#  "
+    ],
+    [
+      0.084957,
+      "\u001b[25;70H/)-(/\n\u001b[68D#  \u001b[26;25H#  \u001b[26;42H#  \u001b[26;61H#  "
+    ],
+    [
+      0.076850,
+      "\u001b[25;70H|)-(|\n\u001b[67D#  \u001b[26;26H#  \u001b[26;43H#  \u001b[26;62H#  "
+    ],
+    [
+      0.083150,
+      "\u001b[25;70H\\)-(\\\u001b[26;9H#  \u001b[26;27H#  \u001b[26;44H#  \u001b[26;63H#  "
+    ],
+    [
+      0.076588,
+      "\u001b[A   (-)-(-\u001b[26;10H#  \u001b[26;28H#  \u001b[26;45H#  \u001b[26;64H#  "
+    ],
+    [
+      0.083436,
+      "\u001b[A  (/)-(/\u001b[26;11H#  \u001b[26;29H#  \u001b[26;46H#  \u001b[26;65H#  "
+    ],
+    [
+      0.066063,
+      "\u001b[24;73HMM\n\u001b[5DU)-(U"
+    ],
+    [
+      0.011039,
+      "\u001b[26;12H#  \u001b[26;30H#  \u001b[26;47H#  \u001b[26;66H#  "
+    ],
+    [
+      0.072397,
+      "\u001b[23;72HOMm\n\u001b[6D(|)-(|)\u001b[25;69H\u001b[K"
+    ],
+    [
+      0.006804,
+      "\u001b[26;13H#  \u001b[26;31H#  \u001b[26;48H#  \u001b[26;67H#  "
+    ],
+    [
+      0.083643,
+      "\u001b[26;14H#  \u001b[26;32H#  \u001b[26;49H#  \u001b[26;68H#  "
+    ],
+    [
+      0.080004,
+      "\u001b[26;15H#  \u001b[26;33H#  \u001b[26;50H#  \u001b[26;69H#  "
+    ],
+    [
+      0.031327,
+      "\u001b[4AoMm\n\u001b[6D(\\)-(\\)\u001b[24;69H\u001b[K"
+    ],
+    [
+      0.047418,
+      "\r\n\n \u001b[26;16H#  \u001b[26;34H#  \u001b[26;51H#  \u001b[26;70H#  "
+    ],
+    [
+      0.081299,
+      "\r  \u001b[26;17H#  \u001b[26;35H#  \u001b[26;52H#  \u001b[26;71H#  "
+    ],
+    [
+      0.079980,
+      "\r#  \u001b[26;18H#  \u001b[26;36H#  \u001b[26;53H#  \u001b[26;72H#  "
+    ],
+    [
+      0.080008,
+      "\r##  \u001b[26;19H#  \u001b[26;37H#  \u001b[26;54H#  \u001b[26;73H#  "
+    ],
+    [
+      0.079995,
+      "\r###  \u001b[26;20H#  \u001b[26;38H#  \u001b[26;55H#  \u001b[26;74H#  "
+    ],
+    [
+      0.027489,
+      "\u001b[22;72H   \n\u001b[6D   OMm \u001b[24;69H(|)-(|)"
+    ],
+    [
+      0.052496,
+      "\r\n\n####  \u001b[26;21H#  \u001b[26;39H#  \u001b[26;56H#  \u001b[26;75H#  "
+    ],
+    [
+      0.080012,
+      "\u001b[73D#  \u001b[26;22H#  \u001b[26;40H#  \u001b[26;57H#  \u001b[26;76H#  "
+    ],
+    [
+      0.071338,
+      "\u001b[23;72H   \n\u001b[6D   omm \u001b[25;69H(-)_(-)"
+    ],
+    [
+      0.003613,
+      "\n\u001b[70D#  \u001b[26;23H#  \u001b[26;41H#  \u001b[26;58H#  \u001b[26;77H#  \u001b[29;71H6"
+    ],
+    [
+      0.084816,
+      "\u001b[26;7H#  \u001b[26;24H#  \u001b[26;42H#  \u001b[26;59H#  \u001b[26;78H#  "
+    ],
+    [
+      0.080219,
+      "\u001b[73D#  \u001b[26;25H#  \u001b[26;43H#  \u001b[26;60H#  \u001b[26;79H#  "
+    ],
+    [
+      0.031267,
+      "\u001b[24;72HO\n\u0008\u0008\u0008/)-(/"
+    ],
+    [
+      0.048648,
+      "\u001b[5D|)-(|\u001b[26;9H#  \u001b[26;26H#  \u001b[26;44H#  \u001b[26;61H#  \u001b[26;80H#  "
+    ],
+    [
+      0.080219,
+      "\u001b[25;70H\\)-(\\\u001b[26;10H#  \u001b[26;27H#  \u001b[26;45H#  \u001b[26;62H#  \u001b[26;81H#  "
+    ],
+    [
+      0.079877,
+      "\u001b[25;70H-)-(-\u001b[26;11H#  \u001b[26;28H#  \u001b[26;46H#  \u001b[26;63H#  \u001b[26;82H#  "
+    ],
+    [
+      0.079989,
+      "\u001b[25;70H/)-(/\u001b[26;12H#  \u001b[26;29H#  \u001b[26;47H#  \u001b[26;64H#  \u001b[26;83H#  "
+    ],
+    [
+      0.080073,
+      "\u001b[25;70H|)-(|\u001b[26;13H#  \u001b[26;30H#  \u001b[26;48H#  \u001b[26;65H#  \u001b[26;84H#  "
+    ],
+    [
+      0.080004,
+      "\u001b[25;70H\\)-(\\\u001b[26;14H#  \u001b[26;31H#  \u001b[26;49H#  \u001b[26;66H#  \u001b[26;85H#  "
+    ],
+    [
+      0.079932,
+      "\u001b[25;70H-)-(-\u001b[26;15H#  \u001b[26;32H#  \u001b[26;50H#  \u001b[26;67H#  \u001b[26;86H#  "
+    ],
+    [
+      0.080036,
+      "\u001b[24;72H__ \n\u001b[6DcnOMMnb\r\n \u001b[26;16H#  \u001b[26;33H#  \u001b[26;51H#  \u001b[26;68H# o\u001b[26;87H#  "
+    ],
+    [
+      0.045141,
+      "\u001b[24;68Ho"
+    ],
+    [
+      0.034840,
+      "    __\r\n\u001b[25;69H cnOMMnb\r\n  \u001b[26;17H#  \u001b[26;34H#  \u001b[26;52H#  \u001b[26;69H# o\u001b[26;88H#  "
+    ],
+    [
+      0.076715,
+      "\u001b[24;69H     __\r\n\u001b[25;70H cnOMMnb\r\n#  \u001b[26;18H#  \u001b[26;35H#  \u001b[26;53H#  \u001b[26;70H# o\u001b[26;89H#  "
+    ],
+    [
+      0.067463,
+      "\u001b[23;67Ho\n "
+    ],
+    [
+      0.185990,
+      "\u001b[A\u0008\u0008 \n\u0008\u0008o"
+    ],
+    [
+      0.186987,
+      "\u0008 \n\u0008\u0008o"
+    ],
+    [
+      0.184016,
+      "\u001b[A\u0008\u0008o\n "
+    ],
+    [
+      0.178819,
+      "\u001b[A\u0008\u0008\u0008o "
+    ],
+    [
+      0.188767,
+      "\u0008\u0008\u0008o "
+    ],
+    [
+      0.184397,
+      "\u0008\u0008 \n\u0008\u0008o"
+    ],
+    [
+      0.183990,
+      "\u0008\u0008o "
+    ],
+    [
+      0.183023,
+      "\u0008\u0008\u0008o "
+    ],
+    [
+      0.184976,
+      "\u0008\u0008\u0008o "
+    ],
+    [
+      0.184015,
+      "\u0008\u0008\u0008o "
+    ],
+    [
+      0.073006,
+      "\u001b[19;68HGAME OVER\u001b[25;57H\u001b[m \r\n\n\ny,SPC,RET:continu\u001b[2P"
+    ],
+    [
+      1.202197,
+      "\u001b[29;56H0"
+    ],
+    [
+      0.705872,
+      "\u001b[19;68H\u001b[K\r\u001b[9Bloading score file ...\u001b[K"
+    ],
+    [
+      0.004384,
+      "\u001b[2;6Hrank   score lvl     date  expires  name\n\n\u001b[38D1     1000 1    2016-01-19  --   Dwalin\n\u001b[39D2\u001b[6C990 1    2016-01-19  --   Nori\n\u001b[37D3\u001b[6C980 1    2016-01-19  --   Dwalin\n\u001b[39D...\n\u0008\u0008\u0008\u000885\u001b[6C160 1    2016-01-19  40d  Nori\n\u001b[38D86\u001b[6C150 1    2016-01-19  38d  Dwalin\n\u001b[40D87\u001b[6C140 1    2016-01-19  36d  Nori\n\u001b[38D88\u001b[6C130 1    2016-01-19  35d  Bombur\n\u001b[40D89\u001b[6C120 1    2016-01-19  33d  Nori\n\u001b[38D90\u001b[6C110 1    2016-01-19  31d  Bifur\n\u001b[39D91\u001b[6C100 1    2016-01-19  30d  Kili\n\u001b[38D92\u001b[7C90 1    2016-01-19  28d  Gloin\n\u001b[39D93\u001b[7C80 1    2016-01-19  26d  Gloin\n\u001b[39D94\u001b[7C72 1    2016-01-19  24d  Sergey Bronnikov\n\u001b[50D95\u001b[7C70 1    2016-01-19  23d  Thorin\n\u001b[39D...\u001b[21;18Hyour score: 106\r\u001b[7By,SPC,RET:new game  q,n:quit  UP,C-p:up  DOWN,C-n:down  PREV,b:pg up  NEXT:pg down  s:reload  r,C-l:redraw"
+    ],
+    [
+      0.000107,
+      "\rplease enter your name (default: \"Sergey Bronnikov\"):\u001b[K "
+    ],
+    [
+      3.042118,
+      "\r"
+    ],
+    [
+      0.000061,
+      "writing score file ...\u001b[K"
+    ],
+    [
+      0.002313,
+      "\u001b[14;6H\u001b[7m 91      106 1    2016-01-19  30d  Sergey Bronnikov\u001b[15;15H\u001b[m10\u001b[15;41HKili \u001b[16;16H9\n\u000880\u001b[17;41HGloin\u001b[K\u001b[18;17H2\u001b[18;41HSergey Bronnikov\u001b[22;18Hyour rank: 91\r\u001b[6By,SPC,RET:new game  q,n:quit  UP,C-p:up  DOWN,C-n:down  PREV,b:pg up  NEXT:pg down  s:reload  r,C-l:redraw"
+    ],
+    [
+      1.256886,
+      "\u001b[8;18r\u001b[18;1H\n\u001b[1;29r\u001b[18;7H96\u001b[7C70 1    2016-01-19  21d  Thorin"
+    ],
+    [
+      1.730879,
+      "\u001b[19;68HGAME OVER"
+    ],
+    [
+      0.000034,
+      "\u001b[28;107H"
+    ],
+    [
+      0.000047,
+      "\r\n\u001b[J"
+    ],
+    [
+      0.000009,
+      "\u001b[29;1H\u001b[2J\u001b[?47l\u001b8\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.006618,
+      "\u001b[0;36m~/source/moon-buggy-1.0.51\u001b[01m\u001b[30m$\u001b[0m "
+    ],
+    [
+      1.418293,
+      "exit\r\n"
+    ]
+  ]
+}
