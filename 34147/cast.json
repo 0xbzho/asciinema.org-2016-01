@@ -1,0 +1,458 @@
+{
+  "version": 1,
+  "width": 90,
+  "height": 30,
+  "duration": 49.230232,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.166122,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/python/me/kmom01/hello$\u001b(B\u001b[m "
+    ],
+    [
+      1.823556,
+      "l"
+    ],
+    [
+      0.095896,
+      "s"
+    ],
+    [
+      0.064822,
+      "\r\n"
+    ],
+    [
+      0.000757,
+      "hello.py\r\n"
+    ],
+    [
+      0.000221,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/python/me/kmom01/hello$\u001b(B\u001b[m "
+    ],
+    [
+      1.278297,
+      "d"
+    ],
+    [
+      0.063946,
+      "b"
+    ],
+    [
+      0.096019,
+      "w"
+    ],
+    [
+      0.048026,
+      "e"
+    ],
+    [
+      0.063965,
+      "b"
+    ],
+    [
+      0.160077,
+      "b"
+    ],
+    [
+      0.127975,
+      " "
+    ],
+    [
+      0.160006,
+      "v"
+    ],
+    [
+      0.151970,
+      "a"
+    ],
+    [
+      0.111981,
+      "l"
+    ],
+    [
+      0.080023,
+      "i"
+    ],
+    [
+      0.288019,
+      "d"
+    ],
+    [
+      0.103997,
+      "a"
+    ],
+    [
+      0.191997,
+      "t"
+    ],
+    [
+      0.095993,
+      "e"
+    ],
+    [
+      0.984122,
+      " "
+    ],
+    [
+      0.199891,
+      "h"
+    ],
+    [
+      0.087980,
+      "e"
+    ],
+    [
+      0.136041,
+      "l"
+    ],
+    [
+      0.151995,
+      "l"
+    ],
+    [
+      0.191963,
+      "o"
+    ],
+    [
+      0.248326,
+      "\r\n"
+    ],
+    [
+      0.013157,
+      "Uploading the directory '/home/mos/dbwebb-kurser/python/me/kmom01/hello/' to 'mosstud@ssh.student.bth.se:dbwebb-kurser/python/me/kmom01/hello/' for validation.\r\n"
+    ],
+    [
+      0.690900,
+      "sending incremental file list\r\n"
+    ],
+    [
+      0.055124,
+      "deleting dbwebb validate python\r\n"
+    ],
+    [
+      0.000296,
+      "./\r\n"
+    ],
+    [
+      0.117446,
+      "\r\nsent 83 bytes  received 41 bytes  82.67 bytes/sec\r\ntotal size is 465  speedup is 3.75\r\n"
+    ],
+    [
+      0.586537,
+      "sending incremental file list\r\n"
+    ],
+    [
+      0.157806,
+      "\r\nsent 180 bytes  received 12 bytes  128.00 bytes/sec\r\ntotal size is 3,406  speedup is 17.74\r\n"
+    ],
+    [
+      0.607338,
+      "Validating 'dbwebb-kurser/python/me/kmom01/hello'.\r\n"
+    ],
+    [
+      0.000201,
+      " *.py using pylint"
+    ],
+    [
+      0.255721,
+      "\r\n\r\n\u001b[43mWARNING\u001b[0m pylint failed: 'dbwebb-kurser/python/me/kmom01/hello/hello.py'\r\n************* Module hello\r\nW: 22, 0: Redefining built-in 'str' (redefined-builtin)\r\n\r\n. (1)\r\n *.cgi using pylint"
+    ],
+    [
+      0.004393,
+      " (0)\r\n\r\n\u001b[0;37;41mFAILED\u001b[0m Asserts: 1 Faults: 1\r\n\r\n"
+    ],
+    [
+      0.001954,
+      "\u001b[1;37;40mDONE\u001b[0m to validate course results.\r\nSaved a log of the output: less -R '/home/mos/.dbwebb-validate.log'\r\n"
+    ],
+    [
+      0.000119,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/python/me/kmom01/hello$\u001b(B\u001b[m "
+    ],
+    [
+      2.628756,
+      "n"
+    ],
+    [
+      0.096000,
+      "a"
+    ],
+    [
+      0.096125,
+      "n"
+    ],
+    [
+      0.191850,
+      "o"
+    ],
+    [
+      0.471979,
+      " "
+    ],
+    [
+      0.592055,
+      "h"
+    ],
+    [
+      0.147452,
+      "ello.py "
+    ],
+    [
+      2.972825,
+      "\r\n"
+    ],
+    [
+      0.023483,
+      "\u001b[?1049h\u001b[1;30r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000004,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000021,
+      "\u001b[?1h\u001b=\u001b[?1h\u001b="
+    ],
+    [
+      0.001778,
+      "\u001b[39;49m\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J\u001b(B\u001b[0;7m  GNU nano 2.4.2                  File: hello.py                                          \u001b[3;1H\u001b(B\u001b[0;1m\u001b[31m#!/usr/bin/env python3\r\u001b[4d# -*- coding: utf-8 -*-\r\u001b[5d\u001b(B\u001b[0m\u001b[42m \u001b[6d\u0008\u001b(B\u001b[0;1m\u001b[32m\"\"\"\r\u001b[7d\u001b[39m\u001b(B\u001b[mSome various ways of saying Hello World \u001b(B\u001b[0;1m\u001b[36min\u001b[39m\u001b(B\u001b[m Python\r\u001b[8d\u001b(B\u001b[0;1m\u001b[32m\"\"\"\r\u001b[9d\u001b(B\u001b[0m\u001b[42m \u001b[10d\u0008\u001b(B\u001b[0;1m\u001b[31m# Define a function\r\u001b[11d\u001b[36mdef\u001b[34m hello\u001b[39m\u001b(B\u001b[m():\u001b[12;5H\u001b(B\u001b[0;1m\u001b[32m\"\"\"\u001b[13;5H\u001b[39m\u001b(B\u001b[mPrint out Hello World \u001b(B\u001b[0;1m\u001b[36min\u001b[39m\u001b(B\u001b[m a function.\u001b[14;5H\u001b(B\u001b[0;1m\u001b[32m\"\"\"\u001b[15;5H\u001b[36mprint\u001b[39m\u001b(B\u001b[m(\u001b(B\u001b[0;1m\u001b[32m\"Hello World in a function.\"\u001b[39m\u001b(B\u001b[m)\r\u001b[16d\u001b[42m \u001b[17d\u0008\u001b(B\u001b[0;1m\u001b[31m# Call a function that prints out Hello World\r\u001b[18d\u001b[39m\u001b(B\u001b[mhello()\r\u001b[19d\u001b[42m \u001b[20d\u0008\u001b(B\u001b[0;1m\u001b[31m# Print out Hello World\u001b(B\u001b[0m\u001b[42m \r\u001b[21d\u001b(B\u001b[0;1m\u001b[36mprint\u001b[39m\u001b(B\u001b[m(\u001b(B\u001b[0;1m\u001b[32m\"Just saying Hello World\"\u001b[39m\u001b(B\u001b[m)\r\u001b[22d\u001b[42m \u001b[23d\u0008\u001b(B\u001b[0;1m\u001b[31m# Assign the string Hello World to a variable and print it out\r\u001b[24d\u001b[39m\u001b(B\u001b[mstr = \u001b(B\u001b[0;1m\u001b[32m\"Hello World in a variable\"\r\u001b[25d\u001b[36mprint\u001b[39m\u001b(B\u001b[m(str)\u001b[28;37H\u001b(B\u001b[0;7m[ Read 23 lines ]\r\u001b[29d^G\u001b(B\u001b[m Get Help    \u001b(B\u001b[0;7m^O\u001b(B\u001b[m Write Out   \u001b(B\u001b[0;7m^W\u001b(B\u001b[m Where Is    \u001b(B\u001b[0;7m^K\u001b(B\u001b[m Cut Text    \u001b(B\u001b[0;7m^J\u001b(B\u001b[m Justify     \u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cur Pos\r\u001b[30d\u001b(B\u001b[0;7m^X\u001b(B\u001b[m Exit\u001b[30;16H\u001b(B\u001b[0;7m^R\u001b(B\u001b[m Read File   \u001b(B\u001b[0;7m^\\\u001b(B\u001b[m Replace     \u001b(B\u001b[0;7m^U\u001b(B\u001b[m Uncut Text  \u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Linter   \u001b(B\u001b[0;7m^_\u001b(B\u001b[m Go To Line\r\u001b[3d"
+    ],
+    [
+      0.918497,
+      "\u001b[4d\u001b(B\u001b[0;1m\u001b[31m# -*- coding: utf-8 -*-\u001b[39m\u001b(B\u001b[m\u001b[K\r"
+    ],
+    [
+      0.431949,
+      "\u001b[5d\u001b[42m \u001b[49m\u001b(B\u001b[m\u001b[K\u0008"
+    ],
+    [
+      0.659927,
+      "\u001b[6d\u001b(B\u001b[0;1m\u001b[32m\"\"\"\u001b[39m\u001b(B\u001b[m\u001b[K\r"
+    ],
+    [
+      0.040050,
+      "\u001b[7dSome various ways of saying Hello World \u001b(B\u001b[0;1m\u001b[36min\u001b[39m\u001b(B\u001b[m Python\u001b[K\r"
+    ],
+    [
+      0.039463,
+      "\u001b[8d\u001b(B\u001b[0;1m\u001b[32m\"\"\"\u001b[39m\u001b(B\u001b[m\u001b[K\r"
+    ],
+    [
+      0.040041,
+      "\u001b[9d\u001b[42m \u001b[49m\u001b(B\u001b[m\u001b[K\u0008"
+    ],
+    [
+      0.040915,
+      "\u001b[10d\u001b(B\u001b[0;1m\u001b[31m# Define a function\u001b[39m\u001b(B\u001b[m\u001b[K\r"
+    ],
+    [
+      0.040863,
+      "\u001b[11d\u001b(B\u001b[0;1m\u001b[36mdef\u001b[34m hello\u001b[39m\u001b(B\u001b[m():\u001b[K\r"
+    ],
+    [
+      0.039206,
+      "\u001b[12d    \u001b(B\u001b[0;1m\u001b[32m\"\"\"\u001b[39m\u001b(B\u001b[m\u001b[K\r"
+    ],
+    [
+      0.040041,
+      "\u001b[13d    Print out Hello World \u001b(B\u001b[0;1m\u001b[36min\u001b[39m\u001b(B\u001b[m a function.\u001b[K\r"
+    ],
+    [
+      0.040472,
+      "\u001b[14d    \u001b(B\u001b[0;1m\u001b[32m\"\"\"\u001b[39m\u001b(B\u001b[m\u001b[K\r"
+    ],
+    [
+      0.039556,
+      "\u001b[15d    \u001b(B\u001b[0;1m\u001b[36mprint\u001b[39m\u001b(B\u001b[m(\u001b(B\u001b[0;1m\u001b[32m\"Hello World in a function.\"\u001b[39m\u001b(B\u001b[m)\u001b[K\r"
+    ],
+    [
+      0.040917,
+      "\u001b[16d\u001b[42m \u001b[49m\u001b(B\u001b[m\u001b[K\u0008"
+    ],
+    [
+      0.040891,
+      "\u001b[17d\u001b(B\u001b[0;1m\u001b[31m# Call a function that prints out Hello World\u001b[39m\u001b(B\u001b[m\u001b[K\r"
+    ],
+    [
+      0.039075,
+      "\u001b[18dhello()\u001b[K\r"
+    ],
+    [
+      0.040954,
+      "\u001b[19d\u001b[42m \u001b[49m\u001b(B\u001b[m\u001b[K\u0008"
+    ],
+    [
+      0.040063,
+      "\u001b[20d\u001b(B\u001b[0;1m\u001b[31m# Print out Hello World\u001b(B\u001b[0m\u001b[42m \u001b[49m\u001b(B\u001b[m\u001b[K\r"
+    ],
+    [
+      0.040030,
+      "\u001b[21d\u001b(B\u001b[0;1m\u001b[36mprint\u001b[39m\u001b(B\u001b[m(\u001b(B\u001b[0;1m\u001b[32m\"Just saying Hello World\"\u001b[39m\u001b(B\u001b[m)\u001b[K\r"
+    ],
+    [
+      0.040031,
+      "\u001b[22d\u001b[42m \u001b[49m\u001b(B\u001b[m\u001b[K\u0008"
+    ],
+    [
+      0.040138,
+      "\u001b[23d\u001b(B\u001b[0;1m\u001b[31m# Assign the string Hello World to a variable and print it out\u001b[39m\u001b(B\u001b[m\u001b[K\r"
+    ],
+    [
+      0.039898,
+      "\u001b[24dstr = \u001b(B\u001b[0;1m\u001b[32m\"Hello World in a variable\"\u001b[39m\u001b(B\u001b[m\u001b[K\r"
+    ],
+    [
+      0.040286,
+      "\u001b[25d\u001b(B\u001b[0;1m\u001b[36mprint\u001b[39m\u001b(B\u001b[m(str)\u001b[K\r"
+    ],
+    [
+      0.401200,
+      "\u001b[26d\u001b[K"
+    ],
+    [
+      0.512018,
+      "\u001b[A\u001b(B\u001b[0;1m\u001b[36mprint\u001b[39m\u001b(B\u001b[m(str)\u001b[K\r"
+    ],
+    [
+      0.200068,
+      "\u001b[Astr = \u001b(B\u001b[0;1m\u001b[32m\"Hello World in a variable\"\u001b[39m\u001b(B\u001b[m\u001b[K\r"
+    ],
+    [
+      0.271912,
+      "\u001b[28d\u001b[K\u001b[24ds"
+    ],
+    [
+      0.191940,
+      "t"
+    ],
+    [
+      0.192022,
+      "r"
+    ],
+    [
+      0.840892,
+      "\u001b[1;81H\u001b(B\u001b[0;7mModified\r\u001b[3d\u001b(B\u001b[0;1m\u001b[31m#!/usr/bin/env python3\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[4d\u001b(B\u001b[0;1m\u001b[31m# -*- coding: utf-8 -*-\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[5d\u001b[42m \u001b[49m\u001b(B\u001b[m\u001b[K\u001b[6d\u0008\u001b(B\u001b[0;1m\u001b[32m\"\"\"\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[7dSome various ways of saying Hello World \u001b(B\u001b[0;1m\u001b[36min\u001b[39m\u001b(B\u001b[m Python\u001b[K\r\u001b[8d\u001b(B\u001b[0;1m\u001b[32m\"\"\"\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[9d\u001b[42m \u001b[49m\u001b(B\u001b[m\u001b[K\u001b[10d\u0008\u001b(B\u001b[0;1m\u001b[31m# Define a function\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[11d\u001b(B\u001b[0;1m\u001b[36mdef\u001b[34m hello\u001b[39m\u001b(B\u001b[m():\u001b[K\r\u001b[12d    \u001b(B\u001b[0;1m\u001b[32m\"\"\"\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[13d    Print out Hello World \u001b(B\u001b[0;1m\u001b[36min\u001b[39m\u001b(B\u001b[m a function.\u001b[K\r\u001b[14d    \u001b(B\u001b[0;1m\u001b[32m\"\"\"\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[15d    \u001b(B\u001b[0;1m\u001b[36mprint\u001b[39m\u001b(B\u001b[m(\u001b(B\u001b[0;1m\u001b[32m\"Hello World in a function.\"\u001b[39m\u001b(B\u001b[m)\u001b[K\r\u001b[16d\u001b[42m \u001b[49m\u001b(B\u001b[m\u001b[K\u001b[17d\u0008\u001b(B\u001b[0;1m\u001b[31m# Call a function that prints out Hello World\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[18dhello()\u001b[K\r\u001b[19d\u001b[42m \u001b[49m\u001b(B\u001b[m\u001b[K\u001b[20d\u0008\u001b(B\u001b[0;1m\u001b[31m# Print out Hello World\u001b(B\u001b[0m\u001b[42m \u001b[49m\u001b(B\u001b[m\u001b[K\r\u001b[21d\u001b(B\u001b[0;1m\u001b[36mprint\u001b[39m\u001b(B\u001b[m(\u001b(B\u001b[0;1m\u001b[32m\"Just saying Hello World\"\u001b[39m\u001b(B\u001b[m)\u001b[K\r\u001b[22d\u001b[42m \u001b[49m\u001b(B\u001b[m\u001b[K\u001b[23d\u0008\u001b(B\u001b[0;1m\u001b[31m# Assign the string Hello World to a variable and print it out\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[24dstri = \u001b(B\u001b[0;1m\u001b[32m\"Hello World in a variable\"\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[25d\u001b(B\u001b[0;1m\u001b[36mprint\u001b[39m\u001b(B\u001b[m(str)\u001b[K\r\u001b[26d\u001b[K\u001b[24;5H"
+    ],
+    [
+      1.167411,
+      "\rstr = \u001b(B\u001b[0;1m\u001b[32m\"Hello World in a variable\"\u001b[39m\u001b(B\u001b[m\u001b[K\rstr"
+    ],
+    [
+      0.136460,
+      "\r\u001b[3d\u001b(B\u001b[0;1m\u001b[31m#!/usr/bin/env python3\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[4d\u001b(B\u001b[0;1m\u001b[31m# -*- coding: utf-8 -*-\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[5d\u001b[42m \u001b[49m\u001b(B\u001b[m\u001b[K\u001b[6d\u0008\u001b(B\u001b[0;1m\u001b[32m\"\"\"\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[7dSome various ways of saying Hello World \u001b(B\u001b[0;1m\u001b[36min\u001b[39m\u001b(B\u001b[m Python\u001b[K\r\u001b[8d\u001b(B\u001b[0;1m\u001b[32m\"\"\"\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[9d\u001b[42m \u001b[49m\u001b(B\u001b[m\u001b[K\u001b[10d\u0008\u001b(B\u001b[0;1m\u001b[31m# Define a function\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[11d\u001b(B\u001b[0;1m\u001b[36mdef\u001b[34m hello\u001b[39m\u001b(B\u001b[m():\u001b[K\r\u001b[12d    \u001b(B\u001b[0;1m\u001b[32m\"\"\"\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[13d    Print out Hello World \u001b(B\u001b[0;1m\u001b[36min\u001b[39m\u001b(B\u001b[m a function.\u001b[K\r\u001b[14d    \u001b(B\u001b[0;1m\u001b[32m\"\"\"\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[15d    \u001b(B\u001b[0;1m\u001b[36mprint\u001b[39m\u001b(B\u001b[m(\u001b(B\u001b[0;1m\u001b[32m\"Hello World in a function.\"\u001b[39m\u001b(B\u001b[m)\u001b[K\r\u001b[16d\u001b[42m \u001b[49m\u001b(B\u001b[m\u001b[K\u001b[17d\u0008\u001b(B\u001b[0;1m\u001b[31m# Call a function that prints out Hello World\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[18dhello()\u001b[K\r\u001b[19d\u001b[42m \u001b[49m\u001b(B\u001b[m\u001b[K\u001b[20d\u0008\u001b(B\u001b[0;1m\u001b[31m# Print out Hello World\u001b(B\u001b[0m\u001b[42m \u001b[49m\u001b(B\u001b[m\u001b[K\r\u001b[21d\u001b(B\u001b[0;1m\u001b[36mprint\u001b[39m\u001b(B\u001b[m(\u001b(B\u001b[0;1m\u001b[32m\"Just saying Hello World\"\u001b[39m\u001b(B\u001b[m)\u001b[K\r\u001b[22d\u001b[42m \u001b[49m\u001b(B\u001b[m\u001b[K\u001b[23d\u0008\u001b(B\u001b[0;1m\u001b[31m# Assign the string Hello World to a variable and print it out\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[24dstr1 = \u001b(B\u001b[0;1m\u001b[32m\"Hello World in a variable\"\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[25d\u001b(B\u001b[0;1m\u001b[36mprint\u001b[39m\u001b(B\u001b[m(str)\u001b[K\r\u001b[26d\u001b[K\u001b[24;5H"
+    ],
+    [
+      0.487307,
+      "\r\u001b[25d\u001b(B\u001b[0;1m\u001b[36mprint\u001b[39m\u001b(B\u001b[m(str)\u001b[K\u001b[5G"
+    ],
+    [
+      0.191940,
+      "\u001b[C"
+    ],
+    [
+      0.167973,
+      "("
+    ],
+    [
+      0.168460,
+      "s"
+    ],
+    [
+      0.183546,
+      "t"
+    ],
+    [
+      0.200029,
+      "r"
+    ],
+    [
+      0.320622,
+      "\r\u001b[3d\u001b(B\u001b[0;1m\u001b[31m#!/usr/bin/env python3\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[4d\u001b(B\u001b[0;1m\u001b[31m# -*- coding: utf-8 -*-\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[5d\u001b[42m \u001b[49m\u001b(B\u001b[m\u001b[K\u001b[6d\u0008\u001b(B\u001b[0;1m\u001b[32m\"\"\"\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[7dSome various ways of saying Hello World \u001b(B\u001b[0;1m\u001b[36min\u001b[39m\u001b(B\u001b[m Python\u001b[K\r\u001b[8d\u001b(B\u001b[0;1m\u001b[32m\"\"\"\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[9d\u001b[42m \u001b[49m\u001b(B\u001b[m\u001b[K\u001b[10d\u0008\u001b(B\u001b[0;1m\u001b[31m# Define a function\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[11d\u001b(B\u001b[0;1m\u001b[36mdef\u001b[34m hello\u001b[39m\u001b(B\u001b[m():\u001b[K\r\u001b[12d    \u001b(B\u001b[0;1m\u001b[32m\"\"\"\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[13d    Print out Hello World \u001b(B\u001b[0;1m\u001b[36min\u001b[39m\u001b(B\u001b[m a function.\u001b[K\r\u001b[14d    \u001b(B\u001b[0;1m\u001b[32m\"\"\"\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[15d    \u001b(B\u001b[0;1m\u001b[36mprint\u001b[39m\u001b(B\u001b[m(\u001b(B\u001b[0;1m\u001b[32m\"Hello World in a function.\"\u001b[39m\u001b(B\u001b[m)\u001b[K\r\u001b[16d\u001b[42m \u001b[49m\u001b(B\u001b[m\u001b[K\u001b[17d\u0008\u001b(B\u001b[0;1m\u001b[31m# Call a function that prints out Hello World\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[18dhello()\u001b[K\r\u001b[19d\u001b[42m \u001b[49m\u001b(B\u001b[m\u001b[K\u001b[20d\u0008\u001b(B\u001b[0;1m\u001b[31m# Print out Hello World\u001b(B\u001b[0m\u001b[42m \u001b[49m\u001b(B\u001b[m\u001b[K\r\u001b[21d\u001b(B\u001b[0;1m\u001b[36mprint\u001b[39m\u001b(B\u001b[m(\u001b(B\u001b[0;1m\u001b[32m\"Just saying Hello World\"\u001b[39m\u001b(B\u001b[m)\u001b[K\r\u001b[22d\u001b[42m \u001b[49m\u001b(B\u001b[m\u001b[K\u001b[23d\u0008\u001b(B\u001b[0;1m\u001b[31m# Assign the string Hello World to a variable and print it out\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[24dstr1 = \u001b(B\u001b[0;1m\u001b[32m\"Hello World in a variable\"\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[25d\u001b(B\u001b[0;1m\u001b[36mprint\u001b[39m\u001b(B\u001b[m(str1)\u001b[K\r\u001b[26d\u001b[K\u001b[25;11H"
+    ],
+    [
+      4.127391,
+      "\u001b[28;30H\u001b(B\u001b[0;7m[ XOFF ignored, mumble mumble ]\u001b[25;11H\u001b(B\u001b[m"
+    ],
+    [
+      3.960028,
+      "\r\u001b[28d\u001b(B\u001b[0;7mSave modified buffer (ANSWERING \"No\" WILL DESTROY CHANGES) ?                              \u001b[29;1H Y\u001b(B\u001b[m Yes\u001b[K\r\u001b[30d\u001b(B\u001b[0;7m N\u001b(B\u001b[m No  \u001b[30;16H \u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cancel\u001b[K\u001b[28;62H"
+    ],
+    [
+      2.112020,
+      "\r\u001b(B\u001b[0;7mFile Name to Write: hello.py                                \r\u001b[29d^G\u001b(B\u001b[m Get Help\u001b[29;23H\u001b(B\u001b[0;7mM-D\u001b(B\u001b[m DOS Format\u001b[29;45H\u001b(B\u001b[0;7mM-A\u001b(B\u001b[m Append\u001b[29;67H\u001b(B\u001b[0;7mM-B\u001b(B\u001b[m Backup File\r\u001b[30d\u001b(B\u001b[0;7m^C\u001b(B\u001b[m Cancel\u001b[17G      \u001b(B\u001b[0;7mM-M\u001b(B\u001b[m Mac Format\u001b[30;45H\u001b(B\u001b[0;7mM-P\u001b(B\u001b[m Prepend\u001b[30;67H\u001b(B\u001b[0;7m^T\u001b(B\u001b[m To Files\u001b[28;29H"
+    ],
+    [
+      4.465664,
+      "\r\u001b[29d\u001b[39;49m\u001b(B\u001b[m\u001b[J\u001b[1;81H\u001b(B\u001b[0;7m        \r\u001b[3d\u001b(B\u001b[0;1m\u001b[31m#!/usr/bin/env python3\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[4d\u001b(B\u001b[0;1m\u001b[31m# -*- coding: utf-8 -*-\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[5d\u001b[42m \u001b[49m\u001b(B\u001b[m\u001b[K\u001b[6d\u0008\u001b(B\u001b[0;1m\u001b[32m\"\"\"\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[7dSome various ways of saying Hello World \u001b(B\u001b[0;1m\u001b[36min\u001b[39m\u001b(B\u001b[m Python\u001b[K\r\u001b[8d\u001b(B\u001b[0;1m\u001b[32m\"\"\"\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[9d\u001b[42m \u001b[49m\u001b(B\u001b[m\u001b[K\u001b[10d\u0008\u001b(B\u001b[0;1m\u001b[31m# Define a function\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[11d\u001b(B\u001b[0;1m\u001b[36mdef\u001b[34m hello\u001b[39m\u001b(B\u001b[m():\u001b[K\r\u001b[12d    \u001b(B\u001b[0;1m\u001b[32m\"\"\"\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[13d    Print out Hello World \u001b(B\u001b[0;1m\u001b[36min\u001b[39m\u001b(B\u001b[m a function.\u001b[K\r\u001b[14d    \u001b(B\u001b[0;1m\u001b[32m\"\"\"\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[15d    \u001b(B\u001b[0;1m\u001b[36mprint\u001b[39m\u001b(B\u001b[m(\u001b(B\u001b[0;1m\u001b[32m\"Hello World in a function.\"\u001b[39m\u001b(B\u001b[m)\u001b[K\r\u001b[16d\u001b[42m \u001b[49m\u001b(B\u001b[m\u001b[K\u001b[17d\u0008\u001b(B\u001b[0;1m\u001b[31m# Call a function that prints out Hello World\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[18dhello()\u001b[K\r\u001b[19d\u001b[42m \u001b[49m\u001b(B\u001b[m\u001b[K\u001b[20d\u0008\u001b(B\u001b[0;1m\u001b[31m# Print out Hello World\u001b(B\u001b[0m\u001b[42m \u001b[49m\u001b(B\u001b[m\u001b[K\r\u001b[21d\u001b(B\u001b[0;1m\u001b[36mprint\u001b[39m\u001b(B\u001b[m(\u001b(B\u001b[0;1m\u001b[32m\"Just saying Hello World\"\u001b[39m\u001b(B\u001b[m)\u001b[K\r\u001b[22d\u001b[42m \u001b[49m\u001b(B\u001b[m\u001b[K\u001b[23d\u0008\u001b(B\u001b[0;1m\u001b[31m# Assign the string Hello World to a variable and print it out\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[24dstr1 = \u001b(B\u001b[0;1m\u001b[32m\"Hello World in a variable\"\u001b[39m\u001b(B\u001b[m\u001b[K\r\u001b[25d\u001b(B\u001b[0;1m\u001b[36mprint\u001b[39m\u001b(B\u001b[m(str1)\u001b[K\r\u001b[26d\u001b[K\u001b[28;36H\u001b[1K \u001b(B\u001b[0;7m[ Wrote 23 lines ]\u001b(B\u001b[m\u001b[K\u001b[30;90H\u001b[30;1H\u001b[?1049l\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000139,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/python/me/kmom01/hello$\u001b(B\u001b[m "
+    ],
+    [
+      2.014143,
+      "nano hello.py "
+    ],
+    [
+      0.624096,
+      "\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008\u0008dbwebb validate hello"
+    ],
+    [
+      1.256231,
+      "\r\n"
+    ],
+    [
+      0.012796,
+      "Uploading the directory '/home/mos/dbwebb-kurser/python/me/kmom01/hello/' to 'mosstud@ssh.student.bth.se:dbwebb-kurser/python/me/kmom01/hello/' for validation.\r\n"
+    ],
+    [
+      0.555423,
+      "sending incremental file list\r\n"
+    ],
+    [
+      0.051179,
+      "./\r\nhello.py\r\n"
+    ],
+    [
+      0.163503,
+      "\r\nsent 594 bytes  received 44 bytes  425.33 bytes/sec\r\ntotal size is 467  speedup is 0.73\r\n"
+    ],
+    [
+      0.557831,
+      "sending incremental file list\r\n"
+    ],
+    [
+      0.155833,
+      "\r\nsent 180 bytes  received 12 bytes  384.00 bytes/sec\r\ntotal size is 3,406  speedup is 17.74\r\n"
+    ],
+    [
+      0.559115,
+      "Validating 'dbwebb-kurser/python/me/kmom01/hello'.\r\n *.py using pylint"
+    ],
+    [
+      0.271798,
+      ". (1)\r\n *.cgi using pylint"
+    ],
+    [
+      0.004687,
+      " (0)\r\n\u001b[0;30;42mOK\u001b[0m Asserts: 1 Faults: 0\r\n"
+    ],
+    [
+      0.001450,
+      "\u001b[1;37;40mDONE\u001b[0m to validate course results.\r\nSaved a log of the output: less -R '/home/mos/.dbwebb-validate.log'\r\n"
+    ],
+    [
+      0.000166,
+      "\u001b[32mdesktop\u001b[37m:~/dbwebb-kurser/python/me/kmom01/hello$\u001b(B\u001b[m "
+    ],
+    [
+      3.042257,
+      "exit\r\n"
+    ]
+  ]
+}
