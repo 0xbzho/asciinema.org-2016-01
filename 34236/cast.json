@@ -1,0 +1,426 @@
+{
+  "version": 1,
+  "width": 120,
+  "height": 30,
+  "duration": 32.330093,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.256469,
+      "\u001b[34m13:04\u001b(B\u001b[m [\u001b[1m~/… application/parallel\u001b(B\u001b[m] \u001b[32mmaster\u001b(B\u001b[m \u001b[1m±\u001b(B\u001b[m "
+    ],
+    [
+      1.269970,
+      "\u001b[H\u001b[2J\u001b[34m13:04\u001b(B\u001b[m [\u001b[1m~/… application/parallel\u001b(B\u001b[m] \u001b[32mmaster\u001b(B\u001b[m \u001b[1m±\u001b(B\u001b[m "
+    ],
+    [
+      0.489949,
+      "l"
+    ],
+    [
+      0.154908,
+      "s"
+    ],
+    [
+      0.163239,
+      " "
+    ],
+    [
+      0.161744,
+      "-"
+    ],
+    [
+      0.454126,
+      "R"
+    ],
+    [
+      0.690233,
+      "\r\n"
+    ],
+    [
+      0.002194,
+      ".:\r\n\u001b[0m\u001b[01;32mMakefile\u001b[0m  \u001b[01;32mrecover\u001b[0m   encrypt_aux.c   encrypt.c   filter.c  image.c         transmit.c  encrypt_aux.h  encrypt.h\r\nfilter.h  pixmap.h  transmit_aux.h  transmit.h  pixmap.o  transmit_aux.o  \u001b[01;35mMars1.pgm\u001b[0m   \u001b[01;32mrunAll.sh\u001b[0m\r\n"
+    ],
+    [
+      0.067294,
+      "\u001b[34m13:04\u001b(B\u001b[m [\u001b[1m~/… application/parallel\u001b(B\u001b[m] \u001b[32mmaster\u001b(B\u001b[m \u001b[1m±\u001b(B\u001b[m "
+    ],
+    [
+      1.900227,
+      "m"
+    ],
+    [
+      0.076151,
+      "a"
+    ],
+    [
+      0.127081,
+      "k"
+    ],
+    [
+      0.075814,
+      "e"
+    ],
+    [
+      0.389007,
+      "\r\n"
+    ],
+    [
+      0.002505,
+      "gcc  -c -o ser/image.o image.c\r\n"
+    ],
+    [
+      0.043350,
+      "gcc  -c -o ser/encrypt.o encrypt.c\r\n"
+    ],
+    [
+      0.030132,
+      "gcc  -c -o ser/filter.o filter.c\r\n"
+    ],
+    [
+      0.049899,
+      "gcc  -c -o ser/transmit.o transmit.c\r\n"
+    ],
+    [
+      0.024706,
+      "gcc  -c -o ser/encrypt_aux.o encrypt_aux.c\r\n"
+    ],
+    [
+      0.023848,
+      "gcc ser/image.o ser/encrypt.o ser/filter.o ser/transmit.o ser/encrypt_aux.o pixmap.o transmit_aux.o -o image_serial  -lm\r\n"
+    ],
+    [
+      0.028847,
+      "gcc -fopenmp -c -o par/image.o image.c\r\n"
+    ],
+    [
+      0.042503,
+      "gcc -fopenmp -c -o par/encrypt.o encrypt.c\r\n"
+    ],
+    [
+      0.028779,
+      "gcc -fopenmp -c -o par/filter.o filter.c\r\n"
+    ],
+    [
+      0.052114,
+      "gcc -fopenmp -c -o par/transmit.o transmit.c\r\n"
+    ],
+    [
+      0.026699,
+      "gcc -fopenmp -c -o par/encrypt_aux.o encrypt_aux.c\r\n"
+    ],
+    [
+      0.024519,
+      "gcc par/image.o par/encrypt.o par/filter.o par/transmit.o par/encrypt_aux.o pixmap.o transmit_aux.o -o image_parallel -fopenmp -lm\r\n"
+    ],
+    [
+      0.093272,
+      "\u001b[34m13:05\u001b(B\u001b[m [\u001b[1m~/… application/parallel\u001b(B\u001b[m] \u001b[32mmaster\u001b(B\u001b[m \u001b[1m±\u001b(B\u001b[m "
+    ],
+    [
+      1.109394,
+      "l"
+    ],
+    [
+      0.077047,
+      "s"
+    ],
+    [
+      0.177084,
+      " "
+    ],
+    [
+      0.156529,
+      "-"
+    ],
+    [
+      0.438769,
+      "R"
+    ],
+    [
+      0.451108,
+      "\r\n"
+    ],
+    [
+      0.002268,
+      ".:\r\n\u001b[0m\u001b[01;34mpar\u001b[0m             \u001b[01;34mser\u001b[0m         \u001b[01;32mimage_parallel\u001b[0m  \u001b[01;32mimage_serial\u001b[0m  \u001b[01;32mMakefile\u001b[0m  \u001b[01;32mrecover\u001b[0m   encrypt_aux.c   encrypt.c   filter.c\r\nimage.c         transmit.c  encrypt_aux.h   encrypt.h     filter.h  pixmap.h  transmit_aux.h  transmit.h  pixmap.o\r\ntransmit_aux.o  \u001b[01;35mMars1.pgm\u001b[0m   \u001b[01;32mrunAll.sh\u001b[0m\r\n\r\n./par:\r\nencrypt_aux.o  encrypt.o  filter.o  image.o  transmit.o\r\n\r\n./ser:\r\nencrypt_aux.o  encrypt.o  filter.o  image.o  transmit.o\r\n"
+    ],
+    [
+      0.065127,
+      "\u001b[34m13:05\u001b(B\u001b[m [\u001b[1m~/… application/parallel\u001b(B\u001b[m] \u001b[32mmaster\u001b(B\u001b[m \u001b[1m±\u001b(B\u001b[m "
+    ],
+    [
+      5.922334,
+      "\u001b[H\u001b[2J\u001b[34m13:05\u001b(B\u001b[m [\u001b[1m~/… application/parallel\u001b(B\u001b[m] \u001b[32mmaster\u001b(B\u001b[m \u001b[1m±\u001b(B\u001b[m "
+    ],
+    [
+      1.344356,
+      "m"
+    ],
+    [
+      0.095247,
+      "a"
+    ],
+    [
+      0.143450,
+      "k"
+    ],
+    [
+      0.084381,
+      "e"
+    ],
+    [
+      0.189211,
+      " "
+    ],
+    [
+      0.186547,
+      "c"
+    ],
+    [
+      0.116635,
+      "l"
+    ],
+    [
+      0.075636,
+      "e"
+    ],
+    [
+      0.173752,
+      "a"
+    ],
+    [
+      0.093366,
+      "n"
+    ],
+    [
+      0.409243,
+      " "
+    ],
+    [
+      0.399006,
+      "\u0026"
+    ],
+    [
+      0.107441,
+      "\u0026"
+    ],
+    [
+      0.146757,
+      " "
+    ],
+    [
+      0.146675,
+      "m"
+    ],
+    [
+      0.097673,
+      "a"
+    ],
+    [
+      0.139579,
+      "k"
+    ],
+    [
+      0.145807,
+      "e"
+    ],
+    [
+      0.168749,
+      " "
+    ],
+    [
+      0.163393,
+      "o"
+    ],
+    [
+      0.185558,
+      "p"
+    ],
+    [
+      0.091438,
+      "t"
+    ],
+    [
+      0.145679,
+      "i"
+    ],
+    [
+      0.181921,
+      "m"
+    ],
+    [
+      0.148704,
+      "i"
+    ],
+    [
+      0.114363,
+      "z"
+    ],
+    [
+      0.188124,
+      "e"
+    ],
+    [
+      0.158522,
+      "d"
+    ],
+    [
+      1.327934,
+      "\r\n"
+    ],
+    [
+      0.002692,
+      "rm -f -r *_*.pgm\r\n"
+    ],
+    [
+      0.002188,
+      "rm -f -r ser/ par/\r\n"
+    ],
+    [
+      0.001467,
+      "rm -f -r image_*\r\n"
+    ],
+    [
+      0.006337,
+      "gcc -Ofast -funsafe-loop-optimizations -flto -c -o ser/image.o image.c\r\n"
+    ],
+    [
+      0.076650,
+      "gcc -Ofast -funsafe-loop-optimizations -flto -c -o ser/encrypt.o encrypt.c\r\n"
+    ],
+    [
+      0.033276,
+      "gcc -Ofast -funsafe-loop-optimizations -flto -c -o ser/filter.o filter.c\r\n"
+    ],
+    [
+      0.086218,
+      "gcc -Ofast -funsafe-loop-optimizations -flto -c -o ser/transmit.o transmit.c\r\n"
+    ],
+    [
+      0.029873,
+      "gcc -Ofast -funsafe-loop-optimizations -flto -c -o ser/encrypt_aux.o encrypt_aux.c\r\n"
+    ],
+    [
+      0.026446,
+      "gcc ser/image.o ser/encrypt.o ser/filter.o ser/transmit.o ser/encrypt_aux.o pixmap.o transmit_aux.o -o image_serial -Ofast -funsafe-loop-optimizations -flto -lm\r\n"
+    ],
+    [
+      0.132423,
+      "gcc -Ofast -funsafe-loop-optimizations -flto -fopenmp -c -o par/image.o image.c\r\n"
+    ],
+    [
+      0.071114,
+      "gcc -Ofast -funsafe-loop-optimizations -flto -fopenmp -c -o par/encrypt.o encrypt.c\r\n"
+    ],
+    [
+      0.038809,
+      "gcc -Ofast -funsafe-loop-optimizations -flto -fopenmp -c -o par/filter.o filter.c\r\n"
+    ],
+    [
+      0.113658,
+      "gcc -Ofast -funsafe-loop-optimizations -flto -fopenmp -c -o par/transmit.o transmit.c\r\n"
+    ],
+    [
+      0.042993,
+      "gcc -Ofast -funsafe-loop-optimizations -flto -fopenmp -c -o par/encrypt_aux.o encrypt_aux.c\r\n"
+    ],
+    [
+      0.031744,
+      "gcc par/image.o par/encrypt.o par/filter.o par/transmit.o par/encrypt_aux.o pixmap.o transmit_aux.o -o image_parallel -Ofast -funsafe-loop-optimizations -flto -fopenmp -lm\r\n"
+    ],
+    [
+      0.226557,
+      "\u001b[34m13:05\u001b(B\u001b[m [\u001b[1m~/… application/parallel\u001b(B\u001b[m] \u001b[32mmaster\u001b(B\u001b[m \u001b[1m±\u001b(B\u001b[m "
+    ],
+    [
+      0.845368,
+      "l"
+    ],
+    [
+      0.087812,
+      "s"
+    ],
+    [
+      0.146679,
+      " "
+    ],
+    [
+      0.508335,
+      "-"
+    ],
+    [
+      0.305530,
+      "R"
+    ],
+    [
+      0.291136,
+      "\r\n"
+    ],
+    [
+      0.001644,
+      ".:\r\n"
+    ],
+    [
+      0.000229,
+      "\u001b[0m\u001b[01;34mpar\u001b[0m             \u001b[01;34mser\u001b[0m         \u001b[01;32mimage_parallel\u001b[0m  \u001b[01;32mimage_serial\u001b[0m  \u001b[01;32mMakefile\u001b[0m  \u001b[01;32mrecover\u001b[0m   encrypt_aux.c   encrypt.c   filter.c\r\n"
+    ],
+    [
+      0.000034,
+      "image.c         transmit.c  encrypt_aux.h   encrypt.h     filter.h  pixmap.h  transmit_aux.h  transmit.h  pixmap.o\r\n"
+    ],
+    [
+      0.000019,
+      "transmit_aux.o  \u001b[01;35mMars1.pgm\u001b[0m   \u001b[01;32mrunAll.sh\u001b[0m\r\n"
+    ],
+    [
+      0.000023,
+      "\r\n"
+    ],
+    [
+      0.000004,
+      "./par:\r\n"
+    ],
+    [
+      0.000101,
+      "encrypt_aux.o  encrypt.o  filter.o  image.o  transmit.o\r\n"
+    ],
+    [
+      0.000081,
+      "\r\n./ser:\r\n"
+    ],
+    [
+      0.000036,
+      "encrypt_aux.o  encrypt.o  filter.o  image.o  transmit.o\r\n"
+    ],
+    [
+      0.067955,
+      "\u001b[34m13:05\u001b(B\u001b[m [\u001b[1m~/… application/parallel\u001b(B\u001b[m] \u001b[32mmaster\u001b(B\u001b[m \u001b[1m±\u001b(B\u001b[m "
+    ],
+    [
+      4.239841,
+      "e"
+    ],
+    [
+      0.234759,
+      "x"
+    ],
+    [
+      0.124635,
+      "i"
+    ],
+    [
+      0.101716,
+      "t"
+    ],
+    [
+      2.333059,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
