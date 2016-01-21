@@ -1,0 +1,2586 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 473.248862,
+  "command": "bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm",
+    "SHELL": "/usr/bin/fish"
+  },
+  "stdout": [
+    [
+      0.043451,
+      "\u001b]0;martin:~\u0007\u001b[1;30m[\u001b[0;37mmartin\u001b[1;30m@\u001b[0;37mwimpress \u001b[1;34m~\u001b[1;30m]\u001b[0;37m$ \u001b[0m"
+    ],
+    [
+      0.777510,
+      "c"
+    ],
+    [
+      0.080003,
+      "d"
+    ],
+    [
+      0.128148,
+      " "
+    ],
+    [
+      0.464023,
+      "~"
+    ],
+    [
+      0.128040,
+      "/"
+    ],
+    [
+      0.359787,
+      "I"
+    ],
+    [
+      0.152127,
+      "S"
+    ],
+    [
+      0.266530,
+      "O/"
+    ],
+    [
+      0.717408,
+      "u"
+    ],
+    [
+      0.120115,
+      "b"
+    ],
+    [
+      0.119968,
+      "u"
+    ],
+    [
+      0.077318,
+      "n"
+    ],
+    [
+      0.117214,
+      "\u0007"
+    ],
+    [
+      0.000017,
+      "tu"
+    ],
+    [
+      0.405445,
+      "-"
+    ],
+    [
+      0.178436,
+      "mate/"
+    ],
+    [
+      0.365725,
+      "\r\n"
+    ],
+    [
+      0.001328,
+      "\u001b]0;martin:~/ISO/ubuntu-mate\u0007\u001b[1;30m[\u001b[0;37mmartin\u001b[1;30m@\u001b[0;37mwimpress \u001b[1;34m~/ISO/ubuntu-mate\u001b[1;30m]\u001b[0;37m$ \u001b[0m"
+    ],
+    [
+      0.582528,
+      "s"
+    ],
+    [
+      0.168319,
+      "u"
+    ],
+    [
+      0.095606,
+      "d"
+    ],
+    [
+      0.136002,
+      "o"
+    ],
+    [
+      0.119957,
+      " "
+    ],
+    [
+      0.184256,
+      "a"
+    ],
+    [
+      0.119866,
+      "p"
+    ],
+    [
+      0.663880,
+      "t"
+    ],
+    [
+      0.240119,
+      "-"
+    ],
+    [
+      0.247976,
+      "g"
+    ],
+    [
+      0.080014,
+      "e"
+    ],
+    [
+      0.143912,
+      "t"
+    ],
+    [
+      0.152188,
+      " "
+    ],
+    [
+      0.239884,
+      "-"
+    ],
+    [
+      0.383994,
+      "y"
+    ],
+    [
+      0.160193,
+      " "
+    ],
+    [
+      0.263807,
+      "i"
+    ],
+    [
+      0.056168,
+      "n"
+    ],
+    [
+      0.175933,
+      "s"
+    ],
+    [
+      0.119974,
+      "t"
+    ],
+    [
+      0.111754,
+      "a"
+    ],
+    [
+      0.184192,
+      "l"
+    ],
+    [
+      0.144171,
+      "l"
+    ],
+    [
+      0.119980,
+      " "
+    ],
+    [
+      0.367816,
+      "g"
+    ],
+    [
+      0.216126,
+      "d"
+    ],
+    [
+      0.112006,
+      "d"
+    ],
+    [
+      0.360058,
+      "r"
+    ],
+    [
+      0.047862,
+      "e"
+    ],
+    [
+      0.215982,
+      "s"
+    ],
+    [
+      0.279957,
+      "c"
+    ],
+    [
+      0.192032,
+      "u"
+    ],
+    [
+      0.127978,
+      "e"
+    ],
+    [
+      0.240101,
+      " "
+    ],
+    [
+      0.992002,
+      "x"
+    ],
+    [
+      0.074067,
+      "z"
+    ],
+    [
+      0.165849,
+      "-"
+    ],
+    [
+      0.456017,
+      "u"
+    ],
+    [
+      0.152143,
+      "t"
+    ],
+    [
+      0.127915,
+      "i"
+    ],
+    [
+      0.088098,
+      "l"
+    ],
+    [
+      0.111834,
+      "s"
+    ],
+    [
+      0.272137,
+      "\r\n"
+    ],
+    [
+      0.003237,
+      "[sudo] password for martin: "
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.009334,
+      "\rReading package lists... 0%\r"
+    ],
+    [
+      0.003354,
+      "\rReading package lists... 100%\r"
+    ],
+    [
+      0.000005,
+      "\rReading package lists... Done\r\r\n"
+    ],
+    [
+      0.003261,
+      "\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.000020,
+      "\rBuilding dependency tree... 0%\r"
+    ],
+    [
+      0.029538,
+      "\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.000006,
+      "\rBuilding dependency tree... 50%\r"
+    ],
+    [
+      0.131125,
+      "\rBuilding dependency tree       \r\r\n"
+    ],
+    [
+      0.000005,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.000042,
+      "\rReading state information... 0%\r"
+    ],
+    [
+      0.001502,
+      "\rReading state information... Done\r"
+    ],
+    [
+      0.000003,
+      "\r\n"
+    ],
+    [
+      0.077309,
+      "xz-utils is already the newest version.\r\n"
+    ],
+    [
+      0.120479,
+      "The following NEW packages will be installed\r\n"
+    ],
+    [
+      0.000004,
+      "  gddrescue\r\n"
+    ],
+    [
+      0.008951,
+      "0 to upgrade, 1 to newly install, 0 to remove and 2 not to upgrade.\r\n"
+    ],
+    [
+      0.008860,
+      "Need to get 0 B/99.7 kB of archives.\r\n"
+    ],
+    [
+      0.000004,
+      "After this operation, 365 kB of additional disk space will be used.\r\n"
+    ],
+    [
+      0.000015,
+      "\r\r"
+    ],
+    [
+      0.214981,
+      "Selecting previously unselected package gddrescue.\r\n(Reading database ... \r"
+    ],
+    [
+      0.005504,
+      "(Reading database ... 5%\r(Reading database ... 10%\r(Reading database ... 15%\r(Reading database ... 20%\r(Reading database ... 25%\r(Reading database ... 30%\r"
+    ],
+    [
+      0.000005,
+      "(Reading database ... 35%\r(Reading database ... 40%\r"
+    ],
+    [
+      0.000017,
+      "(Reading database ... 45%\r"
+    ],
+    [
+      0.000996,
+      "(Reading database ... 50%\r"
+    ],
+    [
+      0.012812,
+      "(Reading database ... 55%\r"
+    ],
+    [
+      0.006273,
+      "(Reading database ... 60%\r"
+    ],
+    [
+      0.006484,
+      "(Reading database ... 65%\r"
+    ],
+    [
+      0.001819,
+      "(Reading database ... 70%\r"
+    ],
+    [
+      0.002709,
+      "(Reading database ... 75%\r"
+    ],
+    [
+      0.001763,
+      "(Reading database ... 80%\r"
+    ],
+    [
+      0.011692,
+      "(Reading database ... 85%\r"
+    ],
+    [
+      0.014988,
+      "(Reading database ... 90%\r"
+    ],
+    [
+      0.007176,
+      "(Reading database ... 95%\r"
+    ],
+    [
+      0.035484,
+      "(Reading database ... 100%\r(Reading database ... 347442 files and directories currently installed.)\r\n"
+    ],
+    [
+      0.013643,
+      "Preparing to unpack .../gddrescue_1.19-2_amd64.deb ...\r\n"
+    ],
+    [
+      0.019254,
+      "Unpacking gddrescue (1.19-2) ...\r\n"
+    ],
+    [
+      0.269091,
+      "Processing triggers for install-info (6.0.0.dfsg.1-3) ...\r\n"
+    ],
+    [
+      0.173506,
+      "Processing triggers for man-db (2.7.4-1) ...\r\n"
+    ],
+    [
+      0.354796,
+      "Setting up gddrescue (1.19-2) ...\r\n"
+    ],
+    [
+      1.000000,
+      "\u001b]0;martin:~/ISO/ubuntu-mate\u0007\u001b[1;30m[\u001b[0;37mmartin\u001b[1;30m@\u001b[0;37mwimpress \u001b[1;34m~/ISO/ubuntu-mate\u001b[1;30m]\u001b[0;37m$ \u001b[0m"
+    ],
+    [
+      1.000000,
+      "u"
+    ],
+    [
+      0.096204,
+      "n"
+    ],
+    [
+      1.000000,
+      "x"
+    ],
+    [
+      0.048050,
+      "z"
+    ],
+    [
+      0.200008,
+      " "
+    ],
+    [
+      1.000000,
+      "-"
+    ],
+    [
+      0.336075,
+      "-"
+    ],
+    [
+      0.303822,
+      "v"
+    ],
+    [
+      0.080072,
+      "e"
+    ],
+    [
+      0.199914,
+      "r"
+    ],
+    [
+      0.240150,
+      "b"
+    ],
+    [
+      0.088206,
+      "o"
+    ],
+    [
+      0.103675,
+      "s"
+    ],
+    [
+      0.175994,
+      "e"
+    ],
+    [
+      0.088130,
+      " "
+    ],
+    [
+      0.239933,
+      "u"
+    ],
+    [
+      0.071923,
+      "b"
+    ],
+    [
+      0.192141,
+      "u"
+    ],
+    [
+      0.080062,
+      "n"
+    ],
+    [
+      0.110445,
+      "tu-mate-15.10.1-desktop-a\rarmhf-raspberry-pi-2.img.xz "
+    ],
+    [
+      1.000000,
+      "\r\n"
+    ],
+    [
+      0.000980,
+      "ubuntu-mate-15.10.1-desktop-armhf-raspberry-pi-2.img.xz (1/1)\r\n"
+    ],
+    [
+      1.000000,
+      "\r  1.3 %        12.3 MiB / 194.2 MiB = 0.064                   0:01             \r"
+    ],
+    [
+      1.000000,
+      "\r  2.7 %        25.8 MiB / 243.6 MiB = 0.106                   0:02             \r"
+    ],
+    [
+      1.000000,
+      "\r  4.2 %        39.8 MiB / 297.8 MiB = 0.134    99 MiB/s       0:03             \r"
+    ],
+    [
+      1.000000,
+      "\r  5.6 %        53.6 MiB / 359.2 MiB = 0.149    90 MiB/s       0:04             \r"
+    ],
+    [
+      1.000000,
+      "\r  6.9 %        66.6 MiB / 424.5 MiB = 0.157    85 MiB/s       0:05             \r"
+    ],
+    [
+      1.000000,
+      "\r  9.4 %        89.9 MiB / 494.7 MiB = 0.182    82 MiB/s       0:06             \r"
+    ],
+    [
+      1.000000,
+      "\r 12.6 %       121.2 MiB / 557.1 MiB = 0.217    80 MiB/s       0:07             \r"
+    ],
+    [
+      1.000000,
+      "\r 14.1 %       134.8 MiB / 604.7 MiB = 0.223    76 MiB/s       0:08         50 s\r"
+    ],
+    [
+      1.000000,
+      "\r 15.4 %       148.0 MiB / 664.8 MiB = 0.223    74 MiB/s       0:09         50 s\r"
+    ],
+    [
+      1.000000,
+      "\r 16.9 %       162.0 MiB / 702.4 MiB = 0.231    70 MiB/s       0:10         50 s\r"
+    ],
+    [
+      1.000000,
+      "\r 18.3 %       175.9 MiB / 741.7 MiB = 0.237    67 MiB/s       0:11         50 s\r"
+    ],
+    [
+      1.000000,
+      "\r 19.8 %       190.1 MiB / 773.8 MiB = 0.246    64 MiB/s       0:12         50 s\r"
+    ],
+    [
+      1.000000,
+      "\r 21.3 %       204.0 MiB / 812.4 MiB = 0.251    62 MiB/s       0:13         50 s\r"
+    ],
+    [
+      1.000000,
+      "\r 22.8 %       218.2 MiB / 842.2 MiB = 0.259    60 MiB/s       0:14         50 s\r"
+    ],
+    [
+      1.000000,
+      "\r 24.1 %       231.3 MiB / 891.2 MiB = 0.260    59 MiB/s       0:15         50 s\r"
+    ],
+    [
+      1.000000,
+      "\r 25.5 %       245.0 MiB / 934.4 MiB = 0.262    58 MiB/s       0:16         50 s\r"
+    ],
+    [
+      1.000000,
+      "\r 27.0 %       258.6 MiB / 974.5 MiB = 0.265    57 MiB/s       0:17         45 s\r"
+    ],
+    [
+      1.000000,
+      "\r 28.3 %     271.9 MiB / 1,021.7 MiB = 0.266    57 MiB/s       0:18         45 s\r"
+    ],
+    [
+      1.000000,
+      "\r 29.6 %     284.1 MiB / 1,086.4 MiB = 0.262    57 MiB/s       0:19         45 s\r"
+    ],
+    [
+      1.000000,
+      "\r 31.0 %     297.8 MiB / 1,127.0 MiB = 0.264    56 MiB/s       0:20         45 s\r"
+    ],
+    [
+      1.000000,
+      "\r 32.6 %     313.1 MiB / 1,166.5 MiB = 0.268    56 MiB/s       0:21         45 s\r"
+    ],
+    [
+      1.000000,
+      "\r 35.4 %     339.4 MiB / 1,203.3 MiB = 0.282    55 MiB/s       0:22         40 s\r"
+    ],
+    [
+      1.000000,
+      "\r 36.8 %     352.5 MiB / 1,255.0 MiB = 0.281    55 MiB/s       0:23         40 s\r"
+    ],
+    [
+      1.000000,
+      "\r 38.2 %     366.6 MiB / 1,286.9 MiB = 0.285    54 MiB/s       0:24         40 s\r"
+    ],
+    [
+      1.000000,
+      "\r 39.7 %     381.2 MiB / 1,331.7 MiB = 0.286    53 MiB/s       0:25         40 s\r"
+    ],
+    [
+      1.000000,
+      "\r 41.8 %     400.8 MiB / 1,362.7 MiB = 0.294    52 MiB/s       0:26         40 s\r"
+    ],
+    [
+      1.000000,
+      "\r 43.4 %     416.3 MiB / 1,419.8 MiB = 0.293    53 MiB/s       0:27         35 s\r"
+    ],
+    [
+      1.000000,
+      "\r 45.2 %     433.1 MiB / 1,458.8 MiB = 0.297    52 MiB/s       0:28         35 s\r"
+    ],
+    [
+      1.000000,
+      "\r 47.1 %     451.7 MiB / 1,494.0 MiB = 0.302    52 MiB/s       0:29         35 s\r"
+    ],
+    [
+      1.000000,
+      "\r 48.5 %     465.3 MiB / 1,553.2 MiB = 0.300    52 MiB/s       0:30         35 s\r"
+    ],
+    [
+      1.000000,
+      "\r 50.1 %     480.2 MiB / 1,603.1 MiB = 0.300    52 MiB/s       0:31         30 s\r"
+    ],
+    [
+      1.000000,
+      "\r 51.9 %     498.2 MiB / 1,635.9 MiB = 0.305    51 MiB/s       0:32         30 s\r"
+    ],
+    [
+      1.000000,
+      "\r 54.0 %     517.6 MiB / 1,689.9 MiB = 0.306    51 MiB/s       0:33         30 s\r"
+    ],
+    [
+      1.000000,
+      "\r 55.1 %     528.7 MiB / 1,826.8 MiB = 0.289    54 MiB/s       0:34         30 s\r"
+    ],
+    [
+      1.000000,
+      "\r 56.4 %     540.7 MiB / 1,914.0 MiB = 0.282    55 MiB/s       0:35         30 s\r"
+    ],
+    [
+      1.000000,
+      "\r 57.6 %     552.7 MiB / 2,000.6 MiB = 0.276    56 MiB/s       0:36         30 s\r"
+    ],
+    [
+      1.000000,
+      "\r 59.1 %     566.8 MiB / 2,045.5 MiB = 0.277    55 MiB/s       0:37         25 s\r"
+    ],
+    [
+      1.000000,
+      "\r 60.6 %     580.8 MiB / 2,100.1 MiB = 0.277    55 MiB/s       0:38         25 s\r"
+    ],
+    [
+      1.000000,
+      "\r 61.7 %     592.3 MiB / 2,209.9 MiB = 0.268    57 MiB/s       0:39         25 s\r"
+    ],
+    [
+      1.000000,
+      "\r 63.0 %     604.6 MiB / 2,290.2 MiB = 0.264    57 MiB/s       0:40         25 s\r"
+    ],
+    [
+      1.000000,
+      "\r 64.5 %     618.5 MiB / 2,339.1 MiB = 0.264    57 MiB/s       0:41         25 s\r"
+    ],
+    [
+      1.000000,
+      "\r 66.0 %     632.8 MiB / 2,362.8 MiB = 0.268    56 MiB/s       0:42         25 s\r"
+    ],
+    [
+      1.000000,
+      "\r 67.3 %     645.5 MiB / 2,405.6 MiB = 0.268    56 MiB/s       0:43         20 s\r"
+    ],
+    [
+      1.000000,
+      "\r 68.6 %     658.1 MiB / 2,455.7 MiB = 0.268    56 MiB/s       0:44         20 s\r"
+    ],
+    [
+      1.000000,
+      "\r 70.0 %     671.0 MiB / 2,497.8 MiB = 0.269    55 MiB/s       0:45         20 s\r"
+    ],
+    [
+      1.000000,
+      "\r 71.4 %     684.7 MiB / 2,545.5 MiB = 0.269    55 MiB/s       0:46         20 s\r"
+    ],
+    [
+      1.000000,
+      "\r 72.9 %     699.5 MiB / 2,599.1 MiB = 0.269    55 MiB/s       0:47         20 s\r"
+    ],
+    [
+      1.000000,
+      "\r 74.3 %     712.7 MiB / 2,672.6 MiB = 0.267    56 MiB/s       0:48         20 s\r"
+    ],
+    [
+      1.000000,
+      "\r 78.0 %     747.8 MiB / 2,726.5 MiB = 0.274    56 MiB/s       0:49         15 s\r"
+    ],
+    [
+      1.000000,
+      "\r 80.1 %     768.2 MiB / 2,758.0 MiB = 0.279    55 MiB/s       0:50         15 s\r"
+    ],
+    [
+      1.000000,
+      "\r 82.1 %     787.7 MiB / 2,807.2 MiB = 0.281    55 MiB/s       0:51         15 s\r"
+    ],
+    [
+      1.000000,
+      "\r 83.8 %     803.8 MiB / 2,855.7 MiB = 0.281    55 MiB/s       0:52          9 s\r"
+    ],
+    [
+      1.000000,
+      "\r 85.4 %     819.1 MiB / 2,894.3 MiB = 0.283    55 MiB/s       0:53          9 s\r"
+    ],
+    [
+      1.000000,
+      "\r 87.0 %     834.1 MiB / 2,944.7 MiB = 0.283    55 MiB/s       0:54          8 s\r"
+    ],
+    [
+      1.000000,
+      "\r 88.4 %     847.6 MiB / 3,019.6 MiB = 0.281    55 MiB/s       0:55          7 s\r"
+    ],
+    [
+      1.000000,
+      "\r 89.8 %     861.6 MiB / 3,076.0 MiB = 0.280    55 MiB/s       0:56          6 s\r"
+    ],
+    [
+      1.000000,
+      "\r 91.2 %     874.9 MiB / 3,153.5 MiB = 0.277    55 MiB/s       0:57          5 s\r"
+    ],
+    [
+      1.000000,
+      "\r 93.1 %     893.0 MiB / 3,197.3 MiB = 0.279    55 MiB/s       0:58          4 s\r"
+    ],
+    [
+      1.000000,
+      "\r 94.6 %     907.4 MiB / 3,250.5 MiB = 0.279    55 MiB/s       0:59          3 s\r"
+    ],
+    [
+      1.000000,
+      "\r 96.1 %     922.1 MiB / 3,298.2 MiB = 0.280    55 MiB/s       1:00          2 s\r"
+    ],
+    [
+      1.000000,
+      "\r 97.7 %     936.8 MiB / 3,365.6 MiB = 0.278    55 MiB/s       1:01          1 s\r"
+    ],
+    [
+      1.000000,
+      "\r 99.0 %     949.8 MiB / 3,437.4 MiB = 0.276    55 MiB/s       1:02          1 s\r"
+    ],
+    [
+      1.000000,
+      "\r 99.9 %     958.2 MiB / 3,639.6 MiB = 0.263    58 MiB/s       1:03          1 s\r"
+    ],
+    [
+      0.206801,
+      "\r  100 %     958.3 MiB / 3,750.0 MiB = 0.256    59 MiB/s       1:03             \r\n"
+    ],
+    [
+      1.000000,
+      "\u001b]0;martin:~/ISO/ubuntu-mate\u0007\u001b[1;30m[\u001b[0;37mmartin\u001b[1;30m@\u001b[0;37mwimpress \u001b[1;34m~/ISO/ubuntu-mate\u001b[1;30m]\u001b[0;37m$ \u001b[0m"
+    ],
+    [
+      0.994624,
+      "l"
+    ],
+    [
+      0.159808,
+      "s"
+    ],
+    [
+      0.408042,
+      "b"
+    ],
+    [
+      0.128154,
+      "l"
+    ],
+    [
+      0.511867,
+      "k"
+    ],
+    [
+      0.583974,
+      "\r\n"
+    ],
+    [
+      0.059149,
+      "NAME           MAJ:MIN RM   SIZE RO TYPE  MOUNTPOINT\r\nsda              8:0    0   1.8T  0 disk  \r\n├─sda1           8:1    0 238.4G  0 part  /\r\n└─sda2           8:2    0   1.6T  0 part  /home\r\nsdb              8:16   0  29.8G  0 disk  \r\n├─sdb1           8:17   0   1.9G  0 part  /boot\r\n├─sdb2           8:18   0  15.3G  0 part  \r\n"
+    ],
+    [
+      0.000005,
+      "│ └─cryptswap1 252:0    0  15.3G  0 crypt [SWAP]\r\n└─sdb3           8:19   0  12.7G  0 part  /tmp\r\nsr0             11:0    1  1024M  0 rom   \r\n"
+    ],
+    [
+      0.001506,
+      "\u001b]0;martin:~/ISO/ubuntu-mate\u0007\u001b[1;30m[\u001b[0;37mmartin\u001b[1;30m@\u001b[0;37mwimpress \u001b[1;34m~/ISO/ubuntu-mate\u001b[1;30m]\u001b[0;37m$ \u001b[0m"
+    ],
+    [
+      1.000000,
+      "s"
+    ],
+    [
+      0.136065,
+      "u"
+    ],
+    [
+      0.103869,
+      "d"
+    ],
+    [
+      0.144122,
+      "o"
+    ],
+    [
+      0.111986,
+      " "
+    ],
+    [
+      0.712178,
+      "d"
+    ],
+    [
+      0.151832,
+      "d"
+    ],
+    [
+      0.712278,
+      "r"
+    ],
+    [
+      0.055727,
+      "e"
+    ],
+    [
+      0.383960,
+      "s"
+    ],
+    [
+      0.232234,
+      "c"
+    ],
+    [
+      0.232008,
+      "u"
+    ],
+    [
+      0.135809,
+      "e"
+    ],
+    [
+      0.120052,
+      " "
+    ],
+    [
+      0.384056,
+      "-"
+    ],
+    [
+      0.431908,
+      "D"
+    ],
+    [
+      0.272188,
+      " "
+    ],
+    [
+      0.335847,
+      "-"
+    ],
+    [
+      0.159974,
+      "-"
+    ],
+    [
+      0.184113,
+      "f"
+    ],
+    [
+      0.135903,
+      "o"
+    ],
+    [
+      0.104073,
+      "r"
+    ],
+    [
+      0.231986,
+      "c"
+    ],
+    [
+      0.096052,
+      "e"
+    ],
+    [
+      0.583891,
+      " "
+    ],
+    [
+      0.680003,
+      "u"
+    ],
+    [
+      0.127937,
+      "b"
+    ],
+    [
+      0.152214,
+      "u"
+    ],
+    [
+      0.063859,
+      "n"
+    ],
+    [
+      0.178370,
+      "\u0007"
+    ],
+    [
+      0.000019,
+      "tu-mate-15.10"
+    ],
+    [
+      1.000000,
+      ". \r"
+    ],
+    [
+      0.144004,
+      "1"
+    ],
+    [
+      0.182251,
+      "-desktop-armhf-raspberry-pi-2.img "
+    ],
+    [
+      1.000000,
+      "/"
+    ],
+    [
+      0.319990,
+      "d"
+    ],
+    [
+      0.175921,
+      "e"
+    ],
+    [
+      0.176264,
+      "v"
+    ],
+    [
+      0.143849,
+      "/"
+    ],
+    [
+      0.240068,
+      "s"
+    ],
+    [
+      0.200021,
+      "d"
+    ],
+    [
+      0.280062,
+      "g"
+    ],
+    [
+      0.903950,
+      "\r\n"
+    ],
+    [
+      1.000000,
+      "GNU ddrescue 1.19\r\nPress Ctrl-C to interrupt\r\n\r\n\r\n\r\n\r\u001b[A\u001b[A\u001b[Arescued:         0 B,  errsize:       0 B,  current rate:        0 B/s\r\n   ipos:         0 B,   errors:       0,    average rate:        0 B/s\r\n   opos:         0 B, run time:       0 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.774116,
+      "\r\u001b[A\u001b[A\u001b[Arescued:    98697 kB,  errsize:       0 B,  current rate:   98697 kB/s\r\n   ipos:    98697 kB,   errors:       0,    average rate:   98697 kB/s\r\n   opos:    98697 kB, run time:       1 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:   263979 kB,  errsize:       0 B,  current rate:     165 MB/s\r\n   ipos:   263979 kB,   errors:       0,    average rate:     131 MB/s\r\n   opos:   263979 kB, run time:       2 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:   408027 kB,  errsize:       0 B,  current rate:     144 MB/s\r\n   ipos:   408027 kB,   errors:       0,    average rate:     136 MB/s\r\n   opos:   408027 kB, run time:       3 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.999570,
+      "\r\u001b[A\u001b[A\u001b[Arescued:   541065 kB,  errsize:       0 B,  current rate:     133 MB/s\r\n   ipos:   541065 kB,   errors:       0,    average rate:     135 MB/s\r\n   opos:   541065 kB, run time:       4 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:   705298 kB,  errsize:       0 B,  current rate:     164 MB/s\r\n   ipos:   705298 kB,   errors:       0,    average rate:     141 MB/s\r\n   opos:   705298 kB, run time:       5 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.991395,
+      "\r\u001b[A\u001b[A\u001b[Arescued:   861536 kB,  errsize:       0 B,  current rate:     156 MB/s\r\n   ipos:   861536 kB,   errors:       0,    average rate:     143 MB/s\r\n   opos:   861536 kB, run time:       6 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:   975175 kB,  errsize:       0 B,  current rate:     113 MB/s\r\n   ipos:   975175 kB,   errors:       0,    average rate:     139 MB/s\r\n   opos:   975175 kB, run time:       7 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.995339,
+      "\r\u001b[A\u001b[A\u001b[Arescued:   983826 kB,  errsize:       0 B,  current rate:    8650 kB/s\r\n   ipos:   983826 kB,   errors:       0,    average rate:     122 MB/s\r\n   opos:   983826 kB, run time:       8 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:   993394 kB,  errsize:       0 B,  current rate:    9568 kB/s\r\n   ipos:   993394 kB,   errors:       0,    average rate:     110 MB/s\r\n   opos:   993394 kB, run time:       9 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.999131,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1003 MB,  errsize:       0 B,  current rate:    9830 kB/s\r\n   ipos:     1003 MB,   errors:       0,    average rate:     100 MB/s\r\n   opos:     1003 MB, run time:      10 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.960951,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1012 MB,  errsize:       0 B,  current rate:    8912 kB/s\r\n   ipos:     1012 MB,   errors:       0,    average rate:   92012 kB/s\r\n   opos:     1012 MB, run time:      11 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1021 MB,  errsize:       0 B,  current rate:    9437 kB/s\r\n   ipos:     1021 MB,   errors:       0,    average rate:   85131 kB/s\r\n   opos:     1021 MB, run time:      12 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1029 MB,  errsize:       0 B,  current rate:    8388 kB/s\r\n   ipos:     1029 MB,   errors:       0,    average rate:   79227 kB/s\r\n   opos:     1029 MB, run time:      13 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.806073,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1037 MB,  errsize:       0 B,  current rate:    7995 kB/s\r\n   ipos:     1037 MB,   errors:       0,    average rate:   74139 kB/s\r\n   opos:     1037 MB, run time:      14 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.997336,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1046 MB,  errsize:       0 B,  current rate:    8126 kB/s\r\n   ipos:     1046 MB,   errors:       0,    average rate:   69739 kB/s\r\n   opos:     1046 MB, run time:      15 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1056 MB,  errsize:       0 B,  current rate:   10616 kB/s\r\n   ipos:     1056 MB,   errors:       0,    average rate:   66043 kB/s\r\n   opos:     1056 MB, run time:      16 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1065 MB,  errsize:       0 B,  current rate:    9175 kB/s\r\n   ipos:     1065 MB,   errors:       0,    average rate:   62698 kB/s\r\n   opos:     1065 MB, run time:      17 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.983665,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1076 MB,  errsize:       0 B,  current rate:   10485 kB/s\r\n   ipos:     1076 MB,   errors:       0,    average rate:   59797 kB/s\r\n   opos:     1076 MB, run time:      18 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1085 MB,  errsize:       0 B,  current rate:    9043 kB/s\r\n   ipos:     1085 MB,   errors:       0,    average rate:   57126 kB/s\r\n   opos:     1085 MB, run time:      19 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.990686,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1101 MB,  errsize:       0 B,  current rate:   16121 kB/s\r\n   ipos:     1101 MB,   errors:       0,    average rate:   55076 kB/s\r\n   opos:     1101 MB, run time:      20 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1115 MB,  errsize:       0 B,  current rate:   14286 kB/s\r\n   ipos:     1115 MB,   errors:       0,    average rate:   53134 kB/s\r\n   opos:     1115 MB, run time:      21 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.985678,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1129 MB,  errsize:       0 B,  current rate:   13762 kB/s\r\n   ipos:     1129 MB,   errors:       0,    average rate:   51344 kB/s\r\n   opos:     1129 MB, run time:      22 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1143 MB,  errsize:       0 B,  current rate:   13893 kB/s\r\n   ipos:     1143 MB,   errors:       0,    average rate:   49716 kB/s\r\n   opos:     1143 MB, run time:      23 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.993323,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1152 MB,  errsize:       0 B,  current rate:    8912 kB/s\r\n   ipos:     1152 MB,   errors:       0,    average rate:   48016 kB/s\r\n   opos:     1152 MB, run time:      24 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1162 MB,  errsize:       0 B,  current rate:    9699 kB/s\r\n   ipos:     1162 MB,   errors:       0,    average rate:   46483 kB/s\r\n   opos:     1162 MB, run time:      25 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.960885,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1169 MB,  errsize:       0 B,  current rate:    7602 kB/s\r\n   ipos:     1169 MB,   errors:       0,    average rate:   44987 kB/s\r\n   opos:     1169 MB, run time:      26 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1178 MB,  errsize:       0 B,  current rate:    9043 kB/s\r\n   ipos:     1178 MB,   errors:       0,    average rate:   43656 kB/s\r\n   opos:     1178 MB, run time:      27 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.998060,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1188 MB,  errsize:       0 B,  current rate:    9306 kB/s\r\n   ipos:     1188 MB,   errors:       0,    average rate:   42429 kB/s\r\n   opos:     1188 MB, run time:      28 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1196 MB,  errsize:       0 B,  current rate:    8912 kB/s\r\n   ipos:     1196 MB,   errors:       0,    average rate:   41274 kB/s\r\n   opos:     1196 MB, run time:      29 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.973558,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1211 MB,  errsize:       0 B,  current rate:   14548 kB/s\r\n   ipos:     1211 MB,   errors:       0,    average rate:   40383 kB/s\r\n   opos:     1211 MB, run time:      30 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.992923,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1219 MB,  errsize:       0 B,  current rate:    8388 kB/s\r\n   ipos:     1219 MB,   errors:       0,    average rate:   39351 kB/s\r\n   opos:     1219 MB, run time:      31 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1229 MB,  errsize:       0 B,  current rate:    9830 kB/s\r\n   ipos:     1229 MB,   errors:       0,    average rate:   38428 kB/s\r\n   opos:     1229 MB, run time:      32 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1239 MB,  errsize:       0 B,  current rate:    9568 kB/s\r\n   ipos:     1239 MB,   errors:       0,    average rate:   37554 kB/s\r\n   opos:     1239 MB, run time:      33 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.878489,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1249 MB,  errsize:       0 B,  current rate:   10092 kB/s\r\n   ipos:     1249 MB,   errors:       0,    average rate:   36746 kB/s\r\n   opos:     1249 MB, run time:      34 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1257 MB,  errsize:       0 B,  current rate:    8388 kB/s\r\n   ipos:     1257 MB,   errors:       0,    average rate:   35936 kB/s\r\n   opos:     1257 MB, run time:      35 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1266 MB,  errsize:       0 B,  current rate:    9043 kB/s\r\n   ipos:     1266 MB,   errors:       0,    average rate:   35189 kB/s\r\n   opos:     1266 MB, run time:      36 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.970755,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1275 MB,  errsize:       0 B,  current rate:    8650 kB/s\r\n   ipos:     1275 MB,   errors:       0,    average rate:   34471 kB/s\r\n   opos:     1275 MB, run time:      37 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1289 MB,  errsize:       0 B,  current rate:   13762 kB/s\r\n"
+    ],
+    [
+      0.000007,
+      "   ipos:     1289 MB,   errors:       0,    average rate:   33926 kB/s\r\n   opos:     1289 MB, run time:      38 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1299 MB,  errsize:       0 B,  current rate:   10485 kB/s\r\n   ipos:     1299 MB,   errors:       0,    average rate:   33325 kB/s\r\n   opos:     1299 MB, run time:      39 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.986415,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1309 MB,  errsize:       0 B,  current rate:    9568 kB/s\r\n   ipos:     1309 MB,   errors:       0,    average rate:   32731 kB/s\r\n   opos:     1309 MB, run time:      40 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1318 MB,  errsize:       0 B,  current rate:    9699 kB/s\r\n   ipos:     1318 MB,   errors:       0,    average rate:   32170 kB/s\r\n   opos:     1318 MB, run time:      41 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1326 MB,  errsize:       0 B,  current rate:    7733 kB/s\r\n"
+    ],
+    [
+      0.000006,
+      "   ipos:     1326 MB,   errors:       0,    average rate:   31588 kB/s\r\n   opos:     1326 MB, run time:      42 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.893889,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1334 MB,  errsize:       0 B,  current rate:    8126 kB/s\r\n   ipos:     1334 MB,   errors:       0,    average rate:   31042 kB/s\r\n   opos:     1334 MB, run time:      43 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.990741,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1350 MB,  errsize:       0 B,  current rate:   15728 kB/s\r\n   ipos:     1350 MB,   errors:       0,    average rate:   30694 kB/s\r\n   opos:     1350 MB, run time:      44 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1359 MB,  errsize:       0 B,  current rate:    8650 kB/s\r\n   ipos:     1359 MB,   errors:       0,    average rate:   30204 kB/s\r\n   opos:     1359 MB, run time:      45 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.968294,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1368 MB,  errsize:       0 B,  current rate:    9043 kB/s\r\n   ipos:     1368 MB,   errors:       0,    average rate:   29744 kB/s\r\n   opos:     1368 MB, run time:      46 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1376 MB,  errsize:       0 B,  current rate:    8650 kB/s\r\n   ipos:     1376 MB,   errors:       0,    average rate:   29295 kB/s\r\n   opos:     1376 MB, run time:      47 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.963780,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1385 MB,  errsize:       0 B,  current rate:    8126 kB/s\r\n   ipos:     1385 MB,   errors:       0,    average rate:   28854 kB/s\r\n   opos:     1385 MB, run time:      48 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1394 MB,  errsize:       0 B,  current rate:    9699 kB/s\r\n   ipos:     1394 MB,   errors:       0,    average rate:   28464 kB/s\r\n   opos:     1394 MB, run time:      49 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.982332,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1410 MB,  errsize:       0 B,  current rate:   15859 kB/s\r\n   ipos:     1410 MB,   errors:       0,    average rate:   28211 kB/s\r\n   opos:     1410 MB, run time:      50 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1418 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     1418 MB,   errors:       0,    average rate:   27812 kB/s\r\n   opos:     1418 MB, run time:      51 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1427 MB,  errsize:       0 B,  current rate:    8650 kB/s\r\n   ipos:     1427 MB,   errors:       0,    average rate:   27444 kB/s\r\n   opos:     1427 MB, run time:      52 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.912980,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1434 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     1434 MB,   errors:       0,    average rate:   27075 kB/s\r\n   opos:     1434 MB, run time:      53 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.987399,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1443 MB,  errsize:       0 B,  current rate:    8585 kB/s\r\n   ipos:     1443 MB,   errors:       0,    average rate:   26732 kB/s\r\n   opos:     1443 MB, run time:      54 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1453 MB,  errsize:       0 B,  current rate:   10027 kB/s\r\n   ipos:     1453 MB,   errors:       0,    average rate:   26428 kB/s\r\n   opos:     1453 MB, run time:      55 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.993488,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1465 MB,  errsize:       0 B,  current rate:   11927 kB/s\r\n   ipos:     1465 MB,   errors:       0,    average rate:   26169 kB/s\r\n   opos:     1465 MB, run time:      56 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1475 MB,  errsize:       0 B,  current rate:   10092 kB/s\r\n   ipos:     1475 MB,   errors:       0,    average rate:   25887 kB/s"
+    ],
+    [
+      0.000007,
+      "\r\n   opos:     1475 MB, run time:      57 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1483 MB,  errsize:       0 B,  current rate:    8126 kB/s\r\n"
+    ],
+    [
+      0.000005,
+      "   ipos:     1483 MB,   errors:       0,    average rate:   25581 kB/s\r\n   opos:     1483 MB, run time:      58 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.944358,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1492 MB,  errsize:       0 B,  current rate:    8519 kB/s\r\n   ipos:     1492 MB,   errors:       0,    average rate:   25292 kB/s\r\n   opos:     1492 MB, run time:      59 s,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1500 MB,  errsize:       0 B,  current rate:    8519 kB/s\r\n   ipos:     1500 MB,   errors:       0,    average rate:   25012 kB/s\r\n   opos:     1500 MB, run time:       1 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1512 MB,  errsize:       0 B,  current rate:   11403 kB/s\r\n   ipos:     1512 MB,   errors:       0,    average rate:   24789 kB/s"
+    ],
+    [
+      0.000006,
+      "\r\n   opos:     1512 MB, run time:    1.01 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.957824,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1525 MB,  errsize:       0 B,  current rate:   13238 kB/s\r\n   ipos:     1525 MB,   errors:       0,    average rate:   24603 kB/s\r\n   opos:     1525 MB, run time:    1.03 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1534 MB,  errsize:       0 B,  current rate:    9175 kB/s\r\n   ipos:     1534 MB,   errors:       0,    average rate:   24358 kB/s\r\n   opos:     1534 MB, run time:    1.05 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1542 MB,  errsize:       0 B,  current rate:    8257 kB/s\r\n   ipos:     1542 MB,   errors:       0,    average rate:   24107 kB/s\r\n   opos:     1542 MB, run time:    1.06 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.987452,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1552 MB,  errsize:       0 B,  current rate:    9437 kB/s\r\n   ipos:     1552 MB,   errors:       0,    average rate:   23881 kB/s\r\n   opos:     1552 MB, run time:    1.08 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.990188,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1560 MB,  errsize:       0 B,  current rate:    8650 kB/s\r\n   ipos:     1560 MB,   errors:       0,    average rate:   23650 kB/s\r\n   opos:     1560 MB, run time:    1.10 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.995581,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1570 MB,  errsize:       0 B,  current rate:    9175 kB/s\r\n   ipos:     1570 MB,   errors:       0,    average rate:   23434 kB/s\r\n   opos:     1570 MB, run time:    1.11 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1581 MB,  errsize:       0 B,  current rate:   11141 kB/s\r\n   ipos:     1581 MB,   errors:       0,    average rate:   23253 kB/s\r\n   opos:     1581 MB, run time:    1.13 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.964748,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1589 MB,  errsize:       0 B,  current rate:    8388 kB/s\r\n   ipos:     1589 MB,   errors:       0,    average rate:   23038 kB/s\r\n   opos:     1589 MB, run time:    1.15 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1597 MB,  errsize:       0 B,  current rate:    7602 kB/s\r\n   ipos:     1597 MB,   errors:       0,    average rate:   22817 kB/s\r\n   opos:     1597 MB, run time:    1.16 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1606 MB,  errsize:       0 B,  current rate:    8912 kB/s\r\n"
+    ],
+    [
+      0.000007,
+      "   ipos:     1606 MB,   errors:       0,    average rate:   22621 kB/s\r\n   opos:     1606 MB, run time:    1.18 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.973491,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1612 MB,  errsize:       0 B,  current rate:    6815 kB/s\r\n   ipos:     1612 MB,   errors:       0,    average rate:   22402 kB/s\r\n   opos:     1612 MB, run time:    1.20 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1622 MB,  errsize:       0 B,  current rate:    9043 kB/s\r\n   ipos:     1622 MB,   errors:       0,    average rate:   22219 kB/s\r\n   opos:     1622 MB, run time:    1.21 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1631 MB,  errsize:       0 B,  current rate:    9699 kB/s\r\n   ipos:     1631 MB,   errors:       0,    average rate:   22050 kB/s\r\n   opos:     1631 MB, run time:    1.23 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.993725,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1640 MB,  errsize:       0 B,  current rate:    8650 kB/s\r\n   ipos:     1640 MB,   errors:       0,    average rate:   21871 kB/s\r\n   opos:     1640 MB, run time:    1.25 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.992012,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1649 MB,  errsize:       0 B,  current rate:    9568 kB/s\r\n   ipos:     1649 MB,   errors:       0,    average rate:   21709 kB/s\r\n   opos:     1649 MB, run time:    1.26 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1661 MB,  errsize:       0 B,  current rate:   11796 kB/s\r\n   ipos:     1661 MB,   errors:       0,    average rate:   21580 kB/s\r\n   opos:     1661 MB, run time:    1.28 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1669 MB,  errsize:       0 B,  current rate:    7995 kB/s\r\n   ipos:     1669 MB,   errors:       0,    average rate:   21406 kB/s\r\n   opos:     1669 MB, run time:    1.30 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.925525,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1677 MB,  errsize:       0 B,  current rate:    8126 kB/s\r\n"
+    ],
+    [
+      0.000007,
+      "   ipos:     1677 MB,   errors:       0,    average rate:   21238 kB/s\r\n   opos:     1677 MB, run time:    1.31 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1684 MB,  errsize:       0 B,  current rate:    6815 kB/s\r\n   ipos:     1684 MB,   errors:       0,    average rate:   21058 kB/s\r\n   opos:     1684 MB, run time:    1.33 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1691 MB,  errsize:       0 B,  current rate:    6684 kB/s\r\n   ipos:     1691 MB,   errors:       0,    average rate:   20880 kB/s\r\n   opos:     1691 MB, run time:    1.35 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1700 MB,  errsize:       0 B,  current rate:    8781 kB/s\r\n   ipos:     1700 MB,   errors:       0,    average rate:   20733 kB/s\r\n"
+    ],
+    [
+      0.000006,
+      "   opos:     1700 MB, run time:    1.36 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.940877,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1708 MB,  errsize:       0 B,  current rate:    8257 kB/s\r\n"
+    ],
+    [
+      0.000022,
+      "   ipos:     1708 MB,   errors:       0,    average rate:   20583 kB/s\r\n   opos:     1708 MB, run time:    1.38 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.992766,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1718 MB,  errsize:       0 B,  current rate:   10354 kB/s\r\n   ipos:     1718 MB,   errors:       0,    average rate:   20461 kB/s\r\n   opos:     1718 MB, run time:    1.40 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1726 MB,  errsize:       0 B,  current rate:    7733 kB/s\r\n   ipos:     1726 MB,   errors:       0,    average rate:   20311 kB/s\r\n   opos:     1726 MB, run time:    1.41 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.990590,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1735 MB,  errsize:       0 B,  current rate:    8650 kB/s\r\n   ipos:     1735 MB,   errors:       0,    average rate:   20175 kB/s\r\n   opos:     1735 MB, run time:    1.43 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.975431,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1742 MB,  errsize:       0 B,  current rate:    7077 kB/s\r\n   ipos:     1742 MB,   errors:       0,    average rate:   20025 kB/s\r\n   opos:     1742 MB, run time:    1.45 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1750 MB,  errsize:       0 B,  current rate:    7995 kB/s\r\n"
+    ],
+    [
+      0.000006,
+      "   ipos:     1750 MB,   errors:       0,    average rate:   19888 kB/s\r\n   opos:     1750 MB, run time:    1.46 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.879859,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1758 MB,  errsize:       0 B,  current rate:    8650 kB/s\r\n   ipos:     1758 MB,   errors:       0,    average rate:   19762 kB/s\r\n   opos:     1758 MB, run time:    1.48 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1769 MB,  errsize:       0 B,  current rate:   10485 kB/s\r\n   ipos:     1769 MB,   errors:       0,    average rate:   19659 kB/s\r\n   opos:     1769 MB, run time:    1.50 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1779 MB,  errsize:       0 B,  current rate:   10616 kB/s\r\n   ipos:     1779 MB,   errors:       0,    average rate:   19559 kB/s\r\n   opos:     1779 MB, run time:    1.51 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.899702,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1789 MB,  errsize:       0 B,  current rate:    9437 kB/s\r\n   ipos:     1789 MB,   errors:       0,    average rate:   19449 kB/s\r\n   opos:     1789 MB, run time:    1.53 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.967756,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1798 MB,  errsize:       0 B,  current rate:    8781 kB/s\r\n   ipos:     1798 MB,   errors:       0,    average rate:   19335 kB/s\r\n   opos:     1798 MB, run time:    1.55 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.992864,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1808 MB,  errsize:       0 B,  current rate:   10485 kB/s\r\n   ipos:     1808 MB,   errors:       0,    average rate:   19241 kB/s\r\n   opos:     1808 MB, run time:    1.56 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.999892,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1818 MB,  errsize:       0 B,  current rate:   10092 kB/s\r\n   ipos:     1818 MB,   errors:       0,    average rate:   19144 kB/s\r\n   opos:     1818 MB, run time:    1.58 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1826 MB,  errsize:       0 B,  current rate:    7602 kB/s\r\n"
+    ],
+    [
+      0.000008,
+      "   ipos:     1826 MB,   errors:       0,    average rate:   19024 kB/s\r\n   opos:     1826 MB, run time:    1.60 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.996024,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1834 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     1834 MB,   errors:       0,    average rate:   18909 kB/s\r\n   opos:     1834 MB, run time:    1.61 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1842 MB,  errsize:       0 B,  current rate:    8126 kB/s\r\n   ipos:     1842 MB,   errors:       0,    average rate:   18799 kB/s\r\n   opos:     1842 MB, run time:    1.63 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.994906,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1851 MB,  errsize:       0 B,  current rate:    9175 kB/s\r\n   ipos:     1851 MB,   errors:       0,    average rate:   18702 kB/s\r\n   opos:     1851 MB, run time:    1.65 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.964993,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1860 MB,  errsize:       0 B,  current rate:    9043 kB/s\r\n   ipos:     1860 MB,   errors:       0,    average rate:   18605 kB/s\r\n   opos:     1860 MB, run time:    1.66 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1867 MB,  errsize:       0 B,  current rate:    7340 kB/s\r\n   ipos:     1867 MB,   errors:       0,    average rate:   18494 kB/s\r\n   opos:     1867 MB, run time:    1.68 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.973091,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1878 MB,  errsize:       0 B,  current rate:   10485 kB/s\r\n   ipos:     1878 MB,   errors:       0,    average rate:   18415 kB/s\r\n   opos:     1878 MB, run time:    1.70 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1885 MB,  errsize:       0 B,  current rate:    7602 kB/s\r\n   ipos:     1885 MB,   errors:       0,    average rate:   18310 kB/s\r\n   opos:     1885 MB, run time:    1.71 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.981212,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1892 MB,  errsize:       0 B,  current rate:    6684 kB/s\r\n   ipos:     1892 MB,   errors:       0,    average rate:   18198 kB/s\r\n   opos:     1892 MB, run time:    1.73 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1899 MB,  errsize:       0 B,  current rate:    6422 kB/s\r\n   ipos:     1899 MB,   errors:       0,    average rate:   18086 kB/s\r\n   opos:     1899 MB, run time:    1.75 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1908 MB,  errsize:       0 B,  current rate:    8912 kB/s\r\n   ipos:     1908 MB,   errors:       0,    average rate:   18000 kB/s\r\n   opos:     1908 MB, run time:    1.76 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1916 MB,  errsize:       0 B,  current rate:    8781 kB/s\r\n   ipos:     1916 MB,   errors:       0,    average rate:   17913 kB/s\r\n   opos:     1916 MB, run time:    1.78 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.972544,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1923 MB,  errsize:       0 B,  current rate:    6684 kB/s\r\n   ipos:     1923 MB,   errors:       0,    average rate:   17810 kB/s\r\n   opos:     1923 MB, run time:    1.80 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1932 MB,  errsize:       0 B,  current rate:    9175 kB/s\r\n   ipos:     1932 MB,   errors:       0,    average rate:   17730 kB/s\r\n   opos:     1932 MB, run time:    1.81 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.990566,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1939 MB,  errsize:       0 B,  current rate:    7077 kB/s\r\n   ipos:     1939 MB,   errors:       0,    average rate:   17633 kB/s\r\n   opos:     1939 MB, run time:    1.83 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1949 MB,  errsize:       0 B,  current rate:    9568 kB/s\r\n   ipos:     1949 MB,   errors:       0,    average rate:   17561 kB/s\r\n   opos:     1949 MB, run time:    1.85 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1957 MB,  errsize:       0 B,  current rate:    8650 kB/s\r\n   ipos:     1957 MB,   errors:       0,    average rate:   17481 kB/s\r\n   opos:     1957 MB, run time:    1.86 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1967 MB,  errsize:       0 B,  current rate:    9306 kB/s\r\n   ipos:     1967 MB,   errors:       0,    average rate:   17409 kB/s\r\n   opos:     1967 MB, run time:    1.88 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.962696,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1973 MB,  errsize:       0 B,  current rate:    6160 kB/s\r\n   ipos:     1973 MB,   errors:       0,    average rate:   17310 kB/s\r\n   opos:     1973 MB, run time:    1.90 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.995952,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1980 MB,  errsize:       0 B,  current rate:    6815 kB/s\r\n   ipos:     1980 MB,   errors:       0,    average rate:   17219 kB/s\r\n   opos:     1980 MB, run time:    1.91 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.963283,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1988 MB,  errsize:       0 B,  current rate:    8126 kB/s\r\n   ipos:     1988 MB,   errors:       0,    average rate:   17141 kB/s\r\n   opos:     1988 MB, run time:    1.93 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     1997 MB,  errsize:       0 B,  current rate:    8781 kB/s\r\n"
+    ],
+    [
+      0.000006,
+      "   ipos:     1997 MB,   errors:       0,    average rate:   17069 kB/s\r\n   opos:     1997 MB, run time:    1.95 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2005 MB,  errsize:       0 B,  current rate:    8126 kB/s\r\n   ipos:     2005 MB,   errors:       0,    average rate:   16993 kB/s\r\n   opos:     2005 MB, run time:    1.96 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.883966,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2011 MB,  errsize:       0 B,  current rate:    6160 kB/s\r\n   ipos:     2011 MB,   errors:       0,    average rate:   16902 kB/s\r\n   opos:     2011 MB, run time:    1.98 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.986860,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2019 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     2019 MB,   errors:       0,    average rate:   16827 kB/s\r\n   opos:     2019 MB, run time:       2 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.983782,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2026 MB,  errsize:       0 B,  current rate:    7602 kB/s\r\n   ipos:     2026 MB,   errors:       0,    average rate:   16751 kB/s\r\n   opos:     2026 MB, run time:    2.01 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2034 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     2034 MB,   errors:       0,    average rate:   16678 kB/s\r\n   opos:     2034 MB, run time:    2.03 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.990762,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2043 MB,  errsize:       0 B,  current rate:    8650 kB/s\r\n   ipos:     2043 MB,   errors:       0,    average rate:   16613 kB/s\r\n   opos:     2043 MB, run time:    2.05 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2051 MB,  errsize:       0 B,  current rate:    8388 kB/s\r\n   ipos:     2051 MB,   errors:       0,    average rate:   16546 kB/s\r\n   opos:     2051 MB, run time:    2.06 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2060 MB,  errsize:       0 B,  current rate:    8781 kB/s\r\n   ipos:     2060 MB,   errors:       0,    average rate:   16484 kB/s\r\n   opos:     2060 MB, run time:    2.08 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.979880,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2068 MB,  errsize:       0 B,  current rate:    7733 kB/s\r\n   ipos:     2068 MB,   errors:       0,    average rate:   16415 kB/s\r\n   opos:     2068 MB, run time:    2.10 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2076 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     2076 MB,   errors:       0,    average rate:   16347 kB/s\r\n   opos:     2076 MB, run time:    2.11 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2082 MB,  errsize:       0 B,  current rate:    6815 kB/s\r\n   ipos:     2082 MB,   errors:       0,    average rate:   16273 kB/s\r\n   opos:     2082 MB, run time:    2.13 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.971966,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2090 MB,  errsize:       0 B,  current rate:    7340 kB/s\r\n   ipos:     2090 MB,   errors:       0,    average rate:   16204 kB/s\r\n   opos:     2090 MB, run time:    2.15 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2098 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     2098 MB,   errors:       0,    average rate:   16140 kB/s\r\n   opos:     2098 MB, run time:    2.16 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.972968,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2107 MB,  errsize:       0 B,  current rate:    9175 kB/s\r\n   ipos:     2107 MB,   errors:       0,    average rate:   16086 kB/s\r\n   opos:     2107 MB, run time:    2.18 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2113 MB,  errsize:       0 B,  current rate:    6160 kB/s\r\n   ipos:     2113 MB,   errors:       0,    average rate:   16011 kB/s\r\n   opos:     2113 MB, run time:    2.20 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.992563,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2121 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     2121 MB,   errors:       0,    average rate:   15950 kB/s\r\n   opos:     2121 MB, run time:    2.21 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2129 MB,  errsize:       0 B,  current rate:    8388 kB/s\r\n   ipos:     2129 MB,   errors:       0,    average rate:   15893 kB/s\r\n   opos:     2129 MB, run time:    2.23 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.941185,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2135 MB,  errsize:       0 B,  current rate:    5505 kB/s\r\n   ipos:     2135 MB,   errors:       0,    average rate:   15816 kB/s\r\n   opos:     2135 MB, run time:    2.25 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.985221,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2143 MB,  errsize:       0 B,  current rate:    8519 kB/s\r\n   ipos:     2143 MB,   errors:       0,    average rate:   15763 kB/s\r\n   opos:     2143 MB, run time:    2.26 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2152 MB,  errsize:       0 B,  current rate:    8519 kB/s\r\n   ipos:     2152 MB,   errors:       0,    average rate:   15710 kB/s\r\n   opos:     2152 MB, run time:    2.28 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.997512,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2160 MB,  errsize:       0 B,  current rate:    7995 kB/s\r\n"
+    ],
+    [
+      0.000015,
+      "   ipos:     2160 MB,   errors:       0,    average rate:   15654 kB/s\r\n   opos:     2160 MB, run time:    2.30 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.979605,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2166 MB,  errsize:       0 B,  current rate:    6553 kB/s\r\n   ipos:     2166 MB,   errors:       0,    average rate:   15589 kB/s\r\n   opos:     2166 MB, run time:    2.31 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2176 MB,  errsize:       0 B,  current rate:    9306 kB/s\r\n   ipos:     2176 MB,   errors:       0,    average rate:   15544 kB/s\r\n   opos:     2176 MB, run time:    2.33 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.985886,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2184 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     2184 MB,   errors:       0,    average rate:   15489 kB/s\r\n   opos:     2184 MB, run time:    2.35 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2190 MB,  errsize:       0 B,  current rate:    6029 kB/s\r\n   ipos:     2190 MB,   errors:       0,    average rate:   15423 kB/s\r\n   opos:     2190 MB, run time:    2.36 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.992706,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2197 MB,  errsize:       0 B,  current rate:    7471 kB/s\r\n   ipos:     2197 MB,   errors:       0,    average rate:   15367 kB/s\r\n   opos:     2197 MB, run time:    2.38 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.967154,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2204 MB,  errsize:       0 B,  current rate:    7340 kB/s\r\n   ipos:     2204 MB,   errors:       0,    average rate:   15311 kB/s\r\n   opos:     2204 MB, run time:    2.40 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2212 MB,  errsize:       0 B,  current rate:    7995 kB/s\r\n   ipos:     2212 MB,   errors:       0,    average rate:   15261 kB/s\r\n   opos:     2212 MB, run time:    2.41 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.979611,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2221 MB,  errsize:       0 B,  current rate:    8126 kB/s\r\n"
+    ],
+    [
+      0.000008,
+      "   ipos:     2221 MB,   errors:       0,    average rate:   15212 kB/s\r\n   opos:     2221 MB, run time:    2.43 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2228 MB,  errsize:       0 B,  current rate:    7340 kB/s\r\n   ipos:     2228 MB,   errors:       0,    average rate:   15158 kB/s\r\n   opos:     2228 MB, run time:    2.45 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.969315,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2236 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     2236 MB,   errors:       0,    average rate:   15109 kB/s\r\n   opos:     2236 MB, run time:    2.46 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.998132,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2244 MB,  errsize:       0 B,  current rate:    8257 kB/s\r\n   ipos:     2244 MB,   errors:       0,    average rate:   15063 kB/s\r\n   opos:     2244 MB, run time:    2.48 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.985158,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2252 MB,  errsize:       0 B,  current rate:    7733 kB/s\r\n   ipos:     2252 MB,   errors:       0,    average rate:   15014 kB/s"
+    ],
+    [
+      0.000007,
+      "\r\n   opos:     2252 MB, run time:    2.50 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2259 MB,  errsize:       0 B,  current rate:    7602 kB/s\r\n   ipos:     2259 MB,   errors:       0,    average rate:   14965 kB/s\r\n   opos:     2259 MB, run time:    2.51 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2268 MB,  errsize:       0 B,  current rate:    8519 kB/s\r\n   ipos:     2268 MB,   errors:       0,    average rate:   14923 kB/s\r\n   opos:     2268 MB, run time:    2.53 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2277 MB,  errsize:       0 B,  current rate:    8781 kB/s\r\n   ipos:     2277 MB,   errors:       0,    average rate:   14883 kB/s\r\n   opos:     2277 MB, run time:    2.55 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2285 MB,  errsize:       0 B,  current rate:    8781 kB/s\r\n   ipos:     2285 MB,   errors:       0,    average rate:   14843 kB/s\r\n   opos:     2285 MB, run time:    2.56 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.956034,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2292 MB,  errsize:       0 B,  current rate:    7077 kB/s\r\n   ipos:     2292 MB,   errors:       0,    average rate:   14793 kB/s\r\n   opos:     2292 MB, run time:    2.58 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2300 MB,  errsize:       0 B,  current rate:    7733 kB/s\r\n   ipos:     2300 MB,   errors:       0,    average rate:   14748 kB/s\r\n   opos:     2300 MB, run time:    2.60 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.981446,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2308 MB,  errsize:       0 B,  current rate:    8257 kB/s\r\n   ipos:     2308 MB,   errors:       0,    average rate:   14706 kB/s\r\n   opos:     2308 MB, run time:    2.61 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2316 MB,  errsize:       0 B,  current rate:    7995 kB/s\r\n   ipos:     2316 MB,   errors:       0,    average rate:   14664 kB/s\r\n   opos:     2316 MB, run time:    2.63 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.999460,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2325 MB,  errsize:       0 B,  current rate:    8126 kB/s\r\n   ipos:     2325 MB,   errors:       0,    average rate:   14623 kB/s\r\n   opos:     2325 MB, run time:    2.65 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.990733,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2332 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     2332 MB,   errors:       0,    average rate:   14580 kB/s\r\n   opos:     2332 MB, run time:    2.66 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2341 MB,  errsize:       0 B,  current rate:    8388 kB/s\r\n   ipos:     2341 MB,   errors:       0,    average rate:   14542 kB/s\r\n   opos:     2341 MB, run time:    2.68 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2349 MB,  errsize:       0 B,  current rate:    7733 kB/s\r\n   ipos:     2349 MB,   errors:       0,    average rate:   14500 kB/s\r\n   opos:     2349 MB, run time:    2.70 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.974881,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2355 MB,  errsize:       0 B,  current rate:    6553 kB/s\r\n   ipos:     2355 MB,   errors:       0,    average rate:   14451 kB/s\r\n   opos:     2355 MB, run time:    2.71 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.992010,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2363 MB,  errsize:       0 B,  current rate:    8257 kB/s\r\n   ipos:     2363 MB,   errors:       0,    average rate:   14413 kB/s\r\n   opos:     2363 MB, run time:    2.73 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2371 MB,  errsize:       0 B,  current rate:    7602 kB/s\r\n"
+    ],
+    [
+      0.000008,
+      "   ipos:     2371 MB,   errors:       0,    average rate:   14372 kB/s\r\n   opos:     2371 MB, run time:    2.75 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.982978,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2379 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     2379 MB,   errors:       0,    average rate:   14333 kB/s\r\n   opos:     2379 MB, run time:    2.76 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.999879,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2386 MB,  errsize:       0 B,  current rate:    7208 kB/s\r\n   ipos:     2386 MB,   errors:       0,    average rate:   14290 kB/s\r\n   opos:     2386 MB, run time:    2.78 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.988208,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2395 MB,  errsize:       0 B,  current rate:    8650 kB/s\r\n   ipos:     2395 MB,   errors:       0,    average rate:   14257 kB/s\r\n   opos:     2395 MB, run time:    2.80 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2403 MB,  errsize:       0 B,  current rate:    7995 kB/s\r\n   ipos:     2403 MB,   errors:       0,    average rate:   14220 kB/s\r\n   opos:     2403 MB, run time:    2.81 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2411 MB,  errsize:       0 B,  current rate:    8519 kB/s\r\n   ipos:     2411 MB,   errors:       0,    average rate:   14186 kB/s\r\n   opos:     2411 MB, run time:    2.83 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.980093,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2421 MB,  errsize:       0 B,  current rate:    9699 kB/s\r\n   ipos:     2421 MB,   errors:       0,    average rate:   14160 kB/s\r\n   opos:     2421 MB, run time:    2.85 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.998354,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2429 MB,  errsize:       0 B,  current rate:    8519 kB/s\r\n   ipos:     2429 MB,   errors:       0,    average rate:   14127 kB/s\r\n   opos:     2429 MB, run time:    2.86 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.991629,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2436 MB,  errsize:       0 B,  current rate:    6946 kB/s\r\n   ipos:     2436 MB,   errors:       0,    average rate:   14086 kB/s\r\n   opos:     2436 MB, run time:    2.88 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2443 MB,  errsize:       0 B,  current rate:    6684 kB/s\r\n   ipos:     2443 MB,   errors:       0,    average rate:   14043 kB/s\r\n   opos:     2443 MB, run time:    2.90 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2452 MB,  errsize:       0 B,  current rate:    9043 kB/s\r\n   ipos:     2452 MB,   errors:       0,    average rate:   14014 kB/s\r\n   opos:     2452 MB, run time:    2.91 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2460 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     2460 MB,   errors:       0,    average rate:   13980 kB/s\r\n   opos:     2460 MB, run time:    2.93 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.982380,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2467 MB,  errsize:       0 B,  current rate:    6815 kB/s\r\n   ipos:     2467 MB,   errors:       0,    average rate:   13939 kB/s\r\n   opos:     2467 MB, run time:    2.95 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.950775,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2472 MB,  errsize:       0 B,  current rate:    4718 kB/s\r\n   ipos:     2472 MB,   errors:       0,    average rate:   13887 kB/s\r\n   opos:     2472 MB, run time:    2.96 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2480 MB,  errsize:       0 B,  current rate:    8519 kB/s\r\n   ipos:     2480 MB,   errors:       0,    average rate:   13857 kB/s\r\n   opos:     2480 MB, run time:    2.98 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2488 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     2488 MB,   errors:       0,    average rate:   13824 kB/s\r\n   opos:     2488 MB, run time:       3 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2496 MB,  errsize:       0 B,  current rate:    8519 kB/s\r\n   ipos:     2496 MB,   errors:       0,    average rate:   13795 kB/s\r\n   opos:     2496 MB, run time:    3.01 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2503 MB,  errsize:       0 B,  current rate:    7077 kB/s\r\n   ipos:     2503 MB,   errors:       0,    average rate:   13758 kB/s\r\n   opos:     2503 MB, run time:    3.03 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.847169,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2510 MB,  errsize:       0 B,  current rate:    6946 kB/s\r\n   ipos:     2510 MB,   errors:       0,    average rate:   13721 kB/s\r\n   opos:     2510 MB, run time:    3.05 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.961453,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2517 MB,  errsize:       0 B,  current rate:    6422 kB/s\r\n   ipos:     2517 MB,   errors:       0,    average rate:   13681 kB/s\r\n   opos:     2517 MB, run time:    3.06 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2524 MB,  errsize:       0 B,  current rate:    6815 kB/s\r\n   ipos:     2524 MB,   errors:       0,    average rate:   13644 kB/s\r\n   opos:     2524 MB, run time:    3.08 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.987752,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2532 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     2532 MB,   errors:       0,    average rate:   13613 kB/s\r\n   opos:     2532 MB, run time:    3.10 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2540 MB,  errsize:       0 B,  current rate:    8126 kB/s\r\n   ipos:     2540 MB,   errors:       0,    average rate:   13583 kB/s\r\n   opos:     2540 MB, run time:    3.11 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.981582,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2548 MB,  errsize:       0 B,  current rate:    8257 kB/s\r\n   ipos:     2548 MB,   errors:       0,    average rate:   13555 kB/s\r\n   opos:     2548 MB, run time:    3.13 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.973050,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2554 MB,  errsize:       0 B,  current rate:    6291 kB/s\r\n   ipos:     2554 MB,   errors:       0,    average rate:   13517 kB/s\r\n   opos:     2554 MB, run time:    3.15 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2561 MB,  errsize:       0 B,  current rate:    6684 kB/s\r\n   ipos:     2561 MB,   errors:       0,    average rate:   13481 kB/s\r\n   opos:     2561 MB, run time:    3.16 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.994888,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2569 MB,  errsize:       0 B,  current rate:    8257 kB/s\r\n   ipos:     2569 MB,   errors:       0,    average rate:   13453 kB/s\r\n   opos:     2569 MB, run time:    3.18 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2576 MB,  errsize:       0 B,  current rate:    6946 kB/s\r\n   ipos:     2576 MB,   errors:       0,    average rate:   13419 kB/s\r\n   opos:     2576 MB, run time:    3.20 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2583 MB,  errsize:       0 B,  current rate:    7340 kB/s\r\n   ipos:     2583 MB,   errors:       0,    average rate:   13388 kB/s\r\n   opos:     2583 MB, run time:    3.21 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2590 MB,  errsize:       0 B,  current rate:    6815 kB/s\r\n"
+    ],
+    [
+      0.000006,
+      "   ipos:     2590 MB,   errors:       0,    average rate:   13354 kB/s\r\n   opos:     2590 MB, run time:    3.23 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.989374,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2600 MB,  errsize:       0 B,  current rate:    9437 kB/s\r\n   ipos:     2600 MB,   errors:       0,    average rate:   13334 kB/s\r\n   opos:     2600 MB, run time:    3.25 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.992177,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2607 MB,  errsize:       0 B,  current rate:    6815 kB/s\r\n   ipos:     2607 MB,   errors:       0,    average rate:   13301 kB/s\r\n   opos:     2607 MB, run time:    3.26 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2613 MB,  errsize:       0 B,  current rate:    6291 kB/s\r\n   ipos:     2613 MB,   errors:       0,    average rate:   13265 kB/s\r\n   opos:     2613 MB, run time:    3.28 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.922957,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2615 MB,  errsize:       0 B,  current rate:    2359 kB/s\r\n   ipos:     2615 MB,   errors:       0,    average rate:   13210 kB/s\r\n   opos:     2615 MB, run time:    3.30 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.998653,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2619 MB,  errsize:       0 B,  current rate:    4194 kB/s\r\n   ipos:     2619 MB,   errors:       0,    average rate:   13165 kB/s\r\n   opos:     2619 MB, run time:    3.31 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2627 MB,  errsize:       0 B,  current rate:    7208 kB/s\r\n   ipos:     2627 MB,   errors:       0,    average rate:   13135 kB/s\r\n   opos:     2627 MB, run time:    3.33 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2634 MB,  errsize:       0 B,  current rate:    7208 kB/s\r\n   ipos:     2634 MB,   errors:       0,    average rate:   13105 kB/s\r\n   opos:     2634 MB, run time:    3.35 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2642 MB,  errsize:       0 B,  current rate:    7995 kB/s\r\n"
+    ],
+    [
+      0.000007,
+      "   ipos:     2642 MB,   errors:       0,    average rate:   13080 kB/s\r\n   opos:     2642 MB, run time:    3.36 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.913467,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2647 MB,  errsize:       0 B,  current rate:    4849 kB/s\r\n   ipos:     2647 MB,   errors:       0,    average rate:   13040 kB/s\r\n   opos:     2647 MB, run time:    3.38 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2650 MB,  errsize:       0 B,  current rate:    2883 kB/s\r\n   ipos:     2650 MB,   errors:       0,    average rate:   12990 kB/s\r\n   opos:     2650 MB, run time:    3.40 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.833822,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2653 MB,  errsize:       0 B,  current rate:    3014 kB/s\r\n   ipos:     2653 MB,   errors:       0,    average rate:   12941 kB/s\r\n   opos:     2653 MB, run time:    3.41 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2660 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     2660 MB,   errors:       0,    average rate:   12916 kB/s\r\n   opos:     2660 MB, run time:    3.43 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2666 MB,  errsize:       0 B,  current rate:    5898 kB/s\r\n   ipos:     2666 MB,   errors:       0,    average rate:   12883 kB/s\r\n   opos:     2666 MB, run time:    3.45 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.370740,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2668 MB,  errsize:       0 B,  current rate:    1572 kB/s\r\n   ipos:     2668 MB,   errors:       0,    average rate:   12828 kB/s\r\n   opos:     2668 MB, run time:    3.46 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2670 MB,  errsize:       0 B,  current rate:    2621 kB/s\r\n   ipos:     2670 MB,   errors:       0,    average rate:   12779 kB/s\r\n   opos:     2670 MB, run time:    3.48 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2677 MB,  errsize:       0 B,  current rate:    6815 kB/s\r\n   ipos:     2677 MB,   errors:       0,    average rate:   12751 kB/s\r\n   opos:     2677 MB, run time:    3.50 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.976319,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2685 MB,  errsize:       0 B,  current rate:    7602 kB/s\r\n   ipos:     2685 MB,   errors:       0,    average rate:   12727 kB/s\r\n   opos:     2685 MB, run time:    3.51 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2693 MB,  errsize:       0 B,  current rate:    8257 kB/s\r\n   ipos:     2693 MB,   errors:       0,    average rate:   12705 kB/s\r\n   opos:     2693 MB, run time:    3.53 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.988281,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2700 MB,  errsize:       0 B,  current rate:    6815 kB/s\r\n   ipos:     2700 MB,   errors:       0,    average rate:   12678 kB/s\r\n   opos:     2700 MB, run time:    3.55 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.974292,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2707 MB,  errsize:       0 B,  current rate:    7077 kB/s\r\n   ipos:     2707 MB,   errors:       0,    average rate:   12652 kB/s\r\n   opos:     2707 MB, run time:    3.56 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.993468,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2715 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     2715 MB,   errors:       0,    average rate:   12629 kB/s\r\n   opos:     2715 MB, run time:    3.58 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2723 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     2723 MB,   errors:       0,    average rate:   12607 kB/s\r\n   opos:     2723 MB, run time:    3.60 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.969763,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2729 MB,  errsize:       0 B,  current rate:    6553 kB/s\r\n   ipos:     2729 MB,   errors:       0,    average rate:   12579 kB/s\r\n   opos:     2729 MB, run time:    3.61 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2738 MB,  errsize:       0 B,  current rate:    8781 kB/s\r\n   ipos:     2738 MB,   errors:       0,    average rate:   12562 kB/s\r\n   opos:     2738 MB, run time:    3.63 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2746 MB,  errsize:       0 B,  current rate:    7733 kB/s\r\n   ipos:     2746 MB,   errors:       0,    average rate:   12540 kB/s\r\n   opos:     2746 MB, run time:    3.65 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2755 MB,  errsize:       0 B,  current rate:    9175 kB/s\r\n   ipos:     2755 MB,   errors:       0,    average rate:   12525 kB/s\r\n   opos:     2755 MB, run time:    3.66 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.988278,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2763 MB,  errsize:       0 B,  current rate:    7995 kB/s\r\n   ipos:     2763 MB,   errors:       0,    average rate:   12504 kB/s\r\n   opos:     2763 MB, run time:    3.68 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.985822,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2771 MB,  errsize:       0 B,  current rate:    7602 kB/s\r\n   ipos:     2771 MB,   errors:       0,    average rate:   12482 kB/s\r\n   opos:     2771 MB, run time:    3.70 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2780 MB,  errsize:       0 B,  current rate:    9175 kB/s\r\n   ipos:     2780 MB,   errors:       0,    average rate:   12467 kB/s\r\n   opos:     2780 MB, run time:    3.71 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.975120,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2787 MB,  errsize:       0 B,  current rate:    6815 kB/s\r\n   ipos:     2787 MB,   errors:       0,    average rate:   12442 kB/s\r\n   opos:     2787 MB, run time:    3.73 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2796 MB,  errsize:       0 B,  current rate:    9306 kB/s\r\n   ipos:     2796 MB,   errors:       0,    average rate:   12428 kB/s\r\n   opos:     2796 MB, run time:    3.75 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.973350,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2805 MB,  errsize:       0 B,  current rate:    9043 kB/s\r\n   ipos:     2805 MB,   errors:       0,    average rate:   12413 kB/s\r\n   opos:     2805 MB, run time:    3.76 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2813 MB,  errsize:       0 B,  current rate:    8126 kB/s\r\n   ipos:     2813 MB,   errors:       0,    average rate:   12394 kB/s\r\n   opos:     2813 MB, run time:    3.78 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2822 MB,  errsize:       0 B,  current rate:    8912 kB/s\r\n   ipos:     2822 MB,   errors:       0,    average rate:   12379 kB/s\r\n   opos:     2822 MB, run time:    3.80 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2830 MB,  errsize:       0 B,  current rate:    7995 kB/s\r\n   ipos:     2830 MB,   errors:       0,    average rate:   12360 kB/s\r\n   opos:     2830 MB, run time:    3.81 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.996615,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2838 MB,  errsize:       0 B,  current rate:    7733 kB/s\r\n   ipos:     2838 MB,   errors:       0,    average rate:   12340 kB/s\r\n   opos:     2838 MB, run time:    3.83 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.965532,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2846 MB,  errsize:       0 B,  current rate:    8454 kB/s\r\n   ipos:     2846 MB,   errors:       0,    average rate:   12323 kB/s\r\n   opos:     2846 MB, run time:    3.85 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2854 MB,  errsize:       0 B,  current rate:    8192 kB/s\r\n   ipos:     2854 MB,   errors:       0,    average rate:   12305 kB/s\r\n   opos:     2854 MB, run time:    3.86 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.991874,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2863 MB,  errsize:       0 B,  current rate:    8388 kB/s\r\n   ipos:     2863 MB,   errors:       0,    average rate:   12288 kB/s\r\n   opos:     2863 MB, run time:    3.88 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2870 MB,  errsize:       0 B,  current rate:    7208 kB/s\r\n   ipos:     2870 MB,   errors:       0,    average rate:   12266 kB/s\r\n   opos:     2870 MB, run time:    3.90 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.501691,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2873 MB,  errsize:       0 B,  current rate:    3407 kB/s\r\n   ipos:     2873 MB,   errors:       0,    average rate:   12229 kB/s\r\n   opos:     2873 MB, run time:    3.91 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2882 MB,  errsize:       0 B,  current rate:    8781 kB/s\r\n   ipos:     2882 MB,   errors:       0,    average rate:   12214 kB/s\r\n   opos:     2882 MB, run time:    3.93 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.988659,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2890 MB,  errsize:       0 B,  current rate:    7995 kB/s\r\n"
+    ],
+    [
+      0.000023,
+      "   ipos:     2890 MB,   errors:       0,    average rate:   12196 kB/s\r\n   opos:     2890 MB, run time:    3.95 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.995155,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2897 MB,  errsize:       0 B,  current rate:    7208 kB/s\r\n   ipos:     2897 MB,   errors:       0,    average rate:   12175 kB/s\r\n   opos:     2897 MB, run time:    3.96 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2906 MB,  errsize:       0 B,  current rate:    8912 kB/s\r\n   ipos:     2906 MB,   errors:       0,    average rate:   12162 kB/s\r\n   opos:     2906 MB, run time:    3.98 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2914 MB,  errsize:       0 B,  current rate:    8126 kB/s\r\n   ipos:     2914 MB,   errors:       0,    average rate:   12145 kB/s\r\n   opos:     2914 MB, run time:       4 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.974959,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2920 MB,  errsize:       0 B,  current rate:    5767 kB/s\r\n   ipos:     2920 MB,   errors:       0,    average rate:   12118 kB/s\r\n   opos:     2920 MB, run time:    4.01 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2930 MB,  errsize:       0 B,  current rate:    9699 kB/s\r\n   ipos:     2930 MB,   errors:       0,    average rate:   12108 kB/s\r\n   opos:     2930 MB, run time:    4.03 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.958846,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2934 MB,  errsize:       0 B,  current rate:    3670 kB/s\r\n   ipos:     2934 MB,   errors:       0,    average rate:   12074 kB/s\r\n   opos:     2934 MB, run time:    4.05 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.985832,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2942 MB,  errsize:       0 B,  current rate:    8650 kB/s\r\n   ipos:     2942 MB,   errors:       0,    average rate:   12060 kB/s\r\n   opos:     2942 MB, run time:    4.06 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2950 MB,  errsize:       0 B,  current rate:    8126 kB/s\r\n   ipos:     2950 MB,   errors:       0,    average rate:   12044 kB/s\r\n   opos:     2950 MB, run time:    4.08 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2958 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     2958 MB,   errors:       0,    average rate:   12027 kB/s\r\n   opos:     2958 MB, run time:    4.10 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.985767,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2966 MB,  errsize:       0 B,  current rate:    7733 kB/s\r\n   ipos:     2966 MB,   errors:       0,    average rate:   12009 kB/s\r\n   opos:     2966 MB, run time:    4.11 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2974 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     2974 MB,   errors:       0,    average rate:   11993 kB/s\r\n   opos:     2974 MB, run time:    4.13 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.936077,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2980 MB,  errsize:       0 B,  current rate:    6684 kB/s\r\n   ipos:     2980 MB,   errors:       0,    average rate:   11971 kB/s\r\n   opos:     2980 MB, run time:    4.15 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2988 MB,  errsize:       0 B,  current rate:    7471 kB/s\r\n   ipos:     2988 MB,   errors:       0,    average rate:   11953 kB/s\r\n   opos:     2988 MB, run time:    4.16 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.969805,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     2996 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     2996 MB,   errors:       0,    average rate:   11937 kB/s\r\n   opos:     2996 MB, run time:    4.18 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.989236,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3003 MB,  errsize:       0 B,  current rate:    6815 kB/s\r\n   ipos:     3003 MB,   errors:       0,    average rate:   11917 kB/s\r\n   opos:     3003 MB, run time:    4.20 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3010 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     3010 MB,   errors:       0,    average rate:   11901 kB/s\r\n   opos:     3010 MB, run time:    4.21 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.906019,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3018 MB,  errsize:       0 B,  current rate:    7733 kB/s\r\n   ipos:     3018 MB,   errors:       0,    average rate:   11884 kB/s\r\n   opos:     3018 MB, run time:    4.23 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3026 MB,  errsize:       0 B,  current rate:    7995 kB/s\r\n   ipos:     3026 MB,   errors:       0,    average rate:   11869 kB/s\r\n   opos:     3026 MB, run time:    4.25 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.974657,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3034 MB,  errsize:       0 B,  current rate:    8126 kB/s\r\n   ipos:     3034 MB,   errors:       0,    average rate:   11854 kB/s\r\n   opos:     3034 MB, run time:    4.26 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3042 MB,  errsize:       0 B,  current rate:    7471 kB/s\r\n   ipos:     3042 MB,   errors:       0,    average rate:   11837 kB/s\r\n   opos:     3042 MB, run time:    4.28 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3050 MB,  errsize:       0 B,  current rate:    7995 kB/s\r\n   ipos:     3050 MB,   errors:       0,    average rate:   11822 kB/s\r\n   opos:     3050 MB, run time:    4.30 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.974355,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3057 MB,  errsize:       0 B,  current rate:    7471 kB/s\r\n   ipos:     3057 MB,   errors:       0,    average rate:   11806 kB/s\r\n   opos:     3057 MB, run time:    4.31 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3065 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     3065 MB,   errors:       0,    average rate:   11790 kB/s\r\n   opos:     3065 MB, run time:    4.33 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.983530,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3072 MB,  errsize:       0 B,  current rate:    7340 kB/s\r\n   ipos:     3072 MB,   errors:       0,    average rate:   11773 kB/s\r\n   opos:     3072 MB, run time:    4.35 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.979050,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3080 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     3080 MB,   errors:       0,    average rate:   11758 kB/s\r\n   opos:     3080 MB, run time:    4.36 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3088 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     3088 MB,   errors:       0,    average rate:   11744 kB/s\r\n   opos:     3088 MB, run time:    4.38 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3095 MB,  errsize:       0 B,  current rate:    7208 kB/s\r\n   ipos:     3095 MB,   errors:       0,    average rate:   11726 kB/s\r\n   opos:     3095 MB, run time:    4.40 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.988043,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3104 MB,  errsize:       0 B,  current rate:    8126 kB/s\r\n   ipos:     3104 MB,   errors:       0,    average rate:   11713 kB/s\r\n   opos:     3104 MB, run time:    4.41 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.990430,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3111 MB,  errsize:       0 B,  current rate:    7077 kB/s\r\n   ipos:     3111 MB,   errors:       0,    average rate:   11695 kB/s\r\n   opos:     3111 MB, run time:    4.43 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3116 MB,  errsize:       0 B,  current rate:    5636 kB/s\r\n   ipos:     3116 MB,   errors:       0,    average rate:   11673 kB/s\r\n   opos:     3116 MB, run time:    4.45 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.952453,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3123 MB,  errsize:       0 B,  current rate:    6291 kB/s\r\n   ipos:     3123 MB,   errors:       0,    average rate:   11653 kB/s\r\n   opos:     3123 MB, run time:    4.46 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.987785,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3130 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     3130 MB,   errors:       0,    average rate:   11639 kB/s\r\n   opos:     3130 MB, run time:    4.48 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3139 MB,  errsize:       0 B,  current rate:    8257 kB/s\r\n   ipos:     3139 MB,   errors:       0,    average rate:   11626 kB/s\r\n   opos:     3139 MB, run time:    4.50 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3147 MB,  errsize:       0 B,  current rate:    8388 kB/s\r\n   ipos:     3147 MB,   errors:       0,    average rate:   11614 kB/s\r\n   opos:     3147 MB, run time:    4.51 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3155 MB,  errsize:       0 B,  current rate:    7995 kB/s\r\n   ipos:     3155 MB,   errors:       0,    average rate:   11601 kB/s\r\n   opos:     3155 MB, run time:    4.53 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.981242,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3162 MB,  errsize:       0 B,  current rate:    7077 kB/s\r\n   ipos:     3162 MB,   errors:       0,    average rate:   11584 kB/s\r\n   opos:     3162 MB, run time:    4.55 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3169 MB,  errsize:       0 B,  current rate:    6815 kB/s\r\n   ipos:     3169 MB,   errors:       0,    average rate:   11567 kB/s\r\n   opos:     3169 MB, run time:    4.56 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.917694,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3174 MB,  errsize:       0 B,  current rate:    5505 kB/s\r\n   ipos:     3174 MB,   errors:       0,    average rate:   11545 kB/s\r\n   opos:     3174 MB, run time:    4.58 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3182 MB,  errsize:       0 B,  current rate:    7340 kB/s\r\n   ipos:     3182 MB,   errors:       0,    average rate:   11530 kB/s\r\n   opos:     3182 MB, run time:    4.60 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.971379,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3190 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     3190 MB,   errors:       0,    average rate:   11516 kB/s\r\n   opos:     3190 MB, run time:    4.61 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3199 MB,  errsize:       0 B,  current rate:    9175 kB/s\r\n   ipos:     3199 MB,   errors:       0,    average rate:   11508 kB/s\r\n   opos:     3199 MB, run time:    4.63 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3207 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     3207 MB,   errors:       0,    average rate:   11495 kB/s\r\n   opos:     3207 MB, run time:    4.65 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3214 MB,  errsize:       0 B,  current rate:    6815 kB/s\r\n   ipos:     3214 MB,   errors:       0,    average rate:   11478 kB/s\r\n   opos:     3214 MB, run time:    4.66 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.996490,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3221 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     3221 MB,   errors:       0,    average rate:   11465 kB/s\r\n   opos:     3221 MB, run time:    4.68 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3229 MB,  errsize:       0 B,  current rate:    7733 kB/s\r\n   ipos:     3229 MB,   errors:       0,    average rate:   11452 kB/s\r\n   opos:     3229 MB, run time:    4.70 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.859885,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3235 MB,  errsize:       0 B,  current rate:    6160 kB/s\r\n   ipos:     3235 MB,   errors:       0,    average rate:   11433 kB/s\r\n   opos:     3235 MB, run time:    4.71 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3242 MB,  errsize:       0 B,  current rate:    6422 kB/s\r\n   ipos:     3242 MB,   errors:       0,    average rate:   11416 kB/s\r\n   opos:     3242 MB, run time:    4.73 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3249 MB,  errsize:       0 B,  current rate:    7602 kB/s\r\n   ipos:     3249 MB,   errors:       0,    average rate:   11402 kB/s\r\n   opos:     3249 MB, run time:    4.75 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3258 MB,  errsize:       0 B,  current rate:    8388 kB/s\r\n   ipos:     3258 MB,   errors:       0,    average rate:   11392 kB/s\r\n   opos:     3258 MB, run time:    4.76 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.983264,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3266 MB,  errsize:       0 B,  current rate:    8257 kB/s\r\n   ipos:     3266 MB,   errors:       0,    average rate:   11381 kB/s\r\n   opos:     3266 MB, run time:    4.78 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.976682,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3274 MB,  errsize:       0 B,  current rate:    8323 kB/s\r\n   ipos:     3274 MB,   errors:       0,    average rate:   11370 kB/s\r\n   opos:     3274 MB, run time:    4.80 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3281 MB,  errsize:       0 B,  current rate:    7012 kB/s\r\n   ipos:     3281 MB,   errors:       0,    average rate:   11355 kB/s\r\n   opos:     3281 MB, run time:    4.81 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.981335,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3288 MB,  errsize:       0 B,  current rate:    6553 kB/s\r\n   ipos:     3288 MB,   errors:       0,    average rate:   11339 kB/s\r\n   opos:     3288 MB, run time:    4.83 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3294 MB,  errsize:       0 B,  current rate:    6291 kB/s\r\n   ipos:     3294 MB,   errors:       0,    average rate:   11321 kB/s\r\n   opos:     3294 MB, run time:    4.85 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.972626,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3303 MB,  errsize:       0 B,  current rate:    9043 kB/s\r\n   ipos:     3303 MB,   errors:       0,    average rate:   11313 kB/s\r\n   opos:     3303 MB, run time:    4.86 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3311 MB,  errsize:       0 B,  current rate:    7733 kB/s\r\n   ipos:     3311 MB,   errors:       0,    average rate:   11301 kB/s\r\n   opos:     3311 MB, run time:    4.88 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3318 MB,  errsize:       0 B,  current rate:    7340 kB/s\r\n   ipos:     3318 MB,   errors:       0,    average rate:   11288 kB/s\r\n   opos:     3318 MB, run time:    4.90 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.823065,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3324 MB,  errsize:       0 B,  current rate:    5767 kB/s\r\n   ipos:     3324 MB,   errors:       0,    average rate:   11269 kB/s\r\n   opos:     3324 MB, run time:    4.91 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.973463,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3332 MB,  errsize:       0 B,  current rate:    8126 kB/s\r\n   ipos:     3332 MB,   errors:       0,    average rate:   11258 kB/s\r\n   opos:     3332 MB, run time:    4.93 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3341 MB,  errsize:       0 B,  current rate:    8781 kB/s\r\n   ipos:     3341 MB,   errors:       0,    average rate:   11250 kB/s\r\n   opos:     3341 MB, run time:    4.95 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3349 MB,  errsize:       0 B,  current rate:    8126 kB/s\r\n   ipos:     3349 MB,   errors:       0,    average rate:   11240 kB/s\r\n   opos:     3349 MB, run time:    4.96 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.815548,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3354 MB,  errsize:       0 B,  current rate:    4456 kB/s\r\n   ipos:     3354 MB,   errors:       0,    average rate:   11217 kB/s\r\n   opos:     3354 MB, run time:    4.98 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3360 MB,  errsize:       0 B,  current rate:    6815 kB/s\r\n   ipos:     3360 MB,   errors:       0,    average rate:   11202 kB/s\r\n   opos:     3360 MB, run time:       5 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3367 MB,  errsize:       0 B,  current rate:    7077 kB/s\r\n   ipos:     3367 MB,   errors:       0,    average rate:   11189 kB/s\r\n   opos:     3367 MB, run time:    5.01 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.935522,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3374 MB,  errsize:       0 B,  current rate:    6291 kB/s\r\n   ipos:     3374 MB,   errors:       0,    average rate:   11172 kB/s\r\n   opos:     3374 MB, run time:    5.03 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.981651,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3381 MB,  errsize:       0 B,  current rate:    7077 kB/s\r\n   ipos:     3381 MB,   errors:       0,    average rate:   11159 kB/s\r\n   opos:     3381 MB, run time:    5.05 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.993830,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3387 MB,  errsize:       0 B,  current rate:    6291 kB/s\r\n   ipos:     3387 MB,   errors:       0,    average rate:   11143 kB/s\r\n   opos:     3387 MB, run time:    5.06 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.985163,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3395 MB,  errsize:       0 B,  current rate:    7471 kB/s\r\n   ipos:     3395 MB,   errors:       0,    average rate:   11131 kB/s\r\n   opos:     3395 MB, run time:    5.08 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3403 MB,  errsize:       0 B,  current rate:    8781 kB/s\r\n   ipos:     3403 MB,   errors:       0,    average rate:   11123 kB/s\r\n   opos:     3403 MB, run time:    5.10 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.974868,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3411 MB,  errsize:       0 B,  current rate:    7471 kB/s\r\n   ipos:     3411 MB,   errors:       0,    average rate:   11111 kB/s\r\n   opos:     3411 MB, run time:    5.11 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3419 MB,  errsize:       0 B,  current rate:    7995 kB/s\r\n   ipos:     3419 MB,   errors:       0,    average rate:   11101 kB/s\r\n   opos:     3419 MB, run time:    5.13 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.980316,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3425 MB,  errsize:       0 B,  current rate:    5767 kB/s\r\n   ipos:     3425 MB,   errors:       0,    average rate:   11084 kB/s\r\n   opos:     3425 MB, run time:    5.15 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.988612,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3431 MB,  errsize:       0 B,  current rate:    6684 kB/s\r\n   ipos:     3431 MB,   errors:       0,    average rate:   11070 kB/s\r\n   opos:     3431 MB, run time:    5.16 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3440 MB,  errsize:       0 B,  current rate:    8912 kB/s\r\n   ipos:     3440 MB,   errors:       0,    average rate:   11063 kB/s\r\n   opos:     3440 MB, run time:    5.18 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3450 MB,  errsize:       0 B,  current rate:    9568 kB/s\r\n   ipos:     3450 MB,   errors:       0,    average rate:   11058 kB/s\r\n   opos:     3450 MB, run time:    5.20 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3456 MB,  errsize:       0 B,  current rate:    6291 kB/s\r\n   ipos:     3456 MB,   errors:       0,    average rate:   11043 kB/s"
+    ],
+    [
+      0.000008,
+      "\r\n   opos:     3456 MB, run time:    5.21 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.811272,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3462 MB,  errsize:       0 B,  current rate:    5767 kB/s\r\n   ipos:     3462 MB,   errors:       0,    average rate:   11026 kB/s\r\n   opos:     3462 MB, run time:    5.23 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3471 MB,  errsize:       0 B,  current rate:    9043 kB/s\r\n   ipos:     3471 MB,   errors:       0,    average rate:   11020 kB/s\r\n   opos:     3471 MB, run time:    5.25 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3479 MB,  errsize:       0 B,  current rate:    8126 kB/s\r\n   ipos:     3479 MB,   errors:       0,    average rate:   11010 kB/s\r\n   opos:     3479 MB, run time:    5.26 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3488 MB,  errsize:       0 B,  current rate:    8781 kB/s\r\n   ipos:     3488 MB,   errors:       0,    average rate:   11003 kB/s\r\n   opos:     3488 MB, run time:    5.28 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3495 MB,  errsize:       0 B,  current rate:    7340 kB/s\r\n   ipos:     3495 MB,   errors:       0,    average rate:   10992 kB/s"
+    ],
+    [
+      0.000008,
+      "\r\n   opos:     3495 MB, run time:    5.30 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.995622,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3502 MB,  errsize:       0 B,  current rate:    6946 kB/s\r\n   ipos:     3502 MB,   errors:       0,    average rate:   10979 kB/s\r\n   opos:     3502 MB, run time:    5.31 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.972159,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3508 MB,  errsize:       0 B,  current rate:    6291 kB/s\r\n   ipos:     3508 MB,   errors:       0,    average rate:   10964 kB/s"
+    ],
+    [
+      0.000008,
+      "\r\n   opos:     3508 MB, run time:    5.33 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.994804,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3516 MB,  errsize:       0 B,  current rate:    7471 kB/s\r\n   ipos:     3516 MB,   errors:       0,    average rate:   10954 kB/s\r\n   opos:     3516 MB, run time:    5.35 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.997287,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3524 MB,  errsize:       0 B,  current rate:    8257 kB/s\r\n   ipos:     3524 MB,   errors:       0,    average rate:   10945 kB/s\r\n   opos:     3524 MB, run time:    5.36 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3531 MB,  errsize:       0 B,  current rate:    7208 kB/s\r\n   ipos:     3531 MB,   errors:       0,    average rate:   10934 kB/s\r\n   opos:     3531 MB, run time:    5.38 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3539 MB,  errsize:       0 B,  current rate:    7602 kB/s\r\n   ipos:     3539 MB,   errors:       0,    average rate:   10923 kB/s\r\n   opos:     3539 MB, run time:    5.40 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.930223,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3547 MB,  errsize:       0 B,  current rate:    8126 kB/s\r\n   ipos:     3547 MB,   errors:       0,    average rate:   10915 kB/s\r\n   opos:     3547 MB, run time:    5.41 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3555 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     3555 MB,   errors:       0,    average rate:   10905 kB/s\r\n   opos:     3555 MB, run time:    5.43 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3561 MB,  errsize:       0 B,  current rate:    6553 kB/s\r\n   ipos:     3561 MB,   errors:       0,    average rate:   10892 kB/s\r\n   opos:     3561 MB, run time:    5.45 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.977946,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3571 MB,  errsize:       0 B,  current rate:    9306 kB/s\r\n   ipos:     3571 MB,   errors:       0,    average rate:   10887 kB/s\r\n   opos:     3571 MB, run time:    5.46 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.995110,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3578 MB,  errsize:       0 B,  current rate:    7077 kB/s\r\n   ipos:     3578 MB,   errors:       0,    average rate:   10876 kB/s\r\n   opos:     3578 MB, run time:    5.48 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.997522,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3585 MB,  errsize:       0 B,  current rate:    7602 kB/s\r\n   ipos:     3585 MB,   errors:       0,    average rate:   10866 kB/s\r\n   opos:     3585 MB, run time:    5.50 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3595 MB,  errsize:       0 B,  current rate:   10092 kB/s\r\n   ipos:     3595 MB,   errors:       0,    average rate:   10863 kB/s\r\n   opos:     3595 MB, run time:    5.51 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.954616,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3604 MB,  errsize:       0 B,  current rate:    8257 kB/s\r\n   ipos:     3604 MB,   errors:       0,    average rate:   10856 kB/s\r\n   opos:     3604 MB, run time:    5.53 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.990066,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3612 MB,  errsize:       0 B,  current rate:    8519 kB/s\r\n   ipos:     3612 MB,   errors:       0,    average rate:   10849 kB/s\r\n   opos:     3612 MB, run time:    5.55 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3620 MB,  errsize:       0 B,  current rate:    8257 kB/s\r\n   ipos:     3620 MB,   errors:       0,    average rate:   10841 kB/s\r\n   opos:     3620 MB, run time:    5.56 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.908447,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3627 MB,  errsize:       0 B,  current rate:    6029 kB/s\r\n   ipos:     3627 MB,   errors:       0,    average rate:   10826 kB/s\r\n   opos:     3627 MB, run time:    5.58 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3635 MB,  errsize:       0 B,  current rate:    8126 kB/s\r\n   ipos:     3635 MB,   errors:       0,    average rate:   10818 kB/s\r\n   opos:     3635 MB, run time:    5.60 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.989042,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3644 MB,  errsize:       0 B,  current rate:    9568 kB/s\r\n   ipos:     3644 MB,   errors:       0,    average rate:   10815 kB/s\r\n   opos:     3644 MB, run time:    5.61 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3651 MB,  errsize:       0 B,  current rate:    7077 kB/s\r\n   ipos:     3651 MB,   errors:       0,    average rate:   10804 kB/s\r\n   opos:     3651 MB, run time:    5.63 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.977587,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3660 MB,  errsize:       0 B,  current rate:    9043 kB/s\r\n   ipos:     3660 MB,   errors:       0,    average rate:   10798 kB/s\r\n   opos:     3660 MB, run time:    5.65 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3668 MB,  errsize:       0 B,  current rate:    7602 kB/s\r\n   ipos:     3668 MB,   errors:       0,    average rate:   10789 kB/s\r\n   opos:     3668 MB, run time:    5.66 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.990971,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3675 MB,  errsize:       0 B,  current rate:    7077 kB/s\r\n   ipos:     3675 MB,   errors:       0,    average rate:   10778 kB/s\r\n   opos:     3675 MB, run time:    5.68 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.957448,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3682 MB,  errsize:       0 B,  current rate:    7077 kB/s\r\n   ipos:     3682 MB,   errors:       0,    average rate:   10767 kB/s\r\n   opos:     3682 MB, run time:    5.70 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3691 MB,  errsize:       0 B,  current rate:    8519 kB/s\r\n   ipos:     3691 MB,   errors:       0,    average rate:   10761 kB/s\r\n   opos:     3691 MB, run time:    5.71 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.984789,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3698 MB,  errsize:       0 B,  current rate:    7602 kB/s\r\n   ipos:     3698 MB,   errors:       0,    average rate:   10752 kB/s\r\n   opos:     3698 MB, run time:    5.73 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.963877,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3706 MB,  errsize:       0 B,  current rate:    7602 kB/s\r\n   ipos:     3706 MB,   errors:       0,    average rate:   10742 kB/s\r\n   opos:     3706 MB, run time:    5.75 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3714 MB,  errsize:       0 B,  current rate:    8388 kB/s\r\n   ipos:     3714 MB,   errors:       0,    average rate:   10736 kB/s\r\n   opos:     3714 MB, run time:    5.76 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3723 MB,  errsize:       0 B,  current rate:    8650 kB/s\r\n   ipos:     3723 MB,   errors:       0,    average rate:   10730 kB/s\r\n   opos:     3723 MB, run time:    5.78 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.999848,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3729 MB,  errsize:       0 B,  current rate:    6553 kB/s\r\n   ipos:     3729 MB,   errors:       0,    average rate:   10718 kB/s\r\n   opos:     3729 MB, run time:    5.80 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3738 MB,  errsize:       0 B,  current rate:    8126 kB/s\r\n   ipos:     3738 MB,   errors:       0,    average rate:   10710 kB/s\r\n   opos:     3738 MB, run time:    5.81 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3746 MB,  errsize:       0 B,  current rate:    7995 kB/s\r\n"
+    ],
+    [
+      0.000007,
+      "   ipos:     3746 MB,   errors:       0,    average rate:   10702 kB/s\r\n   opos:     3746 MB, run time:    5.83 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.963433,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3753 MB,  errsize:       0 B,  current rate:    7602 kB/s\r\n   ipos:     3753 MB,   errors:       0,    average rate:   10694 kB/s\r\n   opos:     3753 MB, run time:    5.85 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.991210,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3761 MB,  errsize:       0 B,  current rate:    8126 kB/s\r\n   ipos:     3761 MB,   errors:       0,    average rate:   10686 kB/s\r\n   opos:     3761 MB, run time:    5.86 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3769 MB,  errsize:       0 B,  current rate:    7995 kB/s\r\n   ipos:     3769 MB,   errors:       0,    average rate:   10679 kB/s\r\n   opos:     3769 MB, run time:    5.88 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3779 MB,  errsize:       0 B,  current rate:    9437 kB/s\r\n   ipos:     3779 MB,   errors:       0,    average rate:   10675 kB/s\r\n   opos:     3779 MB, run time:    5.90 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.896441,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3785 MB,  errsize:       0 B,  current rate:    6684 kB/s\r\n   ipos:     3785 MB,   errors:       0,    average rate:   10664 kB/s\r\n   opos:     3785 MB, run time:    5.91 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.999578,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3793 MB,  errsize:       0 B,  current rate:    7864 kB/s\r\n   ipos:     3793 MB,   errors:       0,    average rate:   10656 kB/s\r\n   opos:     3793 MB, run time:    5.93 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3803 MB,  errsize:       0 B,  current rate:    9568 kB/s\r\n   ipos:     3803 MB,   errors:       0,    average rate:   10653 kB/s\r\n   opos:     3803 MB, run time:    5.95 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3812 MB,  errsize:       0 B,  current rate:    9175 kB/s\r\n   ipos:     3812 MB,   errors:       0,    average rate:   10649 kB/s\r\n   opos:     3812 MB, run time:    5.96 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3821 MB,  errsize:       0 B,  current rate:    8650 kB/s\r\n   ipos:     3821 MB,   errors:       0,    average rate:   10643 kB/s\r\n   opos:     3821 MB, run time:    5.98 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.926458,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3828 MB,  errsize:       0 B,  current rate:    7471 kB/s\r\n   ipos:     3828 MB,   errors:       0,    average rate:   10635 kB/s\r\n   opos:     3828 MB, run time:       6 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3836 MB,  errsize:       0 B,  current rate:    7602 kB/s\r\n   ipos:     3836 MB,   errors:       0,    average rate:   10626 kB/s\r\n   opos:     3836 MB, run time:    6.01 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.998325,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3842 MB,  errsize:       0 B,  current rate:    6684 kB/s\r\n   ipos:     3842 MB,   errors:       0,    average rate:   10615 kB/s\r\n   opos:     3842 MB, run time:    6.03 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.952498,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3850 MB,  errsize:       0 B,  current rate:    7995 kB/s\r\n   ipos:     3850 MB,   errors:       0,    average rate:   10608 kB/s\r\n   opos:     3850 MB, run time:    6.05 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3859 MB,  errsize:       0 B,  current rate:    8126 kB/s\r\n   ipos:     3859 MB,   errors:       0,    average rate:   10601 kB/s\r\n   opos:     3859 MB, run time:    6.06 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3867 MB,  errsize:       0 B,  current rate:    8388 kB/s\r\n   ipos:     3867 MB,   errors:       0,    average rate:   10595 kB/s\r\n   opos:     3867 MB, run time:    6.08 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.983418,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3875 MB,  errsize:       0 B,  current rate:    8519 kB/s\r\n   ipos:     3875 MB,   errors:       0,    average rate:   10589 kB/s\r\n   opos:     3875 MB, run time:    6.10 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3882 MB,  errsize:       0 B,  current rate:    6815 kB/s\r\n   ipos:     3882 MB,   errors:       0,    average rate:   10579 kB/s\r\n   opos:     3882 MB, run time:    6.11 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3891 MB,  errsize:       0 B,  current rate:    8519 kB/s\r\n   ipos:     3891 MB,   errors:       0,    average rate:   10574 kB/s\r\n   opos:     3891 MB, run time:    6.13 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.979927,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3898 MB,  errsize:       0 B,  current rate:    6815 kB/s\r\n   ipos:     3898 MB,   errors:       0,    average rate:   10563 kB/s\r\n   opos:     3898 MB, run time:    6.15 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3906 MB,  errsize:       0 B,  current rate:    7995 kB/s\r\n   ipos:     3906 MB,   errors:       0,    average rate:   10556 kB/s\r\n   opos:     3906 MB, run time:    6.16 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.996177,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3912 MB,  errsize:       0 B,  current rate:    6422 kB/s\r\n   ipos:     3912 MB,   errors:       0,    average rate:   10545 kB/s\r\n   opos:     3912 MB, run time:    6.18 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.992074,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3919 MB,  errsize:       0 B,  current rate:    7340 kB/s\r\n   ipos:     3919 MB,   errors:       0,    average rate:   10537 kB/s\r\n   opos:     3919 MB, run time:    6.20 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      1.000000,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3927 MB,  errsize:       0 B,  current rate:    8126 kB/s\r\n   ipos:     3927 MB,   errors:       0,    average rate:   10530 kB/s\r\n   opos:     3927 MB, run time:    6.21 m,  successful read:       0 s ago\r\n\rCopying non-tried blocks... Pass 1 (forwards)"
+    ],
+    [
+      0.566652,
+      "\r\u001b[A\u001b[A\u001b[Arescued:     3932 MB,  errsize:       0 B,  current rate:    4194 kB/s\r\n   ipos:     3932 MB,   errors:       0,    average rate:   10513 kB/s\r\n   opos:     3932 MB, run time:    6.23 m,  successful read:       0 s ago\r\n\rFinished                                     \r\n"
+    ],
+    [
+      0.170421,
+      "\u001b]0;martin:~/ISO/ubuntu-mate\u0007\u001b[1;30m[\u001b[0;37mmartin\u001b[1;30m@\u001b[0;37mwimpress \u001b[1;34m~/ISO/ubuntu-mate\u001b[1;30m]\u001b[0;37m$ \u001b[0m"
+    ],
+    [
+      1.000000,
+      "exit\r\n"
+    ]
+  ]
+}
