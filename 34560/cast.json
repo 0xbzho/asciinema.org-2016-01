@@ -1,0 +1,2718 @@
+{
+  "version": 1,
+  "width": 120,
+  "height": 30,
+  "duration": 328.061144,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.015331,
+      "\u001b]0;root@localhost:~\u0007\u001b[?1034h[root@localhost ~]# "
+    ],
+    [
+      2.639503,
+      "curl -L https://github.com/opennms-forge/opennms-install/archive/1.0.tar.gz | tar xz"
+    ],
+    [
+      0.665527,
+      "\r\n"
+    ],
+    [
+      0.007701,
+      "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\r\n                                 Dload  Upload   Total   Spent    Left  Speed\r\n\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0"
+    ],
+    [
+      0.554225,
+      "\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0"
+    ],
+    [
+      0.115415,
+      "\r100   134    0   134    0     0    200      0 --:--:-- --:--:-- --:--:--   200\r\n"
+    ],
+    [
+      0.606785,
+      "\r  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0"
+    ],
+    [
+      1.055838,
+      "\r  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0"
+    ],
+    [
+      0.956721,
+      "\r  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0"
+    ],
+    [
+      1.161894,
+      "\r  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0"
+    ],
+    [
+      1.354865,
+      "\r  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0"
+    ],
+    [
+      0.402406,
+      "\r  4 16492    4   802    0     0    129      0  0:02:07  0:00:06  0:02:01   162"
+    ],
+    [
+      0.098066,
+      "\r100 16492  100 16492    0     0   2616      0  0:00:06  0:00:06 --:--:--  4154\r\n"
+    ],
+    [
+      0.002803,
+      "\u001b]0;root@localhost:~\u0007[root@localhost ~]# "
+    ],
+    [
+      0.873333,
+      "c"
+    ],
+    [
+      0.064627,
+      "d"
+    ],
+    [
+      0.088052,
+      " "
+    ],
+    [
+      0.047005,
+      "o"
+    ],
+    [
+      0.064844,
+      "p"
+    ],
+    [
+      0.079110,
+      "e"
+    ],
+    [
+      0.128215,
+      "n"
+    ],
+    [
+      0.119753,
+      "n"
+    ],
+    [
+      0.096481,
+      "ms-install-1.0/"
+    ],
+    [
+      0.506391,
+      "\r\n\u001b]0;root@localhost:~/opennms-install-1.0\u0007[root@localhost opennms-install-1.0]# "
+    ],
+    [
+      0.000702,
+      "b"
+    ],
+    [
+      0.163319,
+      "as"
+    ],
+    [
+      0.652794,
+      "h"
+    ],
+    [
+      0.282964,
+      " "
+    ],
+    [
+      0.505107,
+      "b"
+    ],
+    [
+      0.052590,
+      "o"
+    ],
+    [
+      0.120054,
+      "o"
+    ],
+    [
+      0.082273,
+      "\u0007tstrap-"
+    ],
+    [
+      0.369396,
+      "y"
+    ],
+    [
+      0.091342,
+      "u"
+    ],
+    [
+      0.112183,
+      "m.sh "
+    ],
+    [
+      0.516683,
+      "\r\n"
+    ],
+    [
+      0.009578,
+      "\u001b[3;J\u001b[H\u001b[2J\r\nThis script installs OpenNMS on  your system. It will\r\ninstall  all  components necessary  to  run  OpenNMS.\r\n\r\nThe following components will be installed:\r\n\r\n - Oracle Java 8 JDK\r\n - PostgreSQL Server\r\n - OpenNMS Repositories\r\n - OpenNMS with core services and Webapplication\r\n - Initialize and bootstrapping the database\r\n - Start OpenNMS\r\n\r\nIf you have OpenNMS already installed, don't use this\r\nscript!\r\n\r\nIf you want to proceed, type YES: "
+    ],
+    [
+      0.929865,
+      "y"
+    ],
+    [
+      0.119910,
+      "e"
+    ],
+    [
+      0.078749,
+      "s"
+    ],
+    [
+      0.242217,
+      "\r\n"
+    ],
+    [
+      0.001028,
+      "\r\nStarting setup procedure ... \r\n\r\nInstall OpenNMS Repository         ... "
+    ],
+    [
+      5.224636,
+      "OK\r\nInstall OpenNMS Repository Key     ... "
+    ],
+    [
+      0.474069,
+      "OK\r\n"
+    ],
+    [
+      0.103248,
+      "Loaded plugins: fastestmirror\r\n"
+    ],
+    [
+      0.197397,
+      "\ropennms-repo-stable-common                                                                       | 2.8 kB  00:00:00     \r\n"
+    ],
+    [
+      0.013742,
+      "\ropennms-repo-stable-rhel7                                                                        | 2.8 kB  00:00:00     \r\n"
+    ],
+    [
+      0.235201,
+      "\r(1/2): opennms-repo-stable-common/primary_db                                                     |  32 kB  00:00:00     \r\n"
+    ],
+    [
+      0.011051,
+      "\r(2/2): opennms-repo-stable-rhel7/primary_db                                                      |  35 kB  00:00:00     \r\n"
+    ],
+    [
+      0.017759,
+      "Loading mirror speeds from cached hostfile\r\n * base: mirror2.hs-esslingen.de\r\n * extras: ftp.uni-bayreuth.de\r\n * updates: mirror.23media.de\r\n"
+    ],
+    [
+      0.095070,
+      "Resolving Dependencies\r\n--\u003e Running transaction check\r\n---\u003e Package opennms.noarch 0:17.0.0-1 will be installed\r\n--\u003e Processing Dependency: opennms-core = 17.0.0-1 for package: opennms-17.0.0-1.noarch\r\n"
+    ],
+    [
+      0.184979,
+      "--\u003e Processing Dependency: opennms-webui = 17.0.0-1 for package: opennms-17.0.0-1.noarch\r\n--\u003e Processing Dependency: opennms-core = 17.0.0-1 for package: opennms-17.0.0-1.noarch\r\n--\u003e Processing Dependency: opennms-webui = 17.0.0-1 for package: opennms-17.0.0-1.noarch\r\n--\u003e Processing Dependency: postgresql-server \u003e= 9.1 for package: opennms-17.0.0-1.noarch\r\n--\u003e Processing Dependency: postgresql-server \u003e= 9.1 for package: opennms-17.0.0-1.noarch\r\n--\u003e Running transaction check\r\n---\u003e Package opennms-core.noarch 0:17.0.0-1 will be installed\r\n"
+    ],
+    [
+      0.012731,
+      "--\u003e Processing Dependency: jicmp for package: opennms-core-17.0.0-1.noarch\r\n--\u003e Processing Dependency: java-1.8.0 for package: opennms-core-17.0.0-1.noarch\r\n"
+    ],
+    [
+      0.047226,
+      "--\u003e Processing Dependency: jicmp6 for package: opennms-core-17.0.0-1.noarch\r\n"
+    ],
+    [
+      0.012796,
+      "--\u003e Processing Dependency: java-1.8.0 for package: opennms-core-17.0.0-1.noarch\r\n--\u003e Processing Dependency: jicmp6 for package: opennms-core-17.0.0-1.noarch\r\n--\u003e Processing Dependency: jicmp for package: opennms-core-17.0.0-1.noarch\r\n---\u003e Package opennms-webapp-jetty.noarch 0:17.0.0-1 will be installed\r\n---\u003e Package postgresql-server.x86_64 0:9.2.14-1.el7_1 will be installed\r\n"
+    ],
+    [
+      0.011998,
+      "--\u003e Processing Dependency: postgresql-libs(x86-64) = 9.2.14-1.el7_1 for package: postgresql-server-9.2.14-1.el7_1.x86_64\r\n--\u003e Processing Dependency: postgresql(x86-64) = 9.2.14-1.el7_1 for package: postgresql-server-9.2.14-1.el7_1.x86_64\r\n--\u003e Processing Dependency: libpq.so.5()(64bit) for package: postgresql-server-9.2.14-1.el7_1.x86_64\r\n--\u003e Running transaction check\r\n---\u003e Package jdk1.8.0_60.x86_64 2000:1.8.0_60-fcs will be installed\r\n"
+    ],
+    [
+      0.011983,
+      "---\u003e Package jicmp.x86_64 0:1.4.5-2 will be installed\r\n---\u003e Package jicmp6.x86_64 0:1.2.4-1 will be installed\r\n---\u003e Package postgresql.x86_64 0:9.2.14-1.el7_1 will be installed\r\n---\u003e Package postgresql-libs.x86_64 0:9.2.14-1.el7_1 will be installed\r\n"
+    ],
+    [
+      0.250144,
+      "--\u003e Finished Dependency Resolution\r\n"
+    ],
+    [
+      0.013108,
+      "\r\nDependencies Resolved\r\n"
+    ],
+    [
+      0.008983,
+      "\r\n========================================================================================================================\r\n Package                        Arch             Version                     Repository                            Size\r\n========================================================================================================================\r\nInstalling:\r\n opennms                        noarch           17.0.0-1                    opennms-repo-stable-common           2.2 k\r\nInstalling for dependencies:\r\n jdk1.8.0_60                    x86_64           2000:1.8.0_60-fcs           opennms-repo-stable-common           153 M\r\n jicmp                          x86_64           1.4.5-2                     opennms-repo-stable-rhel7             32 k\r\n jicmp6                         x86_64           1.2.4-1                     opennms-repo-stable-rhel7             15 k\r\n opennms-core                   noarch           17.0.0-1                    opennms-repo-stable-common           325 M\r\n opennms-webapp-jetty           noarch           17.0.0-1                    opennms-repo-stable-common           206 M\r\n postgresql                     x86_64           9.2.14-1.el7_1              updates                              3.0 M\r\n postgresql-libs                x86_64           9.2.14-1.el7_1              updates                              231 k\r\n postgresql-server              x86_64           9.2.14-1.el7_1              updates                              3.7 M\r\n\r\nTransaction Summary\r\n========================================================================================================================\r\nInstall  1 Package (+8 Dependent packages)\r\n\r\nTotal download size: 691 M\r\nInstalled size: 940 M\r\nDownloading packages:\r\n"
+    ],
+    [
+      0.295154,
+      "\r(1/9): jicmp-1.4.5-2.x86_64.rpm                                                                  |  32 kB  00:00:00     \r\n"
+    ],
+    [
+      0.029806,
+      "\r(2/9): opennms-17.0.0-1.noarch.rpm                                                               | 2.2 kB  00:00:00     \r\n"
+    ],
+    [
+      0.004073,
+      "\r(3/9): jicmp6-1.2.4-1.x86_64.rpm                                                                 |  15 kB  00:00:00     \r\n"
+    ],
+    [
+      0.222725,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       0% [                                    ]  0.0 B/s | 2.8 MB  --:--:-- ETA \r"
+    ],
+    [
+      0.313421,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       0% [                                    ] 2.8 MB/s | 5.2 MB  00:04:01 ETA \r"
+    ],
+    [
+      0.310640,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       1% [                                    ] 3.5 MB/s | 9.5 MB  00:03:14 ETA \r"
+    ],
+    [
+      0.310798,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       2% [-                                   ] 4.2 MB/s |  14 MB  00:02:41 ETA \r"
+    ],
+    [
+      0.309607,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 2% [-                                   ] 4.8 MB/s |  18 MB  00:02:19 ETA \r"
+    ],
+    [
+      0.360195,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 3% [=                                   ] 5.0 MB/s |  21 MB  00:02:14 ETA \r"
+    ],
+    [
+      0.309429,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 3% [=                                   ] 5.4 MB/s |  24 MB  00:02:04 ETA \r"
+    ],
+    [
+      0.310046,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 4% [=                                   ] 5.8 MB/s |  28 MB  00:01:55 ETA \r"
+    ],
+    [
+      0.384448,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       4% [=-                                  ] 6.1 MB/s |  32 MB  00:01:48 ETA \r"
+    ],
+    [
+      0.340752,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       4% [=-                                  ] 5.9 MB/s |  33 MB  00:01:50 ETA \r"
+    ],
+    [
+      1.008115,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 4% [=-                                  ] 4.8 MB/s |  33 MB  00:02:18 ETA \r"
+    ],
+    [
+      0.457483,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 4% [=-                                  ] 4.3 MB/s |  33 MB  00:02:31 ETA \r"
+    ],
+    [
+      0.545333,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       4% [=-                                  ] 3.9 MB/s |  33 MB  00:02:50 ETA \r"
+    ],
+    [
+      0.460399,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       4% [=-                                  ] 3.5 MB/s |  33 MB  00:03:07 ETA \r"
+    ],
+    [
+      0.542817,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 4% [=-                                  ] 3.1 MB/s |  33 MB  00:03:30 ETA \r"
+    ],
+    [
+      0.463383,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 4% [=-                                  ] 2.8 MB/s |  33 MB  00:03:52 ETA \r"
+    ],
+    [
+      0.300231,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 4% [=-                                  ] 2.7 MB/s |  33 MB  00:04:06 ETA \r"
+    ],
+    [
+      0.310231,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       5% [=-                                  ] 2.9 MB/s |  35 MB  00:03:49 ETA \r"
+    ],
+    [
+      0.310247,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       5% [==                                  ] 3.3 MB/s |  38 MB  00:03:15 ETA \r"
+    ],
+    [
+      0.310862,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       6% [==                                  ] 3.8 MB/s |  42 MB  00:02:50 ETA \r"
+    ],
+    [
+      0.393674,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 6% [==                                  ] 4.7 MB/s |  48 MB  00:02:15 ETA \r"
+    ],
+    [
+      0.311101,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 7% [==-                                 ] 4.8 MB/s |  50 MB  00:02:13 ETA \r"
+    ],
+    [
+      0.408468,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 7% [==-                                 ] 5.4 MB/s |  55 MB  00:01:56 ETA \r"
+    ],
+    [
+      0.313295,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       8% [==-                                 ] 5.4 MB/s |  56 MB  00:01:57 ETA \r"
+    ],
+    [
+      0.309137,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       9% [===                                 ] 6.8 MB/s |  65 MB  00:01:32 ETA \r"
+    ],
+    [
+      0.305200,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       9% [===                                 ] 6.4 MB/s |  65 MB  00:01:38 ETA \r"
+    ],
+    [
+      0.523444,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 9% [===-                                ] 6.4 MB/s |  68 MB  00:01:37 ETA \r"
+    ],
+    [
+      0.311205,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 10% [===-                               ] 6.6 MB/s |  71 MB  00:01:34 ETA \r"
+    ],
+    [
+      0.316363,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 11% [====                               ] 8.2 MB/s |  82 MB  00:01:13 ETA \r"
+    ],
+    [
+      0.820602,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       12% [====                               ] 7.2 MB/s |  84 MB  00:01:23 ETA \r"
+    ],
+    [
+      0.310562,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       12% [====                               ] 7.2 MB/s |  86 MB  00:01:23 ETA \r"
+    ],
+    [
+      0.347128,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       12% [====-                              ] 7.4 MB/s |  89 MB  00:01:21 ETA \r"
+    ],
+    [
+      0.538173,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 12% [====-                              ] 6.6 MB/s |  89 MB  00:01:31 ETA \r"
+    ],
+    [
+      0.315459,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 13% [====-                              ] 6.9 MB/s |  93 MB  00:01:26 ETA \r"
+    ],
+    [
+      0.306297,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 14% [=====                              ] 8.6 MB/s | 103 MB  00:01:08 ETA \r"
+    ],
+    [
+      0.344040,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 15% [=====                              ] 8.7 MB/s | 107 MB  00:01:07 ETA \r"
+    ],
+    [
+      0.311388,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       15% [=====                              ] 8.3 MB/s | 107 MB  00:01:10 ETA \r"
+    ],
+    [
+      0.310944,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       15% [=====-                             ] 8.3 MB/s | 110 MB  00:01:09 ETA \r"
+    ],
+    [
+      0.352703,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       16% [=====-                             ] 8.6 MB/s | 114 MB  00:01:07 ETA \r"
+    ],
+    [
+      0.313779,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       16% [=====-                             ] 8.3 MB/s | 116 MB  00:01:09 ETA \r"
+    ],
+    [
+      0.309725,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 17% [======                             ] 9.2 MB/s | 123 MB  00:01:01 ETA \r"
+    ],
+    [
+      0.408319,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 18% [======-                            ] 9.9 MB/s | 130 MB  00:00:56 ETA \r"
+    ],
+    [
+      0.312607,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 18% [======-                            ] 9.5 MB/s | 131 MB  00:00:58 ETA \r"
+    ],
+    [
+      0.314755,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       19% [======-                            ]  10 MB/s | 138 MB  00:00:54 ETA \r"
+    ],
+    [
+      0.317774,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       21% [=======                            ]  11 MB/s | 147 MB  00:00:47 ETA \r"
+    ],
+    [
+      0.304643,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       21% [=======-                           ]  12 MB/s | 151 MB  00:00:46 ETA \r"
+    ],
+    [
+      0.448597,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 21% [=======-                           ]  11 MB/s | 152 MB  00:00:50 ETA \r"
+    ],
+    [
+      0.310271,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 22% [=======-                           ]  11 MB/s | 154 MB  00:00:51 ETA \r"
+    ],
+    [
+      0.328194,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 22% [=======-                           ]  11 MB/s | 158 MB  00:00:50 ETA \r"
+    ],
+    [
+      0.526609,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       23% [========                           ]  10 MB/s | 161 MB  00:00:52 ETA \r"
+    ],
+    [
+      0.313208,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       24% [========-                          ]  11 MB/s | 169 MB  00:00:47 ETA \r"
+    ],
+    [
+      0.339693,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       24% [========-                          ]  11 MB/s | 170 MB  00:00:49 ETA \r"
+    ],
+    [
+      0.310178,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       26% [=========                          ]  12 MB/s | 180 MB  00:00:43 ETA \r"
+    ],
+    [
+      0.311337,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 27% [=========-                         ]  13 MB/s | 189 MB  00:00:38 ETA \r"
+    ],
+    [
+      0.497585,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 27% [=========-                         ]  12 MB/s | 192 MB  00:00:40 ETA \r"
+    ],
+    [
+      0.342290,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 29% [==========                         ]  13 MB/s | 200 MB  00:00:37 ETA \r"
+    ],
+    [
+      0.312991,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       29% [==========                         ]  12 MB/s | 201 MB  00:00:39 ETA \r"
+    ],
+    [
+      0.318417,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       30% [==========-                        ]  14 MB/s | 212 MB  00:00:34 ETA \r"
+    ],
+    [
+      0.310029,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       31% [==========-                        ]  14 MB/s | 216 MB  00:00:34 ETA \r"
+    ],
+    [
+      0.592457,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 31% [===========                        ]  13 MB/s | 220 MB  00:00:36 ETA \r"
+    ],
+    [
+      0.303956,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 33% [===========-                       ]  14 MB/s | 232 MB  00:00:31 ETA \r"
+    ],
+    [
+      0.333440,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 33% [===========-                       ]  14 MB/s | 234 MB  00:00:32 ETA \r"
+    ],
+    [
+      0.313430,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 34% [===========-                       ]  13 MB/s | 235 MB  00:00:34 ETA \r"
+    ],
+    [
+      0.309892,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       34% [============                       ]  13 MB/s | 238 MB  00:00:34 ETA \r"
+    ],
+    [
+      0.433231,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       35% [============                       ]  13 MB/s | 245 MB  00:00:33 ETA \r"
+    ],
+    [
+      0.875458,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 35% [============                       ]  11 MB/s | 245 MB  00:00:40 ETA \r"
+    ],
+    [
+      0.311866,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 35% [============                       ]  10 MB/s | 245 MB  00:00:43 ETA \r"
+    ],
+    [
+      0.313588,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 35% [============                       ] 9.7 MB/s | 245 MB  00:00:45 ETA \r"
+    ],
+    [
+      0.309496,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 35% [============-                      ] 9.7 MB/s | 248 MB  00:00:45 ETA \r"
+    ],
+    [
+      0.392114,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       36% [============-                      ] 9.9 MB/s | 253 MB  00:00:44 ETA \r"
+    ],
+    [
+      0.313538,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       36% [============-                      ] 9.5 MB/s | 254 MB  00:00:46 ETA \r"
+    ],
+    [
+      0.311171,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       37% [=============                      ] 9.6 MB/s | 258 MB  00:00:45 ETA \r"
+    ],
+    [
+      0.355111,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       37% [=============                      ] 9.8 MB/s | 262 MB  00:00:43 ETA \r"
+    ],
+    [
+      0.310862,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 38% [=============                      ] 9.3 MB/s | 263 MB  00:00:45 ETA \r"
+    ],
+    [
+      0.312132,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 38% [=============                      ] 9.5 MB/s | 266 MB  00:00:44 ETA \r"
+    ],
+    [
+      0.308275,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 39% [=============-                     ]  10 MB/s | 273 MB  00:00:40 ETA \r"
+    ],
+    [
+      0.436831,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       40% [==============                     ]  11 MB/s | 280 MB  00:00:38 ETA \r"
+    ],
+    [
+      0.791229,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       40% [==============                     ] 9.1 MB/s | 280 MB  00:00:44 ETA \r"
+    ],
+    [
+      0.310751,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 40% [==============                     ] 8.7 MB/s | 281 MB  00:00:47 ETA \r"
+    ],
+    [
+      0.319505,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 41% [==============                     ] 8.9 MB/s | 285 MB  00:00:45 ETA \r"
+    ],
+    [
+      0.605589,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 41% [==============                     ] 7.9 MB/s | 285 MB  00:00:51 ETA \r"
+    ],
+    [
+      0.309707,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       41% [==============-                    ] 7.6 MB/s | 286 MB  00:00:53 ETA \r"
+    ],
+    [
+      0.475260,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       42% [==============-                    ] 7.7 MB/s | 290 MB  00:00:52 ETA \r"
+    ],
+    [
+      0.310291,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       42% [==============-                    ] 8.2 MB/s | 295 MB  00:00:48 ETA \r"
+    ],
+    [
+      0.432879,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 43% [===============                    ] 8.6 MB/s | 301 MB  00:00:45 ETA \r"
+    ],
+    [
+      0.304321,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 44% [===============                    ] 8.9 MB/s | 305 MB  00:00:43 ETA \r"
+    ],
+    [
+      0.319245,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 46% [================                   ]  11 MB/s | 319 MB  00:00:33 ETA \r"
+    ],
+    [
+      0.392854,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       46% [================                   ]  10 MB/s | 319 MB  00:00:36 ETA \r"
+    ],
+    [
+      0.313109,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       47% [================-                  ]  11 MB/s | 328 MB  00:00:31 ETA \r"
+    ],
+    [
+      0.309665,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       48% [================-                  ]  12 MB/s | 332 MB  00:00:30 ETA \r"
+    ],
+    [
+      0.364917,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       49% [=================                  ]  12 MB/s | 339 MB  00:00:29 ETA \r"
+    ],
+    [
+      0.310795,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 49% [=================                  ]  12 MB/s | 343 MB  00:00:28 ETA \r"
+    ],
+    [
+      0.310310,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 50% [=================-                 ]  13 MB/s | 351 MB  00:00:26 ETA \r"
+    ],
+    [
+      0.309276,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 51% [=================-                 ]  12 MB/s | 352 MB  00:00:27 ETA \r"
+    ],
+    [
+      0.315387,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 51% [=================-                 ]  12 MB/s | 353 MB  00:00:28 ETA \r"
+    ],
+    [
+      0.317998,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       51% [==================                 ]  12 MB/s | 358 MB  00:00:27 ETA \r"
+    ],
+    [
+      0.421640,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       52% [==================-                ]  12 MB/s | 365 MB  00:00:26 ETA \r"
+    ],
+    [
+      0.310274,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       53% [==================-                ]  12 MB/s | 369 MB  00:00:26 ETA \r"
+    ],
+    [
+      0.309950,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                 53% [==================-                ]  12 MB/s | 371 MB  00:00:26 ETA \r"
+    ],
+    [
+      0.567822,
+      "\r(4/9): jdk-8u60-linux-x64.rpm                                                                    | 153 MB  00:00:37     \r\n"
+    ],
+    [
+      0.035220,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       55% [===================                ]  13 MB/s | 381 MB  00:00:24 ETA \r"
+    ],
+    [
+      0.355790,
+      "\r(5/9): opennms-core-17.0.0-1.noarch.rpm       55% [===================                ]  12 MB/s | 381 MB  00:00:26 ETA \r"
+    ],
+    [
+      0.284161,
+      "\r(5/9): postgresql-libs-9.2.14-1.el7_1.x86_64.rpm                                                 | 231 kB  00:00:00     \r\n"
+    ],
+    [
+      0.026887,
+      "\r(7/9): opennms-webapp-jetty-17.0.0-1.noarch.r 55% [===================-               ]  12 MB/s | 387 MB  00:00:25 ETA \r"
+    ],
+    [
+      0.313653,
+      "\r(7/9): opennms-webapp-jetty-17.0.0-1.noarch.r 56% [===================-               ]  12 MB/s | 391 MB  00:00:24 ETA \r"
+    ],
+    [
+      0.309457,
+      "\r(7/9): opennms-webapp-jetty-17.0.0-1.noarch.r 57% [====================               ]  13 MB/s | 400 MB  00:00:21 ETA \r"
+    ],
+    [
+      0.072631,
+      "\r(6/9): postgresql-9.2.14-1.el7_1.x86_64.rpm                                                      | 3.0 MB  00:00:01     \r\n"
+    ],
+    [
+      0.396984,
+      "\r(9/9): postgresql-server-9.2.14-1.el7_1.x86_6 58% [====================-              ]  13 MB/s | 405 MB  00:00:21 ETA \r"
+    ],
+    [
+      0.442634,
+      "\r(9/9): postgresql-server-9.2.14-1.el7_1.x86_6 58% [====================-              ]  12 MB/s | 405 MB  00:00:23 ETA \r"
+    ],
+    [
+      0.311174,
+      "\r(9/9): postgresql-server-9.2.14-1.el7_1.x86_6 59% [====================-              ]  12 MB/s | 410 MB  00:00:23 ETA \r"
+    ],
+    [
+      0.315504,
+      "\r(7/9): opennms-core-17.0.0-1.noarch.rpm       59% [====================-              ]  12 MB/s | 412 MB  00:00:23 ETA \r"
+    ],
+    [
+      0.554155,
+      "\r(7/9): opennms-core-17.0.0-1.noarch.rpm       61% [=====================              ]  12 MB/s | 422 MB  00:00:21 ETA \r"
+    ],
+    [
+      0.323022,
+      "\r(7/9): opennms-core-17.0.0-1.noarch.rpm       61% [=====================-             ]  13 MB/s | 428 MB  00:00:20 ETA \r"
+    ],
+    [
+      0.436557,
+      "\r(8/9): opennms-webapp-jetty-17.0.0-1.noarch.r 63% [======================             ]  13 MB/s | 436 MB  00:00:19 ETA \r"
+    ],
+    [
+      0.311712,
+      "\r(8/9): opennms-webapp-jetty-17.0.0-1.noarch.r 63% [======================             ]  13 MB/s | 440 MB  00:00:18 ETA \r"
+    ],
+    [
+      0.309069,
+      "\r(8/9): opennms-webapp-jetty-17.0.0-1.noarch.r 64% [======================-            ]  14 MB/s | 448 MB  00:00:17 ETA \r"
+    ],
+    [
+      0.311366,
+      "\r(8/9): opennms-webapp-jetty-17.0.0-1.noarch.r 64% [======================-            ]  13 MB/s | 448 MB  00:00:18 ETA \r"
+    ],
+    [
+      0.309864,
+      "\r(9/9): postgresql-server-9.2.14-1.el7_1.x86_6 64% [======================-            ]  13 MB/s | 449 MB  00:00:19 ETA \r"
+    ],
+    [
+      0.323800,
+      "\r(9/9): postgresql-server-9.2.14-1.el7_1.x86_6 65% [======================-            ]  13 MB/s | 453 MB  00:00:19 ETA \r"
+    ],
+    [
+      0.436068,
+      "\r(9/9): postgresql-server-9.2.14-1.el7_1.x86_6 66% [=======================            ]  13 MB/s | 462 MB  00:00:17 ETA \r"
+    ],
+    [
+      0.635299,
+      "\r(7/9): opennms-core-17.0.0-1.noarch.rpm       67% [=======================-           ]  13 MB/s | 469 MB  00:00:17 ETA \r"
+    ],
+    [
+      0.310036,
+      "\r(7/9): opennms-core-17.0.0-1.noarch.rpm       68% [=======================-           ]  12 MB/s | 470 MB  00:00:17 ETA \r"
+    ],
+    [
+      0.305961,
+      "\r(7/9): opennms-core-17.0.0-1.noarch.rpm       68% [========================           ]  13 MB/s | 474 MB  00:00:17 ETA \r"
+    ],
+    [
+      0.309887,
+      "\r(7/9): opennms-core-17.0.0-1.noarch.rpm       68% [========================           ]  12 MB/s | 474 MB  00:00:18 ETA \r"
+    ],
+    [
+      0.311574,
+      "\r(8/9): opennms-webapp-jetty-17.0.0-1.noarch.r 68% [========================           ]  11 MB/s | 476 MB  00:00:19 ETA \r"
+    ],
+    [
+      0.308551,
+      "\r(8/9): opennms-webapp-jetty-17.0.0-1.noarch.r 69% [========================           ]  12 MB/s | 481 MB  00:00:17 ETA \r"
+    ],
+    [
+      0.312091,
+      "\r(8/9): opennms-webapp-jetty-17.0.0-1.noarch.r 69% [========================           ]  11 MB/s | 483 MB  00:00:18 ETA \r"
+    ],
+    [
+      0.313971,
+      "\r(8/9): opennms-webapp-jetty-17.0.0-1.noarch.r 70% [========================-          ]  11 MB/s | 487 MB  00:00:18 ETA \r"
+    ],
+    [
+      0.358893,
+      "\r(9/9): postgresql-server-9.2.14-1.el7_1.x86_6 71% [=========================          ]  12 MB/s | 494 MB  00:00:16 ETA \r"
+    ],
+    [
+      0.170493,
+      "\r(7/9): postgresql-server-9.2.14-1.el7_1.x86_64.rpm                                               | 3.7 MB  00:00:09     \r\n"
+    ],
+    [
+      0.269572,
+      "\r(8/9): opennms-core-17.0.0-1.noarch.rpm       71% [=========================          ]  11 MB/s | 494 MB  00:00:17 ETA \r"
+    ],
+    [
+      0.310426,
+      "\r(8/9): opennms-core-17.0.0-1.noarch.rpm       71% [=========================          ]  11 MB/s | 496 MB  00:00:18 ETA \r"
+    ],
+    [
+      0.313244,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 72% [=========================          ]  11 MB/s | 503 MB  00:00:16 ETA \r"
+    ],
+    [
+      0.310102,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 73% [=========================-         ]  11 MB/s | 506 MB  00:00:16 ETA \r"
+    ],
+    [
+      0.597540,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 73% [=========================-         ]  10 MB/s | 507 MB  00:00:17 ETA \r"
+    ],
+    [
+      0.309907,
+      "\r(8/9): opennms-core-17.0.0-1.noarch.rpm       74% [==========================         ]  11 MB/s | 516 MB  00:00:15 ETA \r"
+    ],
+    [
+      0.309474,
+      "\r(8/9): opennms-core-17.0.0-1.noarch.rpm       74% [==========================         ]  11 MB/s | 516 MB  00:00:16 ETA \r"
+    ],
+    [
+      0.326431,
+      "\r(8/9): opennms-core-17.0.0-1.noarch.rpm       76% [==========================-        ]  12 MB/s | 526 MB  00:00:13 ETA \r"
+    ],
+    [
+      0.375303,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 76% [==========================-        ]  11 MB/s | 527 MB  00:00:14 ETA \r"
+    ],
+    [
+      0.316069,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 76% [==========================-        ]  11 MB/s | 527 MB  00:00:15 ETA \r"
+    ],
+    [
+      0.322227,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 77% [===========================        ]  11 MB/s | 535 MB  00:00:13 ETA \r"
+    ],
+    [
+      0.311272,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 79% [===========================-       ]  14 MB/s | 549 MB  00:00:10 ETA \r"
+    ],
+    [
+      0.331063,
+      "\r(8/9): opennms-core-17.0.0-1.noarch.rpm       79% [===========================-       ]  13 MB/s | 552 MB  00:00:10 ETA \r"
+    ],
+    [
+      0.314080,
+      "\r(8/9): opennms-core-17.0.0-1.noarch.rpm       79% [===========================-       ]  12 MB/s | 552 MB  00:00:11 ETA \r"
+    ],
+    [
+      0.313691,
+      "\r(8/9): opennms-core-17.0.0-1.noarch.rpm       79% [===========================-       ]  12 MB/s | 553 MB  00:00:11 ETA \r"
+    ],
+    [
+      0.309506,
+      "\r(8/9): opennms-core-17.0.0-1.noarch.rpm       80% [============================       ]  11 MB/s | 553 MB  00:00:12 ETA \r"
+    ],
+    [
+      0.315061,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 80% [============================       ]  11 MB/s | 556 MB  00:00:12 ETA \r"
+    ],
+    [
+      1.593197,
+      "\r(8/9): opennms-core-17.0.0-1.noarch.rpm                                                          | 325 MB  00:00:54     \r\n\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 81% [============================-      ] 8.8 MB/s | 563 MB  00:00:14 ETA \r"
+    ],
+    [
+      0.305537,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 81% [============================-      ] 8.2 MB/s | 563 MB  00:00:15 ETA \r"
+    ],
+    [
+      0.669789,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 81% [============================-      ] 7.1 MB/s | 563 MB  00:00:17 ETA \r"
+    ],
+    [
+      1.003574,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 81% [============================-      ] 5.7 MB/s | 563 MB  00:00:22 ETA \r"
+    ],
+    [
+      1.003337,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 81% [============================-      ] 4.6 MB/s | 563 MB  00:00:28 ETA \r"
+    ],
+    [
+      1.005203,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 81% [============================-      ] 3.6 MB/s | 563 MB  00:00:35 ETA \r"
+    ],
+    [
+      1.016455,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 81% [============================-      ] 2.9 MB/s | 563 MB  00:00:44 ETA \r"
+    ],
+    [
+      1.001455,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 81% [============================-      ] 2.3 MB/s | 563 MB  00:00:55 ETA \r"
+    ],
+    [
+      1.005588,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 81% [============================-      ] 1.9 MB/s | 563 MB  00:01:08 ETA \r"
+    ],
+    [
+      1.005985,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 81% [============================-      ] 1.5 MB/s | 563 MB  00:01:26 ETA \r"
+    ],
+    [
+      1.011656,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 81% [============================-      ] 1.2 MB/s | 563 MB  00:01:48 ETA \r"
+    ],
+    [
+      1.016442,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 81% [============================-      ] 965 kB/s | 563 MB  00:02:15 ETA \r"
+    ],
+    [
+      1.196506,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 81% [============================-      ] 758 kB/s | 563 MB  00:02:52 ETA \r"
+    ],
+    [
+      1.003820,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 81% [============================-      ] 606 kB/s | 563 MB  00:03:36 ETA \r"
+    ],
+    [
+      1.004613,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 81% [============================-      ] 484 kB/s | 563 MB  00:04:30 ETA \r"
+    ],
+    [
+      1.003903,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 81% [============================-      ] 387 kB/s | 563 MB  00:05:38 ETA \r"
+    ],
+    [
+      1.004368,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 81% [============================-      ] 309 kB/s | 563 MB  00:07:03 ETA \r"
+    ],
+    [
+      1.003860,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 81% [============================-      ] 247 kB/s | 563 MB  00:08:49 ETA \r"
+    ],
+    [
+      1.004299,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 81% [============================-      ] 198 kB/s | 563 MB  00:11:03 ETA \r"
+    ],
+    [
+      0.955314,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 81% [============================-      ] 160 kB/s | 563 MB  00:13:38 ETA \r"
+    ],
+    [
+      0.313762,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 81% [============================-      ] 260 kB/s | 563 MB  00:08:21 ETA \r"
+    ],
+    [
+      0.310575,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 81% [============================-      ] 828 kB/s | 566 MB  00:02:34 ETA \r"
+    ],
+    [
+      0.309408,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 83% [=============================      ] 2.9 MB/s | 577 MB  00:00:39 ETA \r"
+    ],
+    [
+      0.310132,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 84% [=============================-     ] 4.2 MB/s | 584 MB  00:00:25 ETA \r"
+    ],
+    [
+      0.315114,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 84% [=============================-     ] 4.3 MB/s | 586 MB  00:00:24 ETA \r"
+    ],
+    [
+      0.313124,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 85% [=============================-     ] 4.2 MB/s | 587 MB  00:00:24 ETA \r"
+    ],
+    [
+      0.308640,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 85% [=============================-     ] 4.8 MB/s | 591 MB  00:00:20 ETA \r"
+    ],
+    [
+      0.403580,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 86% [==============================     ] 5.7 MB/s | 598 MB  00:00:16 ETA \r"
+    ],
+    [
+      0.310354,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 86% [==============================     ] 5.4 MB/s | 598 MB  00:00:17 ETA \r"
+    ],
+    [
+      0.312398,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 86% [==============================     ] 5.3 MB/s | 599 MB  00:00:17 ETA \r"
+    ],
+    [
+      0.309049,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 87% [==============================-    ] 6.4 MB/s | 606 MB  00:00:13 ETA \r"
+    ],
+    [
+      0.407597,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 88% [==============================-    ] 6.4 MB/s | 609 MB  00:00:12 ETA \r"
+    ],
+    [
+      0.648201,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 88% [==============================-    ] 5.5 MB/s | 609 MB  00:00:14 ETA \r"
+    ],
+    [
+      0.310730,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 89% [===============================    ] 6.8 MB/s | 617 MB  00:00:10 ETA \r"
+    ],
+    [
+      0.501781,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 90% [===============================-   ] 8.1 MB/s | 627 MB  00:00:07 ETA \r"
+    ],
+    [
+      0.310712,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 90% [===============================-   ] 7.9 MB/s | 628 MB  00:00:07 ETA \r"
+    ],
+    [
+      0.311711,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 91% [================================   ] 8.6 MB/s | 634 MB  00:00:06 ETA \r"
+    ],
+    [
+      0.309775,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 93% [================================-  ] 9.8 MB/s | 643 MB  00:00:04 ETA \r"
+    ],
+    [
+      0.314291,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 93% [================================-  ] 9.7 MB/s | 646 MB  00:00:04 ETA \r"
+    ],
+    [
+      0.309102,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 93% [================================-  ] 9.3 MB/s | 646 MB  00:00:04 ETA \r"
+    ],
+    [
+      0.313895,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 94% [================================-  ] 9.4 MB/s | 650 MB  00:00:04 ETA \r"
+    ],
+    [
+      0.394375,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 94% [=================================  ] 9.8 MB/s | 656 MB  00:00:03 ETA \r"
+    ],
+    [
+      0.311330,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 95% [=================================  ] 9.4 MB/s | 657 MB  00:00:03 ETA \r"
+    ],
+    [
+      0.309659,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 95% [=================================- ]  10 MB/s | 663 MB  00:00:02 ETA \r"
+    ],
+    [
+      0.375107,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 96% [=================================- ]  10 MB/s | 668 MB  00:00:02 ETA \r"
+    ],
+    [
+      0.310340,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 96% [=================================- ] 9.8 MB/s | 668 MB  00:00:02 ETA \r"
+    ],
+    [
+      0.310841,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 97% [================================== ] 9.8 MB/s | 671 MB  00:00:01 ETA \r"
+    ],
+    [
+      0.310433,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 98% [================================== ]  11 MB/s | 678 MB  00:00:01 ETA \r"
+    ],
+    [
+      1.001679,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 98% [==================================-] 9.1 MB/s | 682 MB  00:00:00 ETA \r"
+    ],
+    [
+      1.007560,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 98% [==================================-] 7.3 MB/s | 682 MB  00:00:01 ETA \r"
+    ],
+    [
+      1.001694,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 98% [==================================-] 5.8 MB/s | 682 MB  00:00:01 ETA \r"
+    ],
+    [
+      1.002427,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 98% [==================================-] 4.7 MB/s | 682 MB  00:00:01 ETA \r"
+    ],
+    [
+      0.978551,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 98% [==================================-] 3.8 MB/s | 682 MB  00:00:02 ETA \r"
+    ],
+    [
+      0.310486,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.r 99% [==================================-] 4.0 MB/s | 684 MB  00:00:01 ETA \r"
+    ],
+    [
+      1.195255,
+      "\r(9/9): opennms-webapp-jetty-17.0.0-1.noarch.rpm                                                  | 206 MB  00:00:51     \r\n"
+    ],
+    [
+      0.036848,
+      "------------------------------------------------------------------------------------------------------------------------\r\n"
+    ],
+    [
+      0.002978,
+      "Total                                                                                   7.8 MB/s | 691 MB  00:01:28     \r\n"
+    ],
+    [
+      0.040187,
+      "Running transaction check\r\n"
+    ],
+    [
+      0.057549,
+      "Running transaction test\r\n"
+    ],
+    [
+      0.174665,
+      "Transaction test succeeded\r\nRunning transaction\r\n"
+    ],
+    [
+      0.010521,
+      "Warning: RPMDB altered outside of yum.\r\n"
+    ],
+    [
+      0.205139,
+      "\r  Installing : postgresql-libs-9.2.14-1.el7_1.x86_64 [                                                            ] 1/9"
+    ],
+    [
+      0.010712,
+      "\r  Installing : postgresql-libs-9.2.14-1.el7_1.x86_64 [#####                                                       ] 1/9\r  Installing : postgresql-libs-9.2.14-1.el7_1.x86_64 [######                                                      ] 1/9\r  Installing : postgresql-libs-9.2.14-1.el7_1.x86_64 [#########                                                   ] 1/9"
+    ],
+    [
+      0.011970,
+      "\r  Installing : postgresql-libs-9.2.14-1.el7_1.x86_64 [##############                                              ] 1/9\r  Installing : postgresql-libs-9.2.14-1.el7_1.x86_64 [###############                                             ] 1/9\r  Installing : postgresql-libs-9.2.14-1.el7_1.x86_64 [####################                                        ] 1/9\r  Installing : postgresql-libs-9.2.14-1.el7_1.x86_64 [##########################                                  ] 1/9"
+    ],
+    [
+      0.004460,
+      "\r  Installing : postgresql-libs-9.2.14-1.el7_1.x86_64 [###############################                             ] 1/9\r  Installing : postgresql-libs-9.2.14-1.el7_1.x86_64 [################################                            ] 1/9"
+    ],
+    [
+      0.002551,
+      "\r  Installing : postgresql-libs-9.2.14-1.el7_1.x86_64 [##################################                          ] 1/9"
+    ],
+    [
+      0.002225,
+      "\r  Installing : postgresql-libs-9.2.14-1.el7_1.x86_64 [####################################                        ] 1/9"
+    ],
+    [
+      0.002149,
+      "\r  Installing : postgresql-libs-9.2.14-1.el7_1.x86_64 [#####################################                       ] 1/9\r  Installing : postgresql-libs-9.2.14-1.el7_1.x86_64 [#######################################                     ] 1/9"
+    ],
+    [
+      0.002313,
+      "\r  Installing : postgresql-libs-9.2.14-1.el7_1.x86_64 [#########################################                   ] 1/9"
+    ],
+    [
+      0.003447,
+      "\r  Installing : postgresql-libs-9.2.14-1.el7_1.x86_64 [##########################################                  ] 1/9\r  Installing : postgresql-libs-9.2.14-1.el7_1.x86_64 [###########################################                 ] 1/9"
+    ],
+    [
+      0.004204,
+      "\r  Installing : postgresql-libs-9.2.14-1.el7_1.x86_64 [############################################                ] 1/9\r  Installing : postgresql-libs-9.2.14-1.el7_1.x86_64 [##############################################              ] 1/9\r  Installing : postgresql-libs-9.2.14-1.el7_1.x86_64 [################################################            ] 1/9"
+    ],
+    [
+      0.002162,
+      "\r  Installing : postgresql-libs-9.2.14-1.el7_1.x86_64 [#################################################           ] 1/9\r  Installing : postgresql-libs-9.2.14-1.el7_1.x86_64 [###################################################         ] 1/9"
+    ],
+    [
+      0.002416,
+      "\r  Installing : postgresql-libs-9.2.14-1.el7_1.x86_64 [######################################################      ] 1/9"
+    ],
+    [
+      0.002461,
+      "\r  Installing : postgresql-libs-9.2.14-1.el7_1.x86_64 [#######################################################     ] 1/9"
+    ],
+    [
+      0.002248,
+      "\r  Installing : postgresql-libs-9.2.14-1.el7_1.x86_64 [########################################################    ] 1/9\r  Installing : postgresql-libs-9.2.14-1.el7_1.x86_64 [##########################################################  ] 1/9"
+    ],
+    [
+      0.001863,
+      "\r  Installing : postgresql-libs-9.2.14-1.el7_1.x86_64 [########################################################### ] 1/9\r  Installing : postgresql-libs-9.2.14-1.el7_1.x86_64                                                                1/9 \r\n"
+    ],
+    [
+      0.156124,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [                                                                 ] 2/9"
+    ],
+    [
+      0.022148,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [#                                                                ] 2/9"
+    ],
+    [
+      0.014044,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [##                                                               ] 2/9\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [###                                                              ] 2/9"
+    ],
+    [
+      0.011971,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [####                                                             ] 2/9"
+    ],
+    [
+      0.012036,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [#####                                                            ] 2/9"
+    ],
+    [
+      0.023986,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [######                                                           ] 2/9\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [#######                                                          ] 2/9"
+    ],
+    [
+      0.023989,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [########                                                         ] 2/9"
+    ],
+    [
+      0.011999,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [#########                                                        ] 2/9"
+    ],
+    [
+      0.011206,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [##########                                                       ] 2/9"
+    ],
+    [
+      0.024835,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [###########                                                      ] 2/9"
+    ],
+    [
+      0.035169,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [############                                                     ] 2/9"
+    ],
+    [
+      0.012810,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [#############                                                    ] 2/9"
+    ],
+    [
+      0.023995,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [##############                                                   ] 2/9"
+    ],
+    [
+      0.023178,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [###############                                                  ] 2/9"
+    ],
+    [
+      0.012817,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [################                                                 ] 2/9"
+    ],
+    [
+      0.023982,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [#################                                                ] 2/9\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [##################                                               ] 2/9"
+    ],
+    [
+      0.023207,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [###################                                              ] 2/9"
+    ],
+    [
+      0.012817,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [####################                                             ] 2/9"
+    ],
+    [
+      0.035989,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [#####################                                            ] 2/9"
+    ],
+    [
+      0.024049,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [######################                                           ] 2/9"
+    ],
+    [
+      0.023953,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [#######################                                          ] 2/9\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [########################                                         ] 2/9"
+    ],
+    [
+      0.036007,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [#########################                                        ] 2/9"
+    ],
+    [
+      0.011979,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [##########################                                       ] 2/9"
+    ],
+    [
+      0.023997,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [###########################                                      ] 2/9"
+    ],
+    [
+      0.024046,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [############################                                     ] 2/9"
+    ],
+    [
+      0.012018,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [#############################                                    ] 2/9"
+    ],
+    [
+      0.023962,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [##############################                                   ] 2/9"
+    ],
+    [
+      0.023994,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [###############################                                  ] 2/9"
+    ],
+    [
+      0.035996,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [################################                                 ] 2/9"
+    ],
+    [
+      0.011996,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [#################################                                ] 2/9"
+    ],
+    [
+      0.024016,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [##################################                               ] 2/9"
+    ],
+    [
+      0.023971,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [###################################                              ] 2/9"
+    ],
+    [
+      0.011207,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [####################################                             ] 2/9"
+    ],
+    [
+      0.012820,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [#####################################                            ] 2/9"
+    ],
+    [
+      0.023999,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [######################################                           ] 2/9"
+    ],
+    [
+      0.012052,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [#######################################                          ] 2/9"
+    ],
+    [
+      0.011212,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [########################################                         ] 2/9"
+    ],
+    [
+      0.024722,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [#########################################                        ] 2/9"
+    ],
+    [
+      0.011993,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [##########################################                       ] 2/9"
+    ],
+    [
+      0.012026,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [###########################################                      ] 2/9"
+    ],
+    [
+      0.011172,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [############################################                     ] 2/9"
+    ],
+    [
+      0.048801,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [#############################################                    ] 2/9"
+    ],
+    [
+      0.011216,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [##############################################                   ] 2/9"
+    ],
+    [
+      0.024784,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [###############################################                  ] 2/9"
+    ],
+    [
+      0.011999,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [################################################                 ] 2/9"
+    ],
+    [
+      0.023204,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [#################################################                ] 2/9"
+    ],
+    [
+      0.012819,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [##################################################               ] 2/9"
+    ],
+    [
+      0.023997,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [###################################################              ] 2/9"
+    ],
+    [
+      0.012001,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [####################################################             ] 2/9"
+    ],
+    [
+      0.023993,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [#####################################################            ] 2/9"
+    ],
+    [
+      0.036008,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [######################################################           ] 2/9"
+    ],
+    [
+      0.011190,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [#######################################################          ] 2/9"
+    ],
+    [
+      0.024833,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [########################################################         ] 2/9\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [#########################################################        ] 2/9"
+    ],
+    [
+      0.011991,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [##########################################################       ] 2/9"
+    ],
+    [
+      0.011990,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [###########################################################      ] 2/9"
+    ],
+    [
+      0.015425,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [############################################################     ] 2/9\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [#############################################################    ] 2/9"
+    ],
+    [
+      0.024134,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [##############################################################   ] 2/9\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [###############################################################  ] 2/9"
+    ],
+    [
+      0.068436,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64 [################################################################ ] 2/9"
+    ],
+    [
+      0.047801,
+      "\r  Installing : postgresql-9.2.14-1.el7_1.x86_64                                                                     2/9 \r\n"
+    ],
+    [
+      0.132249,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [                                                          ] 3/9"
+    ],
+    [
+      0.012083,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [#                                                         ] 3/9"
+    ],
+    [
+      0.023854,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [##                                                        ] 3/9"
+    ],
+    [
+      0.011982,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [###                                                       ] 3/9"
+    ],
+    [
+      0.012024,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [####                                                      ] 3/9"
+    ],
+    [
+      0.012003,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [#####                                                     ] 3/9"
+    ],
+    [
+      0.023970,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [######                                                    ] 3/9"
+    ],
+    [
+      0.012004,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [#######                                                   ] 3/9"
+    ],
+    [
+      0.011998,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [########                                                  ] 3/9"
+    ],
+    [
+      0.012003,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [#########                                                 ] 3/9"
+    ],
+    [
+      0.023996,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [##########                                                ] 3/9\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [###########                                               ] 3/9"
+    ],
+    [
+      0.024000,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [############                                              ] 3/9"
+    ],
+    [
+      0.012000,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [#############                                             ] 3/9\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [##############                                            ] 3/9"
+    ],
+    [
+      0.011934,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [###############                                           ] 3/9"
+    ],
+    [
+      0.012066,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [################                                          ] 3/9"
+    ],
+    [
+      0.012000,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [#################                                         ] 3/9"
+    ],
+    [
+      0.011904,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [##################                                        ] 3/9\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [###################                                       ] 3/9"
+    ],
+    [
+      0.071313,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [####################                                      ] 3/9"
+    ],
+    [
+      0.029949,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [#####################                                     ] 3/9"
+    ],
+    [
+      0.012050,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [######################                                    ] 3/9"
+    ],
+    [
+      0.018819,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [#######################                                   ] 3/9"
+    ],
+    [
+      0.011186,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [########################                                  ] 3/9"
+    ],
+    [
+      0.012809,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [#########################                                 ] 3/9"
+    ],
+    [
+      0.011977,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [##########################                                ] 3/9"
+    ],
+    [
+      0.011991,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [###########################                               ] 3/9"
+    ],
+    [
+      0.012004,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [############################                              ] 3/9\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [#############################                             ] 3/9"
+    ],
+    [
+      0.011230,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [##############################                            ] 3/9"
+    ],
+    [
+      0.012799,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [###############################                           ] 3/9"
+    ],
+    [
+      0.012001,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [################################                          ] 3/9"
+    ],
+    [
+      0.011990,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [#################################                         ] 3/9"
+    ],
+    [
+      0.012012,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [##################################                        ] 3/9"
+    ],
+    [
+      0.011157,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [###################################                       ] 3/9"
+    ],
+    [
+      0.012836,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [####################################                      ] 3/9"
+    ],
+    [
+      0.011976,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [#####################################                     ] 3/9\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [######################################                    ] 3/9"
+    ],
+    [
+      0.024013,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [#######################################                   ] 3/9\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [########################################                  ] 3/9"
+    ],
+    [
+      0.011259,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [#########################################                 ] 3/9"
+    ],
+    [
+      0.012786,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [##########################################                ] 3/9"
+    ],
+    [
+      0.011975,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [###########################################               ] 3/9\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [############################################              ] 3/9"
+    ],
+    [
+      0.024911,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [#############################################             ] 3/9\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [##############################################            ] 3/9"
+    ],
+    [
+      0.011077,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [###############################################           ] 3/9"
+    ],
+    [
+      0.011987,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [################################################          ] 3/9"
+    ],
+    [
+      0.012016,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [#################################################         ] 3/9"
+    ],
+    [
+      0.012008,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [##################################################        ] 3/9\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [###################################################       ] 3/9"
+    ],
+    [
+      0.023182,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [####################################################      ] 3/9"
+    ],
+    [
+      0.012809,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [#####################################################     ] 3/9"
+    ],
+    [
+      0.011989,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [######################################################    ] 3/9"
+    ],
+    [
+      0.011999,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [#######################################################   ] 3/9"
+    ],
+    [
+      0.012005,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [########################################################  ] 3/9"
+    ],
+    [
+      0.011244,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64 [######################################################### ] 3/9"
+    ],
+    [
+      0.022875,
+      "\r  Installing : postgresql-server-9.2.14-1.el7_1.x86_64                                                              3/9 \r\n"
+    ],
+    [
+      0.171590,
+      "\r  Installing : jicmp-1.4.5-2.x86_64 [                                                                             ] 4/9"
+    ],
+    [
+      0.005441,
+      "\r  Installing : jicmp-1.4.5-2.x86_64 [#                                                                            ] 4/9\r  Installing : jicmp-1.4.5-2.x86_64 [#############################                                                ] 4/9\r  Installing : jicmp-1.4.5-2.x86_64 [############################################################################ ] 4/9\r  Installing : jicmp-1.4.5-2.x86_64                                                                                 4/9 \r\n"
+    ],
+    [
+      0.013625,
+      "\r  Installing : jicmp6-1.2.4-1.x86_64 [                                                                            ] 5/9\r  Installing : jicmp6-1.2.4-1.x86_64 [###                                                                         ] 5/9\r  Installing : jicmp6-1.2.4-1.x86_64 [#################################################                           ] 5/9\r  Installing : jicmp6-1.2.4-1.x86_64 [########################################################################### ] 5/9\r  Installing : jicmp6-1.2.4-1.x86_64                                                                                5/9 \r\n"
+    ],
+    [
+      0.036447,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [                                                             ] 6/9"
+    ],
+    [
+      0.110002,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [#                                                            ] 6/9"
+    ],
+    [
+      0.056806,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [##                                                           ] 6/9"
+    ],
+    [
+      0.052056,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [###                                                          ] 6/9"
+    ],
+    [
+      0.131109,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [####                                                         ] 6/9"
+    ],
+    [
+      0.048793,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [#####                                                        ] 6/9"
+    ],
+    [
+      0.010495,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [######                                                       ] 6/9"
+    ],
+    [
+      0.053505,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [#######                                                      ] 6/9"
+    ],
+    [
+      0.068311,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [########                                                     ] 6/9"
+    ],
+    [
+      0.035689,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [#########                                                    ] 6/9"
+    ],
+    [
+      0.085196,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [##########                                                   ] 6/9"
+    ],
+    [
+      0.077993,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [###########                                                  ] 6/9"
+    ],
+    [
+      0.028805,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [############                                                 ] 6/9"
+    ],
+    [
+      0.060010,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [#############                                                ] 6/9"
+    ],
+    [
+      0.036012,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [##############                                               ] 6/9"
+    ],
+    [
+      0.061071,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [###############                                              ] 6/9"
+    ],
+    [
+      0.058911,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [################                                             ] 6/9"
+    ],
+    [
+      0.035190,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [#################                                            ] 6/9"
+    ],
+    [
+      0.072819,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [##################                                           ] 6/9"
+    ],
+    [
+      0.072021,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [###################                                          ] 6/9"
+    ],
+    [
+      0.035155,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [####################                                         ] 6/9"
+    ],
+    [
+      0.071299,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [#####################                                        ] 6/9"
+    ],
+    [
+      0.048819,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [######################                                       ] 6/9"
+    ],
+    [
+      0.037797,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [#######################                                      ] 6/9"
+    ],
+    [
+      0.149298,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [########################                                     ] 6/9"
+    ],
+    [
+      0.031677,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [#########################                                    ] 6/9"
+    ],
+    [
+      0.065959,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [##########################                                   ] 6/9"
+    ],
+    [
+      0.127966,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [###########################                                  ] 6/9"
+    ],
+    [
+      0.027985,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [############################                                 ] 6/9"
+    ],
+    [
+      0.067154,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [#############################                                ] 6/9"
+    ],
+    [
+      0.070505,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [##############################                               ] 6/9"
+    ],
+    [
+      0.058355,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [###############################                              ] 6/9"
+    ],
+    [
+      0.071996,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [################################                             ] 6/9"
+    ],
+    [
+      0.060011,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [#################################                            ] 6/9"
+    ],
+    [
+      0.019978,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [##################################                           ] 6/9"
+    ],
+    [
+      0.051202,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [###################################                          ] 6/9"
+    ],
+    [
+      0.144424,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [####################################                         ] 6/9"
+    ],
+    [
+      0.036672,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [#####################################                        ] 6/9"
+    ],
+    [
+      0.089855,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [######################################                       ] 6/9"
+    ],
+    [
+      0.021945,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [#######################################                      ] 6/9"
+    ],
+    [
+      0.092887,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [########################################                     ] 6/9"
+    ],
+    [
+      0.094234,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [#########################################                    ] 6/9"
+    ],
+    [
+      0.052805,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [##########################################                   ] 6/9"
+    ],
+    [
+      0.064016,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [###########################################                  ] 6/9"
+    ],
+    [
+      0.148013,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [############################################                 ] 6/9"
+    ],
+    [
+      0.039671,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [#############################################                ] 6/9"
+    ],
+    [
+      0.125508,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [##############################################               ] 6/9"
+    ],
+    [
+      0.074801,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [###############################################              ] 6/9"
+    ],
+    [
+      0.035164,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [################################################             ] 6/9"
+    ],
+    [
+      0.108811,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [#################################################            ] 6/9"
+    ],
+    [
+      0.027901,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [##################################################           ] 6/9"
+    ],
+    [
+      0.101387,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [###################################################          ] 6/9"
+    ],
+    [
+      0.171749,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [####################################################         ] 6/9"
+    ],
+    [
+      0.040185,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [#####################################################        ] 6/9"
+    ],
+    [
+      0.089987,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [######################################################       ] 6/9"
+    ],
+    [
+      0.160019,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [#######################################################      ] 6/9"
+    ],
+    [
+      0.092792,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [########################################################     ] 6/9"
+    ],
+    [
+      0.127177,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [#########################################################    ] 6/9"
+    ],
+    [
+      0.049987,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [##########################################################   ] 6/9"
+    ],
+    [
+      0.034624,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [###########################################################  ] 6/9"
+    ],
+    [
+      0.063288,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64 [############################################################ ] 6/9"
+    ],
+    [
+      0.028339,
+      "\r  Installing : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64                                                                 6/9 \r\n"
+    ],
+    [
+      2.981450,
+      "Unpacking JAR files...\r\n\ttools.jar...\r\n\tplugin.jar...\r\n\tjavaws.jar...\r\n\tdeploy.jar...\r\n\trt.jar...\r\n\tjsse.jar...\r\n\tcharsets.jar...\r\n\tlocaledata.jar...\r\n\tjfxrt.jar...\r\n"
+    ],
+    [
+      0.015867,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [                                                                     ] 7/9"
+    ],
+    [
+      0.455253,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [#                                                                    ] 7/9"
+    ],
+    [
+      0.095977,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [##                                                                   ] 7/9"
+    ],
+    [
+      0.165210,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [###                                                                  ] 7/9"
+    ],
+    [
+      0.129973,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [####                                                                 ] 7/9"
+    ],
+    [
+      0.172819,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [#####                                                                ] 7/9"
+    ],
+    [
+      0.084013,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [######                                                               ] 7/9"
+    ],
+    [
+      0.403180,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [#######                                                              ] 7/9"
+    ],
+    [
+      0.279995,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [########                                                             ] 7/9"
+    ],
+    [
+      0.599990,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [#########                                                            ] 7/9"
+    ],
+    [
+      0.249998,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [##########                                                           ] 7/9"
+    ],
+    [
+      0.278829,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [###########                                                          ] 7/9"
+    ],
+    [
+      0.551305,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [############                                                         ] 7/9"
+    ],
+    [
+      0.319858,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [#############                                                        ] 7/9"
+    ],
+    [
+      0.559994,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [##############                                                       ] 7/9"
+    ],
+    [
+      0.280008,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [###############                                                      ] 7/9"
+    ],
+    [
+      0.544799,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [################                                                     ] 7/9"
+    ],
+    [
+      0.315188,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [#################                                                    ] 7/9"
+    ],
+    [
+      0.529440,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [##################                                                   ] 7/9"
+    ],
+    [
+      0.270578,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [###################                                                  ] 7/9"
+    ],
+    [
+      0.276786,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [####################                                                 ] 7/9"
+    ],
+    [
+      0.563429,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [#####################                                                ] 7/9"
+    ],
+    [
+      0.309756,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [######################                                               ] 7/9"
+    ],
+    [
+      0.554809,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [#######################                                              ] 7/9"
+    ],
+    [
+      0.275189,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [########################                                             ] 7/9"
+    ],
+    [
+      0.552815,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [#########################                                            ] 7/9"
+    ],
+    [
+      0.312000,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [##########################                                           ] 7/9"
+    ],
+    [
+      0.539994,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [###########################                                          ] 7/9"
+    ],
+    [
+      0.275206,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [############################                                         ] 7/9"
+    ],
+    [
+      0.539978,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [#############################                                        ] 7/9"
+    ],
+    [
+      0.273638,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [##############################                                       ] 7/9"
+    ],
+    [
+      0.315190,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [###############################                                      ] 7/9"
+    ],
+    [
+      0.539981,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [################################                                     ] 7/9"
+    ],
+    [
+      0.287991,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [#################################                                    ] 7/9"
+    ],
+    [
+      0.572015,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [##################################                                   ] 7/9"
+    ],
+    [
+      0.311174,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [###################################                                  ] 7/9"
+    ],
+    [
+      0.520000,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [####################################                                 ] 7/9"
+    ],
+    [
+      0.260854,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [#####################################                                ] 7/9"
+    ],
+    [
+      0.579147,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [######################################                               ] 7/9"
+    ],
+    [
+      0.279999,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [#######################################                              ] 7/9"
+    ],
+    [
+      0.296806,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [########################################                             ] 7/9"
+    ],
+    [
+      0.572009,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [#########################################                            ] 7/9"
+    ],
+    [
+      0.303984,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [##########################################                           ] 7/9"
+    ],
+    [
+      0.607183,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [###########################################                          ] 7/9"
+    ],
+    [
+      0.310047,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [############################################                         ] 7/9"
+    ],
+    [
+      0.607716,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [#############################################                        ] 7/9"
+    ],
+    [
+      0.322242,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [##############################################                       ] 7/9"
+    ],
+    [
+      0.584156,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [###############################################                      ] 7/9"
+    ],
+    [
+      0.325828,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [################################################                     ] 7/9"
+    ],
+    [
+      0.570005,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [#################################################                    ] 7/9"
+    ],
+    [
+      0.296816,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [##################################################                   ] 7/9"
+    ],
+    [
+      0.293178,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [###################################################                  ] 7/9"
+    ],
+    [
+      0.570005,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [####################################################                 ] 7/9"
+    ],
+    [
+      0.312808,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [#####################################################                ] 7/9"
+    ],
+    [
+      0.600659,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [######################################################               ] 7/9"
+    ],
+    [
+      0.286513,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [#######################################################              ] 7/9"
+    ],
+    [
+      0.564816,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [########################################################             ] 7/9"
+    ],
+    [
+      0.312355,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [#########################################################            ] 7/9"
+    ],
+    [
+      0.573267,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [##########################################################           ] 7/9"
+    ],
+    [
+      0.299568,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [###########################################################          ] 7/9"
+    ],
+    [
+      0.279995,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [############################################################         ] 7/9"
+    ],
+    [
+      0.622810,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [#############################################################        ] 7/9"
+    ],
+    [
+      0.276039,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [##############################################################       ] 7/9"
+    ],
+    [
+      0.479981,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [###############################################################      ] 7/9"
+    ],
+    [
+      0.095986,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [################################################################     ] 7/9"
+    ],
+    [
+      0.215202,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [#################################################################    ] 7/9"
+    ],
+    [
+      0.096790,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [##################################################################   ] 7/9"
+    ],
+    [
+      0.168807,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [###################################################################  ] 7/9"
+    ],
+    [
+      0.131192,
+      "\r  Installing : opennms-core-17.0.0-1.noarch [#################################################################### ] 7/9"
+    ],
+    [
+      0.223100,
+      "\r  Installing : opennms-core-17.0.0-1.noarch                                                                         7/9 \r\n"
+    ],
+    [
+      0.358789,
+      "- installing service into /usr/lib/systemd/system... done\r\n- making symlink for /opt/opennms/logs... done\r\n- making symlink for /opt/opennms/share... done\r\n- moving *.sql.rpmnew files (if any)... done\r\n- checking for old update files... done\r\n- cleaning up $OPENNMS_HOME/data... done\r\n\r\n *** Installation complete.  You must still run the installer at\r\n *** $OPENNMS_HOME/bin/install to be sure your database is up\r\n *** to date before you start OpenNMS.  See the install guide at\r\n *** http://www.opennms.org/wiki/Installation:RPM and the\r\n *** release notes for details.\r\n\r\n"
+    ],
+    [
+      0.021085,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [                                                             ] 8/9"
+    ],
+    [
+      0.317013,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [#                                                            ] 8/9"
+    ],
+    [
+      0.303253,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [##                                                           ] 8/9"
+    ],
+    [
+      0.144771,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [###                                                          ] 8/9"
+    ],
+    [
+      0.311977,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [####                                                         ] 8/9"
+    ],
+    [
+      0.299997,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [#####                                                        ] 8/9"
+    ],
+    [
+      0.143187,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [######                                                       ] 8/9"
+    ],
+    [
+      0.336833,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [#######                                                      ] 8/9"
+    ],
+    [
+      0.310887,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [########                                                     ] 8/9"
+    ],
+    [
+      0.157099,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [#########                                                    ] 8/9"
+    ],
+    [
+      0.299990,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [##########                                                   ] 8/9"
+    ],
+    [
+      0.300065,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [###########                                                  ] 8/9"
+    ],
+    [
+      0.155120,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [############                                                 ] 8/9"
+    ],
+    [
+      0.299988,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [#############                                                ] 8/9"
+    ],
+    [
+      0.180002,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [##############                                               ] 8/9"
+    ],
+    [
+      0.300002,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [###############                                              ] 8/9"
+    ],
+    [
+      0.312829,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [################                                             ] 8/9"
+    ],
+    [
+      0.144067,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [#################                                            ] 8/9"
+    ],
+    [
+      0.293107,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [##################                                           ] 8/9"
+    ],
+    [
+      0.306811,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [###################                                          ] 8/9"
+    ],
+    [
+      0.120018,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [####################                                         ] 8/9"
+    ],
+    [
+      0.373876,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [#####################                                        ] 8/9"
+    ],
+    [
+      0.319288,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [######################                                       ] 8/9"
+    ],
+    [
+      0.149995,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [#######################                                      ] 8/9"
+    ],
+    [
+      0.280393,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [########################                                     ] 8/9"
+    ],
+    [
+      0.159607,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [#########################                                    ] 8/9"
+    ],
+    [
+      0.252819,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [##########################                                   ] 8/9"
+    ],
+    [
+      0.321788,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [###########################                                  ] 8/9"
+    ],
+    [
+      0.205417,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [############################                                 ] 8/9"
+    ],
+    [
+      0.299999,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [#############################                                ] 8/9"
+    ],
+    [
+      0.324793,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [##############################                               ] 8/9"
+    ],
+    [
+      0.167987,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [###############################                              ] 8/9"
+    ],
+    [
+      0.336000,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [################################                             ] 8/9"
+    ],
+    [
+      0.299996,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [#################################                            ] 8/9"
+    ],
+    [
+      0.196203,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [##################################                           ] 8/9"
+    ],
+    [
+      0.314992,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [###################################                          ] 8/9"
+    ],
+    [
+      0.328799,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [####################################                         ] 8/9"
+    ],
+    [
+      0.151197,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [#####################################                        ] 8/9"
+    ],
+    [
+      0.316800,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [######################################                       ] 8/9"
+    ],
+    [
+      0.163200,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [#######################################                      ] 8/9"
+    ],
+    [
+      0.316797,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [########################################                     ] 8/9"
+    ],
+    [
+      0.332024,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [#########################################                    ] 8/9"
+    ],
+    [
+      0.155996,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [##########################################                   ] 8/9"
+    ],
+    [
+      0.335174,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [###########################################                  ] 8/9"
+    ],
+    [
+      0.316804,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [############################################                 ] 8/9"
+    ],
+    [
+      0.153191,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [#############################################                ] 8/9"
+    ],
+    [
+      0.338813,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [##############################################               ] 8/9"
+    ],
+    [
+      0.311196,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [###############################################              ] 8/9"
+    ],
+    [
+      0.159990,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [################################################             ] 8/9"
+    ],
+    [
+      0.309144,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [#################################################            ] 8/9"
+    ],
+    [
+      0.179664,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [##################################################           ] 8/9"
+    ],
+    [
+      0.312371,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [###################################################          ] 8/9"
+    ],
+    [
+      0.318812,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [####################################################         ] 8/9"
+    ],
+    [
+      0.170001,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [#####################################################        ] 8/9"
+    ],
+    [
+      0.319997,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [######################################################       ] 8/9"
+    ],
+    [
+      0.318817,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [#######################################################      ] 8/9"
+    ],
+    [
+      0.151189,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [########################################################     ] 8/9"
+    ],
+    [
+      0.319998,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [#########################################################    ] 8/9"
+    ],
+    [
+      0.332810,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [##########################################################   ] 8/9"
+    ],
+    [
+      0.155992,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [###########################################################  ] 8/9"
+    ],
+    [
+      0.321453,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch [############################################################ ] 8/9"
+    ],
+    [
+      0.144918,
+      "\r  Installing : opennms-webapp-jetty-17.0.0-1.noarch                                                                 8/9 \r\n"
+    ],
+    [
+      0.042287,
+      "\r  Installing : opennms-17.0.0-1.noarch [                                                                          ] 9/9\r  Installing : opennms-17.0.0-1.noarch                                                                              9/9 \r\n"
+    ],
+    [
+      0.049948,
+      "\r  Verifying  : 2000:jdk1.8.0_60-1.8.0_60-fcs.x86_64                                                                 1/9 \r\n"
+    ],
+    [
+      0.014135,
+      "\r  Verifying  : opennms-webapp-jetty-17.0.0-1.noarch                                                                 2/9 \r\n"
+    ],
+    [
+      0.022991,
+      "\r  Verifying  : jicmp6-1.2.4-1.x86_64                                                                                3/9 \r\n"
+    ],
+    [
+      0.006657,
+      "\r  Verifying  : opennms-core-17.0.0-1.noarch                                                                         4/9 \r\n"
+    ],
+    [
+      0.005584,
+      "\r  Verifying  : jicmp-1.4.5-2.x86_64                                                                                 5/9 \r\n"
+    ],
+    [
+      0.003985,
+      "\r  Verifying  : postgresql-server-9.2.14-1.el7_1.x86_64                                                              6/9 \r\n"
+    ],
+    [
+      0.020168,
+      "\r  Verifying  : postgresql-libs-9.2.14-1.el7_1.x86_64                                                                7/9 \r\n"
+    ],
+    [
+      0.007015,
+      "\r  Verifying  : opennms-17.0.0-1.noarch                                                                              8/9 \r\n"
+    ],
+    [
+      0.006140,
+      "\r  Verifying  : postgresql-9.2.14-1.el7_1.x86_64                                                                     9/9 \r\n"
+    ],
+    [
+      0.068493,
+      "\r\nInstalled:\r\n  opennms.noarch 0:17.0.0-1                                                                                             \r\n\r\nDependency Installed:\r\n  jdk1.8.0_60.x86_64 2000:1.8.0_60-fcs    jicmp.x86_64 0:1.4.5-2                    jicmp6.x86_64 0:1.2.4-1           \r\n  opennms-core.noarch 0:17.0.0-1          opennms-webapp-jetty.noarch 0:17.0.0-1    postgresql.x86_64 0:9.2.14-1.el7_1\r\n  postgresql-libs.x86_64 0:9.2.14-1.el7_1 postgresql-server.x86_64 0:9.2.14-1.el7_1\r\n\r\nComplete!\r\n"
+    ],
+    [
+      0.234449,
+      "OK\r\n"
+    ],
+    [
+      0.002726,
+      "\u001b[3;J\u001b[H\u001b[2J"
+    ],
+    [
+      0.000500,
+      "PostgreSQL initialize                 ... "
+    ],
+    [
+      6.181671,
+      "OK\r\nPostgreSQL set auth from ident to md5 ... "
+    ],
+    [
+      0.004102,
+      "OK\r\nStart PostgreSQL database             ... "
+    ],
+    [
+      1.061224,
+      "OK\r\nPostgreSQL systemd enable             ... "
+    ],
+    [
+      0.100225,
+      "OK\r\n\r\nEnter database username: "
+    ],
+    [
+      1.105717,
+      "o"
+    ],
+    [
+      0.090471,
+      "p"
+    ],
+    [
+      0.096125,
+      "e"
+    ],
+    [
+      0.111961,
+      "n"
+    ],
+    [
+      0.142948,
+      "n"
+    ],
+    [
+      0.154203,
+      "m"
+    ],
+    [
+      0.115847,
+      "s"
+    ],
+    [
+      0.530389,
+      "\r\nEnter database password: "
+    ],
+    [
+      1.698797,
+      "\r\n\r\n"
+    ],
+    [
+      0.340559,
+      "\r\nGenerate OpenNMS data source config   ... OK\r\nInitialize OpenNMS                    ... "
+    ],
+    [
+      34.842898,
+      "OK\r\nStarting OpenNMS                      ... "
+    ],
+    [
+      5.334711,
+      "OK\r\nOpenNMS systemd enable                ... "
+    ],
+    [
+      0.141161,
+      "OK\r\n\r\nCongratulations\r\n---------------\r\n\r\nOpenNMS is up and running. You can access the web application with\r\n\r\nhttp://this-systems-ip:8980\r\n\r\nLogin with username admin and password admin\r\n\r\nPlease change immediately the password for your admin user!\r\nSelect in the main navigation \"Admin\" and go to \"Change Password\"\r\n\r\nThank you computing with us.\r\n\r\n\u001b]0;root@localhost:~/opennms-install-1.0\u0007"
+    ],
+    [
+      0.005286,
+      "[root@localhost opennms-install-1.0]# "
+    ],
+    [
+      0.296602,
+      "/op"
+    ],
+    [
+      0.088651,
+      "t/"
+    ],
+    [
+      0.086784,
+      "o"
+    ],
+    [
+      0.057778,
+      "p"
+    ],
+    [
+      0.109620,
+      "ennms/"
+    ],
+    [
+      1.003511,
+      "bi"
+    ],
+    [
+      0.158114,
+      "n"
+    ],
+    [
+      0.006576,
+      "/"
+    ],
+    [
+      0.414698,
+      "o"
+    ],
+    [
+      0.074473,
+      "p"
+    ],
+    [
+      0.056911,
+      "e"
+    ],
+    [
+      0.178466,
+      "n"
+    ],
+    [
+      0.195564,
+      "nms "
+    ],
+    [
+      0.069234,
+      "-"
+    ],
+    [
+      0.079563,
+      "v"
+    ],
+    [
+      0.208489,
+      " "
+    ],
+    [
+      0.135405,
+      "s"
+    ],
+    [
+      0.048619,
+      "t"
+    ],
+    [
+      0.119126,
+      "a"
+    ],
+    [
+      0.077790,
+      "t"
+    ],
+    [
+      0.018173,
+      "u"
+    ],
+    [
+      0.265594,
+      "s"
+    ],
+    [
+      0.175281,
+      "\r\n"
+    ],
+    [
+      10.295397,
+      "OpenNMS.Eventd         : running\r\nOpenNMS.Trapd          : running\r\nOpenNMS.Queued         : running\r\nOpenNMS.Actiond        : running\r\nOpenNMS.Notifd         : running\r\nOpenNMS.Scriptd        : running\r\nOpenNMS.Rtcd           : running\r\nOpenNMS.Pollerd        : running\r\nOpenNMS.PollerBackEnd  : running\r\nOpenNMS.EnhancedLinkd  : running\r\nOpenNMS.Ticketer       : running\r\nOpenNMS.Collectd       : running\r\nOpenNMS.Discovery      : running\r\nOpenNMS.Vacuumd        : running\r\nOpenNMS.EventTranslator: running\r\nOpenNMS.PassiveStatusd : running\r\nOpenNMS.Statsd         : running\r\nOpenNMS.Provisiond     : running\r\nOpenNMS.Reportd        : running\r\nOpenNMS.Alarmd         : running\r\nOpenNMS.Ackd           : running\r\nOpenNMS.JettyServer    : running\r\n"
+    ],
+    [
+      0.282879,
+      "opennms is running\r\n"
+    ],
+    [
+      0.011716,
+      "\u001b]0;root@localhost:~/opennms-install-1.0\u0007[root@localhost opennms-install-1.0]# "
+    ],
+    [
+      5.057925,
+      "ss"
+    ],
+    [
+      0.102715,
+      " "
+    ],
+    [
+      0.114530,
+      "-"
+    ],
+    [
+      0.133294,
+      "l"
+    ],
+    [
+      0.053785,
+      "n"
+    ],
+    [
+      0.058219,
+      "p"
+    ],
+    [
+      0.144369,
+      "t"
+    ],
+    [
+      0.105133,
+      " "
+    ],
+    [
+      0.334750,
+      "s"
+    ],
+    [
+      0.088258,
+      "p"
+    ],
+    [
+      0.122979,
+      "o"
+    ],
+    [
+      0.059338,
+      "r"
+    ],
+    [
+      0.159243,
+      "t"
+    ],
+    [
+      0.053168,
+      " "
+    ],
+    [
+      0.990345,
+      "="
+    ],
+    [
+      0.110291,
+      " "
+    ],
+    [
+      0.341882,
+      ":"
+    ],
+    [
+      0.067067,
+      "8"
+    ],
+    [
+      0.172579,
+      "9"
+    ],
+    [
+      0.119885,
+      "8"
+    ],
+    [
+      0.163462,
+      "0"
+    ],
+    [
+      0.877660,
+      "\r\n"
+    ],
+    [
+      0.204671,
+      "State      Recv-Q Send-Q                            Local Address:Port                              Peer Address:Port \r\nLISTEN     0      50                                           :::8980                                        :::*      users:((\"java\",14161,812))\r\n\u001b]0;root@localhost:~/opennms-install-1.0\u0007"
+    ],
+    [
+      0.042032,
+      "[root@localhost opennms-install-1.0]# "
+    ]
+  ]
+}
