@@ -1,0 +1,1242 @@
+{
+  "version": 1,
+  "width": 110,
+  "height": 29,
+  "duration": 96.156219,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.256742,
+      "\u001b[0;36m~/Downloads/seabattle-1.0\u001b[01m\u001b[30m$\u001b[0m "
+    ],
+    [
+      0.713427,
+      "."
+    ],
+    [
+      0.178715,
+      "/"
+    ],
+    [
+      0.491119,
+      "s"
+    ],
+    [
+      0.147773,
+      "e"
+    ],
+    [
+      0.239366,
+      "abattle "
+    ],
+    [
+      0.504567,
+      "\r\n"
+    ],
+    [
+      0.017018,
+      "\u001b)0\u001b7\u001b[?47h\u001b[1;29r\u001b[m\u001b[4l\u001b[m\u001b[?1h\u001b="
+    ],
+    [
+      0.000443,
+      "\u001b[m\u001b[37m\u001b[40m\u001b[1;1H                                                                                                              \u001b[2;1H                                                                                                              \u001b[3;1H                                                                                                              \u001b[4;1H                                                                                                              \u001b[5;1H                                                                                                              \u001b[6;1H                                                                                                              \u001b[7;1H                                                                                                              \u001b[8;1H                                                                                                              \u001b[9;1H                                                                             "
+    ],
+    [
+      0.000074,
+      "                                 \u001b[10;1H                                                                                                              \u001b[11;1H                                                                                                              \u001b[12;1H                                                                                                              \u001b[13;1H                                                                                                              \u001b[14;1H                                                                                                              \u001b[15;1H                                                                                                              \u001b[16;1H                                                                                                              \u001b[17;1H                                                                                                              \u001b[18;1H                                                "
+    ],
+    [
+      0.001132,
+      "                                                              \u001b[19;1H                                                                                                              \u001b[20;1H                                                                                                              \u001b[21;1H                                                                                                              \u001b[22;1H                                                                                                              \u001b[23;1H                                                                                                              \u001b[24;1H                                                                                                  "
+    ],
+    [
+      0.000693,
+      "            \u001b[25;1H                                                                                                              \u001b[26;1H                                                                                                              \u001b[27;1H                                                                                                              \u001b[28;1H                                                                                                              \u001b[29;1H                                                                                                             \u0008 \u0008\u001b[4h \u001b[4l\u001b[H\u001b[34m\u001b[40m\u001b[1m.|'''|                    '||'''|,            ||      ||    '||`\r\u001b[1B||                         ||   ||            ||      ||     ||\r\u001b[1B`|'''|, .|''|,  '''|.      ||;;;;    '''|.  ''||''  ''||''   ||  .|''|,\r\u001b[1B .   || ||..|| .|''||      ||   ||  .|''||    ||      ||     ||  ||..||\r\u001b[1B |...|' `|...  `|..||.    .||...|'  `|..||.   `|..'   `|..' .||. `|...\u001b[7;33H\u001b[m\u001b[37m\u001b[40m)_\u001b[8;28H_____|_|___"
+    ],
+    [
+      0.000655,
+      "__+__\u001b[9;28H|   x    x  x   |\u001b[10;12H\\----|------------------------------------------/\u001b[11;13H\\\u001b[11;59H/\r\u001b[1B\u001b[36m\u001b[40m/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\\u001b[14;11H\u001b[31m\u001b[40m\u001b[1mA Game By Vince Weaver - Who cannot draw ASCII ships\u001b[15;12H\u001b[33m\u001b[40mweave@eng.umd.edu   http://www.glue.umd.edu/~weave\u001b[16;19H\u001b[32m\u001b[40mAnother Amazing Project for ENEE114\u001b[m\u001b[m\u001b[37m\u001b[40m\r\u001b[4B\u001b[37m\u001b[40mNo digital sound available.  Press any key to continue.\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.335594,
+      "\u001b[m\u001b[37m\u001b[40m\u001b[H                                                                                                              \u001b[2;1H                                                                                                              \u001b[3;1H                                                                                                              \u001b[4;1H                                                                                                              \u001b[5;1H                                                                                                              \u001b[6;1H                                                                                                              \u001b[7;1H                                                                                                              \u001b[8;1H                                                                                                              \u001b[9;1H                                                                                "
+    ],
+    [
+      0.000077,
+      "                              \u001b[10;1H                                                                                                              \u001b[11;1H                                                                                                              \u001b[12;1H                                                                                                              \u001b[13;1H                                                                                                              \u001b[14;1H                                                                                                              \u001b[15;1H                                                                                                              \u001b[16;1H                                                                                                              \u001b[17;1H                                                                                                              \u001b[18;1H                                                   "
+    ],
+    [
+      0.001351,
+      "                                                           \u001b[19;1H                                                                                                              \u001b[20;1H                                                                                                              \u001b[21;1H                                                                                                              \u001b[22;1H                                                                                                              \u001b[23;1H                                                                                                              \u001b[24;1H                                                                                                     "
+    ],
+    [
+      0.001212,
+      "         \u001b[25;1H                                                                                                              \u001b[26;1H                                                                                                              \u001b[27;1H                                                                                                              \u001b[28;1H                                                                                                              \u001b[29;1H                                                                                                             \u0008 \u0008\u001b[4h \u001b[4l\u001b[H"
+    ],
+    [
+      0.000983,
+      "\u001b[m\u001b[37m\u001b[40m                                                                                                              \u001b[2;1H                                                                                                              \u001b[3;1H                                                                                                              \u001b[4;1H                                                                                                              \u001b[5;1H                                                                                                              \u001b[6;1H                                                                                                              \u001b[7;1H                                                                                                              \u001b[8;1H                                                                                                              \u001b[9;1H                                                                                   "
+    ],
+    [
+      0.001281,
+      "                           \u001b[10;1H                                                                                                              \u001b[11;1H                                                                                                              \u001b[12;1H                                                                                                              \u001b[13;1H                                                                                                              \u001b[14;1H                                                                                                              \u001b[15;1H                                                                                                              \u001b[16;1H                                                                                                              \u001b[17;1H                                                                                                              \u001b[18;1H                                                      "
+    ],
+    [
+      0.001242,
+      "                                                        \u001b[19;1H                                                                                                              \u001b[20;1H                                                                                                              \u001b[21;1H                                                                                                              \u001b[22;1H                                                                                                              \u001b[23;1H                                                                                                              \u001b[24;1H                                                                                                              \u001b[25;1H                                                                                                              \u001b[26;1H                                                                                                              \u001b[27;1H                         "
+    ],
+    [
+      0.000061,
+      "                                                                                     \u001b[28;1H                                                                                                              \u001b[29;1H                                                                                                             \u0008 \u0008\u001b[4h \u001b[4l\u001b[H\n  \u001b[37m\u001b[40m\u001b[1mPlease Enter Some Information (Linked List part of Project)\n\n\u001b[59DFirst Name: \u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.452371,
+      "\u001b[37m\u001b[40mS\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.199064,
+      "\u001b[37m\u001b[40me\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.130933,
+      "\u001b[37m\u001b[40mr\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.087916,
+      "\u001b[37m\u001b[40mg\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.060029,
+      "\u001b[37m\u001b[40me\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.059967,
+      "\u001b[37m\u001b[40my\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.383941,
+      "\r\n"
+    ],
+    [
+      0.000094,
+      "  \u001b[37m\u001b[40m\u001b[1mLast Name: \u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.385026,
+      "\u001b[37m\u001b[40mB\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.177121,
+      "\u001b[37m\u001b[40mr\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.079883,
+      "\u001b[37m\u001b[40mo\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.184978,
+      "\u001b[37m\u001b[40mn\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.114995,
+      "\u001b[37m\u001b[40mn\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.205713,
+      "\u001b[37m\u001b[40mi\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.156216,
+      "\u001b[37m\u001b[40mk\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.051983,
+      "\u001b[37m\u001b[40mo\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.123129,
+      "\u001b[37m\u001b[40mv\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.417898,
+      "\r\n"
+    ],
+    [
+      0.000137,
+      "\n  \u001b[37m\u001b[40m\u001b[1mNew Player! Please enter the following info (or leave blank)\n\n\u001b[60DStreet Address: \u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.706942,
+      "\r\n"
+    ],
+    [
+      0.000105,
+      "  \u001b[37m\u001b[40m\u001b[1mCity/State/Zip: \u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.399478,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "  \u001b[37m\u001b[40m\u001b[1mPhone Number: \u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.357109,
+      "\r\n"
+    ],
+    [
+      0.000079,
+      "\u001b[4B  \u001b[37m\u001b[40m\u001b[1mIs the above correct?\u001b[C\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.250076,
+      "\u001b[37m\u001b[40my\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000871,
+      "\u001b[m\u001b[37m\u001b[40m\u001b[H                                                                                                              \u001b[2;1H                                                                                                              \u001b[3;1H                                                                                                              \u001b[4;1H                                                                                                              \u001b[5;1H                                                                                                              \u001b[6;1H                                                                                                              \u001b[7;1H                                                                                                              \u001b[8;1H                                                                                                              \u001b[9;1H                                                                                "
+    ],
+    [
+      0.000049,
+      "                              \u001b[10;1H                                                                                                              \u001b[11;1H                                                                                                              \u001b[12;1H                                                                                                              \u001b[13;1H                                                                                                              \u001b[14;1H                                                                                                              \u001b[15;1H                                                                                                              \u001b[16;1H                                                                                                              \u001b[17;1H                                                                                                              \u001b[18;1H                                                   "
+    ],
+    [
+      0.001248,
+      "                                                           \u001b[19;1H                                                                                                              \u001b[20;1H                                                                                                              \u001b[21;1H                                                                                                              \u001b[22;1H                                                                                                              \u001b[23;1H                                                                                                              \u001b[24;1H                                                                                                     "
+    ],
+    [
+      0.000984,
+      "         \u001b[25;1H                                                                                                              \u001b[26;1H                                                                                                              \u001b[27;1H                                                                                                              \u001b[28;1H                                                                                                              \u001b[29;1H                                                                                                             \u0008 \u0008\u001b[4h \u001b[4l\u001b[H\u001b[3;6H\u001b[31m\u001b[40m\u001b[1mSeaBattle Menu\u001b[4;7H\u001b[34m\u001b[40m1\u001b[m\u001b[34m\u001b[40m. Play Normal Game vs Computer\u001b[5;7H\u001b[1m2\u001b[m\u001b[34m\u001b[40m. Play vs. Remote Human [NOT AVAILABLE]\u001b[6;7H\u001b[1m3\u001b[m\u001b[34m\u001b[40m. View High Score List\u001b[7;7H\u001b[1m4\u001b[m\u001b[34m\u001b[40m. Re-enter User Info\u001b[8;7H\u001b[1m5\u001b[m\u001b[34m\u001b[40m. Options [Non-functional]\u001b[9;7H\u001b[1m6\u001b[m\u001b[34m\u001b[40m. Help [Non-functional]\u001b[10;7H\u001b[1m7\u001b[m\u001b[34m\u001b[40m. Quit\u001b[11;6H\u001b[31m\u001b[40m\u001b[1m----\u003e\u001b[C\u001b[m\u001b[m\u001b[37m\u001b"
+    ],
+    [
+      0.000013,
+      "[40m"
+    ],
+    [
+      4.491874,
+      "\u001b[m\u001b[37m\u001b[40m\u001b[H                                                                                                              \u001b[2;1H                                                                                                              \u001b[3;1H                                                                                                              \u001b[4;1H                                                                                                              \u001b[5;1H                                                                                                              \u001b[6;1H                                                                                                              \u001b[7;1H                                                                                                              \u001b[8;1H                                                                                                              \u001b[9;1H                                                                                "
+    ],
+    [
+      0.000069,
+      "                              \u001b[10;1H                                                                                                              \u001b[11;1H                                                                                                              \u001b[12;1H                                                                                                              \u001b[13;1H                                                                                                              \u001b[14;1H                                                                                                              \u001b[15;1H                                                                                                              \u001b[16;1H                                                                                                              \u001b[17;1H                                                                                                              \u001b[18;1H                                                   "
+    ],
+    [
+      0.001307,
+      "                                                           \u001b[19;1H                                                                                                              \u001b[20;1H                                                                                                              \u001b[21;1H                                                                                                              \u001b[22;1H                                                                                                              \u001b[23;1H                                                                                                              \u001b[24;1H                                                                                                     "
+    ],
+    [
+      0.001137,
+      "         \u001b[25;1H                                                                                                              \u001b[26;1H                                                                                                              \u001b[27;1H                                                                                                              \u001b[28;1H                                                                                                              \u001b[29;1H                                                                                                             \u0008 \u0008\u001b[4h \u001b[4l\u001b[H\u001b[2;33H\u001b[31m\u001b[40m\u001b[1mPlace Your Ships\u001b[3;2H\u001b[m\u001b[37m\u001b[40mPick the number corresponding to the type of ship you want to place.\u001b[4;2HThen you may either type the coordinate [e.g. A1] or use the arrow keys to pick\u001b[5;2Hthe starting block of the ship.  Then Press Spacebar.  Then pick the direction\u001b[6;2Hto put the ship [using NESW or the arrows].  Then type 'Q' to continue.\u001b[8;6H\u001b[32m\u001b[40m\u001b[1mChoose a ship:\u001b[8;31H\u001b[37m"
+    ],
+    [
+      0.001129,
+      "\u001b[40m  1 2 3 4 5 6 7 8\u001b[8;61H\u001b[36m\u001b[40m   N\u001b[9;6H\u001b[32m\u001b[40m1. Submarine\u001b[9;31H\u001b[37m\u001b[40mA                \u001b[9;61H\u001b[36m\u001b[40m   |\u001b[10;6H\u001b[32m\u001b[40m2. Battleship\u001b[10;31H\u001b[37m\u001b[40mB                \u001b[10;61H\u001b[36m\u001b[40mW\u003c-+-\u003eE\u001b[11;6H\u001b[32m\u001b[40m3. Aircraft Carrier\u001b[6C\u001b[37m\u001b[40mC                \u001b[11;61H\u001b[36m\u001b[40m   | \u001b[12;6H\u001b[32m\u001b[40mQ. Continues with game\u001b[m\u001b[m\u001b[37m\u001b[40m   \u001b[37m\u001b[40m\u001b[1mD                \u001b[12;61H\u001b[36m\u001b[40m   S\u001b[13;6H\u001b[32m\u001b[40mX. Quits game entirely\u001b[m\u001b[m\u001b[37m\u001b[40m   \u001b[37m\u001b[40m\u001b[1mE                \u001b[14;6H\u001b[32m\u001b[40m---\u003e\u001b[14;31H\u001b[37m\u001b[40mF                \u001b[15;31HG                \u001b[16;31HH                \u001b[14;10H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      2.221283,
+      "\u001b[8;6H\u001b[37m\u001b[40m\u001b[1m                      \u001b[9;6H                      \u001b[10;6H                      \u001b[11;6H                     \u001b[12;6H                      \u001b[13;6H                      \u001b[14;6H                      \u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000061,
+      "\u001b[8;6H\u001b[37m\u001b[40m\u001b[1mNow Placing:\u001b[9;7HSubmarine\u001b[10;6HPress Space when done\u001b[9;32H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.315944,
+      "\u001b[2C\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000012,
+      "\u0008\u0008"
+    ],
+    [
+      0.309945,
+      "\u001b[37m\u001b[40m\u001b[1m  \u001b[31m\u001b[40m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000025,
+      "\u0008\u0008"
+    ],
+    [
+      0.536897,
+      "\u001b[2C"
+    ],
+    [
+      0.000186,
+      "\u001b[8;6H\u001b[31m\u001b[40m\u001b[1m                      \u001b[9;6H                      \u001b[10;6H                      \u001b[11;6H                     \u001b[12;6H                      \u001b[13;6H                      \u001b[14;6H                      \u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000091,
+      "\u001b[8;6H\u001b[31m\u001b[40m\u001b[1mNow Pick N,S,E, or W\u001b[9;6HOr press an arrow key\u001b[8;6H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.393762,
+      "\u001b[31m\u001b[40m\u001b[1m                    \u001b[9;6H                     \u001b[5B \u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000198,
+      "\u001b[8;6H\u001b[32m\u001b[40m\u001b[1mChoose a ship:\u001b[9;6H1. Submarine\u001b[9;36H\u001b[m\u001b[37m\u001b[40mSS          \u001b[10;6H\u001b[32m\u001b[40m\u001b[1m2. Battleship\u001b[10;36H\u001b[m\u001b[37m\u001b[40mSS          \u001b[11;6H\u001b[32m\u001b[40m\u001b[1m3. Aircraft Carrier\u001b[11;36H\u001b[m\u001b[37m\u001b[40mSS          \u001b[12;6H\u001b[32m\u001b[40m\u001b[1mQ. Continues with game\u001b[13;6HX. Quits game entirely\u001b[14;6H---\u003e\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.413789,
+      "\u001b[8;6H\u001b[32m\u001b[40m\u001b[1m                      \u001b[9;6H                      \u001b[10;6H                      \u001b[11;6H                     \u001b[12;6H                      \u001b[13;6H                      \u001b[14;6H                      \u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000109,
+      "\u001b[8;6H\u001b[32m\u001b[40m\u001b[1mNow Placing:\u001b[9;7HBattleship\u001b[10;6HPress Space when done\u001b[9;32H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.487784,
+      "\u001b[2C\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000009,
+      "\u0008\u0008"
+    ],
+    [
+      0.176882,
+      "\u001b[37m\u001b[40m\u001b[1m  \u001b[31m\u001b[40m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000011,
+      "\u0008\u0008"
+    ],
+    [
+      0.163188,
+      "\u001b[37m\u001b[40mSS\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000022,
+      "\u0008\u0008"
+    ],
+    [
+      0.160962,
+      "\u001b[37m\u001b[40m  \u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000021,
+      "\u0008\u0008"
+    ],
+    [
+      0.174966,
+      "\u001b[37m\u001b[40m  \u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000010,
+      "\u0008\u0008"
+    ],
+    [
+      0.365998,
+      "\u0008\u0008\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[37m\u001b[40m  \u0008\u0008\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000011,
+      "\u0008\u0008"
+    ],
+    [
+      0.350116,
+      "\u001b[37m\u001b[40m  \u001b[1B\u0008\u0008\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000010,
+      "\u0008\u0008"
+    ],
+    [
+      0.166760,
+      "\u001b[37m\u001b[40m  \u001b[1B\u0008\u0008\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000011,
+      "\u0008\u0008"
+    ],
+    [
+      0.172181,
+      "\u001b[37m\u001b[40m  \u001b[1B\u0008\u0008\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000031,
+      "\u0008\u0008"
+    ],
+    [
+      0.225911,
+      "\u001b[37m\u001b[40m\u001b[1m  \u001b[1B\u0008\u0008\u001b[31m\u001b[40m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000021,
+      "\u0008\u0008"
+    ],
+    [
+      0.226922,
+      "\u0008\u0008\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[37m\u001b[40m  \u0008\u0008\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000009,
+      "\u0008\u0008"
+    ],
+    [
+      0.324836,
+      "\u0008\u0008\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[37m\u001b[40m  \u0008\u0008\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000020,
+      "\u0008\u0008"
+    ],
+    [
+      0.134938,
+      "\u001b[37m\u001b[40m\u001b[1m  \u001b[1B\u0008\u0008\u001b[31m\u001b[40m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000008,
+      "\u0008\u0008"
+    ],
+    [
+      0.112130,
+      "\u0008\u0008\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[37m\u001b[40m  \u0008\u0008\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000010,
+      "\u0008\u0008"
+    ],
+    [
+      0.378053,
+      "\u0008\u0008\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[37m\u001b[40m  \u0008\u0008\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000010,
+      "\u0008\u0008"
+    ],
+    [
+      2.589937,
+      "\u001b[2C"
+    ],
+    [
+      0.000175,
+      "\u001b[8;6H\u001b[31m\u001b[40m\u001b[1m                      \u001b[9;6H                      \u001b[10;6H                      \u001b[11;6H                     \u001b[12;6H                      \u001b[13;6H                      \u001b[14;6H                      \u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000082,
+      "\u001b[8;6H\u001b[31m\u001b[40m\u001b[1mNow Pick N,S,E, or W\u001b[9;6HOr press an arrow key\u001b[8;6H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      3.157687,
+      "\u001b[31m\u001b[40m\u001b[1m                    \u001b[9;6H                     \u001b[5B \u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000196,
+      "\u001b[8;6H\u001b[32m\u001b[40m\u001b[1mChoose a ship:\u001b[9;6H1. Submarine\u001b[10;6H2. Battleship\u001b[11;6H3. Aircraft Carrier\u001b[7C\u001b[m\u001b[37m\u001b[40mBB  \u001b[12;6H\u001b[32m\u001b[40m\u001b[1mQ. Continues with game\u001b[m\u001b[m\u001b[37m\u001b[40m   \u001b[37m\u001b[40m\u001b[1mD\u001b[m\u001b[37m\u001b[40mBB              \u001b[13;6H\u001b[32m\u001b[40m\u001b[1mX. Quits game entirely\u001b[m\u001b[m\u001b[37m\u001b[40m   \u001b[37m\u001b[40m\u001b[1mE\u001b[m\u001b[37m\u001b[40mBB              \u001b[14;6H\u001b[32m\u001b[40m\u001b[1m---\u003e\u001b[14;32H\u001b[m\u001b[37m\u001b[40mBB              \u001b[14;10H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      2.045924,
+      "\u001b[8;6H\u001b[32m\u001b[40m\u001b[1m                      \u001b[9;6H                      \u001b[10;6H                      \u001b[11;6H                     \u001b[12;6H                      \u001b[13;6H                      \u001b[14;6H                      \u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000083,
+      "\u001b[8;6H\u001b[32m\u001b[40m\u001b[1mNow Placing:\u001b[9;7HAircraft Carrier\u001b[10;6HPress Space when done\u001b[9;32H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.360893,
+      "\u001b[2C\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m\u0008\u0008"
+    ],
+    [
+      0.179643,
+      "\u001b[37m\u001b[40m\u001b[1m  \u001b[31m\u001b[40m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000036,
+      "\u0008\u0008"
+    ],
+    [
+      0.147944,
+      "\u001b[37m\u001b[40mSS\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000011,
+      "\u0008\u0008"
+    ],
+    [
+      0.163282,
+      "\u001b[37m\u001b[40m  \u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000046,
+      "\u0008\u0008"
+    ],
+    [
+      0.171124,
+      "\u001b[37m\u001b[40m  \u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000012,
+      "\u0008\u0008"
+    ],
+    [
+      0.716554,
+      "\u001b[2C"
+    ],
+    [
+      0.000201,
+      "\u001b[8;6H\u001b[31m\u001b[40m\u001b[1m                      \u001b[9;6H                      \u001b[10;6H                      \u001b[11;6H                     \u001b[12;6H                      \u001b[13;6H                      \u001b[14;6H                      \u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000102,
+      "\u001b[8;6H\u001b[31m\u001b[40m\u001b[1mNow Pick N,S,E, or W\u001b[9;6HOr press an arrow key\u001b[8;6H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.922815,
+      "\u001b[31m\u001b[40m\u001b[1m                    \u001b[9;6H                     \u001b[5B \u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000248,
+      "\u001b[8;6H\u001b[32m\u001b[40m\u001b[1mChoose a ship:\u001b[9;6H1. Submarine\u001b[9;42H\u001b[m\u001b[37m\u001b[40mAA\u001b[10;6H\u001b[32m\u001b[40m\u001b[1m2. Battleship\u001b[10;42H\u001b[m\u001b[37m\u001b[40mAA\u001b[11;6H\u001b[32m\u001b[40m\u001b[1m3. Aircraft Carrier\u001b[11;42H\u001b[m\u001b[37m\u001b[40mAA\u001b[12;6H\u001b[32m\u001b[40m\u001b[1mQ. Continues with game\u001b[12;42H\u001b[m\u001b[37m\u001b[40mAA\u001b[13;6H\u001b[32m\u001b[40m\u001b[1mX. Quits game entirely\u001b[13;42H\u001b[m\u001b[37m\u001b[40mAA\u001b[14;6H\u001b[32m\u001b[40m\u001b[1m---\u003e\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      3.836167,
+      "\u001b[m\u001b[37m\u001b[40m\u001b[H                                                                                                              \u001b[2;1H                                                                                                              \u001b[3;1H                                                                                                              \u001b[4;1H                                                                                                              \u001b[5;1H                                                                                                              \u001b[6;1H                                                                                                              \u001b[7;1H                                                                                                              \u001b[8;1H                                                                                                              \u001b[9;1H                                                                                "
+    ],
+    [
+      0.000060,
+      "                              \u001b[10;1H                                                                                                              \u001b[11;1H                                                                                                              \u001b[12;1H                                                                                                              \u001b[13;1H                                                                                                              \u001b[14;1H                                                                                                              \u001b[15;1H                                                                                                              \u001b[16;1H                                                                                                              \u001b[17;1H                                                                                                              \u001b[18;1H                                                   "
+    ],
+    [
+      0.001034,
+      "                                                           \u001b[19;1H                                                                                                              \u001b[20;1H                                                                                                              \u001b[21;1H                                                                                                              \u001b[22;1H                                                                                                              \u001b[23;1H                                                                                                              \u001b[24;1H                                                                                                     "
+    ],
+    [
+      0.000790,
+      "         \u001b[25;1H                                                                                                              \u001b[26;1H                                                                                                              \u001b[27;1H                                                                                                              \u001b[28;1H                                                                                                              \u001b[29;1H                                                                                                             \u0008 \u0008\u001b[4h \u001b[4l\u001b[H\u001b[3;32H\u001b[34m\u001b[40m\u001b[1mS E A B A T T L E\u001b[6;6H\u001b[37m\u001b[40m  1 2 3 4 5 6 7 8\u001b[6;33H\u001b[34m\u001b[40mS\u001b[m\u001b[34m\u001b[40mound ON \u001b[6;56H\u001b[37m\u001b[40m\u001b[1m  1 2 3 4 5 6 7 8\u001b[7;6HA    \u001b[m\u001b[37m\u001b[40mSS    AA\u001b[7;33H\u001b[34m\u001b[40m\u001b[1mM\u001b[m\u001b[34m\u001b[40mode Speaker\u001b[7;56H\u001b[37m\u001b[40m\u001b[1mA                \u001b[8;6HB    \u001b[m\u001b[37m\u001b[40mSS    AA\u001b[8;33H\u001b[34m\u001b[40m\u001b[1mR\u001b[m\u001b[34m\u001b[40medraw screen\u001b[8;56H\u001b[37m\u001b[40m\u001b[1mB    \u001b[9;6HC\u001b[m\u001b[37m\u001b[40mBB  SS    AA\u001b[9;33H\u001b[34m\u001b[4"
+    ],
+    [
+      0.000821,
+      "0m\u001b[1mH\u001b[m\u001b[34m\u001b[40melp\u001b[9;56H\u001b[37m\u001b[40m\u001b[1mC    \u001b[10;6HD\u001b[m\u001b[37m\u001b[40mBB\u001b[10;17HAA\u001b[10;33H\u001b[34m\u001b[40m\u001b[1mQ\u001b[m\u001b[34m\u001b[40muit to menu\u001b[10;56H\u001b[37m\u001b[40m\u001b[1mD    \u001b[11;6HE\u001b[m\u001b[37m\u001b[40mBB\u001b[11;17HAA\u001b[11;33H\u001b[34m\u001b[40me\u001b[1mX\u001b[m\u001b[34m\u001b[40mit completely\u001b[11;56H\u001b[37m\u001b[40m\u001b[1mE\u001b[12;6HF\u001b[m\u001b[37m\u001b[40mBB\u001b[12;56H\u001b[1mF\u001b[13;6HG                \u001b[13;56HG\u001b[14;6HH                \u001b[14;37H\u001b[32m\u001b[40mTURN\u001b[14;56H\u001b[37m\u001b[40mH                \u001b[15;12H\u001b[31m\u001b[40mSergey\u001b[15;37H\u003c\u001b[m\u001b[32m\u001b[40m---\u001b[15;61H\u001b[31m\u001b[40m\u001b[1mComputer\u001b[17;38H\u001b[32m\u001b[40m1\u001b[23;4H\u001b[m\u001b[32m\u001b[40mUse The Arrows or Enter Coordinates to aim.  Then Hit Spacebar to Fire\u001b[7;57H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      3.093070,
+      "\u001b[2C\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000042,
+      "\u0008\u0008"
+    ],
+    [
+      1.028895,
+      "\u001b[37m\u001b[40m\u001b[1m  \u001b[31m\u001b[40m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000050,
+      "\u0008\u0008"
+    ],
+    [
+      0.462972,
+      "\u001b[37m\u001b[40m\u001b[1m  \u001b[1B\u0008\u0008\u001b[31m\u001b[40m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000012,
+      "\u0008\u0008"
+    ],
+    [
+      0.387613,
+      "\u001b[2C"
+    ],
+    [
+      0.000012,
+      "\u0007"
+    ],
+    [
+      0.000281,
+      "\u001b[7;19H\u001b[36m\u001b[40m',  \u001b[8;61H\u001b[31m\u001b[40m\u001b[1m**          \u001b[17;38H\u001b[32m\u001b[40m2\u001b[18;6H\u001b[36m\u001b[40mMISS                         \u001b[18;46H\u001b[31m\u001b[40m          HIT                  \u001b[8;61H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.497164,
+      "\u001b[1B\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000010,
+      "\u0008\u0008"
+    ],
+    [
+      0.289925,
+      "\u001b[37m\u001b[40m  \u001b[1B\u0008\u0008\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000035,
+      "\u0008\u0008"
+    ],
+    [
+      0.388926,
+      "\u001b[37m\u001b[40m  \u001b[1B\u0008\u0008\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000022,
+      "\u0008\u0008"
+    ],
+    [
+      0.220013,
+      "\u001b[37m\u001b[40m  \u001b[1B\u0008\u0008\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000028,
+      "\u0008\u0008"
+    ],
+    [
+      0.713931,
+      "\u001b[2C"
+    ],
+    [
+      0.000140,
+      "\u001b[12;11H\u001b[36m\u001b[40m',          \u001b[12;61H',    \u001b[17;38H\u001b[32m\u001b[40m\u001b[1m3\u001b[18;46H\u001b[36m\u001b[40m          MISS                 \u001b[12;61H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.877813,
+      "\u001b[2C\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000026,
+      "\u0008\u0008"
+    ],
+    [
+      0.206001,
+      "\u001b[36m\u001b[40m  \u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000012,
+      "\u0008\u0008"
+    ],
+    [
+      0.642984,
+      "\u001b[A\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[1B\u0008\u0008\u001b[m\u001b[36m\u001b[40m  \u001b[A\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000012,
+      "\u0008\u0008"
+    ],
+    [
+      0.222897,
+      "\u001b[A\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[1B\u0008\u0008\u001b[m\u001b[37m\u001b[40m  \u001b[A\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000012,
+      "\u0008\u0008"
+    ],
+    [
+      1.803086,
+      "\u001b[A\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[1B\u0008\u0008\u001b[m\u001b[37m\u001b[40m  \u001b[A\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000039,
+      "\u0008\u0008"
+    ],
+    [
+      0.409926,
+      "\u0008\u0008\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[37m\u001b[40m  \u0008\u0008\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000023,
+      "\u0008\u0008"
+    ],
+    [
+      0.413044,
+      "\u0008\u0008\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[37m\u001b[40m  \u0008\u0008\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000011,
+      "\u0008\u0008"
+    ],
+    [
+      1.526003,
+      "\u001b[2C"
+    ],
+    [
+      0.000014,
+      "\u0007"
+    ],
+    [
+      0.000196,
+      "\u001b[7;21H\u001b[36m\u001b[40m',\u001b[9;61H\u001b[31m\u001b[40m\u001b[1m**    \u001b[17;38H\u001b[32m\u001b[40m4\u001b[18;46H\u001b[31m\u001b[40m          HIT                  \u001b[9;61H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.926649,
+      "\u001b[2C\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000028,
+      "\u0008\u0008"
+    ],
+    [
+      0.852998,
+      "\u001b[A\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[1B\u0008\u0008  \u001b[A\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000013,
+      "\u0008\u0008"
+    ],
+    [
+      0.202021,
+      "\u001b[A\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[1B\u0008\u0008  \u001b[A\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000011,
+      "\u0008\u0008"
+    ],
+    [
+      0.160999,
+      "\u0008\u0008\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[37m\u001b[40m  \u0008\u0008\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000013,
+      "\u0008\u0008"
+    ],
+    [
+      1.014053,
+      "\u001b[2C"
+    ],
+    [
+      0.000216,
+      "\u0008\u0008\u001b[36m\u001b[40m',          \u001b[14;15H',      \u001b[17;38H\u001b[32m\u001b[40m\u001b[1m5\u001b[18;46H\u001b[36m\u001b[40m          MISS                 \u001b[7;61H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.709685,
+      "\u001b[1B\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000034,
+      "\u0008\u0008"
+    ],
+    [
+      0.163005,
+      "\u001b[31m\u001b[40m\u001b[1m**\u001b[1B\u0008\u0008\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000011,
+      "\u0008\u0008"
+    ],
+    [
+      0.200961,
+      "\u001b[31m\u001b[40m\u001b[1m**\u001b[1B\u0008\u0008\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000009,
+      "\u0008\u0008"
+    ],
+    [
+      1.746124,
+      "\u001b[2C"
+    ],
+    [
+      0.000011,
+      "\u0007"
+    ],
+    [
+      0.000208,
+      "\u001b[10;9H\u001b[36m\u001b[40m',      \u001b[10;61H\u001b[31m\u001b[40m\u001b[1m**    \u001b[17;38H\u001b[32m\u001b[40m6\u001b[18;46H\u001b[31m\u001b[40m          HIT                  \u001b[10;61H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.938636,
+      "\u001b[1B\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000023,
+      "\u0008\u0008"
+    ],
+    [
+      1.844001,
+      "\u001b[2C"
+    ],
+    [
+      0.000022,
+      "\u0007\u0007"
+    ],
+    [
+      0.000207,
+      "\u0008\u0008\u001b[31m\u001b[40m\u001b[1m**    \u001b[13;11H\u001b[m\u001b[36m\u001b[40m',          \u001b[17;38H\u001b[32m\u001b[40m\u001b[1m7\u001b[18;46HYou Sank My Battleship!        \u001b[11;61H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.843549,
+      "\u001b[2C\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000023,
+      "\u0008\u0008"
+    ],
+    [
+      0.267145,
+      "\u001b[31m\u001b[40m\u001b[1m  \u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000013,
+      "\u0008\u0008"
+    ],
+    [
+      0.295924,
+      "\u001b[A\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[1B\u0008\u0008  \u001b[A\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000020,
+      "\u0008\u0008"
+    ],
+    [
+      0.266027,
+      "\u001b[A\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[1B\u0008\u0008  \u001b[A\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000014,
+      "\u0008\u0008"
+    ],
+    [
+      1.061921,
+      "\u001b[31m\u001b[40m\u001b[1m  \u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000026,
+      "\u0008\u0008"
+    ],
+    [
+      0.461018,
+      "\u001b[2C"
+    ],
+    [
+      0.000008,
+      "\u0007"
+    ],
+    [
+      0.000068,
+      "\u0007"
+    ],
+    [
+      0.000217,
+      "\u0008\u0008\u001b[31m\u001b[40m\u001b[1m**    \u001b[11;7H**        \u001b[17;38H\u001b[32m\u001b[40m8\u001b[18;6H\u001b[31m\u001b[40mHIT                          \u001b[18;46H          HIT                  \u001b[9;67H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.602597,
+      "\u001b[1B\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000045,
+      "\u0008\u0008"
+    ],
+    [
+      0.960184,
+      "\u001b[2C\u0007"
+    ],
+    [
+      0.000046,
+      "\u0007"
+    ],
+    [
+      0.000161,
+      "\u001b[62D\u001b[31m\u001b[40m\u001b[1m**\u001b[10;67H**    \u001b[17;38H\u001b[32m\u001b[40m9\u001b[10;67H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.414520,
+      "\u001b[1B\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000024,
+      "\u0008\u0008"
+    ],
+    [
+      0.468183,
+      "\u001b[2C"
+    ],
+    [
+      0.000010,
+      "\u0007"
+    ],
+    [
+      0.000032,
+      "\u0007"
+    ],
+    [
+      0.000120,
+      "\u001b[9;7H\u001b[31m\u001b[40m\u001b[1m**  \u001b[11;67H**    \u001b[17;38H\u001b[32m\u001b[40m10\u001b[11;67H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.395708,
+      "\u001b[1B\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000012,
+      "\u0008\u0008"
+    ],
+    [
+      0.660160,
+      "\u001b[2C"
+    ],
+    [
+      0.000009,
+      "\u0007"
+    ],
+    [
+      0.000188,
+      "\u001b[8;7H\u001b[36m\u001b[40m',  \u001b[12;67H\u001b[31m\u001b[40m\u001b[1m**    \u001b[17;39H\u001b[32m\u001b[40m1\u001b[18;6H\u001b[36m\u001b[40mMISS                         \u001b[12;67H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.678513,
+      "\u001b[1B\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000030,
+      "\u0008\u0008"
+    ],
+    [
+      0.906092,
+      "\u001b[2C"
+    ],
+    [
+      0.000009,
+      "\u0007\u0007"
+    ],
+    [
+      0.000070,
+      "\u0007\u0007"
+    ],
+    [
+      0.000148,
+      "\u001b[12;7H\u001b[31m\u001b[40m\u001b[1m**  \u001b[13;67H**    \u001b[17;39H\u001b[32m\u001b[40m2\u001b[18;6HI Sank Your Battleship!      \u001b[18;46HYou Sank My Aircraft Carrier!  \u001b[13;67H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.934772,
+      "\u001b[A\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000009,
+      "\u0008\u0008"
+    ],
+    [
+      0.198912,
+      "\u001b[A\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[1B\u0008\u0008**\u001b[A\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000024,
+      "\u0008\u0008"
+    ],
+    [
+      0.193061,
+      "\u001b[A\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[1B\u0008\u0008**\u001b[A\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000020,
+      "\u0008\u0008"
+    ],
+    [
+      0.194066,
+      "\u001b[A\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[1B\u0008\u0008**\u001b[A\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000028,
+      "\u0008\u0008"
+    ],
+    [
+      0.201839,
+      "\u001b[31m\u001b[40m\u001b[1m**\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000078,
+      "\u0008\u0008"
+    ],
+    [
+      0.173651,
+      "\u001b[31m\u001b[40m\u001b[1m  \u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000024,
+      "\u0008\u0008"
+    ],
+    [
+      0.738214,
+      "\u001b[31m\u001b[40m\u001b[1m  \u001b[1B\u0008\u0008\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000009,
+      "\u0008\u0008"
+    ],
+    [
+      0.152063,
+      "\u0008\u0008\u001b[31m\u001b[40m\u001b[1m\u0026\u0026  \u0008\u0008\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000011,
+      "\u0008\u0008"
+    ],
+    [
+      0.500264,
+      "\u0008\u0008\u001b[31m\u001b[40m\u001b[1m\u0026\u0026  \u0008\u0008\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000023,
+      "\u0008\u0008"
+    ],
+    [
+      0.083710,
+      "\u0008\u0008\u001b[31m\u001b[40m\u001b[1m\u0026\u0026**\u0008\u0008\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000021,
+      "\u0008\u0008"
+    ],
+    [
+      0.084343,
+      "\u0008\u0008\u001b[31m\u001b[40m\u001b[1m\u0026\u0026  \u0008\u0008\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000074,
+      "\u0008\u0008"
+    ],
+    [
+      0.084361,
+      "\u0008\u0008\u001b[31m\u001b[40m\u001b[1m\u0026\u0026  \u0008\u0008\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000014,
+      "\u0008\u0008"
+    ],
+    [
+      0.084606,
+      "\u0008\u0008\u001b[31m\u001b[40m\u001b[1m\u0026\u0026**\u0008\u0008\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000021,
+      "\u0008\u0008"
+    ],
+    [
+      0.082534,
+      "\u001b[37m\u001b[40m\u001b[1m  \u001b[1B\u0008\u0008\u001b[31m\u001b[40m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000023,
+      "\u0008\u0008"
+    ],
+    [
+      0.236940,
+      "\u001b[37m\u001b[40m  \u001b[1B\u0008\u0008\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000010,
+      "\u0008\u0008"
+    ],
+    [
+      0.182968,
+      "\u001b[37m\u001b[40m  \u001b[1B\u0008\u0008\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000011,
+      "\u0008\u0008"
+    ],
+    [
+      0.281900,
+      "\u0008\u0008\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[37m\u001b[40m  \u0008\u0008\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000017,
+      "\u0008\u0008"
+    ],
+    [
+      0.522188,
+      "\u001b[2C"
+    ],
+    [
+      0.000055,
+      "\u0007"
+    ],
+    [
+      0.000216,
+      "\u001b[9;21H\u001b[36m\u001b[40m',\u001b[13;57H\u001b[31m\u001b[40m\u001b[1m**        \u001b[17;39H\u001b[32m\u001b[40m3\u001b[18;6H\u001b[36m\u001b[40mMISS                         \u001b[18;46H\u001b[31m\u001b[40m          HIT                  \u001b[13;57H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.813270,
+      "\u001b[2C\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m\u0008\u0008"
+    ],
+    [
+      0.417438,
+      "\u001b[2C"
+    ],
+    [
+      0.000199,
+      "\u001b[12;21H\u001b[36m\u001b[40m',\u001b[13;59H',      \u001b[17;39H\u001b[32m\u001b[40m\u001b[1m4\u001b[18;46H\u001b[36m\u001b[40m          MISS                 \u001b[13;59H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.736355,
+      "\u001b[1B\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000071,
+      "\u0008\u0008"
+    ],
+    [
+      0.241430,
+      "\u0008\u0008\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[37m\u001b[40m  \u0008\u0008\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000013,
+      "\u0008\u0008"
+    ],
+    [
+      0.448844,
+      "\u001b[2C"
+    ],
+    [
+      0.000156,
+      "\u001b[10;15H\u001b[36m\u001b[40m',\u001b[14;57H',              \u001b[17;39H\u001b[32m\u001b[40m\u001b[1m5\u001b[14;57H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.583833,
+      "\u001b[A\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000013,
+      "\u0008\u0008"
+    ],
+    [
+      0.209051,
+      "\u001b[A\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[1B\u0008\u0008**\u001b[A\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000012,
+      "\u0008\u0008"
+    ],
+    [
+      0.340730,
+      "\u001b[2C"
+    ],
+    [
+      0.000010,
+      "\u0007"
+    ],
+    [
+      0.000172,
+      "\u001b[8;21H\u001b[36m\u001b[40m',\u001b[12;57H\u001b[31m\u001b[40m\u001b[1m**  \u001b[17;39H\u001b[32m\u001b[40m6\u001b[18;46H\u001b[31m\u001b[40m          HIT                  \u001b[12;57H\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.548943,
+      "\u001b[A\u001b[31m\u001b[40m\u001b[1m\u0026\u0026\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000023,
+      "\u0008\u0008"
+    ],
+    [
+      0.467362,
+      "\u001b[2C"
+    ],
+    [
+      0.000005,
+      "\u0007\u0007"
+    ],
+    [
+      0.000070,
+      "\u0008\u0008\u001b[31m\u001b[40m\u001b[1m**  \u001b[18;46HYOU WON! PRESS A KEY TO CONTINUE\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      2.088975,
+      "\u001b[m\u001b[37m\u001b[40m\u001b[H                                                                                                              \u001b[2;1H                                                                                                              \u001b[3;1H                                                                                                              \u001b[4;1H                                                                                                              \u001b[5;1H                                                                                                              \u001b[6;1H                                                                                                              \u001b[7;1H                                                                                                              \u001b[8;1H                                                                                                              \u001b[9;1H                                                                                "
+    ],
+    [
+      0.000053,
+      "                              \u001b[10;1H                                                                                                              \u001b[11;1H                                                                                                              \u001b[12;1H                                                                                                              \u001b[13;1H                                                                                                              \u001b[14;1H                                                                                                              \u001b[15;1H                                                                                                              \u001b[16;1H                                                                                                              \u001b[17;1H                                                                                                              \u001b[18;1H                                                   "
+    ],
+    [
+      0.001318,
+      "                                                           \u001b[19;1H                                                                                                              \u001b[20;1H                                                                                                              \u001b[21;1H                                                                                                              \u001b[22;1H                                                                                                              \u001b[23;1H                                                                                                              \u001b[24;1H                                                                                                     "
+    ],
+    [
+      0.001436,
+      "         \u001b[25;1H                                                                                                              \u001b[26;1H                                                                                                              \u001b[27;1H                                                                                                              \u001b[28;1H                                                                                                              \u001b[29;1H                                                                                                             \u0008 \u0008\u001b[4h \u001b[4l\u001b[H\u001b[2B  \u001b[34m\u001b[40m\u001b[1m '||' '|'  ..|''||   '||'  '|'    '|| '||'  '|' '||' '|.   '|'   \u001b[4;3H   || |   .|'    ||   ||    |      '|. '|.  .'   ||   |'|   |    \u001b[5;3H    ||    ||      ||  ||    |       ||  ||  |    ||   | '|. |    \u001b[6;3H    ||    '|.     ||  ||    |        ||| |||     ||   |   |||    \u001b[7;3H   .||.    ''|...|'    '|..'          |   |     .||. .|.   '|    \u001b[9;6H\u001b[37m\u001b[40mNEW BEST SCORE: 16 turns.  Your"
+    ],
+    [
+      0.000014,
+      " previous best was 65\u001b[21;28HPress any key to continue\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      1.271162,
+      "\u001b[m\u001b[37m\u001b[40m\u001b[H                                                                                                              \u001b[2;1H                                                                                                              \u001b[3;1H                                                                                                              \u001b[4;1H                                                                                                              \u001b[5;1H                                                                                                              \u001b[6;1H                                                                                                              \u001b[7;1H                                                                                                              \u001b[8;1H                                                                                                              \u001b[9;1H                                                                                "
+    ],
+    [
+      0.000098,
+      "                              \u001b[10;1H                                                                                                              \u001b[11;1H                                                                                                              \u001b[12;1H                                                                                                              \u001b[13;1H                                                                                                              \u001b[14;1H                                                                                                              \u001b[15;1H                                                                                                              \u001b[16;1H                                                                                                              \u001b[17;1H                                                                                                              \u001b[18;1H                                                   "
+    ],
+    [
+      0.001258,
+      "                                                           \u001b[19;1H                                                                                                              \u001b[20;1H                                                                                                              \u001b[21;1H                                                                                                              \u001b[22;1H                                                                                                              \u001b[23;1H                                                                                                              \u001b[24;1H                                                                                                     "
+    ],
+    [
+      0.001285,
+      "         \u001b[25;1H                                                                                                              \u001b[26;1H                                                                                                              \u001b[27;1H                                                                                                              \u001b[28;1H                                                                                                              \u001b[29;1H                                                                                                             \u0008 \u0008\u001b[4h \u001b[4l\u001b[H\u001b[2;21H\u001b[37m\u001b[40m\u001b[1mSergey got a new High Score, #1\u001b[5;35H\u001b[32m\u001b[40mHigh Scores\u001b[7;21H\u001b[31m\u001b[40m 1.  16  Sergey\u001b[8;21H 2.  50  Vince\u001b[9;21H 3.  55  Marie\u001b[10;21H 4.  56  John\u001b[11;21H 5.  57  Gus\u001b[12;21H 6.  58  Lizann\u001b[13;21H 7.  59  Kevin\u001b[14;21H 8.  60  Hal\u001b[15;21H 9.  61  Hairold\u001b[16;21H10.  62  Chipper\u001b[21;6H\u001b[m\u001b[37m\u001b[40mPress any key to Continue\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      2.579586,
+      "\u001b[m\u001b[37m\u001b[40m\u001b[H                                                                                                              \u001b[2;1H                                                                                                              \u001b[3;1H                                                                                                              \u001b[4;1H                                                                                                              \u001b[5;1H                                                                                                              \u001b[6;1H                                                                                                              \u001b[7;1H                                                                                                              \u001b[8;1H                                                                                                              \u001b[9;1H                                                                                "
+    ],
+    [
+      0.000079,
+      "                              \u001b[10;1H                                                                                                              \u001b[11;1H                                                                                                              \u001b[12;1H                                                                                                              \u001b[13;1H                                                                                                              \u001b[14;1H                                                                                                              \u001b[15;1H                                                                                                              \u001b[16;1H                                                                                                              \u001b[17;1H                                                                                                              \u001b[18;1H                                                   "
+    ],
+    [
+      0.001290,
+      "                                                           \u001b[19;1H                                                                                                              \u001b[20;1H                                                                                                              \u001b[21;1H                                                                                                              \u001b[22;1H                                                                                                              \u001b[23;1H                                                                                                              \u001b[24;1H                                                                                                     "
+    ],
+    [
+      0.000962,
+      "         \u001b[25;1H                                                                                                              \u001b[26;1H                                                                                                              \u001b[27;1H                                                                                                              \u001b[28;1H                                                                                                              \u001b[29;1H                                                                                                             \u0008 \u0008\u001b[4h \u001b[4l\u001b[H\u001b[3;6H\u001b[31m\u001b[40m\u001b[1mSeaBattle Menu\u001b[4;7H\u001b[34m\u001b[40m1\u001b[m\u001b[34m\u001b[40m. Play Normal Game vs Computer\u001b[5;7H\u001b[1m2\u001b[m\u001b[34m\u001b[40m. Play vs. Remote Human [NOT AVAILABLE]\u001b[6;7H\u001b[1m3\u001b[m\u001b[34m\u001b[40m. View High Score List\u001b[7;7H\u001b[1m4\u001b[m\u001b[34m\u001b[40m. Re-enter User Info\u001b[8;7H\u001b[1m5\u001b[m\u001b[34m\u001b[40m. Options [Non-functional]\u001b[9;7H\u001b[1m6\u001b[m\u001b[34m\u001b[40m. Help [Non-functional]\u001b[10;7H\u001b[1m7\u001b[m\u001b[34m\u001b[40m. Quit\u001b[11;6H\u001b[31m\u001b[40m\u001b[1m----\u003e\u001b[C\u001b[m\u001b[m\u001b[37m\u001b"
+    ],
+    [
+      0.000013,
+      "[40m"
+    ],
+    [
+      2.541003,
+      "\u001b[11;21H\u001b[33m\u001b[40m\u001b[1m*****************************\u001b[12;21H* This will Quit COMPLETELY *\u001b[13;21H* Are you sure you want to  *\u001b[14;21H* Do this? (y/n)            *\u001b[15;21H*****************************\u001b[m\u001b[m\u001b[37m\u001b[40m"
+    ],
+    [
+      0.000037,
+      "\u001b[14;38H"
+    ],
+    [
+      2.777875,
+      "\u001b[m\u001b[37m\u001b[40m\u001b[H                                                                                                              \u001b[2;1H                                                                                                              \u001b[3;1H                                                                                                              \u001b[4;1H                                                                                                              \u001b[5;1H                                                                                                              \u001b[6;1H                                                                                                              \u001b[7;1H                                                                                                              \u001b[8;1H                                                                                                              \u001b[9;1H                                                                                "
+    ],
+    [
+      0.000188,
+      "                              \u001b[10;1H                                                                                                              \u001b[11;1H                                                                                                              \u001b[12;1H                                                                                                              \u001b[13;1H                                                                                                              \u001b[14;1H                                                                                                              \u001b[15;1H                                                                                                              \u001b[16;1H                                                                                                              \u001b[17;1H                                                                                                              \u001b[18;1H                                                   "
+    ],
+    [
+      0.001335,
+      "                                                           \u001b[19;1H                                                                                                              \u001b[20;1H                                                                                                              \u001b[21;1H                                                                                                              \u001b[22;1H                                                                                                              \u001b[23;1H                                                                                                              \u001b[24;1H                                                                                                     "
+    ],
+    [
+      0.001133,
+      "         \u001b[25;1H                                                                                                              \u001b[26;1H                                                                                                              \u001b[27;1H                                                                                                              \u001b[28;1H                                                                                                              \u001b[29;1H                                                                                                             \u0008 \u0008\u001b[4h \u001b[4l\u001b[H\u001b[3;6H\u001b[31m\u001b[40m\u001b[1mSeaBattle Menu\u001b[4;7H\u001b[34m\u001b[40m1\u001b[m\u001b[34m\u001b[40m. Play Normal Game vs Computer\u001b[5;7H\u001b[1m2\u001b[m\u001b[34m\u001b[40m. Play vs. Remote Human [NOT AVAILABLE]\u001b[6;7H\u001b[1m3\u001b[m\u001b[34m\u001b[40m. View High Score List\u001b[7;7H\u001b[1m4\u001b[m\u001b[34m\u001b[40m. Re-enter User Info\u001b[8;7H\u001b[1m5\u001b[m\u001b[34m\u001b[40m. Options [Non-functional]\u001b[9;7H\u001b[1m6\u001b[m\u001b[34m\u001b[40m. Help [Non-functional]\u001b[10;7H\u001b[1m7\u001b[m\u001b[34m\u001b[40m. Quit\u001b[11;6H\u001b[31m\u001b[40m\u001b[1m----\u003e\u001b[11;21H\u001b[m\u001b[m\u001b"
+    ],
+    [
+      0.001039,
+      "[37m\u001b[40m\u001b[m\u001b[37m\u001b[40m\u001b[H                                                                                                              \u001b[2;1H                                                                                                              \u001b[3;1H                                                                                                              \u001b[4;1H                                                                                                              \u001b[5;1H                                                                                                              \u001b[6;1H                                                                                                              \u001b[7;1H                                                                                                              \u001b[8;1H                                                                                                              \u001b[9;1H                                                                       "
+    ],
+    [
+      0.001064,
+      "                                       \u001b[10;1H                                                                                                              \u001b[11;1H                                                                                                              \u001b[12;1H                                                                                                              \u001b[13;1H                                                                                                              \u001b[14;1H                                                                                                              \u001b[15;1H                                                                                                              \u001b[16;1H                                                                                                              \u001b[17;1H                                                                                                              \u001b[18;1H                                          "
+    ],
+    [
+      0.001099,
+      "                                                                    \u001b[19;1H                                                                                                              \u001b[20;1H                                                                                                              \u001b[21;1H                                                                                                              \u001b[22;1H                                                                                                              \u001b[23;1H                                                                                                              \u001b[24;1H                                                                                                              \u001b[25;1H                                                                                                              \u001b[26;1H                                                                                                              \u001b[27;1H             "
+    ],
+    [
+      0.001105,
+      "                                                                                                 \u001b[28;1H                                                                                                              \u001b[29;1H                                                                                                             \u0008 \u0008\u001b[4h \u001b[4l\u001b[H"
+    ],
+    [
+      0.000014,
+      "\u001b[m\u001b[28B\u001b[K\u001b[29;1H\u001b[2J\u001b[?47l\u001b8\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.005767,
+      "\u001b[0;36m~/Downloads/seabattle-1.0\u001b[01m\u001b[30m$\u001b[0m "
+    ],
+    [
+      1.418298,
+      "exit\r\n"
+    ]
+  ]
+}
