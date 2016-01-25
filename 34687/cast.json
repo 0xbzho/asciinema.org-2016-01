@@ -1,0 +1,910 @@
+{
+  "version": 1,
+  "width": 119,
+  "height": 30,
+  "duration": 159.549630,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.243972,
+      "\u001b[0;36m~/Downloads/oldrunner\u001b[01m\u001b[30m$\u001b[0m "
+    ],
+    [
+      1.102187,
+      "pkill telnet"
+    ],
+    [
+      1.242017,
+      "\r\n"
+    ],
+    [
+      0.027474,
+      "\u001b[0;36m~/Downloads/oldrunner\u001b[01m\u001b[30m\u001b[31m$\u001b[0m "
+    ],
+    [
+      0.953654,
+      "t"
+    ],
+    [
+      0.102992,
+      "e"
+    ],
+    [
+      0.227856,
+      "l"
+    ],
+    [
+      0.138477,
+      "net "
+    ],
+    [
+      4.758201,
+      "n"
+    ],
+    [
+      0.000046,
+      "e"
+    ],
+    [
+      0.000059,
+      "th"
+    ],
+    [
+      0.000036,
+      "a"
+    ],
+    [
+      0.000058,
+      "c"
+    ],
+    [
+      0.000006,
+      "k"
+    ],
+    [
+      0.000026,
+      "."
+    ],
+    [
+      0.000032,
+      "a"
+    ],
+    [
+      0.000030,
+      "l"
+    ],
+    [
+      0.000047,
+      "t"
+    ],
+    [
+      0.000018,
+      "."
+    ],
+    [
+      0.000037,
+      "o"
+    ],
+    [
+      0.000034,
+      "r"
+    ],
+    [
+      0.000034,
+      "g\r\n"
+    ],
+    [
+      0.023832,
+      "Trying 52.1.193.111...\r\n"
+    ],
+    [
+      0.144582,
+      "Connected to alt.org.\r\nEscape character is '^]'.\r\n"
+    ],
+    [
+      0.000057,
+      "\r\n"
+    ],
+    [
+      0.678850,
+      ";\u001b]2;nethack.alt.org\u0007\u001b[2J\u001b)0\u001b7\u001b[?47h\u001b[1;30r\u001b[m\u001b[4l\u001b[?1h\u001b=\u001b[m\u001b[m\u001b[m\u001b[H\u001b[2J\u001b[30;1H\u001b[2J\u001b[?47l\u001b8\r\u001b[?1l\u001b\u003e\u001b[2J\u001b)0\u001b7\u001b[?47h\u001b[1;30r\u001b[m\u001b[4l\u001b[?1h\u001b=\u001b[m\u001b[m\u001b[m\u001b[H\u001b[2J\u001b[H\u001b[2J\u001b[1B ## \u001b[33m\u001b[40m\u001b[1mnethack.alt.org - http://nethack.alt.org/\u001b[3;2H\u001b[m\u001b[m##\u001b[1B\u0008\u0008## Games on this server are recorded for in-progress viewing and playback!\u001b[6;3HNot logged in.\u001b[8;3Hl) Login\u001b[9;3Hr) Register new user\u001b[10;3Hw) Watch games in progress\u001b[12;3Hs) server info\u001b[13;3Hm) MOTD/news (updated: 2015.12.07)\u001b[15;3Hq) Quit\u001b[19;3H=\u003e "
+    ],
+    [
+      1.988209,
+      "\u001b[H\u001b[2J\u001b[1B ## nethack.alt.org - http://nethack.alt.org/\r\u001b[4B Please enter your username. (blank entry aborts)\r\u001b[2B =\u003e "
+    ],
+    [
+      1.301019,
+      "s"
+    ],
+    [
+      0.207064,
+      "e"
+    ],
+    [
+      0.176053,
+      "r"
+    ],
+    [
+      0.145456,
+      "ge"
+    ],
+    [
+      0.156702,
+      "y"
+    ],
+    [
+      0.129410,
+      "b"
+    ],
+    [
+      0.690857,
+      "\u001b[H\u001b[2J\u001b[1B ## nethack.alt.org - http://nethack.alt.org/\r\u001b[4B Please enter your password.\r\u001b[2B =\u003e "
+    ],
+    [
+      2.065687,
+      "\u001b[H\u001b[2J\u001b[1B ## \u001b[33m\u001b[40m\u001b[1mnethack.alt.org - http://nethack.alt.org/\u001b[3;2H\u001b[m\u001b[m##\u001b[1B\u0008\u0008##\u001b[2B\u0008Logged in as: \u001b[1msergeyb\u001b[8;3H\u001b[mc) Change password\u001b[9;3He) Change email address\u001b[10;3Hw) Watch games in progress\u001b[12;3H1) Go to NetHack 3.6.0 menu\u001b[13;3H2) Go to NetHack 3.4.3 menu\u001b[16;3Hs) server info\u001b[17;3Hm) MOTD/news (updated: 2015.12.07)\u001b[19;3Hq) Quit\u001b[22;3H=\u003e "
+    ],
+    [
+      3.856108,
+      "\u001b[H\u001b[2J\u001b[1B ## \u001b[33m\u001b[40m\u001b[1mnethack.alt.org - http://nethack.alt.org/\u001b[3;2H\u001b[m\u001b[m##\u001b[1B\u0008\u0008## NetHack 3.6.0\u001b[6;3HLogged in as: \u001b[1msergeyb\u001b[8;3H\u001b[mc) Change password\u001b[9;3He) Change email address\u001b[10;3Hw) Watch games in progress\u001b[11;3Ho) Edit options using 'virus' ( See http://alt.org/nethack/virus.php )\u001b[12;3HR) Reset NH360 options file to the default one\u001b[13;3Hp) Play NetHack 3.6.0\u001b[15;3HG) View the NetHack Guidebook\u001b[16;3Hs) server info\u001b[17;3Hm) MOTD/news (updated: 2015.12.07)\u001b[19;3Hq) Return to main menu\u001b[22;3H=\u003e "
+    ],
+    [
+      2.222019,
+      "\u001b[H\u001b[2J\u001b[30;1H\u001b[2J\u001b[?47l\u001b8\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.125868,
+      "\u001b]2;NAO - sergeyb\u0007\u001b7\u001b[?47h\u001b)0\u001b[?1l\u001b\u003e\u001b[H\u001b[2J\u001b[H\u001b[2;1HNetHack, Copyright 1985-2015\r\u001b[3;1H         By Stichting Mathematisch Centrum and M. Stephenson.\r\u001b[4;1H         Version 3.6.0 Unix, built Dec  7 17:51:34 2015.\r\u001b[5;1H         See license for details.\r\u001b[6;1H\u001b[7;1H\u001b[8;1HShall I pick a character's race, role, gender and alignment for you? [ynaq] "
+    ],
+    [
+      4.382946,
+      "y\u001b[H\u001b[2J\u001b[H       name: sergeyb\r\u001b[2;1H       role: Archeologist\r\u001b[3;1H       race: dwarf\r\u001b[4;1H     gender: male\r\u001b[5;1H  alignment: lawful\u001b[1;60H\u001b[K Is this ok? [ynq]\u001b[2;60H\u001b[K \u001b[3;60H\u001b[K sergeyb, lawful male dwarven Archeologist\u001b[4;60H\u001b[K \u001b[5;60H\u001b[K y + Yes; start game\u001b[6;60H\u001b[K n - No; choose role again\u001b[7;60H\u001b[K q - Quit\u001b[8;60H\u001b[K\u001b[C(end) "
+    ],
+    [
+      6.913895,
+      "\u001b[5;63H-\u001b[1;59H\u001b[K\u001b[2;59H\u001b[K\u001b[3;59H\u001b[K\u001b[4;59H\u001b[K\u001b[5;59H\u001b[K\u001b[6;59H\u001b[K\u001b[7;59H\u001b[K\u001b[8;59H\u001b[K\u001b[9;59H\u001b[K\u001b[H\u001b[2J\u001b[H\u001b[H\u001b[2J\u001b[H\u001b[14;36H-----------\u001b[m\u001b[15;36H|.........\u001b[m\u001b[16;36H|...\u001b[m\u001b[1m\u001b[37m?\u001b[m....\u001b[m\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m|\u001b[m\u001b[17;36H|.....\u001b[m\u001b[36m)\u001b[m..\u001b[m\u001b[1m\u001b[37m@\u001b[m|\u001b[m\u001b[18;36H|....\u001b[m\u001b[35mxx\u001b[m...|\u001b[m\u001b[19;36H-----------\u001b[m\u001b[A\u001b[A\u0008\u0008\u001b[23;1HSergeyb the Digger           \u001b[K\r\u001b[24;1H\u001b[K\u001b[ASergeyb the Digger           \u001b[K St:14\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\r\u001b[24;1H\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[ASergeyb the Digger           \u001b[K St:14\u001b[K Dx:15\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\r\u001b[24;1H\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[ASergeyb the Digger           \u001b[K St:14\u001b[K Dx:15\u001b[K Co:12\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\r\u001b[24;1H\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[ASergeyb the Digger           \u001b[K St:14\u001b[K Dx:15\u001b[K Co:12\u001b[K In:14\u001b[K\u001b[K\u001b[K\u001b[K\r\u001b[24;1H\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[ASergeyb the Digger           \u001b[K St:14\u001b[K Dx:15\u001b[K Co:12\u001b[K In:14\u001b[K Wi:13\u001b[K\u001b[K\u001b[K\r\u001b[24;1H\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[ASergeyb the Digger           \u001b[K St:14\u001b[K Dx"
+    ],
+    [
+      0.000071,
+      ":15\u001b[K Co:12\u001b[K In:14\u001b[K Wi:13\u001b[K Ch:7\u001b[K\u001b[K\r\u001b[24;1H\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[ASergeyb the Digger           \u001b[K St:14\u001b[K Dx:15\u001b[K Co:12\u001b[K In:14\u001b[K Wi:13\u001b[K Ch:7\u001b[K Lawful\u001b[K\r\u001b[24;1H\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[ASergeyb the Digger           \u001b[K St:14\u001b[K Dx:15\u001b[K Co:12\u001b[K In:14\u001b[K Wi:13\u001b[K Ch:7\u001b[K Lawful\u001b[K\r\u001b[24;1H\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K \u001b[K\u001b[K\u001b[A\u0008Sergeyb the Digger           \u001b[K St:14\u001b[K Dx:15\u001b[K Co:12\u001b[K In:14\u001b[K Wi:13\u001b[K Ch:7\u001b[K Lawful\u001b[K\r\u001b[24;1H\u001b[K $:0\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K \u001b[K\u001b[K\r\u001b[ASergeyb the Digger           \u001b[K St:14\u001b[K Dx:15\u001b[K Co:12\u001b[K In:14\u001b[K Wi:13\u001b[K Ch:7\u001b[K Lawful\u001b[K\r\u001b[24;1H\u001b[K $:0\u001b[K\u001b[K\u001b[K Pw:1\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K \u001b[K\u001b[K\r\u001b[ASergeyb the Digger           \u001b[K St:14\u001b[K Dx:15\u001b[K Co:12\u001b[K In:14\u001b[K Wi:13\u001b[K Ch:7\u001b[K Lawful\u001b[K\r\u001b[24;1H\u001b[K $:0\u001b[K\u001b[K\u001b[K Pw:1\u001b[K(1)\u001b[K\u001b[K\u001b[K\u001b[K\u001b[K \u001b[K\u001b[K\r\u001b[ASergeyb the Digger           \u001b[K St:14\u001b[K Dx:15\u001b[K Co:12\u001b[K In:14\u001b[K Wi:13\u001b[K Ch:7\u001b[K Lawful\u001b[K\r\u001b[24;1H\u001b[K $:0\u001b[K\u001b[K\u001b[K Pw:1\u001b[K(1)\u001b[K\u001b[K Xp:1\u001b[K\u001b[K\u001b[K \u001b[K\u001b[K\r\u001b[ASergeyb the Digger"
+    ],
+    [
+      0.001269,
+      "           \u001b[K St:14\u001b[K Dx:15\u001b[K Co:12\u001b[K In:14\u001b[K Wi:13\u001b[K Ch:7\u001b[K Lawful\u001b[K\r\u001b[24;1H\u001b[K $:0\u001b[K\u001b[K\u001b[K Pw:1\u001b[K(1)\u001b[K AC:9\u001b[K Xp:1\u001b[K\u001b[K\u001b[K \u001b[K\u001b[K\r\u001b[ASergeyb the Digger           \u001b[K St:14\u001b[K Dx:15\u001b[K Co:12\u001b[K In:14\u001b[K Wi:13\u001b[K Ch:7\u001b[K Lawful\u001b[K\r\u001b[24;1H\u001b[K $:0\u001b[K\u001b[K\u001b[K Pw:1\u001b[K(1)\u001b[K AC:9\u001b[K Xp:1\u001b[K T:1\u001b[K\u001b[K \u001b[K\u001b[K\r\u001b[ASergeyb the Digger           \u001b[K St:14\u001b[K Dx:15\u001b[K Co:12\u001b[K In:14\u001b[K Wi:13\u001b[K Ch:7\u001b[K Lawful\u001b[K\r\u001b[24;1H\u001b[K $:0\u001b[K\u001b[K\u001b[K Pw:1\u001b[K(1)\u001b[K AC:9\u001b[K Xp:1\u001b[K T:1\u001b[K \u001b[K \u001b[K\u001b[K\r\u001b[ASergeyb the Digger           \u001b[K St:14\u001b[K Dx:15\u001b[K Co:12\u001b[K In:14\u001b[K Wi:13\u001b[K Ch:7\u001b[K Lawful\u001b[K\r\u001b[24;1H\u001b[K $:0\u001b[K HP:15\u001b[K\u001b[K Pw:1\u001b[K(1)\u001b[K AC:9\u001b[K Xp:1\u001b[K T:1\u001b[K \u001b[K \u001b[K\u001b[K\r\u001b[ASergeyb the Digger           \u001b[K St:14\u001b[K Dx:15\u001b[K Co:12\u001b[K In:14\u001b[K Wi:13\u001b[K Ch:7\u001b[K Lawful\u001b[K\r\u001b[24;1H\u001b[K $:0\u001b[K HP:15\u001b[K(15)\u001b[K Pw:1\u001b[K(1)\u001b[K AC:9\u001b[K Xp:1\u001b[K T:1\u001b[K \u001b[K \u001b[K\u001b[K\r\u001b[ASergeyb the Digger           \u001b[K St:14\u001b[K Dx:15\u001b[K Co:12\u001b[K In:14\u001b[K Wi:13\u001b[K Ch:7\u001b[K Lawful\u001b[K\r\u001b[24;1HDlvl:1  \u001b[K $:0\u001b[K HP:15\u001b[K(15)\u001b[K Pw:1\u001b[K(1)\u001b[K AC:9\u001b[K Xp:1\u001b["
+    ],
+    [
+      0.001130,
+      "K T:1\u001b[K \u001b[K \u001b[K\u001b[K\r\u001b[ASergeyb the Digger           \u001b[K St:14\u001b[K Dx:15\u001b[K Co:12\u001b[K In:14\u001b[K Wi:13\u001b[K Ch:7\u001b[K Lawful\u001b[K\r\u001b[24;1HDlvl:1  \u001b[K $:0\u001b[K HP:15\u001b[K(15)\u001b[K Pw:1\u001b[K(1)\u001b[K AC:9\u001b[K Xp:1\u001b[K T:1\u001b[K \u001b[K \u001b[K\u001b[K\u001b[1;55H\u001b[K It is written in the Book of Quetzalcoatl:\u001b[2;55H\u001b[K \u001b[3;55H\u001b[K     After the Creation, the cruel god Moloch rebelled\u001b[4;55H\u001b[K     against the authority of Marduk the Creator.\u001b[5;55H\u001b[K     Moloch stole from Marduk the most powerful of all\u001b[6;55H\u001b[K     the artifacts of the gods, the Amulet of Yendor,\u001b[7;55H\u001b[K     and he hid it in the dark cavities of Gehennom, the\u001b[8;55H\u001b[K     Under World, where he now lurks, and bides his time.\u001b[9;55H\u001b[K \u001b[10;55H\u001b[K Your god Quetzalcoatl seeks to possess the Amulet, and with it\u001b[11;55H\u001b[K to gain deserved ascendance over the other gods.\u001b[12;55H\u001b[K \u001b[13;55H\u001b[K You, a newly trained Digger, have been heralded\u001b[14;55H\u001b[K from birth as the instrument of Quetzalcoatl.  You are destined\u001b[15;55H\u001b[K to recover t"
+    ],
+    [
+      0.000988,
+      "he Amulet for your deity, or die in the\u001b[16;55H\u001b[K attempt.  Your hour of destiny"
+    ],
+    [
+      0.123050,
+      " has come.  For the sake\u001b[17;55H\u001b[K of us all:  Go bravely with Quetzalcoatl!\u001b[18;55H\u001b[K\u001b[C--More--"
+    ],
+    [
+      2.062594,
+      "\u001b[1;54H\u001b[K\u001b[2;54H\u001b[K\u001b[3;54H\u001b[K\u001b[4;54H\u001b[K\u001b[5;54H\u001b[K\u001b[6;54H\u001b[K\u001b[7;54H\u001b[K\u001b[8;54H\u001b[K\u001b[9;54H\u001b[K\u001b[10;54H\u001b[K\u001b[11;54H\u001b[K\u001b[12;54H\u001b[K\u001b[13;54H\u001b[K\u001b[14;54H\u001b[K\u001b[15;54H\u001b[K\u001b[16;54H\u001b[K\u001b[17;54H\u001b[K\u001b[18;54H\u001b[K"
+    ],
+    [
+      0.127505,
+      "\u001b[17;45H\u001b[HHello sergeyb, welcome to NetHack!  You are a lawful male dwarven Archeologist.\u001b[K\u001b[17;45H\u001b[1;80H--More--"
+    ],
+    [
+      1.432142,
+      "\u001b[HYou are lucky!  Full moon tonight.\u001b[K\u001b[17;45H"
+    ],
+    [
+      2.113616,
+      "\u001b[H\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:1  \r\u001b[A\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:2  \u001b[15;46H.\u001b[m\u001b[17;45H\u003c\u001b[m\u001b[18;44H\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      1.876002,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:3  \u001b[16;44H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m.\u001b[m\u001b[17;41H\u001b[35mxx\u001b[m\u001b[1m\u001b[37m@\u001b[m\u001b[18;41H..\u001b[m\u001b[C.\u001b[m\u001b[A\u0008\u0008"
+    ],
+    [
+      0.725665,
+      "\u001b[A\u001b[C\u001b[1m\u001b[37m@\u001b[m\u001b[17;43H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[A\u001b[HYou swap places with your kitten.\u001b[K\u001b[16;44H\u001b[1;36HThe kitten bites the grid bug.\u001b[K\u001b[16;44H\u001b[1;68HThe grid bug is killed!\u001b[K\u001b[17;41H.\u001b[m\u001b[35mx\u001b[m\u001b[A\u001b[C\u001b[1;91H--More--"
+    ],
+    [
+      1.480391,
+      "\u001b[HThe kitten misses the grid bug.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:4  \u001b[16;44H"
+    ],
+    [
+      1.837504,
+      "\u001b[H\u001b[K\u001b[16;44H.\u001b[m\u001b[17;45H\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[HThe kitten bites the grid bug.\u001b[K\u001b[17;45H\u001b[1;33HThe grid bug is killed!\u001b[K\u001b[17;42H\u001b[36m)\u001b[m\u001b[C\u001b[C"
+    ],
+    [
+      1.028605,
+      "\u001b[H\u001b[K\u001b[17;45H"
+    ],
+    [
+      0.693287,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:5  \u001b[17;45H\u003c\u001b[m\u001b[18;44H\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      1.978642,
+      "\u001b[A\u0008\u001b[1m\u001b[37m@\u001b[m\u001b[18;44H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[A\u0008\u0008\u001b[HYou swap places with your kitten.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:6  \u001b[18;42H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m..\u001b[m\u001b[A\u0008\u0008"
+    ],
+    [
+      0.759695,
+      "\u001b[H\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:7  \u001b[16;40H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;41H.\u001b[m\u001b[C.\u001b[m\u001b[18;42H.\u001b[m\u001b[C\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      0.245202,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:8  \u001b[16;40H\u001b[1m\u001b[37m?\u001b[7mf\u001b[m\u001b[m\u001b[17;44H\u001b[1m\u001b[37m@\u001b[m\u001b[18;44H.\u001b[m\u001b[A\u0008"
+    ],
+    [
+      0.654373,
+      "\u001b[15;40H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[16;41H.\u001b[m\u001b[C\u001b[1m\u001b[37m@\u001b[m\u001b[17;44H.\u001b[m\u001b[A\u0008\u0008"
+    ],
+    [
+      0.486427,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:9  \u001b[15;40H.\u001b[m\u001b[16;39H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[C\u001b[C\u001b[1m\u001b[37m@\u001b[m.\u001b[m\u0008\u0008"
+    ],
+    [
+      0.140820,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:10  \u001b[15;42H\u001b[1m\u001b[37m@\u001b[m\u001b[16;39H.\u001b[m\u001b[C\u001b[C.\u001b[m\u001b[17;40H.\u001b[m\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[A\u001b[A"
+    ],
+    [
+      0.951757,
+      "\u0008\u001b[1m\u001b[37m@\u001b[m.\u001b[m\u001b[16;40H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;41H.\u001b[m\u001b[A\u001b[A\u0008"
+    ],
+    [
+      1.331914,
+      "\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[16;40H\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[HYou swap places with your kitten.\u001b[K\u001b[16;40H\u001b[1;36HYou see here a scroll labeled ASHPD SODALG.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:11  \u001b[16;40H"
+    ],
+    [
+      0.239903,
+      "\u001b[H\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:12  \u001b[15;41H.\u001b[m\u001b[16;40H\u001b[1m\u001b[37m?\u001b[7mf\u001b[m\u001b[m.\u001b[m\u001b[17;40H\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      0.705076,
+      "\u001b[A\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m.\u001b[m\u001b[17;40H.\u001b[m\u001b[18;41H\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      0.470759,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:13  \u001b[18;40H\u001b[1m\u001b[37m@\u001b[m.\u001b[m\u0008\u0008"
+    ],
+    [
+      0.572687,
+      "\u001b[1;1H\u001b[Kcmdassist: Invalid direction key!\r\u001b[2;1H\u001b[K\u001b[3;1H\u001b[KValid direction keys are:\r\u001b[4;1H\u001b[K          7  8  9\r\u001b[5;1H\u001b[K           \\ | / \r\u001b[6;1H\u001b[K          4- . -6\r\u001b[7;1H\u001b[K           / | \\ \r\u001b[8;1H\u001b[K          1  2  3\r\u001b[9;1H\u001b[K\u001b[10;1H\u001b[K          \u003c  up\r\u001b[11;1H\u001b[K          \u003e  down\r\u001b[12;1H\u001b[K          .  direct at yourself\r\u001b[13;1H\u001b[K\u001b[14;1H\u001b[K(Suppress this message with !cmdassist in config file.)\r\u001b[15;1H\u001b[J\u001b[30;1H\u001b[K--More--"
+    ],
+    [
+      2.608377,
+      "\u001b[H\u001b[2J\u001b[H\u001b[23;1HSergeyb the Digger           \u001b[K St:14\u001b[K Dx:15\u001b[K Co:12\u001b[K In:14\u001b[K Wi:13\u001b[K Ch:7\u001b[K Lawful\u001b[K\r\u001b[24;1HDlvl:1  \u001b[K $:0\u001b[K HP:15\u001b[K(15)\u001b[K Pw:1\u001b[K(1)\u001b[K AC:9\u001b[K Xp:1\u001b[K T:13\u001b[K \u001b[K \u001b[K\u001b[K\u001b[14;36H-----------\u001b[m\u001b[15;36H|..........\u001b[m\u001b[16;36H|...\u001b[m\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m.....|\u001b[m\u001b[17;36H|.....\u001b[m\u001b[36m)\u001b[m..\u003c|\u001b[m\u001b[18;36H|...\u001b[m\u001b[1m\u001b[37m@\u001b[m.....|\u001b[m\u001b[19;36H-----------\u001b[m\u001b[18;40H\u001b[HUnknown command '^J'.\u001b[K\u001b[18;40H"
+    ],
+    [
+      0.146221,
+      "\u001b[H\u001b[K\u001b[18;40H"
+    ],
+    [
+      1.871847,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:14  \u001b[15;40H.\u001b[m\u001b[16;39H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[1m\u001b[37m?\u001b[m\u001b[17;40H\u001b[1m\u001b[37m@\u001b[m\u001b[18;40H.\u001b[m\u001b[A\u0008"
+    ],
+    [
+      0.138484,
+      "\u001b[A\u0008.\u001b[m\u001b[C\u001b[1m\u001b[37m@\u001b[m\u001b[17;40H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[A"
+    ],
+    [
+      0.132362,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:15  \u001b[15;40H\u001b[1m\u001b[37m@\u001b[m\u001b[16;41H.\u001b[m\u001b[17;40H.\u001b[m\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[A\u001b[A\u0008\u0008"
+    ],
+    [
+      0.315182,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:16  \u001b[15;40H.\u001b[m\u001b[16;41H\u001b[1m\u001b[37m@\u001b[7mf\u001b[m\u001b[m\u001b[17;41H.\u001b[m\u001b[A\u0008"
+    ],
+    [
+      0.400179,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:17  \u001b[15;41H\u001b[1m\u001b[37m@\u001b[m\u001b[16;41H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m.\u001b[m\u001b[A\u0008\u0008"
+    ],
+    [
+      1.353296,
+      ".\u001b[m\u001b[16;40H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m.\u001b[m\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      0.194548,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:18  \u001b[15;40H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[1m\u001b[37m@\u001b[m\u001b[16;40H\u001b[1m\u001b[37m?\u001b[m\u001b[C.\u001b[m\u001b[A\u0008\u0008"
+    ],
+    [
+      0.266361,
+      "\u0008\u001b[1m\u001b[37m@\u001b[7mf\u001b[m\u001b[m\u0008\u0008\u001b[HYou swap places with your kitten.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:19  \u001b[15;41H.\u001b[m\u001b[16;42H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[A\u0008\u0008\u0008"
+    ],
+    [
+      0.202569,
+      "\u001b[H\u001b[K\u001b[15;40H"
+    ],
+    [
+      0.536378,
+      "...\u001b[m\u001b[1m\u001b[37m@\u001b[m\u001b[16;42H.\u001b[m\u001b[17;40H..\u001b[m\u001b[18;41H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[A\u001b[A\u001b[A\u001b[C\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:21  \u001b[15;43H..\u001b[m\u001b[1m\u001b[37m@\u001b[m\u001b[16;40H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;39H.\u001b[m\u001b[18;40H..\u001b[m\u001b[A\u001b[A\u001b[A\u001b[C\u001b[C\u001b[C\u001b[HThe kitten picks up a scroll labeled ASHPD SODALG.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:24  \u001b[16;40H.\u001b[m\u001b[C\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;41H.\u001b[m\u001b[A\u001b[A\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.348648,
+      "\u001b[H\u001b[K\u001b[15;43H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[C.\u001b[m\u001b[1m\u001b[37m@#\u001b[m\u001b[16;42H.\u001b[m\u001b[18;45H\u001b[1m\u001b[30m.\u001b[m\u001b[A\u001b[A\u001b[A"
+    ],
+    [
+      1.231363,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:25  \u001b[15;46H.#\u001b[m\u001b[16;45H\u001b[1m\u001b[37m@\u001b[m\u001b[18;45H.\u001b[m\u001b[A\u001b[A\u0008\u001b[A\u0008\u001b[1m\u001b[37m@\u001b[m\u001b[16;45H.\u001b[m\u001b[A\u0008\u0008\u001b[HThe kitten drops a scroll labeled ASHPD SODALG.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:26  \u001b[15;42H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[1m\u001b[37m?\u001b[m\u001b[16;43H.\u001b[m\u001b[A"
+    ],
+    [
+      0.271311,
+      "\u001b[H\u001b[K\u001b[15;44H"
+    ],
+    [
+      0.142657,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:27  \u001b[15;41H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m.\u001b[m\u001b[C.\u001b[m\u001b[16;41H.\u001b[m\u001b[C\u001b[C\u001b[C\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[15;41H.\u001b[m\u001b[C\u001b[C\u001b[C\u001b[1m\u001b[37m@\u001b[m\u001b[16;42H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[C\u001b[C.\u001b[m\u001b[A\u0008\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:28  \u001b[15;45H.\u001b[m\u001b[16;44H\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[A\u0008\u001b[1m\u001b[37m@\u001b[m\u001b[16;44H.\u001b[m\u001b[A\u0008\u0008\u001b[HYou see here a scroll labeled ASHPD SODALG.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:29  \u001b[16;42H.\u001b[m\u001b[17;43H.\u001b[m\u001b[18;44H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[A\u001b[A\u001b[A\u0008\u0008"
+    ],
+    [
+      0.137350,
+      "\u001b[H\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:30  \u001b[15;43H\u001b[1m\u001b[37m?\u001b[m\u001b[16;44H\u001b[1m\u001b[37m@\u001b[m\u001b[17;45H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[18;44H.\u001b[m\u001b[A\u001b[A\u0008"
+    ],
+    [
+      0.140387,
+      "\u001b[A\u001b[C\u001b[1m\u001b[37m@\u001b[m\u001b[16;44H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;45H\u003c\u001b[m\u001b[A\u001b[A\u0008"
+    ],
+    [
+      0.146076,
+      "\u001b[HYou stop.  Your kitten is in the way!\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:31  \u001b[15;43H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[16;44H.\u001b[m\u001b[A\u001b[H\u001b[K\u001b[15;45H\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:32  \u001b[15;43H\u001b[1m\u001b[37m?\u001b[m..\u001b[m\u001b[16;43H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[C\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:33  \u001b[15;42H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[C\u001b[1m\u001b[37m@\u001b[m\u001b[16;43H.\u001b[m\u001b[C.\u001b[m\u001b[A\u0008\u0008"
+    ],
+    [
+      0.159205,
+      "\u0008\u0008.\u001b[m\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m.\u001b[m\u001b[C\u001b[1m\u001b[33m:\u001b[m\u001b[16;45H\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[HThe kitten picks up a scroll labeled ASHPD SODALG.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:34  \u001b[15;43H.\u001b[m\u001b[16;44H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m"
+    ],
+    [
+      0.148274,
+      "\u001b[H\u001b[K\u001b[16;45H\u001b[HYou kill the newt!\u001b[K\u001b[15;45H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[1m\u001b[33m%\u001b[m\u001b[16;44H.\u001b[m"
+    ],
+    [
+      0.144468,
+      "\u001b[H\u001b[K\u001b[15;45H\u001b[1m\u001b[37m@\u001b[m\u001b[16;45H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[A\u0008\u001b[HYou swap places with your kitten.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:35  \u001b[15;45H\u001b[H\u001b[K\u001b[15;45H.\u001b[m\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[16;44H\u001b[1m\u001b[37m@\u001b[m.\u001b[m\u0008\u0008\u001b[HThe kitten eats a newt corpse.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:36  \u001b[16;44H\u001b[H\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:37  \u001b[15;46H.\u001b[m\u001b[16;44H.\u001b[m\u001b[17;45H\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      0.150574,
+      "\u001b[A\u001b[A\u001b[C\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[16;44H\u001b[1m\u001b[37m@\u001b[m\u001b[17;45H\u003c\u001b[m\u001b[A\u0008\u0008\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:38  \u001b[15;45H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m.\u001b[m\u001b[16;44H.\u001b[m\u001b[17;44H\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      0.192935,
+      "\u001b[A\u001b[A\u001b[C.\u001b[m\u001b[16;45H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;44H.\u001b[m\u001b[18;43H\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[HThe kitten drops a scroll labeled ASHPD SODALG.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:39  \u001b[16;45H\u001b[1m\u001b[37m?\u001b[m\u001b[17;45H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[18;43H"
+    ],
+    [
+      0.155863,
+      "\u001b[H\u001b[K\u001b[18;43H\u001b[A\u001b[A\u001b[C\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;44H\u001b[1m\u001b[37m@\u001b[m\u003c\u001b[m\u001b[18;43H.\u001b[m\u001b[A\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:40  \u001b[16;44H.\u001b[m\u001b[17;44H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[18;45H\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      0.144800,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:41  \u001b[17;44H.\u001b[m\u001b[1m\u001b[37m@\u001b[m\u001b[18;45H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[A\u0008\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:42  \u001b[16;45H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;45H\u003c\u001b[m\u001b[18;44H\u001b[1m\u001b[37m@\u001b[m.\u001b[m\u0008\u0008"
+    ],
+    [
+      0.156388,
+      "\u001b[A\u001b[A\u001b[A\u001b[C\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[16;45H\u001b[1m\u001b[37m?\u001b[m\u001b[17;43H\u001b[1m\u001b[37m@\u001b[m\u001b[18;44H.\u001b[m\u001b[A\u0008\u0008\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:43  \u001b[15;45H.\u001b[m\u001b[16;44H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;43H.\u001b[m\u001b[18;43H\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      0.138125,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:44  \u001b[16;44H.\u001b[m\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;44H\u001b[1m\u001b[37m@\u001b[m\u001b[18;43H.\u001b[m\u001b[A\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:45  \u001b[16;44H\u001b[1m\u001b[37m@?\u001b[m\u001b[17;44H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[A\u0008\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:46  \u001b[16;44H.\u001b[m\u001b[17;43H\u001b[1m\u001b[37m@\u001b[m.\u003c\u001b[m\u001b[18;45H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[A\u0008\u0008\u0008"
+    ],
+    [
+      0.133690,
+      ".\u001b[m\u001b[18;43H\u001b[1m\u001b[37m@\u001b[7mf\u001b[m\u001b[m.\u001b[m\u0008\u0008\u0008\u001b[A\u0008\u001b[1m\u001b[37m@\u001b[m\u001b[18;43H.\u001b[m\u001b[A\u0008\u0008\u001b[HYou see here 6 throwing stars.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:47  \u001b[17;43H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[18;44H.\u001b[m\u001b[A\u0008\u0008\u0008\u001b[H\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:48  \u001b[16;44H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;42H\u001b[36m)\u001b[m.\u001b[m\u001b[18;43H\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      0.544080,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:49  \u001b[16;44H.\u001b[m\u001b[1m\u001b[37m?\u001b[m\u001b[17;44H\u001b[1m\u001b[37m@\u001b[7mf\u001b[m\u001b[m\u001b[18;43H.\u001b[m\u001b[A\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:50  \u001b[16;44H\u001b[1m\u001b[37m@\u001b[m\u001b[17;44H.\u001b[m\u001b[A\u0008.\u001b[m\u001b[17;43H\u001b[1m\u001b[37m@\u001b[7mf\u001b[m\u001b[m\u003c\u001b[m\u0008\u0008\u0008\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:51  \u001b[17;43H.\u001b[m\u001b[18;43H\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[A\u0008\u001b[1m\u001b[37m@\u001b[m\u001b[18;43H.\u001b[m\u001b[A\u0008\u0008\u001b[HYou see here 6 throwing stars.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:52  \u001b[17;44H.\u001b[m\u001b[18;44H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m.\u001b[m\u001b[17;42H\u001b[H\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:53  \u001b[16;44H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;42H\u001b[36m)\u001b[m.\u001b[m\u001b[18;43H\u001b[1m\u001b[37m@\u001b[m.\u001b[m\u0008\u0008\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 C"
+    ],
+    [
+      0.000073,
+      "h:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:54  \u001b[16;44H.\u001b[m\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;43H\u001b[1m\u001b[37m@\u001b[m\u001b[18;43H.\u001b[m\u001b[A\u0008"
+    ],
+    [
+      0.136683,
+      "\u001b[A\u001b[A\u001b[C\u001b[C\u001b[C\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[16;45H\u001b[1m\u001b[37m?\u001b[m\u001b[17;43H.\u001b[m\u001b[18;43H\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      0.159315,
+      "\u001b[A\u0008\u001b[1m\u001b[37m@\u001b[m\u001b[18;43H.\u001b[m\u001b[A\u0008\u0008\u001b[HYou see here 6 throwing stars.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:55  \u001b[15;46H.\u001b[m\u001b[16;45H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;42H"
+    ],
+    [
+      0.146832,
+      "\u001b[H\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:56  \u001b[16;45H\u001b[1m\u001b[37m?\u001b[m\u001b[17;42H\u001b[36m)\u001b[m\u001b[C\u001b[C\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[18;42H\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      0.217831,
+      "\u001b[A\u001b[C\u001b[C\u001b[C\u003c\u001b[m\u001b[18;41H\u001b[1m\u001b[37m@\u001b[m.\u001b[m\u001b[C\u001b[C\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[18;41H"
+    ],
+    [
+      0.153470,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:57  \u001b[17;44H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[18;41H.\u001b[m\u001b[1m\u001b[37m@\u001b[m\u001b[C\u001b[C.\u001b[m\u001b[18;42H"
+    ],
+    [
+      0.156855,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:58  \u001b[16;44H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;44H.\u001b[m\u001b[18;41H\u001b[1m\u001b[37m@\u001b[m.\u001b[m\u0008\u0008\u001b[15;45H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[16;44H.\u001b[m\u001b[18;41H.\u001b[m\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      0.154353,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:59  \u001b[18;42H.\u001b[m\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:60  \u001b[15;45H.\u001b[m\u001b[16;45H\u001b[1m\u001b[37m?\u001b[m\u001b[17;45H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[18;42H\u001b[1m\u001b[37m@\u001b[m.\u001b[m\u0008\u0008"
+    ],
+    [
+      0.147846,
+      "\u001b[A\u001b[A\u001b[C\u001b[C\u001b[C\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;45H\u003c\u001b[m\u001b[18;42H.\u001b[m\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      0.152910,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:61  \u001b[18;43H.\u001b[m\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      0.318755,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:62  \u001b[16;45H\u001b[1m\u001b[37m?\u001b[m\u001b[17;45H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[18;44H.\u001b[m\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      1.604535,
+      "\u001b[A\u001b[A\u0008\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;44H\u001b[1m\u001b[37m@\u001b[m\u003c\u001b[m\u001b[18;45H.\u001b[m\u001b[A\u0008\u0008"
+    ],
+    [
+      0.138075,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:63  \u001b[15;45H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[16;44H.\u001b[m\u001b[17;44H.\u001b[m\u001b[18;45H\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      0.383096,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:64  \u001b[15;45H.\u001b[m\u001b[17;45H\u001b[1m\u001b[37m@\u001b[m\u001b[18;45H.\u001b[m\u001b[A\u0008"
+    ],
+    [
+      0.137873,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:65  \u001b[15;46H.\u001b[m\u001b[16;44H\u001b[1m\u001b[37m@\u001b[7mf\u001b[m\u001b[m\u001b[17;45H\u003c\u001b[m\u001b[A\u0008\u0008.\u001b[m\u001b[17;45H\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[HThe kitten picks up a scroll labeled ASHPD SODALG.\u001b[K\u001b[15;44H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[16;45H.\u001b[m\u001b[17;45H\u001b[H\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:66  \u001b[17;45H\u003c\u001b[m\u001b[18;44H\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      0.149860,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:67  \u001b[15;44H.\u001b[m\u001b[16;43H.\u001b[m\u001b[17;44H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[1m\u001b[37m@\u001b[m\u001b[18;44H.\u001b[m\u001b[A\u001b[A\u001b[1m\u001b[37m@\u001b[m\u001b[17;44H.\u003c\u001b[m\u001b[18;45H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[A\u001b[A\u0008"
+    ],
+    [
+      0.138276,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:68  \u001b[15;44H\u001b[1m\u001b[37m@\u001b[m\u001b[16;45H.\u001b[m\u001b[A\u0008\u0008\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:69  \u001b[15;44H.\u001b[m\u001b[16;43H\u001b[1m\u001b[37m@\u001b[7mf\u001b[m\u001b[m\u001b[17;45H\u003c\u001b[m\u001b[18;45H.\u001b[m\u001b[A\u001b[A\u0008\u0008\u0008"
+    ],
+    [
+      0.142341,
+      "\u001b[A\u001b[C\u001b[1m\u001b[37m@\u001b[m\u001b[16;43H..\u001b[m\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[A\u0008\u0008"
+    ],
+    [
+      0.152950,
+      "\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[16;45H\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[HYou swap places with your kitten.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:70  \u001b[16;45H\u001b[H\u001b[K\u001b[16;45H\u001b[HYou stop.  Your kitten is in the way!\u001b[K\u001b[16;45H\u001b[1;40HThe kitten drops a scroll labeled ASHPD SODALG.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:71  \u001b[15;44H\u001b[1m\u001b[37m?\u001b[7mf\u001b[m\u001b[m\u001b[16;45H\u001b[H\u001b[K\u001b[15;45H.\u001b[m\u001b[16;45H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;44H\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      0.135763,
+      "\u001b[A\u001b[C\u001b[1m\u001b[37m@\u001b[m\u001b[17;44H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[A\u001b[HYou swap places with your kitten.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:72  \u001b[17;44H.\u001b[m\u001b[18;45H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[A\u001b[A\u0008\u001b[H\u001b[K\u001b[16;45H\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:73  \u001b[15;45H\u001b[1m\u001b[37m@\u001b[m\u001b[16;45H.\u001b[m\u001b[17;45H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[18;45H.\u001b[m\u001b[A\u001b[A\u001b[A\u0008"
+    ],
+    [
+      0.137413,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:74  \u001b[15;44H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m.\u001b[m\u001b[16;44H\u001b[1m\u001b[37m@\u001b[m.\u001b[m\u001b[17;45H\u003c\u001b[m\u001b[A\u0008\u0008.\u001b[m\u001b[17;44H\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[HThe kitten picks up a scroll labeled ASHPD SODALG.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:75  \u001b[15;44H.\u001b[m\u001b[16;44H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;44H\u001b[H\u001b[K\u001b[15;45H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[16;43H\u001b[1m\u001b[37m@\u001b[m.\u001b[m\u001b[17;44H.\u001b[m\u001b[A\u0008\u0008"
+    ],
+    [
+      0.141417,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:76  \u001b[15;45H.\u001b[m\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[16;43H.\u001b[m\u001b[17;43H\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:77  \u001b[15;46H.\u001b[m\u001b[16;45H.\u001b[m\u001b[17;43H.\u001b[m\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[18;42H\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[A\u001b[A\u001b[C\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;43H\u001b[1m\u001b[37m@\u001b[m.\u001b[m\u001b[18;42H.\u001b[m\u001b[A\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:78  \u001b[17;43H.\u001b[m\u001b[18;44H\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      0.126483,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:79  \u001b[15;43H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[16;43H..\u001b[m\u001b[17;44H\u001b[1m\u001b[37m@\u001b[m\u001b[18;44H.\u001b[m\u001b[A\u0008\u001b[A\u0008\u001b[1m\u001b[37m@\u001b[m\u001b[17;44H.\u001b[m\u001b[A\u0008\u0008\u001b[HThe kitten drops a scroll labeled ASHPD SODALG.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:80  \u001b[15;43H\u001b[1m\u001b[37m?\u001b[m.\u001b[m\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[16;43H\u001b[H\u001b[K\u001b[16;43H.\u001b[m\u001b[17;42H\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[HYou see here 6 throwing stars.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:81  \u001b[15;45H.\u001b[m\u001b[16;45H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;42H"
+    ],
+    [
+      0.158957,
+      "\u001b[H\u001b[K\u001b[16;45H.\u001b[m\u001b[17;42H\u001b[36m)\u001b[m\u001b[C\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[18;42H\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:82  \u001b[17;43H\u001b[1m\u001b[37m@\u001b[m.\u001b[m\u001b[18;42H.\u001b[m\u001b[C\u001b[C\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[A\u0008\u0008\u0008\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:83  \u001b[17;43H.\u001b[m\u001b[C\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[18;44H\u001b[1m\u001b[37m@\u001b[m.\u001b[m\u0008\u0008"
+    ],
+    [
+      0.135119,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:84  \u001b[17;43H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[1m\u001b[37m@\u001b[m\u003c\u001b[m\u001b[18;44H.\u001b[m\u001b[A\u0008\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:85  \u001b[15;47Ho\u001b[m\u001b[16;43H\u001b[1m\u001b[37m@\u001b[7mf\u001b[m\u001b[m\u001b[17;43H..\u001b[m\u001b[A\u0008\u0008.\u001b[m\u001b[17;42H\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[HYou see here 6 throwing stars.\u001b[K\u001b[15;46Ho#\u001b[m\u001b[16;44H.\u001b[m\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;42H\u001b[1;33HThe kitten bites the goblin.\u001b[K\u001b[17;42H\u001b[1;63HThe goblin is killed!\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:86  \u001b[15;46H.\u001b[m\u001b[17;42H"
+    ],
+    [
+      0.144950,
+      "\u001b[H\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:87  \u001b[15;44H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m.\u001b[m\u001b[16;45H.\u001b[m\u001b[17;42H\u001b[36m)\u001b[m\u001b[18;42H\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:88  \u001b[15;43H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m.\u001b[m\u001b[17;43H\u001b[1m\u001b[37m@\u001b[m\u001b[18;42H.\u001b[m\u001b[A\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:89  \u001b[15;43H\u001b[1m\u001b[37m?\u001b[m\u001b[16;43H\u001b[1m\u001b[37m@\u001b[7mf\u001b[m\u001b[m\u001b[17;43H.\u001b[m\u001b[A\u0008"
+    ],
+    [
+      0.142413,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:90  \u001b[15;42H\u001b[1m\u001b[37m@\u001b[m\u001b[16;43H..\u001b[m\u001b[17;44H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[A\u001b[A\u0008\u0008\u0008"
+    ],
+    [
+      0.141244,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:91  \u001b[15;42H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[16;41H\u001b[1m\u001b[37m@\u001b[m\u001b[C.\u001b[m\u001b[17;44H.\u001b[m\u001b[16;41H\u001b[A\u001b[C.\u001b[m\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[16;41H.\u001b[m\u001b[17;41H\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:92  \u001b[15;43H\u001b[1m\u001b[37m?\u001b[7mf\u001b[m\u001b[m\u001b[17;41H.\u001b[m\u001b[18;42H\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      0.207374,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:93  \u001b[15;44H.\u001b[m\u001b[16;44H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;43H\u001b[1m\u001b[37m@\u001b[m\u001b[18;42H.\u001b[m\u001b[A"
+    ],
+    [
+      0.139646,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:94  \u001b[15;45H.\u001b[m\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[16;43H\u001b[1m\u001b[37m@\u001b[m.\u001b[m\u001b[17;43H.\u001b[m\u001b[A\u0008\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:95  \u001b[15;42H\u001b[1m\u001b[37m@\u001b[m\u001b[C\u001b[C\u001b[C.\u001b[m\u001b[16;43H.\u001b[m\u001b[C\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[15;42H"
+    ],
+    [
+      0.919179,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:96  \u001b[15;42H.\u001b[m\u001b[16;41H\u001b[1m\u001b[37m@\u001b[m\u001b[C\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[C.\u001b[m\u001b[17;44H.\u001b[m\u001b[16;41H"
+    ],
+    [
+      0.151321,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:97  \u001b[15;40H\u001b[1m\u001b[37m@\u001b[m\u001b[C\u001b[C\u001b[1m\u001b[37m?\u001b[7mf\u001b[m\u001b[m\u001b[16;41H.\u001b[m\u001b[C.\u001b[m\u001b[15;40H.\u001b[m\u001b[C\u001b[C\u001b[C.\u001b[m\u001b[16;41H\u001b[1m\u001b[37m@\u001b[m\u001b[C\u001b[C\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[16;41H"
+    ],
+    [
+      0.134282,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:98  \u001b[16;41H.\u001b[m\u001b[17;41H\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:99  \u001b[16;44H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;41H.\u001b[m\u001b[C\u001b[C\u001b[C\u003c\u001b[m\u001b[18;40H\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[A\u001b[A\u001b[C\u001b[C\u001b[C\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m.\u001b[m\u001b[17;41H\u001b[1m\u001b[37m@\u001b[m\u001b[18;40H.\u001b[m\u001b[A"
+    ],
+    [
+      0.134034,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:100  \u001b[15;43H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[16;41H\u001b[1m\u001b[37m@\u001b[m\u001b[C.\u001b[m\u001b[17;41H.\u001b[m\u001b[A\u0008\u001b[A\u0008\u001b[1m\u001b[37m@\u001b[m\u001b[16;41H.\u001b[m\u001b[A\u0008\u0008\u001b[HThe kitten picks up a scroll labeled ASHPD SODALG.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:101  \u001b[15;42H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m.\u001b[m\u001b[15;40H\u001b[H\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:102  \u001b[15;40H.\u001b[m\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m.\u001b[m\u001b[16;41H\u001b[1m\u001b[37m@\u001b[m.\u001b[m\u0008\u0008"
+    ],
+    [
+      0.135259,
+      ".\u001b[m\u001b[17;41H\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[HThe kitten drops a scroll labeled ASHPD SODALG.\u001b[K\u001b[17;41H\u001b[1;50HThe kitten picks up a scroll labeled ASHPD SODALG.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:103  \u001b[15;41H.\u001b[m\u001b[16;41H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;41H\u001b[H\u001b[K\u001b[17;41H.\u001b[m\u001b[18;40H\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[HThe kitten drops a scroll labeled ASHPD SODALG.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:104  \u001b[16;41H\u001b[1m\u001b[37m?\u001b[m\u001b[17;40H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[18;40H"
+    ],
+    [
+      0.132240,
+      "\u001b[H\u001b[K\u001b[16;40H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;40H.\u001b[m\u001b[1m\u001b[37m@\u001b[m\u001b[18;40H.\u001b[m\u001b[A\u001b[A\u001b[1m\u001b[37m@\u001b[m\u001b[17;41H.\u001b[m\u001b[A\u0008\u001b[HYou see here a scroll labeled ASHPD SODALG.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:105  \u001b[16;39H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m.\u001b[m\u001b[H\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:106  \u001b[15;40H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[15;47H\u001b[33md\u001b[m\u001b[16;39H.\u001b[m\u001b[C\u001b[1m\u001b[37m?\u001b[m\u001b[17;40H\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[A\u001b[A.\u001b[m\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[15;46H\u001b[33md\u001b[m#\u001b[m\u001b[17;40H.\u001b[m\u001b[18;40H\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      0.147408,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:107  \u001b[17;39H\u001b[1m\u001b[37m@\u001b[m\u001b[18;40H.\u001b[m\u001b[A\u0008\u0008\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:108  \u001b[15;41H.\u001b[m\u001b[C\u001b[C\u001b[C\u001b[33md\u001b[m.\u001b[m\u001b[16;41H\u001b[1m\u001b[37m?\u001b[7mf\u001b[m\u001b[m\u001b[17;39H.\u001b[m\u001b[18;40H\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      0.151885,
+      "\u001b[A\u001b[A\u001b[A\u001b[C\u001b[C\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[C\u001b[C.\u001b[m\u001b[16;42H.\u001b[m\u001b[C\u001b[33md\u001b[m\u001b[17;41H\u001b[1m\u001b[37m@\u001b[m\u001b[18;40H.\u001b[m\u001b[A\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:109  \u001b[15;42H.\u001b[m\u001b[16;43H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;41H.\u001b[m\u001b[18;41H\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      0.129213,
+      "\u001b[A\u001b[A\u001b[C\u001b[C\u001b[C.\u001b[m\u001b[17;41H\u001b[1m\u001b[37m@\u001b[m\u001b[C\u001b[33md\u001b[m\u001b[18;41H.\u001b[m\u001b[A\u0008\u001b[HThe kitten misses the jackal.\u001b[K\u001b[17;41H\u001b[1;32HThe kitten misses the jackal.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:110  \u001b[17;41H\u001b[H\u001b[K\u001b[16;40H\u001b[1m\u001b[37m@\u001b[m\u001b[C\u001b[33md\u001b[m\u001b[17;41H.\u001b[m\u001b[C.\u001b[m\u001b[16;40H\u001b[HThe kitten bites the jackal.\u001b[K\u001b[16;40H"
+    ],
+    [
+      0.152055,
+      "\u001b[H\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:111  \u001b[16;40H.\u001b[m\u001b[C.\u001b[m\u001b[17;39H\u001b[1m\u001b[37m@\u001b[m\u001b[C\u001b[33md\u001b[m\u0008\u0008\u0008\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:15(15) Pw:1(1) AC:9 Xp:1 T:112  \u001b[16;43H.\u001b[m\u001b[17;39H.\u001b[m\u001b[C.\u001b[m\u001b[C.\u001b[m\u001b[18;39H\u001b[1m\u001b[37m@\u001b[m\u001b[33md\u001b[m\u001b[C\u001b[C\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[18;39H"
+    ],
+    [
+      0.126836,
+      "\u001b[A\u001b[C\u001b[1m\u001b[37m@\u001b[m\u001b[18;39H.\u001b[m\u001b[A\u001b[HThe jackal bites!\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:14(15) Pw:1(1) AC:9 Xp:1 T:112  \r\u001b[A\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:14(15) Pw:1(1) AC:9 Xp:1 T:113  \u001b[18;42H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m.\u001b[m\u001b[17;40H\u001b[H\u001b[K\u001b[16;40H\u001b[1m\u001b[37m@\u001b[m\u001b[17;40H\u001b[33md\u001b[m\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[18;40H.\u001b[m\u001b[C.\u001b[m\u001b[A\u001b[A\u0008\u0008\u0008\u001b[HThe kitten misses the jackal.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:14(15) Pw:1(1) AC:9 Xp:1 T:114  \u001b[16;40H"
+    ],
+    [
+      0.143689,
+      "\u001b[H\u001b[K\u001b[16;40H.\u001b[m\u001b[17;39H\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[HThe jackal bites!\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:12(15) Pw:1(1) AC:9 Xp:1 T:114  \u001b[17;39H\u001b[1;20HThe kitten misses the jackal.\u001b[K\u001b[17;39H\u001b[H\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:12(15) Pw:1(1) AC:9 Xp:1 T:115  \u001b[16;38H\u001b[1m\u001b[37m@\u001b[m\u001b[17;39H.\u001b[m\u001b[A\u0008\u0008\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:12(15) Pw:1(1) AC:9 Xp:1 T:116  \u001b[16;38H.\u001b[m\u001b[C\u001b[C\u001b[1m\u001b[37m?\u001b[m\u001b[17;38H\u001b[1m\u001b[37m@\u001b[m\u001b[33md\u001b[m\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m.\u001b[m\u001b[17;38H.\u001b[m\u001b[18;39H\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[HThe jackal bites!\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:11(15) Pw:1(1) AC:9 Xp:1 T:116  \u001b[18;39H\u001b[1;20HThe kitten misses the jackal.\u001b[K\u001b[18;39H"
+    ],
+    [
+      0.137239,
+      "\u001b[H\u001b[K\u001b[17;40H\u001b[1m\u001b[37m@\u001b[m\u001b[18;39H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[A\u001b[HYou swap places with your kitten.\u001b[K\u001b[17;40H\u001b[1;36HThe kitten misses the jackal.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:11(15) Pw:1(1) AC:9 Xp:1 T:117  \u001b[17;40H"
+    ],
+    [
+      0.135988,
+      "\u001b[H\u001b[K\u001b[17;40H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[18;39H\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[HYou swap places with your kitten.\u001b[K\u001b[18;39H\u001b[1;36HThe jackal bites!\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:9(15) Pw:1(1) AC:9 Xp:1 T:117  \u001b[18;39H\u001b[1;55HThe kitten bites the jackal.\u001b[K\u001b[18;39H\u001b[1;85HThe jackal is killed!\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:9(15) Pw:1(1) AC:9 Xp:1 T:118  \u001b[17;39H\u001b[33m%\u001b[m\u001b[18;39H\u001b[H\u001b[K\u001b[17;39H\u001b[1m\u001b[37m@\u001b[m\u001b[18;39H.\u001b[m\u001b[A\u0008\u001b[HYou see here a jackal corpse.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:9(15) Pw:1(1) AC:9 Xp:1 T:119  \u001b[15;38H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[16;39H.\u001b[m\u001b[17;40H.\u001b[m\u0008\u0008\u001b[H\u001b[K\u001b[15;38H.\u001b[m\u001b[16;38H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;39H\u001b[33m%\u001b[m\u001b[18;39H\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:9(15) Pw:1(1) AC:9 Xp:1 T:120  \r\u001b[A\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:10(15) Pw:"
+    ],
+    [
+      0.000084,
+      "1(1) AC:9 Xp:1 T:120  \u001b[17;38H\u001b[1m\u001b[37m@\u001b[m\u001b[18;39H.\u001b[m\u001b[A\u0008\u0008"
+    ],
+    [
+      0.243185,
+      "\u001b[A.\u001b[m\u001b[17;37H\u001b[1m\u001b[37m@\u001b[m.\u001b[m\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u0008\u0008\u0008\u001b[HThe kitten eats a jackal corpse.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:10(15) Pw:1(1) AC:9 Xp:1 T:121  \u001b[17;37H"
+    ],
+    [
+      0.176290,
+      "\u001b[H\u001b[K\u001b[17;37H.\u001b[m\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      0.178775,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:10(15) Pw:1(1) AC:9 Xp:1 T:122  \u001b[17;37H\u001b[1m\u001b[37m@\u001b[m.\u001b[m\u0008\u0008"
+    ],
+    [
+      0.154773,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:10(15) Pw:1(1) AC:9 Xp:1 T:123  \u001b[17;37H.\u001b[m\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      0.141032,
+      "\u0008\u001b[1m\u001b[37m@\u001b[m.\u001b[m\u0008\u0008"
+    ],
+    [
+      0.126846,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:10(15) Pw:1(1) AC:9 Xp:1 T:124  \u001b[17;37H.\u001b[m\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:10(15) Pw:1(1) AC:9 Xp:1 T:125  \u001b[17;37H\u001b[1m\u001b[37m@\u001b[m.\u001b[m\u0008\u0008"
+    ],
+    [
+      0.153845,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:10(15) Pw:1(1) AC:9 Xp:1 T:126  \u001b[17;37H.\u001b[m\u001b[1m\u001b[37m@\u001b[m.\u001b[m\u001b[C\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[18;40H.\u001b[m\u001b[A\u0008\u0008\u0008"
+    ],
+    [
+      0.149746,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:10(15) Pw:1(1) AC:9 Xp:1 T:127  \u001b[17;38H.\u001b[m\u001b[1m\u001b[37m@\u001b[7mf\u001b[m\u001b[m.\u001b[m\u0008\u0008\u0008"
+    ],
+    [
+      0.153879,
+      "\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[HYou swap places with your kitten.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:10(15) Pw:1(1) AC:9 Xp:1 T:128  \u001b[17;37H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[C.\u001b[m\u001b[18;38H.\u001b[m\u001b[A\u001b[C"
+    ],
+    [
+      0.152028,
+      "\u001b[H\u001b[K\u001b[16;38H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;37H.\u001b[m\u001b[C\u001b[C.\u001b[m\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      0.174163,
+      ".\u001b[m\u001b[1m\u001b[37m@\u001b[m\u0008\u001b[HYou see here 6 throwing stars.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:10(15) Pw:1(1) AC:9 Xp:1 T:129  \u001b[16;38H.\u001b[m\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;42H"
+    ],
+    [
+      0.492871,
+      "\u001b[H\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:10(15) Pw:1(1) AC:9 Xp:1 T:130  \u001b[16;39H..\u001b[m\u001b[17;41H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[36m)\u001b[m\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      0.157468,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:10(15) Pw:1(1) AC:9 Xp:1 T:131  \u001b[17;41H.\u001b[m\u001b[C.\u001b[m\u001b[1m\u001b[37m@\u001b[m\u001b[18;42H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[A\u001b[C"
+    ],
+    [
+      0.130663,
+      ".\u001b[m\u001b[1m\u001b[37m@\u001b[m\u001b[18;42H.\u001b[m\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[A\u001b[C"
+    ],
+    [
+      1.081919,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:10(15) Pw:1(1) AC:9 Xp:1 T:132  \u001b[17;44H\u001b[1m\u001b[37m@\u001b[m\u003c\u001b[m\u0008\u0008"
+    ],
+    [
+      0.149707,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:10(15) Pw:1(1) AC:9 Xp:1 T:133  \u001b[16;43H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;43H\u001b[1m\u001b[37m@\u001b[m.\u001b[m\u001b[18;43H.\u001b[m\u001b[A\u0008"
+    ],
+    [
+      0.446824,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:10(15) Pw:1(1) AC:9 Xp:1 T:134  \u001b[15;44H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[16;43H.\u001b[m\u001b[1m\u001b[37m@\u001b[m\u001b[17;43H.\u001b[m\u001b[A"
+    ],
+    [
+      0.173923,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:10(15) Pw:1(1) AC:9 Xp:1 T:135  \r\u001b[A\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:11(15) Pw:1(1) AC:9 Xp:1 T:135  \u001b[15;44H.\u001b[m\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[16;44H.\u001b[m\u001b[17;43H\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      0.200735,
+      "\u001b[A\u001b[A\u001b[C\u001b[C.\u001b[m\u001b[16;45H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[17;43H.\u001b[m\u001b[18;42H\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      0.134978,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:11(15) Pw:1(1) AC:9 Xp:1 T:136  \u001b[16;45H.\u001b[m\u001b[17;43H\u001b[1m\u001b[37m@\u001b[7mf\u001b[m\u001b[m\u001b[18;42H.\u001b[m\u001b[A"
+    ],
+    [
+      0.126544,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:11(15) Pw:1(1) AC:9 Xp:1 T:137  \u001b[17;43H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m.\u001b[m\u001b[18;42H\u001b[1m\u001b[37m@\u001b[m\u0008"
+    ],
+    [
+      0.127478,
+      "\u001b[A\u001b[C\u001b[1m\u001b[37m@\u001b[m\u001b[18;42H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[A\u001b[HYou swap places with your kitten.\u001b[K\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:11(15) Pw:1(1) AC:9 Xp:1 T:138  \u001b[18;42H..\u001b[m\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[A\u0008\u0008\u001b[H\u001b[K\u001b[17;43H.\u001b[m\u001b[18;42H\u001b[1m\u001b[37m@\u001b[m\u001b[C.\u001b[m\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[18;42H"
+    ],
+    [
+      0.136528,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:11(15) Pw:1(1) AC:9 Xp:1 T:139  \u001b[17;43H\u001b[1m\u001b[37m@\u001b[m\u001b[18;42H.\u001b[m\u001b[A"
+    ],
+    [
+      0.127036,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:11(15) Pw:1(1) AC:9 Xp:1 T:140  \u001b[16;43H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m\u001b[1m\u001b[37m@\u001b[m\u001b[17;43H..\u001b[m\u001b[18;45H.\u001b[m\u001b[A\u001b[A\u0008\u0008"
+    ],
+    [
+      0.132153,
+      "\u001b[23;1H\u001b[23;30H\u001b[K St:14 Dx:15 Co:12 In:14 Wi:13 Ch:7 Lawful\r\u001b[24;1H\u001b[24;9H\u001b[K $:0 HP:11(15) Pw:1(1) AC:9 Xp:1 T:141  \u001b[15;45H\u001b[1m\u001b[37m@\u001b[m\u001b[16;42H\u001b[1m\u001b[37m\u001b[7mf\u001b[m\u001b[m..\u001b[m\u001b[17;43H.\u001b[m\u001b[A\u001b[A\u001b[C"
+    ],
+    [
+      2.523237,
+      "\u001b[HYou don't have anything to drink.\u001b[K\u001b[15;45H"
+    ],
+    [
+      2.236907,
+      "\u001b[H\u001b[K\u001b[1;60H\u001b[K Select one item:\u001b[2;60H\u001b[K \u001b[3;60H\u001b[K a - About NetHack (version information).\u001b[4;60H\u001b[K b - Long description of the game and commands.\u001b[5;60H\u001b[K c - List of game commands.\u001b[6;60H\u001b[K d - Concise history of NetHack.\u001b[7;60H\u001b[K e - Info on a character in the game display.\u001b[8;60H\u001b[K f - Info on what a given key does.\u001b[9;60H\u001b[K g - List of game options.\u001b[10;60H\u001b[K h - Longer explanation of game options.\u001b[11;60H\u001b[K i - List of extended commands.\u001b[12;60H\u001b[K j - The NetHack license.\u001b[13;60H\u001b[K k - Support information.\u001b[14;60H\u001b[K \u001b[15;60H\u001b[K\u001b[C(end) "
+    ],
+    [
+      3.379093,
+      "\u001b[4;63H+\u001b[1;59H\u001b[K\u001b[2;59H\u001b[K\u001b[3;59H\u001b[K\u001b[4;59H\u001b[K\u001b[5;59H\u001b[K\u001b[6;59H\u001b[K\u001b[7;59H\u001b[K\u001b[8;59H\u001b[K\u001b[9;59H\u001b[K\u001b[10;59H\u001b[K\u001b[11;59H\u001b[K\u001b[12;59H\u001b[K\u001b[13;59H\u001b[K\u001b[14;59H\u001b[K\u001b[15;59H\u001b[K\u001b[16;59H\u001b[K\u001b[1;1H\u001b[K        Welcome to NetHack!                ( description of version 3.6 )\r\u001b[2;1H\u001b[K\u001b[3;1H\u001b[K        NetHack is a Dungeons and Dragons like game where you (the adventurer)\r\u001b[4;1H\u001b[Kdescend into the depths of the dungeon in search of the Amulet of Yendor,\r\u001b[5;1H\u001b[Kreputed to be hidden somewhere below the twentieth level.  You begin your\r\u001b[6;1H\u001b[Kadventure with a pet that can help you in many ways, and can be trained\r\u001b[7;1H\u001b[Kto do all sorts of things.  On the way you will find useful (or useless)\r\u001b[8;1H\u001b[Kitems, quite possibly with magic properties, and assorted monsters.  You can\r\u001b[9;1H\u001b[Kattack a monster by trying to move onto the space a monster is on (but often\r\u001b[10;1H\u001b[Kit is much wiser to leave it alone).\r\u001b[11;1H\u001b[K\u001b[12;1H\u001b[K        Unlike most adventure games, which give you a verbal description of\r\u001b[13;1H\u001b[Kyour "
+    ],
+    [
+      0.000078,
+      "location, NetHack gives you a visual image of the dungeon level you are\r\u001b[14;1H\u001b[Kon.\u001b[15;1H\u001b[K\u001b[16;1H\u001b[K        NetHack uses the following symbols:\r\u001b[17;1H\u001b[K\u001b[18;1H\u001b[K        - and |  The walls of a room, possibly also open doors or a grave.\r\u001b[19;1H\u001b[K        .        The floor of a room or a doorway.\r\u001b[20;1H\u001b[K        #        A corridor, or iron bars, or a tree, or possibly a kitchen\r\u001b[21;1H\u001b[K                 sink (if your dungeon has sinks), or a drawbridge.\r\u001b[22;1H\u001b[K        \u003e        Stairs down: a way to the next level.\r\u001b[23;1H\u001b[K        \u003c        Stairs up: a way to the previous level.\r\u001b[24;1H\u001b[K        @        You (usually), or another human.\r\u001b[25;1H\u001b[K        )        A weapon of some sort.\r\u001b[26;1H\u001b[K        [        A suit or piece of armor.\r\u001b[27;1H\u001b[K        %        Something edible (not necessarily healthy).\r\u001b[28;1H\u001b[K        /        A wand.\r\u001b[29;1H\u001b[K        =        A ring.\r\u001b[30;1H\u001b[J\u001b[K--More--"
+    ],
+    [
+      2.645357,
+      "\u001b[1;1H\u001b[K        ?        A scroll.\r\u001b[2;1H\u001b[K        !        A potion.\r\u001b[3;1H\u001b[K        (        Some other useful object (pick-axe, key, lamp...)\r\u001b[4;1H\u001b[K        $        A pile of gold.\r\u001b[5;1H\u001b[K        *        A gem or rock (possibly valuable, possibly worthless).\r\u001b[6;1H\u001b[K        +        A closed door, or a spellbook containing a spell\r\u001b[7;1H\u001b[K                 you can learn.\r\u001b[8;1H\u001b[K        ^        A trap (once you detect it).\r\u001b[9;1H\u001b[K        \"        An amulet, or a spider web.\r\u001b[10;1H\u001b[K        0        An iron ball.\r\u001b[11;1H\u001b[K        _        An altar, or an iron chain.\r\u001b[12;1H\u001b[K        {        A fountain.\r\u001b[13;1H\u001b[K        }        A pool of water or moat or a pool of lava.\r\u001b[14;1H\u001b[K        \\        An opulent throne.\r\u001b[15;1H\u001b[K        `        A boulder or statue.\r\u001b[16;1H\u001b[K        A to Z, a to z, and several others:  Monsters.\r\u001b[17;1H\u001b[K        I        Invisible or unseen monster's last known location\r\u001b[18;1H\u001b[K\u001b[19;1H\u001b[K                 You can find out what a symbol re"
+    ],
+    [
+      0.000076,
+      "presents by typing\r\u001b[20;1H\u001b[K                 '/' and following the directions to move the cursor\r\u001b[21;1H\u001b[K                 to the symbol in question.  For instance, a 'd' may\r\u001b[22;1H\u001b[K                 turn out to be a dog.\r\u001b[23;1H\u001b[K\u001b[24;1H\u001b[K\u001b[25;1H\u001b[Ky k u   7 8 9   Move commands:\r\u001b[26;1H\u001b[K \\|/     \\|/            yuhjklbn: go one step in specified direction\r\u001b[27;1H\u001b[Kh-.-l   4-.-6           YUHJKLBN: go in specified direction until you\r\u001b[28;1H\u001b[K /|\\     /|\\                        hit a wall or run into something\r\u001b[29;1H\u001b[Kb j n   1 2 3           g\u003cdir\u003e:   run in direction \u003cdir\u003e until something\r\u001b[30;1H\u001b[J\u001b[K--More--"
+    ],
+    [
+      0.874021,
+      "\u001b[1;1H\u001b[K      numberpad                     interesting is seen\r\u001b[2;1H\u001b[K                        G\u003cdir\u003e,   same, except a branching corridor isn't\r\u001b[3;1H\u001b[K \u003c  up                  ^\u003cdir\u003e:     considered interesting (the ^ in this\r\u001b[4;1H\u001b[K                                    case means the Control key, not a caret)\r\u001b[5;1H\u001b[K \u003e  down                m\u003cdir\u003e:   move without picking up objects\r\u001b[6;1H\u001b[K                        F\u003cdir\u003e:   fight even if you don't sense a monster\r\u001b[7;1H\u001b[K                If the number_pad option is set, the number keys move instead.\r\u001b[8;1H\u001b[K                Depending on the platform, Shift number (on the numberpad),\r\u001b[9;1H\u001b[K                Meta number, or Alt number will invoke the YUHJKLBN commands.\r\u001b[10;1H\u001b[K                Control \u003cdir\u003e may or may not work when number_pad is enabled,\r\u001b[11;1H\u001b[K                depending on the platform's capabilities.\r\u001b[12;1H\u001b[K                Digit '5' acts as 'G' prefix, unless number_pad is set to 2\r\u001b[13;1H\u001b[K                in which "
+    ],
+    [
+      0.000066,
+      "case it acts as 'g' instead.\r\u001b[14;1H\u001b[K                If number_pad is set to 3, the roles of 1,2,3 and 7,8,9 are\r\u001b[15;1H\u001b[K                reversed; when set to 4, behaves same as 3 combined with 2.\r\u001b[16;1H\u001b[K                If number_pad is set to -1, alphabetic movement commands are\r\u001b[17;1H\u001b[K                used but 'y' and 'z' are swapped.\r\u001b[18;1H\u001b[K\u001b[19;1H\u001b[KCommands:\r\u001b[20;1H\u001b[K        NetHack knows the following commands:\r\u001b[21;1H\u001b[K        ?       Help menu.\r\u001b[22;1H\u001b[K        /       Tell what a symbol represents.  You may choose to specify\r\u001b[23;1H\u001b[K                a location or give a symbol argument.\r\u001b[24;1H\u001b[K        \u0026       Tell what a command does.\r\u001b[25;1H\u001b[K        \u003c       Go up a staircase (if you are standing on it).\r\u001b[26;1H\u001b[K        \u003e       Go down a staircase (if you are standing on it).\r\u001b[27;1H\u001b[K        .       Rest, do nothing for one turn.\r\u001b[28;1H\u001b[K        _       Travel via a shortest-path algorithm to a point on the map.\r\u001b[29;1H\u001b[K        a       Apply (use) a tool (p"
+    ],
+    [
+      0.001287,
+      "ick-axe, key, lamp...).\r\u001b[30;1H\u001b[J\u001b[K--More--"
+    ],
+    [
+      1.947798,
+      "\u001b[H\u001b[2J\u001b[H\u001b[23;1HSergeyb the Digger           \u001b[K St:14\u001b[K Dx:15\u001b[K Co:12\u001b[K In:14\u001b[K Wi:13\u001b[K Ch:7\u001b[K Lawful\u001b[K\r\u001b[24;1HDlvl:1  \u001b[K $:0\u001b[K HP:11\u001b[K(15)\u001b[K Pw:1\u001b[K(1)\u001b[K AC:9\u001b[K Xp:1\u001b[K T:141\u001b[K \u001b[K \u001b[K\u001b[K\u001b[14;36H-----------\u001b[m\u001b[15;36H|........\u001b[m\u001b[1m\u001b[37m@\u001b[m.#\u001b[m\u001b[16;36H|....\u001b[m\u001b[1m\u001b[37m?\u001b[7mf\u001b[m\u001b[m...|\u001b[m\u001b[17;36H|.....\u001b[m\u001b[36m)\u001b[m..\u003c|\u001b[m\u001b[18;36H|.........|\u001b[m\u001b[19;36H-----------\u001b[m\u001b[15;45H\u001b[1;60H\u001b[K \u001b[7mArmor\u001b[m\u001b[2;60H\u001b[K c - an uncursed +0 fedora (being worn)\u001b[3;60H\u001b[K b - an uncursed +0 leather jacket (being worn)\u001b[4;60H\u001b[K\u001b[C(end) "
+    ],
+    [
+      0.505188,
+      "\u001b[1;59H\u001b[K\u001b[2;59H\u001b[K\u001b[3;59H\u001b[K\u001b[4;59H\u001b[K\u001b[5;59H\u001b[K\u001b[15;45H\u001b[1;60H\u001b[K \u001b[7mArmor\u001b[m\u001b[2;60H\u001b[K c - an uncursed +0 fedora (being worn)\u001b[3;60H\u001b[K b - an uncursed +0 leather jacket (being worn)\u001b[4;60H\u001b[K\u001b[C(end) "
+    ],
+    [
+      11.639171,
+      "\u001b[1;59H\u001b[K\u001b[2;59H\u001b[K\u001b[3;59H\u001b[K\u001b[4;59H\u001b[K\u001b[5;59H\u001b[K\u001b[15;45H"
+    ],
+    [
+      0.151576,
+      "\u001b[HUnknown command '^J'.\u001b[K\u001b[15;45H"
+    ],
+    [
+      0.190782,
+      "\u001b[H\u001b[K\u001b[15;45H"
+    ],
+    [
+      2.529150,
+      "\u001b[1;60H\u001b[K Select one item:\u001b[2;60H\u001b[K \u001b[3;60H\u001b[K a - About NetHack (version information).\u001b[4;60H\u001b[K b - Long description of the game and commands.\u001b[5;60H\u001b[K c - List of game commands.\u001b[6;60H\u001b[K d - Concise history of NetHack.\u001b[7;60H\u001b[K e - Info on a character in the game display.\u001b[8;60H\u001b[K f - Info on what a given key does.\u001b[9;60H\u001b[K g - List of game options.\u001b[10;60H\u001b[K h - Longer explanation of game options.\u001b[11;60H\u001b[K i - List of extended commands.\u001b[12;60H\u001b[K j - The NetHack license.\u001b[13;60H\u001b[K k - Support information.\u001b[14;60H\u001b[K \u001b[15;60H\u001b[K\u001b[C(end) "
+    ],
+    [
+      2.434965,
+      "\u001b[9;63H+\u001b[1;59H\u001b[K\u001b[2;59H\u001b[K\u001b[3;59H\u001b[K\u001b[4;59H\u001b[K\u001b[5;59H\u001b[K\u001b[6;59H\u001b[K\u001b[7;59H\u001b[K\u001b[8;59H\u001b[K\u001b[9;59H\u001b[K\u001b[10;59H\u001b[K\u001b[11;59H\u001b[K\u001b[12;59H\u001b[K\u001b[13;59H\u001b[K\u001b[14;59H\u001b[K\u001b[15;59H\u001b[K\u001b[16;59H\u001b[K\u001b[1;1H\u001b[K\u001b[2;1H\u001b[K                 NetHack Options Help:\r\u001b[3;1H\u001b[K\u001b[4;1H\u001b[KSet options as OPTIONS=\u003coptions\u003e in /dgldir/userdata/s/sergeyb/sergeyb.nh360rc\r\u001b[5;1H\u001b[Kor use `NETHACKOPTIONS=\"\u003coptions\u003e\"' in your environment\r\u001b[6;1H\u001b[K(\u003coptions\u003e is a list of options separated by commas)\r\u001b[7;1H\u001b[Kor press \"O\" while playing and use the menu.\r\u001b[8;1H\u001b[K\u001b[9;1H\u001b[KBoolean options (which can be negated by prefixing them with '!' or \"no\"):\r\u001b[10;1H\u001b[Kacoustics, altmeta, ascii_map, autodig, autoopen, autopickup, autoquiver, \r\u001b[11;1H\u001b[Kblind, bones, checkpoint, clicklook, cmdassist, color, confirm, dark_room, \r\u001b[12;1H\u001b[Keight_bit_tty, extmenu, female, fixinv, fullscreen, help, hilite_pet, \r\u001b[13;1H\u001b[Khilite_pile, ignintr, implicit_uncursed, large_font, legacy, lit_corridor, \r\u001b[14;1H\u001b[Klootabc, mail, mention_walls, menucolors, menu_objsyms, mouse_s"
+    ],
+    [
+      0.000068,
+      "upport, news, \r\u001b[15;1H\u001b[Knudist, null, perm_invent, pickup_thrown, popup_dialog, preload_tiles, \r\u001b[16;1H\u001b[Kpushweapon, rest_on_space, safe_pet, selectsaved, showexp, showrace, silent, \r\u001b[17;1H\u001b[Ksoftkeyboard, sortpack, sparkle, splash_screen, standout, statushilites, \r\u001b[18;1H\u001b[Ktiled_map, time, tombstone, toptenwin, travel, use_darkgray, use_inverse, \r\u001b[19;1H\u001b[Kverbose, wraptext.\r\u001b[20;1H\u001b[K\u001b[21;1H\u001b[KCompound options:\r\u001b[22;1H\u001b[K`align'              - your starting alignment (lawful, neutral, or chaotic),\r\u001b[23;1H\u001b[K`align_message'      - message window alignment,\r\u001b[24;1H\u001b[K`align_status'       - status window alignment,\r\u001b[25;1H\u001b[K`altkeyhandler'      - alternate key handler,\r\u001b[26;1H\u001b[K`boulder'            - deprecated (use S_boulder in sym file instead),\r\u001b[27;1H\u001b[K`catname'            - the name of your (first) cat (e.g., catname:Tabby),\r\u001b[28;1H\u001b[K`disclose'           - the kinds of information to disclose at end of game,\r\u001b[29;1H\u001b[K`dogname'            - the name of your (first) dog (e.g., dogname"
+    ],
+    [
+      0.001370,
+      ":Fang),\r\u001b[30;1H\u001b[J\u001b[K--More--"
+    ],
+    [
+      1.292186,
+      "\u001b[1;1H\u001b[K`dungeon'            - the symbols to use in drawing the dungeon map,\r\u001b[2;1H\u001b[K`effects'            - the symbols to use in drawing special effects,\r\u001b[3;1H\u001b[K`font_map'           - the font to use in the map window,\r\u001b[4;1H\u001b[K`font_menu'          - the font to use in menus,\r\u001b[5;1H\u001b[K`font_message'       - the font to use in the message window,\r\u001b[6;1H\u001b[K`font_size_map'      - the size of the map font,\r\u001b[7;1H\u001b[K`font_size_menu'     - the size of the menu font,\r\u001b[8;1H\u001b[K`font_size_message'  - the size of the message font,\r\u001b[9;1H\u001b[K`font_size_status'   - the size of the status font,\r\u001b[10;1H\u001b[K`font_size_text'     - the size of the text font,\r\u001b[11;1H\u001b[K`font_status'        - the font to use in status window,\r\u001b[12;1H\u001b[K`font_text'          - the font to use in text windows,\r\u001b[13;1H\u001b[K`fruit'              - the name of a fruit you enjoy eating,\r\u001b[14;1H\u001b[K`gender'             - your starting gender (male or female),\r\u001b[15;1H\u001b[K`horsename'          - the name of your (first) horse (e.g., horsename"
+    ],
+    [
+      0.000077,
+      ":Silver),\r\u001b[16;1H\u001b[K`map_mode'           - map display mode under Windows,\r\u001b[17;1H\u001b[K`menustyle'          - user interface for object selection,\r\u001b[18;1H\u001b[K`menu_deselect_all'  - deselect all items in a menu,\r\u001b[19;1H\u001b[K`menu_deselect_page' - deselect all items on this page of a menu,\r\u001b[20;1H\u001b[K`menu_first_page'    - jump to the first page in a menu,\r\u001b[21;1H\u001b[K`menu_headings'      - text attribute for menu headings,\r\u001b[22;1H\u001b[K`menu_invert_all'    - invert all items in a menu,\r\u001b[23;1H\u001b[K`menu_invert_page'   - invert all items on this page of a menu,\r\u001b[24;1H\u001b[K`menu_last_page'     - jump to the last page in a menu,\r\u001b[25;1H\u001b[K`menu_next_page'     - goto the next menu page,\r\u001b[26;1H\u001b[K`menu_previous_page' - goto the previous menu page,\r\u001b[27;1H\u001b[K`menu_search'        - search for a menu item,\r\u001b[28;1H\u001b[K`menu_select_all'    - select all items in a menu,\r\u001b[29;1H\u001b[K`menu_select_page'   - select all items on this page of a menu,\r\u001b[30;1H\u001b[J\u001b[K--More--"
+    ],
+    [
+      0.842212,
+      "\u001b[1;1H\u001b[K`monsters'           - the symbols to use for monsters,\r\u001b[2;1H\u001b[K`msghistory'         - number of top line messages to save,\r\u001b[3;1H\u001b[K`msg_window'         - the type of message window required,\r\u001b[4;1H\u001b[K`name'               - your character's name (e.g., name:Merlin-W),\r\u001b[5;1H\u001b[K`number_pad'         - use the number pad for movement,\r\u001b[6;1H\u001b[K`objects'            - the symbols to use for objects,\r\u001b[7;1H\u001b[K`packorder'          - the inventory order of the items in your pack,\r\u001b[8;1H\u001b[K`paranoid_confirmation' - extra prompting in certain situations,\r\u001b[9;1H\u001b[K`pettype'            - your preferred initial pet type,\r\u001b[10;1H\u001b[K`pickup_burden'      - maximum burden picked up before prompt,\r\u001b[11;1H\u001b[K`pickup_types'       - types of objects to pick up automatically,\r\u001b[12;1H\u001b[K`pile_limit'         - threshold for \"there are many objects here\",\r\u001b[13;1H\u001b[K`playmode'           - normal play, non-scoring explore mode, or debug mode,\r\u001b[14;1H\u001b[K`player_selection'   - choose character via dialog or prompt"
+    ],
+    [
+      0.000172,
+      "s,\r\u001b[15;1H\u001b[K`race'               - your starting race (e.g., Human, Elf),\r\u001b[16;1H\u001b[K`role'               - your starting role (e.g., Barbarian, Valkyrie),\r\u001b[17;1H\u001b[K`runmode'            - display frequency when `running' or `travelling',\r\u001b[18;1H\u001b[K`scores'             - the parts of the score list you wish to see,\r\u001b[19;1H\u001b[K`scroll_amount'      - amount to scroll map when scroll_margin is reached,\r\u001b[20;1H\u001b[K`scroll_margin'      - scroll map when this far from the edge,\r\u001b[21;1H\u001b[K`sortloot'           - sort object selection lists by description,\r\u001b[22;1H\u001b[K`symset'             - load a set of display symbols from the symbols file,\r\u001b[23;1H\u001b[K`roguesymset'        - load a set of rogue display symbols from the symbols file,\r\u001b[24;1H\u001b[K`suppress_alert'     - suppress alerts about version-specific features,\r\u001b[25;1H\u001b[K`tile_width'         - width of tiles,\r\u001b[26;1H\u001b[K`tile_height'        - height of tiles,\r\u001b[27;1H\u001b[K`tile_file'          - name of tile file,\r\u001b[28;1H\u001b[K`traps'              - the symbols to"
+    ],
+    [
+      0.001350,
+      " use in drawing traps,\r\u001b[29;1H\u001b[K`vary_msgcount'      - show more old messages at a time,\r\u001b[30;1H\u001b[J\u001b[K--More--"
+    ],
+    [
+      3.276109,
+      "\u001b[1;1H\u001b[K`windowcolors'       - the foreground/background colors of windows,\r\u001b[2;1H\u001b[K`windowtype'         - windowing system to use,\r\u001b[3;1H\u001b[K`DECgraphics'        - load DECGraphics display symbols,\r\u001b[4;1H\u001b[K`IBMgraphics'        - load IBMGraphics display symbols.\r\u001b[5;1H\u001b[K\u001b[6;1H\u001b[KSome of the options can be set only before the game is started; those\r\u001b[7;1H\u001b[Kitems will not be selectable in the 'O' command's menu.\r\u001b[8;1H\u001b[J\u001b[30;1H\u001b[K--More--"
+    ],
+    [
+      0.305793,
+      "\u001b[H\u001b[2J\u001b[H\u001b[23;1HSergeyb the Digger           \u001b[K St:14\u001b[K Dx:15\u001b[K Co:12\u001b[K In:14\u001b[K Wi:13\u001b[K Ch:7\u001b[K Lawful\u001b[K\r\u001b[24;1HDlvl:1  \u001b[K $:0\u001b[K HP:11\u001b[K(15)\u001b[K Pw:1\u001b[K(1)\u001b[K AC:9\u001b[K Xp:1\u001b[K T:141\u001b[K \u001b[K \u001b[K\u001b[K\u001b[14;36H-----------\u001b[m\u001b[15;36H|........\u001b[m\u001b[1m\u001b[37m@\u001b[m.#\u001b[m\u001b[16;36H|....\u001b[m\u001b[1m\u001b[37m?\u001b[7mf\u001b[m\u001b[m...|\u001b[m\u001b[17;36H|.....\u001b[m\u001b[36m)\u001b[m..\u003c|\u001b[m\u001b[18;36H|.........|\u001b[m\u001b[19;36H-----------\u001b[m\u001b[15;45H"
+    ],
+    [
+      1.311379,
+      "\u001b[1;60H\u001b[K Select one item:\u001b[2;60H\u001b[K \u001b[3;60H\u001b[K a - About NetHack (version information).\u001b[4;60H\u001b[K b - Long description of the game and commands.\u001b[5;60H\u001b[K c - List of game commands.\u001b[6;60H\u001b[K d - Concise history of NetHack.\u001b[7;60H\u001b[K e - Info on a character in the game display.\u001b[8;60H\u001b[K f - Info on what a given key does.\u001b[9;60H\u001b[K g - List of game options.\u001b[10;60H\u001b[K h - Longer explanation of game options.\u001b[11;60H\u001b[K i - List of extended commands.\u001b[12;60H\u001b[K j - The NetHack license.\u001b[13;60H\u001b[K k - Support information.\u001b[14;60H\u001b[K \u001b[15;60H\u001b[K\u001b[C(end) "
+    ],
+    [
+      7.626310,
+      "\u001b[5;63H+\u001b[1;59H\u001b[K\u001b[2;59H\u001b[K\u001b[3;59H\u001b[K\u001b[4;59H\u001b[K\u001b[5;59H\u001b[K\u001b[6;59H\u001b[K\u001b[7;59H\u001b[K\u001b[8;59H\u001b[K\u001b[9;59H\u001b[K\u001b[10;59H\u001b[K\u001b[11;59H\u001b[K\u001b[12;59H\u001b[K\u001b[13;59H\u001b[K\u001b[14;59H\u001b[K\u001b[15;59H\u001b[K\u001b[16;59H\u001b[K\u001b[1;1H\u001b[Ky k u   7 8 9   Move commands:\r\u001b[2;1H\u001b[K \\|/     \\|/            yuhjklbn: go one step in specified direction\r\u001b[3;1H\u001b[Kh-.-l   4-.-6           YUHJKLBN: go in specified direction until you\r\u001b[4;1H\u001b[K /|\\     /|\\                        hit a wall or run into something\r\u001b[5;1H\u001b[Kb j n   1 2 3           g\u003cdir\u003e:   run in direction \u003cdir\u003e until something\r\u001b[6;1H\u001b[K      numberpad                     interesting is seen\r\u001b[7;1H\u001b[K                        G\u003cdir\u003e,   same, except a branching corridor isn't\r\u001b[8;1H\u001b[K \u003c  up                  ^\u003cdir\u003e:     considered interesting (the ^ in this\r\u001b[9;1H\u001b[K                                    case means the Control key, not a caret)\r\u001b[10;1H\u001b[K \u003e  down                m\u003cdir\u003e:   move without picking up objects/fighting\r\u001b[11;1H\u001b[K                        F\u003cdir\u003e:   fight even if you don't sense a mons"
+    ],
+    [
+      0.000103,
+      "ter\r\u001b[12;1H\u001b[K                If the number_pad option is set, the number keys move instead.\r\u001b[13;1H\u001b[K                Depending on the platform, Shift number (on the numberpad),\r\u001b[14;1H\u001b[K                Meta number, or Alt number will invoke the YUHJKLBN commands.\r\u001b[15;1H\u001b[K                Control \u003cdir\u003e may or may not work when number_pad is enabled,\r\u001b[16;1H\u001b[K                depending on the platform's capabilities.\r\u001b[17;1H\u001b[K                Digit '5' acts as 'G' prefix, unless number_pad is set to 2\r\u001b[18;1H\u001b[K                in which case it acts as 'g' instead.\r\u001b[19;1H\u001b[K                If number_pad is set to 3, the roles of 1,2,3 and 7,8,9 are\r\u001b[20;1H\u001b[K                reversed; when set to 4, behaves same as 3 combined with 2.\r\u001b[21;1H\u001b[K                If number_pad is set to -1, alphabetic movement commands are\r\u001b[22;1H\u001b[K                used but 'y' and 'z' are swapped.\r\u001b[23;1H\u001b[K\u001b[24;1H\u001b[KGeneral commands:\r\u001b[25;1H\u001b[K?       help    display one of several informative texts\r\u001b[26;1H\u001b[K#qu"
+    ],
+    [
+      0.001532,
+      "it   quit    end the game without saving current game\r\u001b[27;1H\u001b[KS       save    save the game (to be continued later) and exit\r\u001b[28;1H\u001b[K!       sh      escape to some SHELL (if allowed)\r\u001b[29;1H\u001b[K^Z      suspend suspend the game (independent of your current suspend char)\r\u001b[30;1H\u001b[J\u001b[K--More--"
+    ],
+    [
+      4.845480,
+      "\u001b[1;1H\u001b[KO       options set options\r\u001b[2;1H\u001b[K/       whatis  tell what a map symbol represents\r\u001b[3;1H\u001b[K\\       known   display list of what's been discovered\r\u001b[4;1H\u001b[Kv       version display version number\r\u001b[5;1H\u001b[KV       history display game history\r\u001b[6;1H\u001b[K^A      again   redo the previous command (^A denotes the keystroke CTRL-A)\r\u001b[7;1H\u001b[K^R      redraw  redraw the screen\r\u001b[8;1H\u001b[K^P      prevmsg repeat previous message (subsequent ^P's repeat earlier ones)\r\u001b[9;1H\u001b[K#               introduces an extended command (#? for a list of them)\r\u001b[10;1H\u001b[K\u001b[11;1H\u001b[KGame commands:\r\u001b[12;1H\u001b[K^D      kick    kick (a door, or something else)\r\u001b[13;1H\u001b[K^T      'port   teleport (if you can)\r\u001b[14;1H\u001b[K^X      show    show your attributes\r\u001b[15;1H\u001b[Ka       apply   apply or use a tool (pick-axe, key, camera, etc.)\r\u001b[16;1H\u001b[KA       armor   take off all armor\r\u001b[17;1H\u001b[Kc       close   close a door\r\u001b[18;1H\u001b[KC       call    name a monster, an individual object, or a type of object\r\u001b[19;1H\u001b[Kd       drop   "
+    ],
+    [
+      0.000077,
+      " drop an object.  d7a:  drop seven items of object 'a'\r\u001b[20;1H\u001b[KD       Drop    drop selected types of objects\r\u001b[21;1H\u001b[Ke       eat     eat something\r\u001b[22;1H\u001b[KE       engrave write a message in the dust on the floor  (E-  use fingers)\r\u001b[23;1H\u001b[Kf       fire    fire ammunition from quiver\r\u001b[24;1H\u001b[KF       fight   followed by direction, fight a monster\r\u001b[25;1H\u001b[Ki       invent  list your inventory (all objects you are carrying)\r\u001b[26;1H\u001b[KI       Invent  list selected parts of your inventory\r\u001b[27;1H\u001b[K                Iu: list unpaid objects\r\u001b[28;1H\u001b[K                Ix: list unpaid but used up items\r\u001b[29;1H\u001b[K                I$: count your money\r\u001b[30;1H\u001b[J\u001b[K--More--"
+    ],
+    [
+      1.187322,
+      "\u001b[1;1H\u001b[Ko       open    open a door\r\u001b[2;1H\u001b[Kp       pay     pay your bill (in a shop)\r\u001b[3;1H\u001b[KP       puton   put on an accessory (ring, amulet, etc)\r\u001b[4;1H\u001b[Kq       quaff   drink something (potion, water, etc)\r\u001b[5;1H\u001b[KQ       quiver  select ammunition for quiver\r\u001b[6;1H\u001b[Kr       read    read a scroll or spellbook\r\u001b[7;1H\u001b[KR       remove  remove an accessory (ring, amulet, etc)\r\u001b[8;1H\u001b[Ks       search  search for secret doors, hidden traps and monsters\r\u001b[9;1H\u001b[Kt       throw   throw or shoot a weapon\r\u001b[10;1H\u001b[KT       takeoff take off some armor\r\u001b[11;1H\u001b[Kw       wield   wield a weapon  (w-  wield nothing)\r\u001b[12;1H\u001b[KW       wear    put on some armor\r\u001b[13;1H\u001b[Kx       xchange swap wielded and secondary weapons\r\u001b[14;1H\u001b[KX       twoweapon toggle two-weapon combat\r\u001b[15;1H\u001b[Kz       zap     zap a wand  (use y instead of z if number_pad is -1)\r\u001b[16;1H\u001b[KZ       Zap     cast a spell  (use Y instead of Z if number_pad is -1)\r\u001b[17;1H\u001b[K\u003c       up      go up the stairs\r\u001b[18;1H\u001b[K\u003e       down    g"
+    ],
+    [
+      0.000075,
+      "o down the stairs\r\u001b[19;1H\u001b[K^       trap_id identify a previously found trap\r\u001b[20;1H\u001b[K),[,=,\",(       ask for current items of specified symbol in use\r\u001b[21;1H\u001b[K*               ask for combination of ),[,=,\",( all at once\r\u001b[22;1H\u001b[K$       gold    count your gold\r\u001b[23;1H\u001b[K+       spells  list the spells you know; also rearrange them if desired\r\u001b[24;1H\u001b[K`       classkn display known items for one class of objects\r\u001b[25;1H\u001b[K_       travel  move via a shortest-path algorithm to a point on the map \r\u001b[26;1H\u001b[K.       rest    wait a moment\r\u001b[27;1H\u001b[K,       pickup  pick up all you can carry\r\u001b[28;1H\u001b[K@               toggle \"pickup\" (auto pickup) option on and off\r\u001b[29;1H\u001b[K:       look    look at what is here\r\u001b[30;1H\u001b[J\u001b[K--More--"
+    ],
+    [
+      1.186611,
+      "\u001b[1;1H\u001b[K;       farlook look at what is somewhere else by selecting a map symbol\r\u001b[2;1H\u001b[K\u001b[3;1H\u001b[KKeyboards that have a meta key can also use these extended commands\r\u001b[4;1H\u001b[Kvia the meta modifier instead of the # prefix:\r\u001b[5;1H\u001b[K\u001b[6;1H\u001b[KM-?             display extended command help (if the platform allows this)\r\u001b[7;1H\u001b[KM-2     twoweapon toggle two-weapon combat (unless number_pad is enabled)\r\u001b[8;1H\u001b[KM-a     adjust  adjust inventory letters\r\u001b[9;1H\u001b[KM-c     chat    talk to someone\r\u001b[10;1H\u001b[KM-d     dip     dip an object into something\r\u001b[11;1H\u001b[KM-e     enhance advance or check weapon and spell skills\r\u001b[12;1H\u001b[KM-f     force   force a lock\r\u001b[13;1H\u001b[KM-i     invoke  invoke an object's special powers\r\u001b[14;1H\u001b[KM-j     jump    jump to another location\r\u001b[15;1H\u001b[KM-l     loot    loot a box on the floor\r\u001b[16;1H\u001b[KM-m     monster use a monster's special ability\r\u001b[17;1H\u001b[KM-n     name    name a monster, an individual object, or a type of object\r\u001b[18;1H\u001b[KM-o     offer   offer a sacrifice to the go"
+    ],
+    [
+      0.000076,
+      "ds\r\u001b[19;1H\u001b[KM-p     pray    pray to the gods for help\r\u001b[20;1H\u001b[KM-q     quit    stop playing\r\u001b[21;1H\u001b[KM-r     rub     rub a lamp or a stone\r\u001b[22;1H\u001b[KM-s     sit     sit down\r\u001b[23;1H\u001b[KM-t     turn    turn undead\r\u001b[24;1H\u001b[KM-u     untrap  untrap something\r\u001b[25;1H\u001b[KM-v     version print compile time options for this version\r\u001b[26;1H\u001b[KM-w     wipe    wipe off your face\r\u001b[27;1H\u001b[K\u001b[28;1H\u001b[KIf the \"number_pad\" option is on, these additional variants are available:\r\u001b[29;1H\u001b[K\u001b[30;1H\u001b[J\u001b[K--More--"
+    ],
+    [
+      0.550115,
+      "\u001b[1;1H\u001b[Kn               followed by number of times to repeat the next command\r\u001b[2;1H\u001b[Kh       help    display one of several informative texts, like '?'\r\u001b[3;1H\u001b[Kj       jump    jump to another location\r\u001b[4;1H\u001b[Kk       kick    kick something (usually a door)\r\u001b[5;1H\u001b[Kl       loot    loot a box on the floor\r\u001b[6;1H\u001b[KN       name    name an item or type of object\r\u001b[7;1H\u001b[Ku       untrap  untrap something (usually a trapped object)\r\u001b[8;1H\u001b[J\u001b[30;1H\u001b[K--More--"
+    ],
+    [
+      0.676786,
+      "\u001b[H\u001b[2J\u001b[H\u001b[23;1HSergeyb the Digger           \u001b[K St:14\u001b[K Dx:15\u001b[K Co:12\u001b[K In:14\u001b[K Wi:13\u001b[K Ch:7\u001b[K Lawful\u001b[K\r\u001b[24;1HDlvl:1  \u001b[K $:0\u001b[K HP:11\u001b[K(15)\u001b[K Pw:1\u001b[K(1)\u001b[K AC:9\u001b[K Xp:1\u001b[K T:141\u001b[K \u001b[K \u001b[K\u001b[K\u001b[14;36H-----------\u001b[m\u001b[15;36H|........\u001b[m\u001b[1m\u001b[37m@\u001b[m.#\u001b[m\u001b[16;36H|....\u001b[m\u001b[1m\u001b[37m?\u001b[7mf\u001b[m\u001b[m...|\u001b[m\u001b[17;36H|.....\u001b[m\u001b[36m)\u001b[m..\u003c|\u001b[m\u001b[18;36H|.........|\u001b[m\u001b[19;36H-----------\u001b[m\u001b[15;45H"
+    ],
+    [
+      1.594208,
+      "\u001b[H# \u001b[K"
+    ],
+    [
+      0.502074,
+      "quit\u0008\u0008\u0008"
+    ],
+    [
+      0.204404,
+      "uit\u0008\u0008"
+    ],
+    [
+      0.129414,
+      "it\u0008"
+    ],
+    [
+      0.126831,
+      "t"
+    ],
+    [
+      0.422402,
+      "\u001b[H\u001b[K\u001b[15;45H\u001b[HReally quit? [yn] (n) \u001b[K"
+    ],
+    [
+      1.211392,
+      "y\u001b[K\u001b[15;45H\u001b[HDo you want your possessions identified? [ynq] (y) \u001b[K"
+    ],
+    [
+      3.154073,
+      "y\u001b[K\u001b[H\u001b[K\u001b[1;60H\u001b[K \u001b[7mWeapons\u001b[m\u001b[2;60H\u001b[K a - a +2 bullwhip (weapon in hand)\u001b[3;60H\u001b[K \u001b[7mArmor\u001b[m\u001b[4;60H\u001b[K c - an uncursed +0 fedora (being worn)\u001b[5;60H\u001b[K b - an uncursed +0 leather jacket (being worn)\u001b[6;60H\u001b[K \u001b[7mComestibles\u001b[m\u001b[7;60H\u001b[K d - 3 uncursed food rations\u001b[8;60H\u001b[K \u001b[7mTools\u001b[m\u001b[9;60H\u001b[K e - a +0 pick-axe (alternate weapon; not wielded)\u001b[10;60H\u001b[K h - an empty uncursed sack\u001b[11;60H\u001b[K f - a tinning kit (0:47)\u001b[12;60H\u001b[K \u001b[7mGems/Stones\u001b[m\u001b[13;60H\u001b[K g - an uncursed touchstone\u001b[14;60H\u001b[K\u001b[C(end) "
+    ],
+    [
+      1.375108,
+      "\u001b[1;59H\u001b[K\u001b[2;59H\u001b[K\u001b[3;59H\u001b[K\u001b[4;59H\u001b[K\u001b[5;59H\u001b[K\u001b[6;59H\u001b[K\u001b[7;59H\u001b[K\u001b[8;59H\u001b[K\u001b[9;59H\u001b[K\u001b[10;59H\u001b[K\u001b[11;59H\u001b[K\u001b[12;59H\u001b[K\u001b[13;59H\u001b[K\u001b[14;59H\u001b[K\u001b[15;59H\u001b[K\u001b[15;45H\u001b[HDo you want to see your attributes? [ynq] (y) \u001b[K"
+    ],
+    [
+      1.955103,
+      "y\u001b[K\u001b[H\u001b[K\u001b[1;56H\u001b[K Sergeyb the Archeologist's attributes:\u001b[2;56H\u001b[K \u001b[3;56H\u001b[K Background:\u001b[4;56H\u001b[K  You were a Digger, a level 1 male dwarven Archeologist.\u001b[5;56H\u001b[K  You were lawful, on a mission for Quetzalcoatl\u001b[6;56H\u001b[K  who was opposed by Camaxtli (neutral) and Huhetotl (chaotic).\u001b[7;56H\u001b[K \u001b[8;56H\u001b[K Final Characteristics:\u001b[9;56H\u001b[K  Your strength was 14 (limit:18/100).\u001b[10;56H\u001b[K  Your dexterity was 15 (limit:20).\u001b[11;56H\u001b[K  Your constitution was 12 (limit:20).\u001b[12;56H\u001b[K  Your intelligence was 14 (limit:16).\u001b[13;56H\u001b[K  Your wisdom was 13 (limit:16).\u001b[14;56H\u001b[K  Your charisma was 7 (limit:16).\u001b[15;56H\u001b[K \u001b[16;56H\u001b[K Final Status:\u001b[17;56H\u001b[K  You were unencumbered.\u001b[18;56H\u001b[K  You were wielding a whip.\u001b[19;56H\u001b[K \u001b[20;56H\u001b[K Final Attributes:\u001b[21;56H\u001b[K  You were fervently aligned.\u001b[22;56H\u001b[K  You had infravision.\u001b[23;56H\u001b[K  You were stealthy.\u001b[24;56H\u001b[K  You were fast.\u001b[25;56H\u001b[K  You were lucky.\u001b[26;56H\u001b[K  You survived.\u001b[27;56H\u001b[K\u001b[C--More--"
+    ],
+    [
+      1.069714,
+      "\u001b[1;55H\u001b[K\u001b[2;55H\u001b[K\u001b[3;55H\u001b[K\u001b[4;55H\u001b[K\u001b[5;55H\u001b[K\u001b[6;55H\u001b[K\u001b[7;55H\u001b[K\u001b[8;55H\u001b[K\u001b[9;55H\u001b[K\u001b[10;55H\u001b[K\u001b[11;55H\u001b[K\u001b[12;55H\u001b[K\u001b[13;55H\u001b[K\u001b[14;55H\u001b[K\u001b[15;55H\u001b[K\u001b[16;55H\u001b[K\u001b[17;55H\u001b[K\u001b[18;55H\u001b[K\u001b[19;55H\u001b[K\u001b[20;55H\u001b[K\u001b[21;55H\u001b[K\u001b[22;55H\u001b[K\u001b[23;55H\u001b[K\u001b[24;55H\u001b[K\u001b[25;55H\u001b[K\u001b[26;55H\u001b[K\u001b[27;55H\u001b[K\u001b[23;1HSergeyb the Digger           \u001b[K St:14\u001b[K Dx:15\u001b[K Co:12\u001b[K In:14\u001b[K Wi:13\u001b[K Ch:7\u001b[K Lawful\u001b[K\r\u001b[24;1HDlvl:1  \u001b[K $:0\u001b[K HP:11\u001b[K(15)\u001b[K Pw:1\u001b[K(1)\u001b[K AC:9\u001b[K Xp:1\u001b[K T:141\u001b[K \u001b[K \u001b[K\u001b[K\u001b[15;45H\u001b[HDo you want an account of creatures vanquished? [ynq] (y) \u001b[K"
+    ],
+    [
+      1.053938,
+      "y\u001b[K\u001b[H\u001b[K\u001b[1;60H\u001b[K Vanquished creatures:\u001b[2;60H\u001b[K \u001b[3;60H\u001b[K a jackal\u001b[4;60H\u001b[K a goblin\u001b[5;60H\u001b[K 2 grid bugs\u001b[6;60H\u001b[K a newt\u001b[7;60H\u001b[K \u001b[8;60H\u001b[K 5 creatures vanquished.\u001b[9;60H\u001b[K\u001b[C--More--"
+    ],
+    [
+      2.268902,
+      "\u001b[1;59H\u001b[K\u001b[2;59H\u001b[K\u001b[3;59H\u001b[K\u001b[4;59H\u001b[K\u001b[5;59H\u001b[K\u001b[6;59H\u001b[K\u001b[7;59H\u001b[K\u001b[8;59H\u001b[K\u001b[9;59H\u001b[K\u001b[15;45H\u001b[HDo you want to see your conduct? [ynq] (y) \u001b[K"
+    ],
+    [
+      2.314632,
+      "n\u001b[K\u001b[15;45H\u001b[HDo you want to see the dungeon overview? [ynq] (y) \u001b[K"
+    ],
+    [
+      0.811963,
+      "\u001b[30;1H\u001b[2J\u001b[?47l\u001b8\r\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.128561,
+      "\u001b]2;NAO - sergeyb\u0007\u001b[2J\u001b)0\u001b7\u001b[?47h\u001b[1;30r\u001b[m\u001b[4l\u001b[?1h\u001b=\u001b[m\u001b[m\u001b[m\u001b[H\u001b[2J\u001b[H\u001b[2J\u001b[1B ## \u001b[33m\u001b[40m\u001b[1mnethack.alt.org - http://nethack.alt.org/\u001b[3;2H\u001b[m\u001b[m##\u001b[1B\u0008\u0008## NetHack 3.6.0\u001b[6;3HLogged in as: \u001b[1msergeyb\u001b[8;3H\u001b[mc) Change password\u001b[9;3He) Change email address\u001b[10;3Hw) Watch games in progress\u001b[11;3Ho) Edit options using 'virus' ( See http://alt.org/nethack/virus.php )\u001b[12;3HR) Reset NH360 options file to the default one\u001b[13;3Hp) Play NetHack 3.6.0\u001b[15;3HG) View the NetHack Guidebook\u001b[16;3Hs) server info\u001b[17;3Hm) MOTD/news (updated: 2015.12.07)\u001b[19;3Hq) Return to main menu\u001b[22;3H=\u003e "
+    ],
+    [
+      1.703620,
+      "\u001b[H\u001b[2J\u001b[1B ## \u001b[33m\u001b[40m\u001b[1mnethack.alt.org - http://nethack.alt.org/\u001b[3;2H\u001b[m\u001b[m##\u001b[1B\u0008\u0008##\u001b[2B\u0008Logged in as: \u001b[1msergeyb\u001b[8;3H\u001b[mc) Change password\u001b[9;3He) Change email address\u001b[10;3Hw) Watch games in progress\u001b[12;3H1) Go to NetHack 3.6.0 menu\u001b[13;3H2) Go to NetHack 3.4.3 menu\u001b[16;3Hs) server info\u001b[17;3Hm) MOTD/news (updated: 2015.12.07)\u001b[19;3Hq) Quit\u001b[22;3H=\u003e "
+    ],
+    [
+      1.052446,
+      "Connection closed by foreign host.\r\n"
+    ],
+    [
+      0.005774,
+      "\u001b[0;36m~/Downloads/oldrunner\u001b[01m\u001b[30m\u001b[31m$\u001b[0m "
+    ],
+    [
+      1.240991,
+      "exit\r\n"
+    ]
+  ]
+}
