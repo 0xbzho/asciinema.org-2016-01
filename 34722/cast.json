@@ -1,0 +1,1770 @@
+{
+  "version": 1,
+  "width": 120,
+  "height": 30,
+  "duration": 112.908092,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.017430,
+      "\u001b]0;root@phatt: ~\u0007\u001b[1;31mroot\u001b[1;00m@\u001b[1;34mphatt\u001b[1;00m:\u001b[1;34m~\u001b[1;00m$ "
+    ],
+    [
+      0.929265,
+      "m"
+    ],
+    [
+      0.063813,
+      "k"
+    ],
+    [
+      0.119955,
+      "d"
+    ],
+    [
+      0.088093,
+      "i"
+    ],
+    [
+      0.080106,
+      "r"
+    ],
+    [
+      0.073009,
+      " "
+    ],
+    [
+      0.311000,
+      "v"
+    ],
+    [
+      0.055775,
+      "a"
+    ],
+    [
+      0.112053,
+      "g"
+    ],
+    [
+      0.176012,
+      "r"
+    ],
+    [
+      0.074039,
+      "a"
+    ],
+    [
+      0.053873,
+      "n"
+    ],
+    [
+      0.152125,
+      "t"
+    ],
+    [
+      0.055758,
+      "\r\n"
+    ],
+    [
+      0.018980,
+      "\u001b]0;root@phatt: ~\u0007\u001b[1;31mroot\u001b[1;00m@\u001b[1;34mphatt\u001b[1;00m:\u001b[1;34m~\u001b[1;00m$ "
+    ],
+    [
+      0.473138,
+      "c"
+    ],
+    [
+      0.148008,
+      "d"
+    ],
+    [
+      0.104021,
+      " "
+    ],
+    [
+      0.128118,
+      "v"
+    ],
+    [
+      0.095796,
+      "a"
+    ],
+    [
+      0.129116,
+      "g"
+    ],
+    [
+      0.271350,
+      "r"
+    ],
+    [
+      0.143110,
+      "\u0007"
+    ],
+    [
+      0.000007,
+      "ant"
+    ],
+    [
+      0.311762,
+      "\r\n"
+    ],
+    [
+      0.000433,
+      "\u001b]0;root@phatt: ~/vagrant\u0007\u001b[1;31mroot\u001b[1;00m@\u001b[1;34mphatt\u001b[1;00m:\u001b[1;34mvagrant\u001b[1;00m$ "
+    ],
+    [
+      0.265609,
+      "v"
+    ],
+    [
+      0.118795,
+      "a"
+    ],
+    [
+      0.081057,
+      "g"
+    ],
+    [
+      0.199045,
+      "r"
+    ],
+    [
+      0.073705,
+      "a"
+    ],
+    [
+      0.109267,
+      "n"
+    ],
+    [
+      0.120096,
+      "t"
+    ],
+    [
+      0.145000,
+      " "
+    ],
+    [
+      0.239920,
+      "i"
+    ],
+    [
+      0.079865,
+      "n"
+    ],
+    [
+      0.157938,
+      "i"
+    ],
+    [
+      0.013725,
+      "t"
+    ],
+    [
+      0.153169,
+      " "
+    ],
+    [
+      0.259098,
+      "o"
+    ],
+    [
+      0.083830,
+      "p"
+    ],
+    [
+      0.137224,
+      "e"
+    ],
+    [
+      0.139011,
+      "n"
+    ],
+    [
+      0.214004,
+      "n"
+    ],
+    [
+      0.202726,
+      "m"
+    ],
+    [
+      0.000007,
+      "s"
+    ],
+    [
+      0.292222,
+      "/"
+    ],
+    [
+      0.424946,
+      "va"
+    ],
+    [
+      0.163983,
+      "g"
+    ],
+    [
+      0.163856,
+      "r"
+    ],
+    [
+      0.120187,
+      "a"
+    ],
+    [
+      0.163951,
+      "nt"
+    ],
+    [
+      0.163011,
+      "-"
+    ],
+    [
+      0.216066,
+      "o"
+    ],
+    [
+      0.111014,
+      "p"
+    ],
+    [
+      0.138925,
+      "e"
+    ],
+    [
+      0.142085,
+      "n"
+    ],
+    [
+      0.143815,
+      "n"
+    ],
+    [
+      0.176003,
+      "m"
+    ],
+    [
+      0.104087,
+      "s"
+    ],
+    [
+      0.110907,
+      "-"
+    ],
+    [
+      0.200037,
+      "u"
+    ],
+    [
+      0.104908,
+      "b"
+    ],
+    [
+      0.115936,
+      "u"
+    ],
+    [
+      0.038399,
+      "n"
+    ],
+    [
+      0.205573,
+      "t"
+    ],
+    [
+      0.211494,
+      "u"
+    ],
+    [
+      0.362948,
+      "-"
+    ],
+    [
+      0.143991,
+      "s"
+    ],
+    [
+      0.087961,
+      "t"
+    ],
+    [
+      0.096050,
+      "a"
+    ],
+    [
+      0.121152,
+      "b"
+    ],
+    [
+      0.113152,
+      "l"
+    ],
+    [
+      0.094658,
+      "e"
+    ],
+    [
+      0.332398,
+      "\r\n"
+    ],
+    [
+      0.476257,
+      "\u001b[0mA `Vagrantfile` has been placed in this directory. You are now\r\nready to `vagrant up` your first virtual environment! Please read\r\nthe comments in the Vagrantfile as well as documentation on\r\n`vagrantup.com` for more information on using Vagrant.\u001b[0m\r\n"
+    ],
+    [
+      0.065710,
+      "\u001b]0;root@phatt: ~/vagrant\u0007\u001b[1;31mroot\u001b[1;00m@\u001b[1;34mphatt\u001b[1;00m:\u001b[1;34mvagrant\u001b[1;00m$ "
+    ],
+    [
+      0.319795,
+      "v"
+    ],
+    [
+      0.004795,
+      "i"
+    ],
+    [
+      0.137042,
+      " "
+    ],
+    [
+      0.474089,
+      "V"
+    ],
+    [
+      0.124859,
+      "a"
+    ],
+    [
+      0.177187,
+      "grantfile "
+    ],
+    [
+      0.417843,
+      "\r\n"
+    ],
+    [
+      0.027791,
+      "\u001b[?1049h\u001b[?1h\u001b=\u001b[2;1H▽\u001b[6n\u001b[1;1H  \u001b[1;1H"
+    ],
+    [
+      0.000498,
+      "\u001b[1;30r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[30;1H\"Vagrantfile\""
+    ],
+    [
+      0.000082,
+      " 71L, 3049C"
+    ],
+    [
+      0.001285,
+      "\u001b[\u003ec"
+    ],
+    [
+      0.000643,
+      "\u001b[1;1H\u001b[38;5;130m  1 \u001b[m\u001b[4m\u001b[34m# -*- mode: ruby -*-\u001b[m\u001b[4m                                                           \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[2;1H\u001b[38;5;130m  2 \u001b[m\u001b[34m# vi: set ft=ruby :\u001b[m\u001b[60C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m  3 \u001b[m\u001b[79C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m  4 \u001b[m\u001b[34m# All Vagrant configuration is done below. The \"2\" in Vagrant.configure\u001b[m\u001b[8C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m  5 \u001b[m\u001b[34m# configures the configuration version (we support older styles for\u001b[m\u001b[12C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m  6 \u001b[m\u001b[34m# backwards compatibility). Please don't change it unless you know what\u001b[m\u001b[8C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m  7 \u001b[m\u001b[34m# you're doing.\u001b[m\u001b[64C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m  8 \u001b[mVagrant.configure(2) do |config|\u001b[47C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m  9 \u001b[m  \u001b[34m# The most common configuration options are documented and commented below.\u001b[m  \u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 10 \u001b[m  \u001b[34m# For a complete reference, please see the online documentation at\u001b[m\u001b[11C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 11 \u001b[m  \u001b[34m# https://docs.vagrantup.com.\u001b[m\u001b[48C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 12 \u001b[m\u001b[79C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 13 \u001b[m  \u001b[34m# Every Vagrant development environment requires a box. You can search for\u001b[m   \u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 14 \u001b[m  \u001b[34m# boxes at https://atlas.hashicorp.com/search.\u001b[m\u001b[31C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 15 \u001b[m  config.vm.box = \u001b[31m\"opennms/vagrant-opennms-ubuntu-stable\"\u001b[m\u001b[22C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 16 \u001b[m\u001b[79C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 17 \u001b[m  \u001b[34m# Disable automatic box update checking. If you disable this, then\u001b[m\u001b[11C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 18 \u001b[m  \u001b[34m# boxes will only be checked for updates when the user runs\u001b[m\u001b[18C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 19 \u001b[m  \u001b[34m# `vagrant box outdated`. This is not recommended.\u001b[m\u001b[27C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 20 \u001b[m  \u001b[34m# config.vm.box_check_update = false\u001b[m\u001b[41C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 21 \u001b[m\u001b[79C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 22 \u001b[m  \u001b[34m# Create a forwarded port mapping which allows access to a specific "
+    ],
+    [
+      0.000180,
+      "port\u001b[m     \u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 23 \u001b[m  \u001b[34m# within the machine from a port on the host machine. In the example below,\u001b[m  \u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 24 \u001b[m  \u001b[34m# accessing \"localhost:8080\" will access port 80 on the guest machine.\u001b[m\u001b[7C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 25 \u001b[m  \u001b[34m# config.vm.network \"forwarded_port\", guest: 80, host: 8080\u001b[m\u001b[18C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 26 \u001b[m\u001b[79C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 27 \u001b[m  \u001b[34m# Create a private network, which allows host-only access to the machine\u001b[m     \u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 28 \u001b[m  \u001b[34m# using a specific IP.\u001b[m\u001b[55C\u001b[48;5;224m \u001b[m\r\n\u001b[38;5;130m 29 \u001b[m  \u001b[34m# config.vm.network \"private_network\", ip: \"192.168.33.10\"\u001b[m\u001b[19C\u001b[48;5;224m \u001b[m\u001b[30;103H1,1\u001b[11CTop\u001b[1;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.851644,
+      "\u001b[?25l\u001b[34m# -*- mode: ruby -*-\u001b[m                                                           \u001b[48;5;224m \u001b[m\u001b[1;85H\u001b[K\u001b[2;5H\u001b[4m\u001b[34m# vi: set ft=ruby :\u001b[m\u001b[4m                                                            \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H2\u001b[2;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.366906,
+      "\u001b[?25l\u001b[34m# vi: set ft=ruby :\u001b[m                                                            \u001b[48;5;224m \u001b[m\u001b[2;85H\u001b[K\u001b[3;5H\u001b[4m                                                                               \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H3,0-1\u001b[3;5H\u001b[?12l\u001b[?25h\u001b[?25l                                                                               \u001b[48;5;224m \u001b[m\u001b[3;85H\u001b[K\u001b[4;5H\u001b[4m\u001b[34m# All Vagrant configuration is done below. The \"2\" in Vagrant.configure\u001b[m\u001b[4m        \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H4,1  \u001b[4;5H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[34m# All Vagrant configuration is done below. The \"2\" in Vagrant.configure\u001b[m        \u001b[48;5;224m \u001b[m\u001b[4;85H\u001b[K\u001b[5;5H\u001b[4m\u001b[34m# configures the configuration version (we support older styles for\u001b[m\u001b[4m            \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H5\u001b[5;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000913,
+      "\u001b[?25l\u001b[34m# configures the configuration version (we support older styles for\u001b[m            \u001b[48;5;224m \u001b[m\u001b[5;85H\u001b[K\u001b[6;5H\u001b[4m\u001b[34m# backwards compatibility). Please don't change it unless you know what\u001b[m\u001b[4m        \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H6\u001b[6;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.014828,
+      "\u001b[?25l\u001b[34m# backwards compatibility). Please don't change it unless you know what\u001b[m        \u001b[48;5;224m \u001b[m\u001b[6;85H\u001b[K\u001b[7;5H\u001b[4m\u001b[34m# you're doing.\u001b[m\u001b[4m                                                                \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H7\u001b[7;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.059318,
+      "\u001b[?25l\u001b[34m# you're doing.\u001b[m                                                                \u001b[48;5;224m \u001b[m\u001b[7;85H\u001b[K\u001b[8;5H\u001b[4mVagrant.configure(2) do |config|                                               \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H8\u001b[8;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.162066,
+      "\u001b[?25lVagrant.configure(2) do |config|                                               \u001b[48;5;224m \u001b[m\u001b[8;85H\u001b[K\u001b[9;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m# The most common configuration options are documented and commented below.\u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H9\u001b[9;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003636,
+      "\u001b[?25l  \u001b[34m# The most common configuration options are documented and commented below.\u001b[m  \u001b[48;5;224m \u001b[m\u001b[9;85H\u001b[K\u001b[10;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m# For a complete reference, please see the online documentation at\u001b[m\u001b[4m           \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H10,1\u001b[10;5H\u001b[?12l\u001b[?25h\u001b[?25l  \u001b[34m# For a complete reference, please see the online documentation at\u001b[m           \u001b[48;5;224m \u001b[m\u001b[10;85H\u001b[K\u001b[11;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m# https://docs.vagrantup.com.\u001b[m\u001b[4m                                                \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;104H1\u001b[11;5H\u001b[?12l\u001b[?25h\u001b[?25l  \u001b[34m# https://docs.vagrantup.com.\u001b[m                                                \u001b[48;5;224m \u001b[m\u001b[11;85H\u001b[K\u001b[12;5H\u001b[4m                                                                               \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;104H2,0-1\u001b[12;5H\u001b[?12l\u001b[?25h\u001b[?25l                                                                               \u001b[48;5;224m \u001b[m\u001b[12;85H\u001b[K\u001b[13;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m# Every Vagrant development environment requires a box. You can search for\u001b[m\u001b[4m   \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;104H3,1  \u001b[13;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.018733,
+      "\u001b[?25l  \u001b[34m# Every Vagrant development environment requires a box. You can search for\u001b[m   \u001b[48;5;224m \u001b[m\u001b[13;85H\u001b[K\u001b[14;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m# boxes at https://atlas.hashicorp.com/search.\u001b[m\u001b[4m                               \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;104H4\u001b[14;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.051287,
+      "\u001b[?25l  \u001b[34m# boxes at https://atlas.hashicorp.com/search.\u001b[m                               \u001b[48;5;224m \u001b[m\u001b[14;85H\u001b[K\u001b[15;5H\u001b[4m  config.vm.box = \u001b[m\u001b[4m\u001b[31m\"opennms/vagrant-opennms-ubuntu-stable\"\u001b[m\u001b[4m                      \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;104H5\u001b[15;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.128898,
+      "\u001b[?25l  config.vm.box = \u001b[31m\"opennms/vagrant-opennms-ubuntu-stable\"\u001b[m                      \u001b[48;5;224m \u001b[m\u001b[15;85H\u001b[K\u001b[16;5H\u001b[4m                                                                               \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;104H6,0-1\u001b[16;5H\u001b[?12l\u001b[?25h\u001b[?25l                                                                               \u001b[48;5;224m \u001b[m\u001b[16;85H\u001b[K\u001b[17;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m# Disable automatic box update checking. If you disable this, then\u001b[m\u001b[4m           \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;104H7,1  \u001b[17;5H\u001b[?12l\u001b[?25h\u001b[?25l  \u001b[34m# Disable automatic box update checking. If you disable this, then\u001b[m           \u001b[48;5;224m \u001b[m\u001b[17;85H\u001b[K\u001b[18;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m# boxes will only be checked for updates when the user runs\u001b[m\u001b[4m                  \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;104H8\u001b[18;5H\u001b[?12l\u001b[?25h\u001b[?25l  \u001b[34m# boxes will only be checked for updates when the user runs\u001b[m                  \u001b[48;5;224m \u001b[m\u001b[18;85H\u001b[K\u001b[19;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m# `vagrant box outdated`. This is not recommended.\u001b[m\u001b[4m                           \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;104H9\u001b[19;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.027099,
+      "\u001b[?25l  \u001b[34m# `vagrant box outdated`. This is not recommended.\u001b[m                           \u001b[48;5;224m \u001b[m\u001b[19;85H\u001b[K\u001b[20;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m# config.vm.box_check_update = false\u001b[m\u001b[4m                                         \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H20\u001b[20;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.133031,
+      "\u001b[?25l  \u001b[34m# config.vm.box_check_update = false\u001b[m                                         \u001b[48;5;224m \u001b[m\u001b[20;85H\u001b[K\u001b[21;5H\u001b[4m                                                                               \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;104H1,0-1\u001b[21;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002810,
+      "\u001b[?25l                                                                               \u001b[48;5;224m \u001b[m\u001b[21;85H\u001b[K\u001b[22;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m# Create a forwarded port mapping which allows access to a specific port\u001b[m\u001b[4m     \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;104H2,1  \u001b[22;5H\u001b[?12l\u001b[?25h\u001b[?25l  \u001b[34m# Create a forwarded port mapping which allows access to a specific port\u001b[m     \u001b[48;5;224m \u001b[m\u001b[22;85H\u001b[K\u001b[23;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m# within the machine from a port on the host machine. In the example below,\u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;104H3\u001b[23;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.118216,
+      "\u001b[?25l  \u001b[34m# within the machine from a port on the host machine. In the example below,\u001b[m  \u001b[48;5;224m \u001b[m\u001b[23;85H\u001b[K\u001b[24;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m# accessing \"localhost:8080\" will access port 80 on the guest machine.\u001b[m\u001b[4m       \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;104H4\u001b[24;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.040011,
+      "\u001b[?25l  \u001b[34m# accessing \"localhost:8080\" will access port 80 on the guest machine.\u001b[m       \u001b[48;5;224m \u001b[m\u001b[24;85H\u001b[K\u001b[25;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m# config.vm.network \"forwarded_port\", guest: 80, host: 8080\u001b[m\u001b[4m                  \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;104H5\u001b[25;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.286063,
+      "\u001b[?25l  \u001b[34m# config.vm.network \"forwarded_port\", guest: 80, host: 8080\u001b[m                  \u001b[48;5;224m \u001b[m\u001b[25;85H\u001b[K\u001b[26;5H\u001b[4m                                                                               \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;104H6,0-1\u001b[26;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.341970,
+      "\u001b[?25l\u001b[25;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m# config.vm.network \"forwarded_port\", guest: 80, host: 8080\u001b[m\u001b[4m                  \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[26;5H                                                                               \u001b[48;5;224m \u001b[m\u001b[26;85H\u001b[K\u001b[30;104H5,1  \u001b[25;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.611164,
+      "\u001b[?25l  \u001b[34m# config.vm.network \"forwarded_port\", guest: 80, host: 8080\u001b[m                  \u001b[48;5;224m \u001b[m\u001b[25;85H\u001b[K\u001b[26;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m# config.vm.network \"forwarded_port\", guest: 80, host: 8080\u001b[m\u001b[4m                  \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[27;7H                                                                        \u001b[28;9H\u001b[34mCreate a private network, which allows host-only access to the machine\u001b[29;9Husing a specific IP.\u001b[m                                    \u001b[30;104H6,3\u001b[26;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.628689,
+      "\u001b[?25l\u0008\u0008  \u001b[34m# config.vm.network \"forwarded_port\", guest: 80, host: 8080\u001b[m                  \u001b[48;5;224m \u001b[m\u001b[26;85H\u001b[K\u001b[27;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m# config.vm.network \"forwarded_port\", guest: 80, host: 8080\u001b[m\u001b[4m                  \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[28;7H                                                                        \u001b[29;9H\u001b[34mCreate a private network, which allows host-only access to the machine\u001b[m\u001b[30;104H7\u001b[27;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.536374,
+      "\u001b[?25l\u001b[26;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m# config.vm.network \"forwarded_port\", guest: 80, host: 8080\u001b[m\u001b[4m                  \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[27;5H  \u001b[34m# config.vm.network \"forwarded_port\", guest: 80, host: 8080\u001b[m                  \u001b[48;5;224m \u001b[m\u001b[27;85H\u001b[K\u001b[30;104H6\u001b[26;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.315079,
+      "\u001b[?25l\u001b[4m config.vm.network \u001b[m\u001b[4m\u001b[31m\"forwarded_port\"\u001b[m\u001b[4m, guest: 80, host: 8080 \u001b[26;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.141909,
+      "\u001b[?25lconfig.vm.network \u001b[m\u001b[4m\u001b[31m\"forwarded_port\"\u001b[m\u001b[4m, guest: 80, host: 8080 \u001b[26;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.055862,
+      "\u001b[?25l\u001b[m\u0008\u0008  config.vm.network \u001b[31m\"forwarded_port\"\u001b[m, guest: 80, host: 8080                    \u001b[48;5;224m \u001b[m\u001b[26;85H\u001b[K\u001b[27;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m# config.vm.network \"forwarded_port\", guest: 80, host: 8080\u001b[m\u001b[4m                  \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;104H7\u001b[27;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.192128,
+      "\u001b[?25l\u001b[4m config.vm.network \u001b[m\u001b[4m\u001b[31m\"forwarded_port\"\u001b[m\u001b[4m, guest: 80, host: 8080 \u001b[27;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.158840,
+      "\u001b[?25lconfig.vm.network \u001b[m\u001b[4m\u001b[31m\"forwarded_port\"\u001b[m\u001b[4m, guest: 80, host: 8080 \u001b[27;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.104960,
+      "\u001b[?25l\u001b[26;5H  config.vm.network \u001b[m\u001b[4m\u001b[31m\"forwarded_port\"\u001b[m\u001b[4m, guest: 80, host: 8080                    \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[27;5H  config.vm.network \u001b[31m\"forwarded_port\"\u001b[m, guest: 80, host: 8080                    \u001b[48;5;224m \u001b[m\u001b[27;85H\u001b[K\u001b[30;104H6\u001b[26;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.298153,
+      "\u001b[?25l\u001b[30;106H4\u001b[26;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.240073,
+      "\u001b[?25l\u001b[30;106H5\u001b[26;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035649,
+      "\u001b[?25l\u001b[30;106H6\u001b[26;10H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.032068,
+      "\u001b[?25l\u001b[30;106H7\u001b[26;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.032973,
+      "\u001b[?25l\u001b[30;106H8\u001b[26;12H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033841,
+      "\u001b[?25l\u001b[30;106H9\u001b[26;13H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034145,
+      "\u001b[?25l\u001b[30;106H10\u001b[26;14H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034909,
+      "\u001b[?25l\u001b[30;107H1\u001b[26;15H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.032936,
+      "\u001b[?25l\u001b[30;107H2\u001b[26;16H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035014,
+      "\u001b[?25l\u001b[30;107H3\u001b[26;17H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033978,
+      "\u001b[?25l\u001b[30;107H4\u001b[26;18H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034046,
+      "\u001b[?25l\u001b[30;107H5\u001b[26;19H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035078,
+      "\u001b[?25l\u001b[30;107H6\u001b[26;20H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033938,
+      "\u001b[?25l\u001b[30;107H7\u001b[26;21H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035173,
+      "\u001b[?25l\u001b[30;107H8\u001b[26;22H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034082,
+      "\u001b[?25l\u001b[30;107H9\u001b[26;23H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033873,
+      "\u001b[?25l\u001b[30;106H20\u001b[26;24H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.038005,
+      "\u001b[?25l\u001b[30;107H1\u001b[26;25H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035107,
+      "\u001b[?25l\u001b[30;107H2\u001b[26;26H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.032819,
+      "\u001b[?25l\u001b[30;107H3\u001b[26;27H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034960,
+      "\u001b[?25l\u001b[30;107H4\u001b[26;28H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035093,
+      "\u001b[?25l\u001b[30;107H5\u001b[26;29H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033925,
+      "\u001b[?25l\u001b[30;107H6\u001b[26;30H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033920,
+      "\u001b[?25l\u001b[30;107H7\u001b[26;31H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035086,
+      "\u001b[?25l\u001b[30;107H8\u001b[26;32H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033070,
+      "\u001b[?25l\u001b[30;107H9\u001b[26;33H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034962,
+      "\u001b[?25l\u001b[30;106H30\u001b[26;34H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033899,
+      "\u001b[?25l\u001b[30;107H1\u001b[26;35H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034271,
+      "\u001b[?25l\u001b[30;107H2\u001b[26;36H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035028,
+      "\u001b[?25l\u001b[30;107H3\u001b[26;37H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033883,
+      "\u001b[?25l\u001b[30;107H4\u001b[26;38H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034039,
+      "\u001b[?25l\u001b[30;107H5\u001b[26;39H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034997,
+      "\u001b[?25l\u001b[30;107H6\u001b[26;40H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.032867,
+      "\u001b[?25l\u001b[30;107H7\u001b[26;41H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.102768,
+      "\u001b[?25l\u001b[30;107H8\u001b[26;42H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001002,
+      "\u001b[?25l\u001b[30;107H9\u001b[26;43H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000919,
+      "\u001b[?25l\u001b[30;106H40\u001b[26;44H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033647,
+      "\u001b[?25l\u001b[30;107H1\u001b[26;45H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033045,
+      "\u001b[?25l\u001b[30;107H2\u001b[26;46H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033573,
+      "\u001b[?25l\u001b[30;107H3\u001b[26;47H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.143094,
+      "\u001b[?25l\u001b[30;107H4\u001b[26;48H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.315367,
+      "\u001b[?25l\u001b[30;107H5\u001b[26;49H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.162782,
+      "\u001b[?25l\u001b[30;107H6\u001b[26;50H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.308950,
+      "\u001b[?25l\u001b[30;107H7\u001b[26;51H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.306119,
+      "\u001b[?25l\u001b[30;1H\u001b[1m-- INSERT --\u001b[m\u001b[30;13H\u001b[K\u001b[30;103H26,47\u001b[9CTop"
+    ],
+    [
+      0.000015,
+      "\u001b[26;51H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.137143,
+      "\u001b[?25l\u001b[4m90, host: 8080\u001b[m\u001b[30;107H8\u001b[26;52H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.051618,
+      "\u001b[?25l\u001b[4m80, host: 8080\u001b[m\u001b[30;107H9\u001b[26;53H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.206434,
+      "\u001b[?25l\u001b[30;106H50\u001b[26;54H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.249920,
+      "\u001b[?25l\u001b[30;107H1\u001b[26;55H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.032567,
+      "\u001b[?25l\u001b[30;107H2\u001b[26;56H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035186,
+      "\u001b[?25l\u001b[30;107H3\u001b[26;57H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034779,
+      "\u001b[?25l\u001b[30;107H4\u001b[26;58H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034044,
+      "\u001b[?25l\u001b[30;107H5\u001b[26;59H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033843,
+      "\u001b[?25l\u001b[30;107H6\u001b[26;60H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035232,
+      "\u001b[?25l\u001b[30;107H7\u001b[26;61H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.143865,
+      "\u001b[?25l\u001b[30;107H8\u001b[26;62H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.264231,
+      "\u001b[?25l\u001b[30;107H9\u001b[26;63H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.200063,
+      "\u001b[?25l\u001b[30;106H60\u001b[26;64H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.359954,
+      "\u001b[?25l\u0008\u001b[4m80 \u001b[m\u001b[30;106H59\u001b[26;63H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.431068,
+      "\u001b[?25l\u001b[4m980\u001b[m\u001b[30;106H60\u001b[26;64H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.205951,
+      "\u001b[?25l\u001b[26;5H  config.vm.network \u001b[31m\"forwarded_port\"\u001b[m, guest: 8980, host: 8980                  \u001b[48;5;224m \u001b[m\u001b[26;85H\u001b[K\u001b[27;5H\u001b[4m  config.vm.network \u001b[m\u001b[4m\u001b[31m\"forwarded_port\"\u001b[m\u001b[4m, guest: 80, host: 8080                    \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;104H7\u001b[27;64H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.157983,
+      "\u001b[?25l\u001b[30;106H59\u001b[27;63H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.175844,
+      "\u001b[?25l\u001b[30;107H8\u001b[27;62H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.254583,
+      "\u001b[?25l\u001b[30;107H7\u001b[27;61H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.031283,
+      "\u001b[?25l\u001b[30;107H6\u001b[27;60H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.032924,
+      "\u001b[?25l\u001b[30;107H5\u001b[27;59H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035041,
+      "\u001b[?25l\u001b[30;107H4\u001b[27;58H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033997,
+      "\u001b[?25l\u001b[30;107H3\u001b[27;57H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035048,
+      "\u001b[?25l\u001b[30;107H2\u001b[27;56H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033749,
+      "\u001b[?25l\u001b[30;107H1\u001b[27;55H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.160361,
+      "\u001b[?25l\u001b[30;107H0\u001b[27;54H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.330363,
+      "\u001b[?25l\u001b[30;106H49\u001b[27;53H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.388610,
+      "\u001b[?25l\u001b[30;107H8\u001b[27;52H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.203089,
+      "\u001b[?25l\u0008\u001b[4m, host: 8080 \u001b[m\u001b[30;107H7\u001b[27;51H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.162919,
+      "\u001b[?25l\u0008\u001b[4m, host: 8080 \u001b[m\u001b[30;107H6\u001b[27;50H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.867221,
+      "\u001b[?25l\u001b[4m3, host: 8080\u001b[m\u001b[30;107H7\u001b[27;51H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.328071,
+      "\u001b[?25l\u001b[4m0, host: 8080\u001b[m\u001b[30;107H8\u001b[27;52H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.164238,
+      "\u001b[?25l\u001b[4m0, host: 8080\u001b[m\u001b[30;107H9\u001b[27;53H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.163683,
+      "\u001b[?25l\u001b[4m0, host: 8080\u001b[m\u001b[30;106H50\u001b[27;54H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.246881,
+      "\u001b[?25l\u001b[30;107H1\u001b[27;55H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.165103,
+      "\u001b[?25l\u001b[30;107H2\u001b[27;56H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.007615,
+      "\u001b[?25l\u001b[30;107H3\u001b[27;57H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034103,
+      "\u001b[?25l\u001b[30;107H4\u001b[27;58H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.122277,
+      "\u001b[?25l\u001b[30;107H6\u001b[27;60H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001790,
+      "\u001b[?25l\u001b[30;107H7\u001b[27;61H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.031925,
+      "\u001b[?25l\u001b[30;107H8\u001b[27;62H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.128507,
+      "\u001b[?25l\u001b[30;106H60\u001b[27;64H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.119548,
+      "\u001b[?25l\u001b[30;107H1\u001b[27;65H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.165262,
+      "\u001b[?25l\u001b[30;107H2\u001b[27;66H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.102894,
+      "\u0007"
+    ],
+    [
+      0.379168,
+      "\u001b[?25l\u0008\u001b[4m \u001b[m\u001b[30;107H1\u001b[27;65H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.133854,
+      "\u001b[?25l\u0008\u001b[4m \u001b[m\u001b[30;107H0\u001b[27;64H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.120114,
+      "\u001b[?25l\u0008\u001b[4m \u001b[m\u001b[30;106H59\u001b[27;63H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.138991,
+      "\u001b[?25l\u0008\u001b[4m \u001b[m\u001b[30;107H8\u001b[27;62H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.760907,
+      "\u001b[?25l\u001b[4m3\u001b[m\u001b[30;107H9\u001b[27;63H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.268501,
+      "\u001b[?25l\u001b[4m0\u001b[m\u001b[30;106H60\u001b[27;64H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.126381,
+      "\u001b[?25l\u001b[4m0\u001b[m\u001b[30;107H1\u001b[27;65H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.106042,
+      "\u001b[?25l\u001b[4m0\u001b[m\u001b[30;107H2\u001b[27;66H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.831341,
+      "\u001b[30;1H\u001b[K\u001b[27;65H"
+    ],
+    [
+      0.190900,
+      "\u001b[?25l"
+    ],
+    [
+      0.002031,
+      "\u001b[30;103H27,61\u001b[9CTop\u001b[27;65H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[27;5H  config.vm.network \u001b[31m\"forwarded_port\"\u001b[m, guest: 3000, host: 3000                  \u001b[48;5;224m \u001b[m\u001b[27;85H\u001b[K\u001b[28;5H\u001b[4m                                                                               \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;104H8,0-1\u001b[28;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.253032,
+      "\u001b[?25l                                                                               \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m# Create a private network, which allows host-only access to the machine\u001b[m\u001b[4m     \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;104H9,61 \u001b[29;65H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.031924,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m# Create a private network, which allows host-only access to the machine\u001b[m     \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 30 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m# using a specific IP.\u001b[m\u001b[4m                                                       \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H30,24\u001b[10C2%\u001b[29;28H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033971,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m# using a specific IP.\u001b[m                                                       \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 31 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m# config.vm.network \"private_network\", ip: \"192.168.33.10\"\u001b[m\u001b[4m                   \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H31,60\u001b[10C4%\u001b[29;64H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033874,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m# config.vm.network \"private_network\", ip: \"192.168.33.10\"\u001b[m                   \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 32 \u001b[m\u001b[4m                                                                               \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H32,0-1\u001b[9C6%\u001b[29;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.032985,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H                                                                               \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 33 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m# Create a public network, which generally matched to bridged network.\u001b[m\u001b[4m       \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H33,61\u001b[10C9%\u001b[29;65H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034174,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m# Create a public network, which generally matched to bridged network.\u001b[m       \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 34 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m# Bridged networks make the machine appear as another physical device on\u001b[m\u001b[4m     \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H34,61\u001b[9C11%\u001b[29;65H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034633,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m# Bridged networks make the machine appear as another physical device on\u001b[m     \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 35 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m# your network.\u001b[m\u001b[4m                                                              \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H35,17\u001b[9C13%\u001b[29;21H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.074624,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m# your network.\u001b[m                                                              \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 36 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m# config.vm.network \"public_network\"\u001b[m\u001b[4m                                         \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H36,38\u001b[9C15%\u001b[29;42H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000921,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m# config.vm.network \"public_network\"\u001b[m                                         \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 37 \u001b[m\u001b[4m                                                                               \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H37,0-1\u001b[8C18%\u001b[29;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.025343,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H                                                                               \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 38 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m# Share an additional folder to the guest VM. The first argument is\u001b[m\u001b[4m          \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H38,61\u001b[9C20%\u001b[29;65H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035006,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m# Share an additional folder to the guest VM. The first argument is\u001b[m          \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 39 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m# the path on the host to the actual folder. The second argument is\u001b[m\u001b[4m          \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H39,61\u001b[9C22%\u001b[29;65H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.032017,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m# the path on the host to the actual folder. The second argument is\u001b[m          \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 40 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m# the path on the guest to mount the folder. And the optional third\u001b[m\u001b[4m          \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H40,61\u001b[9C25%\u001b[29;65H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.036373,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m# the path on the guest to mount the folder. And the optional third\u001b[m          \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 41 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m# argument is a set of non-required options.\u001b[m\u001b[4m                                 \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H41,46\u001b[9C27%\u001b[29;50H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.032880,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m# argument is a set of non-required options.\u001b[m                                 \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 42 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m# config.vm.synced_folder \"../data\", \"/vagrant_data\"\u001b[m\u001b[4m                         \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H42,54\u001b[9C29%\u001b[29;58H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035141,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m# config.vm.synced_folder \"../data\", \"/vagrant_data\"\u001b[m                         \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 43 \u001b[m\u001b[4m                                                                               \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H43,0-1\u001b[8C31%\u001b[29;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.032922,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H                                                                               \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 44 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m# Provider-specific configuration so you can fine-tune various\u001b[m\u001b[4m               \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H44,61\u001b[9C34%\u001b[29;65H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034855,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m# Provider-specific configuration so you can fine-tune various\u001b[m               \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 45 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m# backing providers for Vagrant. These expose provider-specific options.\u001b[m\u001b[4m     \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H45,61\u001b[9C36%\u001b[29;65H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033938,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m# backing providers for Vagrant. These expose provider-specific options.\u001b[m     \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 46 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m# Example for VirtualBox:\u001b[m\u001b[4m                                                    \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H46,27\u001b[9C38%\u001b[29;31H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033077,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m# Example for VirtualBox:\u001b[m                                                    \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 47 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m#\u001b[m\u001b[4m                                                                            \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H47,3\u001b[10C40%\u001b[29;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034043,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m#\u001b[m                                                                            \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 48 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m# config.vm.provider \"virtualbox\" do |vb|\u001b[m\u001b[4m                                    \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H48,43\u001b[9C43%\u001b[29;47H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.032944,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m# config.vm.provider \"virtualbox\" do |vb|\u001b[m                                    \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 49 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m#   # Display the VirtualBox GUI when booting the machine\u001b[m\u001b[4m                    \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H49,59\u001b[9C45%\u001b[29;63H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.039630,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m#   # Display the VirtualBox GUI when booting the machine\u001b[m                    \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 50 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m#   vb.gui = true\u001b[m\u001b[4m                                                            \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H50,19\u001b[9C47%\u001b[29;23H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.028368,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m#   vb.gui = true\u001b[m                                                            \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 51 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m#\u001b[m\u001b[4m                                                                            \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H51,3\u001b[10C50%\u001b[29;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035989,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m#\u001b[m                                                                            \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 52 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m#   # Customize the amount of memory on the VM:\u001b[m\u001b[4m                              \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H52,49\u001b[9C52%\u001b[29;53H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034057,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m#   # Customize the amount of memory on the VM:\u001b[m                              \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 53 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m#   vb.memory = \"1024\"\u001b[m\u001b[4m                                                       \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H53,24\u001b[9C54%\u001b[29;28H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034093,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m#   vb.memory = \"1024\"\u001b[m                                                       \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 54 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m# end\u001b[m\u001b[4m                                                                        \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H54,7\u001b[10C56%\u001b[29;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034863,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m# end\u001b[m                                                                        \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 55 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m#\u001b[m\u001b[4m                                                                            \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H55,3\u001b[10C59%\u001b[29;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034070,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m#\u001b[m                                                                            \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 56 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m# View the documentation for the provider you are using for more\u001b[m\u001b[4m             \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H56,61\u001b[9C61%\u001b[29;65H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035111,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m# View the documentation for the provider you are using for more\u001b[m             \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 57 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m# information on available options.\u001b[m\u001b[4m                                          \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H57,37\u001b[9C63%\u001b[29;41H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033896,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m# information on available options.\u001b[m                                          \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 58 \u001b[m\u001b[4m                                                                               \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H58,0-1\u001b[8C65%\u001b[29;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.032802,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H                                                                               \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 59 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m# Define a Vagrant Push strategy for pushing to Atlas. Other push strategies\u001b[m\u001b[4m \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H59,61\u001b[9C68%\u001b[29;65H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.036177,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m# Define a Vagrant Push strategy for pushing to Atlas. Other push strategies\u001b[m \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 60 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m# such as FTP and Heroku are also available. See the documentation at\u001b[m\u001b[4m        \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H60,61\u001b[9C70%\u001b[29;65H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035045,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m# such as FTP and Heroku are also available. See the documentation at\u001b[m        \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 61 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m# https://docs.vagrantup.com/v2/push/atlas.html for more information.\u001b[m\u001b[4m        \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H61,61\u001b[9C72%\u001b[29;65H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.032756,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m# https://docs.vagrantup.com/v2/push/atlas.html for more information.\u001b[m        \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 62 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m# config.push.define \"atlas\" do |push|\u001b[m\u001b[4m                                       \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H62,40\u001b[9C75%\u001b[29;44H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034072,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m# config.push.define \"atlas\" do |push|\u001b[m                                       \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 63 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m#   push.app = \"YOUR_ATLAS_USERNAME/YOUR_APPLICATION_NAME\"\u001b[m\u001b[4m                   \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H63,60\u001b[9C77%\u001b[29;64H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033844,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m#   push.app = \"YOUR_ATLAS_USERNAME/YOUR_APPLICATION_NAME\"\u001b[m                   \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 64 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m# end\u001b[m\u001b[4m                                                                        \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H64,7\u001b[10C79%\u001b[29;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035120,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H  \u001b[34m# end\u001b[m                                                                        \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 65 \u001b[m\u001b[4m                                                                               \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H65,0-1\u001b[8C81%\u001b[29;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033012,
+      "\u001b[?25l\u001b[1;29r\u001b[29;1H\r\n\u001b[1;30r\u001b[28;5H                                                                               \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[29;1H\u001b[38;5;130m 66 \u001b[m\u001b[4m  \u001b[m\u001b[4m\u001b[34m# Enable provisioning with a shell script. Additional provisioners such as\u001b[m\u001b[4m   \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H\u001b[K\u001b[30;103H66,61\u001b[9C84%\u001b[29;65H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.135244,
+      "\u001b[?25l\u001b[28;5H\u001b[4m                                                                               \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[29;5H  \u001b[34m# Enable provisioning with a shell script. Additional provisioners such as\u001b[m   \u001b[48;5;224m \u001b[m\u001b[29;85H\u001b[K\u001b[30;104H5,0-1\u001b[28;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.252109,
+      "\u001b[?25l\u001b[27;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m# end\u001b[m\u001b[4m                                                                        \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[28;5H                                                                               \u001b[48;5;224m \u001b[m\u001b[28;85H\u001b[K\u001b[30;104H4,7  \u001b[27;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.032149,
+      "\u001b[?25l\u001b[26;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m#   push.app = \"YOUR_ATLAS_USERNAME/YOUR_APPLICATION_NAME\"\u001b[m\u001b[4m                   \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[27;5H  \u001b[34m# end\u001b[m                                                                        \u001b[48;5;224m \u001b[m\u001b[27;85H\u001b[K\u001b[30;104H3,60\u001b[26;64H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034604,
+      "\u001b[?25l\u001b[25;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m# config.push.define \"atlas\" do |push|\u001b[m\u001b[4m                                       \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[26;5H  \u001b[34m#   push.app = \"YOUR_ATLAS_USERNAME/YOUR_APPLICATION_NAME\"\u001b[m                   \u001b[48;5;224m \u001b[m\u001b[26;85H\u001b[K\u001b[30;104H2,4\u001b[25;44H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033922,
+      "\u001b[?25l\u001b[24;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m# https://docs.vagrantup.com/v2/push/atlas.html for more information.\u001b[m\u001b[4m        \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[25;5H  \u001b[34m# config.push.define \"atlas\" do |push|\u001b[m                                       \u001b[48;5;224m \u001b[m\u001b[25;85H\u001b[K\u001b[30;104H1,61\u001b[24;65H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034020,
+      "\u001b[?25l\u001b[23;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m# such as FTP and Heroku are also available. See the documentation at\u001b[m\u001b[4m        \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[24;5H  \u001b[34m# https://docs.vagrantup.com/v2/push/atlas.html for more information.\u001b[m        \u001b[48;5;224m \u001b[m\u001b[24;85H\u001b[K\u001b[30;104H0\u001b[23;65H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035085,
+      "\u001b[?25l\u001b[22;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m# Define a Vagrant Push strategy for pushing to Atlas. Other push strategies\u001b[m\u001b[4m \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[23;5H  \u001b[34m# such as FTP and Heroku are also available. See the documentation at\u001b[m        \u001b[48;5;224m \u001b[m\u001b[23;85H\u001b[K\u001b[30;103H59\u001b[22;65H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034841,
+      "\u001b[?25l\u001b[21;5H\u001b[4m                                                                               \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[22;5H  \u001b[34m# Define a Vagrant Push strategy for pushing to Atlas. Other push strategies\u001b[m \u001b[48;5;224m \u001b[m\u001b[22;85H\u001b[K\u001b[30;104H8,0-1\u001b[21;5H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034137,
+      "\u001b[?25l\u001b[20;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m# information on available options.\u001b[m\u001b[4m                                          \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[21;5H                                                                               \u001b[48;5;224m \u001b[m\u001b[21;85H\u001b[K\u001b[30;104H7,37 \u001b[20;41H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033943,
+      "\u001b[?25l\u001b[19;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m# View the documentation for the provider you are using for more\u001b[m\u001b[4m             \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[20;5H  \u001b[34m# information on available options.\u001b[m                                          \u001b[48;5;224m \u001b[m\u001b[20;85H\u001b[K\u001b[30;104H6,61\u001b[19;65H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.032983,
+      "\u001b[?25l\u001b[18;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m#\u001b[m\u001b[4m                                                                            \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[19;5H  \u001b[34m# View the documentation for the provider you are using for more\u001b[m             \u001b[48;5;224m \u001b[m\u001b[19;85H\u001b[K\u001b[30;104H5,3 \u001b[18;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034827,
+      "\u001b[?25l\u001b[17;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m# end\u001b[m\u001b[4m                                                                        \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[18;5H  \u001b[34m#\u001b[m                                                                            \u001b[48;5;224m \u001b[m\u001b[18;85H\u001b[K\u001b[30;104H4,7\u001b[17;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034048,
+      "\u001b[?25l\u001b[16;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m#   vb.memory = \"1024\"\u001b[m\u001b[4m                                                       \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[17;5H  \u001b[34m# end\u001b[m                                                                        \u001b[48;5;224m \u001b[m\u001b[17;85H\u001b[K\u001b[30;104H3,24\u001b[16;28H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.039215,
+      "\u001b[?25l\u001b[15;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m#   # Customize the amount of memory on the VM:\u001b[m\u001b[4m                              \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[16;5H  \u001b[34m#   vb.memory = \"1024\"\u001b[m                                                       \u001b[48;5;224m \u001b[m\u001b[16;85H\u001b[K\u001b[30;104H2,49\u001b[15;53H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.032880,
+      "\u001b[?25l\u001b[14;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m#\u001b[m\u001b[4m                                                                            \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[15;5H  \u001b[34m#   # Customize the amount of memory on the VM:\u001b[m                              \u001b[48;5;224m \u001b[m\u001b[15;85H\u001b[K\u001b[30;104H1,3 \u001b[14;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033006,
+      "\u001b[?25l\u001b[13;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m#   vb.gui = true\u001b[m\u001b[4m                                                            \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[14;5H  \u001b[34m#\u001b[m                                                                            \u001b[48;5;224m \u001b[m\u001b[14;85H\u001b[K\u001b[30;104H0,19\u001b[13;23H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035106,
+      "\u001b[?25l\u001b[12;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m#   # Display the VirtualBox GUI when booting the machine\u001b[m\u001b[4m                    \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[13;5H  \u001b[34m#   vb.gui = true\u001b[m                                                            \u001b[48;5;224m \u001b[m\u001b[13;85H\u001b[K\u001b[30;103H49,5\u001b[12;63H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.153216,
+      "\u001b[?25l\u001b[30;107H8\u001b[12;62H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.253961,
+      "\u001b[?25l\u001b[30;107H7\u001b[12;61H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.029626,
+      "\u001b[?25l\u001b[30;107H6\u001b[12;60H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034112,
+      "\u001b[?25l\u001b[30;107H5\u001b[12;59H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034041,
+      "\u001b[?25l\u001b[30;107H4\u001b[12;58H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035044,
+      "\u001b[?25l\u001b[30;107H3\u001b[12;57H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034008,
+      "\u001b[?25l\u001b[30;107H2\u001b[12;56H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034916,
+      "\u001b[?25l\u001b[30;107H1\u001b[12;55H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.032934,
+      "\u001b[?25l\u001b[30;107H0\u001b[12;54H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034142,
+      "\u001b[?25l\u001b[30;106H49\u001b[12;53H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035131,
+      "\u001b[?25l\u001b[30;107H8\u001b[12;52H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033726,
+      "\u001b[?25l\u001b[30;107H7\u001b[12;51H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034182,
+      "\u001b[?25l\u001b[30;107H6\u001b[12;50H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034922,
+      "\u001b[?25l\u001b[30;107H5\u001b[12;49H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.032987,
+      "\u001b[?25l\u001b[30;107H4\u001b[12;48H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.047176,
+      "\u001b[?25l\u001b[30;107H3\u001b[12;47H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033714,
+      "\u001b[?25l\u001b[30;107H2\u001b[12;46H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.032952,
+      "\u001b[?25l\u001b[30;107H1\u001b[12;45H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035116,
+      "\u001b[?25l\u001b[30;107H0\u001b[12;44H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034907,
+      "\u001b[?25l\u001b[30;106H39\u001b[12;43H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034987,
+      "\u001b[?25l\u001b[30;107H8\u001b[12;42H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033107,
+      "\u001b[?25l\u001b[30;107H7\u001b[12;41H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033772,
+      "\u001b[?25l\u001b[30;107H6\u001b[12;40H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034144,
+      "\u001b[?25l\u001b[30;107H5\u001b[12;39H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033940,
+      "\u001b[?25l\u001b[30;107H4\u001b[12;38H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033056,
+      "\u001b[?25l\u001b[30;107H3\u001b[12;37H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033878,
+      "\u001b[?25l\u001b[30;107H2\u001b[12;36H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034227,
+      "\u001b[?25l\u001b[30;107H1\u001b[12;35H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035790,
+      "\u001b[?25l\u001b[30;107H0\u001b[12;34H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034736,
+      "\u001b[?25l\u001b[30;106H29\u001b[12;33H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033455,
+      "\u001b[?25l\u001b[30;107H8\u001b[12;32H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.032780,
+      "\u001b[?25l\u001b[30;107H7\u001b[12;31H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.037056,
+      "\u001b[?25l\u001b[30;107H6\u001b[12;30H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035202,
+      "\u001b[?25l\u001b[30;107H5\u001b[12;29H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.031926,
+      "\u001b[?25l\u001b[30;107H4\u001b[12;28H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034585,
+      "\u001b[?25l\u001b[30;107H3\u001b[12;27H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034779,
+      "\u001b[?25l\u001b[30;107H2\u001b[12;26H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033816,
+      "\u001b[?25l\u001b[30;107H1\u001b[12;25H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.031702,
+      "\u001b[?25l\u001b[30;107H0\u001b[12;24H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035729,
+      "\u001b[?25l\u001b[30;106H19\u001b[12;23H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033207,
+      "\u001b[?25l\u001b[30;107H8\u001b[12;22H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034256,
+      "\u001b[?25l\u001b[30;107H7\u001b[12;21H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033842,
+      "\u001b[?25l\u001b[30;107H6\u001b[12;20H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.035008,
+      "\u001b[?25l\u001b[30;107H5\u001b[12;19H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.046721,
+      "\u001b[?25l\u001b[30;107H4\u001b[12;18H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034385,
+      "\u001b[?25l\u001b[30;107H3\u001b[12;17H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.032985,
+      "\u001b[?25l\u001b[30;107H2\u001b[12;16H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033106,
+      "\u001b[?25l\u001b[30;107H1\u001b[12;15H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033941,
+      "\u001b[?25l\u001b[30;107H0\u001b[12;14H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.036012,
+      "\u001b[?25l\u001b[30;106H9 \u001b[12;13H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033992,
+      "\u001b[?25l\u001b[30;106H8\u001b[12;12H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034060,
+      "\u001b[?25l\u001b[30;106H7\u001b[12;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.033789,
+      "\u001b[?25l\u001b[30;106H6\u001b[12;10H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.034054,
+      "\u001b[?25l\u001b[30;106H5\u001b[12;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.142048,
+      "\u001b[?25l\u001b[11;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m# config.vm.provider \"virtualbox\" do |vb|\u001b[m\u001b[4m                                    \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[12;5H  \u001b[34m#   # Display the VirtualBox GUI when booting the machine\u001b[m                    \u001b[48;5;224m \u001b[m\u001b[12;85H\u001b[K\u001b[30;104H8\u001b[11;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.176114,
+      "\u001b[?25l\u001b[30;106H4\u001b[11;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.408036,
+      "\u001b[?25l\u001b[30;106H3\u001b[11;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.249076,
+      "\u001b[?25l\u001b[4m config.vm.provider \u001b[m\u001b[4m\u001b[31m\"virtualbox\"\u001b[m\u001b[4m do |vb| \u001b[11;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.150860,
+      "\u001b[?25lconfig.vm.provider \u001b[m\u001b[4m\u001b[31m\"virtualbox\"\u001b[m\u001b[4m do |vb| \u001b[11;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.064199,
+      "\u001b[?25l\u001b[m\u0008\u0008  config.vm.provider \u001b[31m\"virtualbox\"\u001b[m do |vb|                                      \u001b[48;5;224m \u001b[m\u001b[11;85H\u001b[K\u001b[12;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m#   # Display the VirtualBox GUI when booting the machine\u001b[m\u001b[4m                    \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;104H9\u001b[12;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.465063,
+      "\u001b[?25l\u0008\u0008  \u001b[34m#   # Display the VirtualBox GUI when booting the machine\u001b[m                    \u001b[48;5;224m \u001b[m\u001b[12;85H\u001b[K\u001b[13;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m#   vb.gui = true\u001b[m\u001b[4m                                                            \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;103H50\u001b[13;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.198721,
+      "\u001b[?25l\u0008\u0008  \u001b[34m#   vb.gui = true\u001b[m                                                            \u001b[48;5;224m \u001b[m\u001b[13;85H\u001b[K\u001b[14;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m#\u001b[m\u001b[4m                                                                            \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;104H1\u001b[14;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.168152,
+      "\u001b[?25l\u0008\u0008  \u001b[34m#\u001b[m                                                                            \u001b[48;5;224m \u001b[m\u001b[14;85H\u001b[K\u001b[15;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m#   # Customize the amount of memory on the VM:\u001b[m\u001b[4m                              \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;104H2\u001b[15;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.175949,
+      "\u001b[?25l\u0008\u0008  \u001b[34m#   # Customize the amount of memory on the VM:\u001b[m                              \u001b[48;5;224m \u001b[m\u001b[15;85H\u001b[K\u001b[16;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m#   vb.memory = \"1024\"\u001b[m\u001b[4m                                                       \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;104H3\u001b[16;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.303319,
+      "\u001b[?25l\u001b[4m   vb.memory = \u001b[m\u001b[4m\u001b[31m\"1024\"\u001b[m\u001b[4m \u001b[16;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.167764,
+      "\u001b[?25l  vb.memory = \u001b[m\u001b[4m\u001b[31m\"1024\"\u001b[m\u001b[4m \u001b[16;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.115754,
+      "\u001b[?25l\u001b[m\u0008\u0008    vb.memory = \u001b[31m\"1024\"\u001b[m                                                         \u001b[48;5;224m \u001b[m\u001b[16;85H\u001b[K\u001b[17;5H\u001b[4m  \u001b[m\u001b[4m\u001b[34m# end\u001b[m\u001b[4m                                                                        \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[30;104H4\u001b[17;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.173299,
+      "\u001b[?25l\u001b[4m end \u0008\u0008\u0008\u0008\u0008\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.175942,
+      "\u001b[?25lend \u0008\u0008\u0008\u0008\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.217009,
+      "\u001b[?25l\u001b[16;5H    vb.memory = \u001b[m\u001b[4m\u001b[31m\"1024\"\u001b[m\u001b[4m                                                         \u001b[m\u001b[4m\u001b[48;5;224m \u001b[m\u001b[4m                                    \u001b[m\u001b[17;5H  end                                                                          \u001b[48;5;224m \u001b[m\u001b[17;85H\u001b[K\u001b[30;104H3\u001b[16;7H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.107938,
+      "\u001b[?25l\u001b[30;106H4\u001b[16;8H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.104165,
+      "\u001b[?25l\u001b[30;106H5\u001b[16;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000864,
+      "\u001b[?25l\u001b[30;106H6\u001b[16;10H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.014836,
+      "\u001b[?25l\u001b[30;106H7\u001b[16;11H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.151573,
+      "\u001b[?25l\u001b[30;106H8\u001b[16;12H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[30;106H9\u001b[16;13H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[30;106H10\u001b[16;14H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[30;107H1\u001b[16;15H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.016167,
+      "\u001b[?25l\u001b[30;107H2\u001b[16;16H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.165556,
+      "\u001b[?25l\u001b[30;107H3\u001b[16;17H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002420,
+      "\u001b[?25l\u001b[30;107H4\u001b[16;18H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[30;107H5\u001b[16;19H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[30;107H6\u001b[16;20H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.017967,
+      "\u001b[?25l\u001b[30;107H7\u001b[16;21H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.143344,
+      "\u001b[?25l\u001b[30;107H8\u001b[16;22H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.120377,
+      "\u001b[?25l\u001b[30;107H9\u001b[16;23H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.312838,
+      "\u001b[?25l\u001b[30;107H8\u001b[16;22H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.463962,
+      "\u001b[?25l\u001b[4m\u001b[31m024\"\u001b[m\u001b[4m \u0008\u0008\u0008\u0008\u0008\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.164999,
+      "\u001b[?25l\u001b[m\u001b[4m\u001b[31m24\"\u001b[m\u001b[4m \u0008\u0008\u0008\u0008\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.150864,
+      "\u001b[?25l\u001b[m\u001b[4m\u001b[31m4\"\u001b[m\u001b[4m \u0008\u0008\u0008\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.346063,
+      "\u001b[?25l\u001b[m\u001b[4m\u001b[31m\"\u001b[m\u001b[4m \u0008\u0008\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.151282,
+      "\u001b[?25l\u001b[m\u001b[30;1H\u001b[1m-- INSERT --\u001b[m\u001b[30;103H\u001b[K\u001b[30;103H53,18\u001b[9C84%\u001b[16;22H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.338901,
+      "\u001b[?25l\u001b[4m\u001b[31m2\"\u001b[m\u001b[30;107H9\u001b[16;23H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.155985,
+      "\u001b[?25l\u001b[4m\u001b[31m0\"\u001b[m\u001b[30;106H20\u001b[16;24H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.403861,
+      "\u001b[?25l\u001b[4m\u001b[31m5\"\u001b[m\u001b[30;107H1\u001b[16;25H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.287227,
+      "\u001b[?25l\u0008\u001b[4m\u001b[31m\"\u001b[m\u001b[4m \u001b[m\u001b[30;107H0\u001b[16;24H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.101862,
+      "\u001b[?25l\u001b[4m\u001b[31m4\"\u001b[m\u001b[30;107H1\u001b[16;25H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.094886,
+      "\u001b[?25l\u001b[4m\u001b[31m8\"\u001b[m\u001b[30;107H2\u001b[16;26H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.338102,
+      "\u001b[30;1H\u001b[K\u001b[16;25H"
+    ],
+    [
+      0.302143,
+      "\u001b[?25l"
+    ],
+    [
+      0.001063,
+      "\u001b[30;103H53,21\u001b[9C84%\u001b[16;25H\u001b[?12l\u001b[?25h\u001b[?25l\u001b[30;103H\u001b[K\u001b[30;1H:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.230923,
+      "x\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.489333,
+      "\r\u001b[?25l\"Vagrantfile\""
+    ],
+    [
+      0.033941,
+      " 73L, 3167C written\r\r\r\n\u001b[?1l\u001b\u003e\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.001205,
+      "\u001b]0;root@phatt: ~/vagrant\u0007\u001b[1;31mroot\u001b[1;00m@\u001b[1;34mphatt\u001b[1;00m:\u001b[1;34mvagrant\u001b[1;00m$ "
+    ],
+    [
+      0.413433,
+      "v"
+    ],
+    [
+      0.092841,
+      "a"
+    ],
+    [
+      0.088977,
+      "g"
+    ],
+    [
+      0.175469,
+      "r"
+    ],
+    [
+      0.074468,
+      "a"
+    ],
+    [
+      0.093023,
+      "n"
+    ],
+    [
+      0.193334,
+      "t"
+    ],
+    [
+      0.127828,
+      " "
+    ],
+    [
+      0.079827,
+      "u"
+    ],
+    [
+      0.082809,
+      "p"
+    ],
+    [
+      0.415751,
+      "\r\n"
+    ],
+    [
+      1.648914,
+      "\u001b[0mBringing machine 'default' up with 'virtualbox' provider...\u001b[0m\r\n"
+    ],
+    [
+      0.442524,
+      "\u001b[1m==\u003e default: Importing base box 'opennms/vagrant-opennms-ubuntu-stable'...\u001b[0m\r\n"
+    ],
+    [
+      1.445167,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000123,
+      "\u001b[0mProgress: 10%\u001b[0m"
+    ],
+    [
+      1.416871,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000169,
+      "\u001b[0mProgress: 20%\u001b[0m"
+    ],
+    [
+      2.360321,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000114,
+      "\u001b[0mProgress: 30%\u001b[0m"
+    ],
+    [
+      0.810441,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\u001b[0mProgress: 40%\u001b[0m"
+    ],
+    [
+      2.130131,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000126,
+      "\u001b[0mProgress: 50%\u001b[0m"
+    ],
+    [
+      3.854948,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000132,
+      "\u001b[0mProgress: 60%\u001b[0m"
+    ],
+    [
+      0.913575,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000110,
+      "\u001b[0mProgress: 70%\u001b[0m"
+    ],
+    [
+      3.243514,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000018,
+      "\u001b[0mProgress: 80%\u001b[0m"
+    ],
+    [
+      1.013178,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000263,
+      "\u001b[0mProgress: 90%\u001b[0m"
+    ],
+    [
+      3.594496,
+      "\u001b[0m\r\u001b[K\u001b[0m"
+    ],
+    [
+      0.000517,
+      "\u001b[1m==\u003e default: Matching MAC address for NAT networking...\u001b[0m\r\n"
+    ],
+    [
+      0.273291,
+      "\u001b[1m==\u003e default: Checking if box 'opennms/vagrant-opennms-ubuntu-stable' is up to date...\u001b[0m\r\n"
+    ],
+    [
+      4.522713,
+      "\u001b[1m==\u003e default: Setting the name of the VM: vagrant_default_1453748799430_7137\u001b[0m\r\n"
+    ],
+    [
+      1.118951,
+      "\u001b[1m==\u003e default: Clearing any previously set network interfaces...\u001b[0m\r\n"
+    ],
+    [
+      0.139337,
+      "\u001b[1m==\u003e default: Preparing network interfaces based on configuration...\u001b[0m\r\n"
+    ],
+    [
+      0.000534,
+      "\u001b[0m    default: Adapter 1: nat\u001b[0m\r\n"
+    ],
+    [
+      0.110709,
+      "\u001b[1m==\u003e default: Forwarding ports...\u001b[0m\r\n"
+    ],
+    [
+      0.072582,
+      "\u001b[0m    default: 8980 =\u003e 8980 (adapter 1)\u001b[0m\r\n"
+    ],
+    [
+      0.000529,
+      "\u001b[0m    default: 3000 =\u003e 3000 (adapter 1)\u001b[0m\r\n"
+    ],
+    [
+      0.000303,
+      "\u001b[0m    default: 22 =\u003e 2222 (adapter 1)\u001b[0m"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      0.459649,
+      "\u001b[1m==\u003e default: Running 'pre-boot' VM customizations...\u001b[0m\r\n"
+    ],
+    [
+      0.108074,
+      "\u001b[1m==\u003e default: Booting VM...\u001b[0m\r\n"
+    ],
+    [
+      0.890464,
+      "\u001b[1m==\u003e default: Waiting for machine to boot. This may take a few minutes...\u001b[0m\r\n"
+    ],
+    [
+      0.702362,
+      "\u001b[0m    default: SSH address: 127.0.0.1:2222\u001b[0m\r\n"
+    ],
+    [
+      0.000283,
+      "\u001b[0m    default: SSH username: vagrant\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.000310,
+      "\u001b[0m    default: SSH auth method: private key\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      15.206067,
+      "\u001b[0m    default: Warning: Connection timeout. Retrying...\u001b[0m\r\n"
+    ],
+    [
+      1.065679,
+      "\u001b[0m    default: \r\n    default: Vagrant insecure key detected. Vagrant will automatically replace\r\n    default: this with a newly generated keypair for better security.\u001b[0m\r\n"
+    ],
+    [
+      1.605515,
+      "\u001b[0m    default: \r\n    default: Inserting generated public key within guest...\u001b[0m\r\n"
+    ],
+    [
+      0.384230,
+      "\u001b[0m    default: Removing insecure key from the guest if it's present...\u001b[0m\r\n"
+    ],
+    [
+      0.295260,
+      "\u001b[0m    default: Key inserted! Disconnecting and reconnecting using new SSH key...\u001b[0m\r\n"
+    ],
+    [
+      0.743020,
+      "\u001b[1m==\u003e default: Machine booted and ready!\u001b[0m\r\n"
+    ],
+    [
+      0.000433,
+      "\u001b[1m==\u003e default: Checking for guest additions in VM...\u001b[0m\r\n"
+    ],
+    [
+      0.032426,
+      "\u001b[0m    default: The guest additions on this VM do not match the installed version of\r\n"
+    ],
+    [
+      0.000009,
+      "    default: VirtualBox! In most cases this is fine, but in rare cases it can\r\n    default: prevent things such as shared folders from working properly. If you see\r\n    default: shared folder errors, please make sure the guest additions within the\r\n    default: virtual machine match the version of VirtualBox you have installed on\r\n    default: your host and reload your VM.\r\n    default: \r\n    default: Guest Additions Version: 4.3.34\r\n    default: VirtualBox Version: 5.0\u001b[0m\r\n"
+    ],
+    [
+      0.077009,
+      "\u001b[1m==\u003e default: Mounting shared folders...\u001b[0m"
+    ],
+    [
+      0.000017,
+      "\r\n"
+    ],
+    [
+      0.000620,
+      "\u001b[0m    default: /vagrant =\u003e /root/vagrant\u001b[0m"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      2.306367,
+      "\u001b]0;root@phatt: ~/vagrant\u0007\u001b[1;31mroot\u001b[1;00m@\u001b[1;34mphatt\u001b[1;00m:\u001b[1;34mvagrant\u001b[1;00m$ "
+    ]
+  ]
+}
