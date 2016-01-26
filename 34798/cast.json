@@ -1,0 +1,498 @@
+{
+  "version": 1,
+  "width": 231,
+  "height": 79,
+  "duration": 15.977698,
+  "command": "zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.011051,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                      \r \r"
+    ],
+    [
+      0.002886,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[Jzchees-MacBook-Pro% "
+    ],
+    [
+      0.000019,
+      "\u001b[K"
+    ],
+    [
+      0.000010,
+      "\u001b[?2004h"
+    ],
+    [
+      0.778399,
+      "s"
+    ],
+    [
+      0.183463,
+      "\u0008sw"
+    ],
+    [
+      0.312343,
+      "_"
+    ],
+    [
+      0.271979,
+      "v"
+    ],
+    [
+      0.120040,
+      "e"
+    ],
+    [
+      0.119995,
+      "r"
+    ],
+    [
+      0.255900,
+      "s"
+    ],
+    [
+      0.080175,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000007,
+      "\r\r\n"
+    ],
+    [
+      0.010909,
+      "ProductName:\tMac OS X\r\nProductVersion:\t10.11.4\r\nBuildVersion:\t15E27e\r\n"
+    ],
+    [
+      0.000420,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000052,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[Jzchees-MacBook-Pro% \u001b[K\u001b[?2004h"
+    ],
+    [
+      1.780658,
+      "p"
+    ],
+    [
+      0.063958,
+      "\u0008pw"
+    ],
+    [
+      0.096050,
+      "d"
+    ],
+    [
+      0.255990,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.000137,
+      "/Users/zchee/src/github.com/mist64/xhyve\r\n"
+    ],
+    [
+      0.000041,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000038,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[Jzchees-MacBook-Pro% "
+    ],
+    [
+      0.000006,
+      "\u001b[K\u001b[?2004h"
+    ],
+    [
+      0.711855,
+      "m"
+    ],
+    [
+      0.039960,
+      "\u0008ma"
+    ],
+    [
+      0.080020,
+      "k"
+    ],
+    [
+      0.007928,
+      "e"
+    ],
+    [
+      0.152067,
+      " "
+    ],
+    [
+      0.424027,
+      "c"
+    ],
+    [
+      0.175975,
+      "l"
+    ],
+    [
+      0.112042,
+      "e"
+    ],
+    [
+      0.063904,
+      "a"
+    ],
+    [
+      0.240111,
+      "n"
+    ],
+    [
+      0.304015,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.021701,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000017,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[Jzchees-MacBook-Pro% "
+    ],
+    [
+      0.000002,
+      "\u001b[K"
+    ],
+    [
+      0.000002,
+      "\u001b[?2004h"
+    ],
+    [
+      0.386440,
+      "m"
+    ],
+    [
+      0.079849,
+      "\u0008ma"
+    ],
+    [
+      0.031977,
+      "k"
+    ],
+    [
+      0.048063,
+      "e"
+    ],
+    [
+      0.127987,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.014247,
+      "cc src/vmm/x86.c\r\n"
+    ],
+    [
+      0.042274,
+      "cc src/vmm/vmm.c\r\n"
+    ],
+    [
+      0.110507,
+      "cc src/vmm/vmm_host.c\r\n"
+    ],
+    [
+      0.037223,
+      "cc src/vmm/vmm_mem.c\r\n"
+    ],
+    [
+      0.030354,
+      "cc src/vmm/vmm_lapic.c\r\n"
+    ],
+    [
+      0.038762,
+      "cc src/vmm/vmm_instruction_emul.c\r\n"
+    ],
+    [
+      0.125555,
+      "cc src/vmm/vmm_ioport.c\r\n"
+    ],
+    [
+      0.037413,
+      "cc src/vmm/vmm_callout.c\r\n"
+    ],
+    [
+      0.053507,
+      "cc src/vmm/vmm_stat.c\r\n"
+    ],
+    [
+      0.038064,
+      "cc src/vmm/vmm_util.c\r\n"
+    ],
+    [
+      0.030580,
+      "cc src/vmm/vmm_api.c\r\n"
+    ],
+    [
+      0.064263,
+      "cc src/vmm/intel/vmx.c\r\n"
+    ],
+    [
+      0.180375,
+      "cc src/vmm/intel/vmx_msr.c\r\n"
+    ],
+    [
+      0.048363,
+      "cc src/vmm/intel/vmcs.c\r\n"
+    ],
+    [
+      0.044468,
+      "cc src/vmm/io/vatpic.c\r\n"
+    ],
+    [
+      0.058434,
+      "cc src/vmm/io/vatpit.c\r\n"
+    ],
+    [
+      0.048328,
+      "cc src/vmm/io/vhpet.c\r\n"
+    ],
+    [
+      0.064973,
+      "cc src/vmm/io/vioapic.c\r\n"
+    ],
+    [
+      0.048225,
+      "cc src/vmm/io/vlapic.c\r\n"
+    ],
+    [
+      0.108533,
+      "cc src/vmm/io/vpmtmr.c\r\n"
+    ],
+    [
+      0.038936,
+      "cc src/vmm/io/vrtc.c\r\n"
+    ],
+    [
+      0.096909,
+      "cc src/acpitbl.c\r\n"
+    ],
+    [
+      0.063301,
+      "cc src/atkbdc.c\r\n"
+    ],
+    [
+      0.032939,
+      "cc src/block_if.c\r\n"
+    ],
+    [
+      0.075480,
+      "cc src/consport.c\r\n"
+    ],
+    [
+      0.036926,
+      "cc src/dbgport.c\r\n"
+    ],
+    [
+      0.040007,
+      "cc src/inout.c\r\n"
+    ],
+    [
+      0.048042,
+      "cc src/ioapic.c\r\n"
+    ],
+    [
+      0.029079,
+      "cc src/md5c.c\r\n"
+    ],
+    [
+      0.069113,
+      "cc src/mem.c\r\n"
+    ],
+    [
+      0.070128,
+      "cc src/mevent.c\r\n"
+    ],
+    [
+      0.054934,
+      "cc src/mptbl.c\r\n"
+    ],
+    [
+      0.051898,
+      "cc src/pci_ahci.c\r\n"
+    ],
+    [
+      0.264919,
+      "cc src/pci_emul.c\r\n"
+    ],
+    [
+      0.122266,
+      "cc src/pci_hostbridge.c\r\n"
+    ],
+    [
+      0.033951,
+      "cc src/pci_irq.c\r\n"
+    ],
+    [
+      0.051593,
+      "cc src/pci_lpc.c\r\n"
+    ],
+    [
+      0.051758,
+      "cc src/pci_uart.c\r\n"
+    ],
+    [
+      0.035775,
+      "cc src/pci_virtio_block.c\r\n"
+    ],
+    [
+      0.054313,
+      "cc src/pci_virtio_net_tap.c\r\n"
+    ],
+    [
+      0.067237,
+      "cc src/pci_virtio_net_vmnet.c\r\n"
+    ],
+    [
+      0.101484,
+      "cc src/pci_virtio_rnd.c\r\n"
+    ],
+    [
+      0.044211,
+      "cc src/pm.c\r\n"
+    ],
+    [
+      0.040582,
+      "cc src/post.c\r\n"
+    ],
+    [
+      0.029342,
+      "cc src/rtc.c\r\n"
+    ],
+    [
+      0.030022,
+      "cc src/smbiostbl.c\r\n"
+    ],
+    [
+      0.052575,
+      "cc src/task_switch.c\r\n"
+    ],
+    [
+      0.072173,
+      "cc src/uart_emul.c\r\n"
+    ],
+    [
+      0.052859,
+      "cc src/xhyve.c\r\n"
+    ],
+    [
+      0.072198,
+      "cc src/virtio.c\r\n"
+    ],
+    [
+      0.065081,
+      "cc src/xmsr.c\r\n"
+    ],
+    [
+      0.033964,
+      "cc src/firmware/kexec.c\r\n"
+    ],
+    [
+      0.041876,
+      "cc src/firmware/fbsd.c\r\n"
+    ],
+    [
+      0.060358,
+      "ld xhyve.sym\r\n"
+    ],
+    [
+      1.640429,
+      "dsym xhyve.dSYM\r\n"
+    ],
+    [
+      0.039665,
+      "strip xhyve\r\n"
+    ],
+    [
+      0.006896,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000006,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[Jzchees-MacBook-Pro% \u001b[K"
+    ],
+    [
+      0.000016,
+      "\u001b[?2004h"
+    ],
+    [
+      0.458582,
+      "."
+    ],
+    [
+      0.064025,
+      "\u0008./"
+    ],
+    [
+      0.240008,
+      "x"
+    ],
+    [
+      0.215966,
+      "h"
+    ],
+    [
+      0.312026,
+      "y"
+    ],
+    [
+      0.281015,
+      "verun.sh\u001b[1m \u001b[0m"
+    ],
+    [
+      0.255075,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000015,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.009974,
+      "hv_vm_create failed\r\n"
+    ],
+    [
+      0.000136,
+      "./xhyverun.sh: line 24: 19253 Abort trap: 6           build/xhyve $ACPI $MEM $SMP $PCI_DEV $LPC_DEV $NET $IMG_CD $IMG_HDD $UUID -f kexec,$KERNEL,$INITRD,\"$CMDLINE\"\r\n"
+    ],
+    [
+      0.000352,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                                                                                      \r \r"
+    ],
+    [
+      0.000024,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[Jzchees-MacBook-Pro% \u001b[K"
+    ],
+    [
+      0.000004,
+      "\u001b[?2004h"
+    ],
+    [
+      1.317532,
+      "e"
+    ],
+    [
+      0.167970,
+      "\u0008ex"
+    ],
+    [
+      0.176057,
+      "i"
+    ],
+    [
+      0.039992,
+      "t"
+    ],
+    [
+      0.088009,
+      "\u001b[?2004l\r\r\n"
+    ]
+  ]
+}
