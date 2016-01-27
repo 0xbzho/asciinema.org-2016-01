@@ -1,0 +1,606 @@
+{
+  "version": 1,
+  "width": 100,
+  "height": 27,
+  "duration": 42.009387,
+  "command": "/bin/bash -l",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.743260,
+      "\u001b]"
+    ],
+    [
+      0.000045,
+      "1337;RemoteHost=tigarner@TIGARNER-M-624R"
+    ],
+    [
+      0.000177,
+      "\u0007"
+    ],
+    [
+      0.000179,
+      "\u001b]"
+    ],
+    [
+      0.000096,
+      "1337;CurrentDir=/Users/tigarner"
+    ],
+    [
+      0.000198,
+      "\u0007"
+    ],
+    [
+      0.000460,
+      "\u001b]"
+    ],
+    [
+      0.000095,
+      "1337;ShellIntegrationVersion=1"
+    ],
+    [
+      0.000166,
+      "\u0007"
+    ],
+    [
+      0.037056,
+      "\u001b[?1034h"
+    ],
+    [
+      0.000010,
+      "\u001b]133;D;0\u0007\u001b]1337;RemoteHost=tigarner@TIGARNER-M-624R\u0007\u001b]1337;CurrentDir=/Users/tigarner\u0007\u001b]133;A\u0007\u001b[0;38;2;208;208;208;48;2;88;88;88;1m ~ \u001b[0;38;2;88;88;88;49;22m \u001b[0m\u001b]133;B\u0007"
+    ],
+    [
+      1.779765,
+      "s"
+    ],
+    [
+      0.152101,
+      "s"
+    ],
+    [
+      0.087836,
+      "h"
+    ],
+    [
+      0.144121,
+      " "
+    ],
+    [
+      0.239762,
+      "a"
+    ],
+    [
+      0.072297,
+      "d"
+    ],
+    [
+      0.111954,
+      "m"
+    ],
+    [
+      0.145868,
+      "i"
+    ],
+    [
+      0.070200,
+      "n"
+    ],
+    [
+      0.135945,
+      "@"
+    ],
+    [
+      0.497821,
+      "1"
+    ],
+    [
+      0.000008,
+      "7"
+    ],
+    [
+      0.000042,
+      "2"
+    ],
+    [
+      0.000039,
+      "."
+    ],
+    [
+      0.000078,
+      "3"
+    ],
+    [
+      0.000063,
+      "1"
+    ],
+    [
+      0.000075,
+      "."
+    ],
+    [
+      0.000034,
+      "2"
+    ],
+    [
+      0.000033,
+      "1"
+    ],
+    [
+      0.000028,
+      "7"
+    ],
+    [
+      0.000093,
+      "."
+    ],
+    [
+      0.000032,
+      "2"
+    ],
+    [
+      0.000019,
+      "2"
+    ],
+    [
+      0.000053,
+      "1"
+    ],
+    [
+      0.893638,
+      "\r\n"
+    ],
+    [
+      0.007081,
+      "\u001b]"
+    ],
+    [
+      0.000006,
+      "133;C\u0007"
+    ],
+    [
+      0.077742,
+      "Application Policy Infrastructure Controller\r\n"
+    ],
+    [
+      0.214940,
+      "Last login: Fri Jan 22 14:17:03 2016 from 171.71.130.111\r\r\n"
+    ],
+    [
+      0.036280,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                   \r \r"
+    ],
+    [
+      0.001633,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[Japic1# \u001b[K"
+    ],
+    [
+      1.072472,
+      "\r\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                   \r \r"
+    ],
+    [
+      0.001703,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[Japic1# \u001b[K"
+    ],
+    [
+      2.036682,
+      "s"
+    ],
+    [
+      0.128149,
+      "\u0008sh"
+    ],
+    [
+      0.071878,
+      "o"
+    ],
+    [
+      0.095819,
+      "w"
+    ],
+    [
+      0.143899,
+      " "
+    ],
+    [
+      0.272286,
+      "r"
+    ],
+    [
+      0.103817,
+      "u"
+    ],
+    [
+      0.191764,
+      "n"
+    ],
+    [
+      3.624325,
+      " "
+    ],
+    [
+      0.247914,
+      "t"
+    ],
+    [
+      0.160028,
+      "e"
+    ],
+    [
+      0.119859,
+      "n"
+    ],
+    [
+      0.072131,
+      "a"
+    ],
+    [
+      0.120000,
+      "n"
+    ],
+    [
+      0.152006,
+      "t"
+    ],
+    [
+      0.384330,
+      "\r\r\n"
+    ],
+    [
+      0.247918,
+      "# Command: show running-config tenant\r\n# Time: Wed Jan 27 10:57:57 2016\r\n"
+    ],
+    [
+      1.434898,
+      "  tenant acme\r\n"
+    ],
+    [
+      0.266882,
+      "    vrf context ctx1\r\n"
+    ],
+    [
+      0.040700,
+      "      exit\r\n"
+    ],
+    [
+      0.000010,
+      "    application apps\r\n"
+    ],
+    [
+      0.000185,
+      "      epg EPG-s1\r\n"
+    ],
+    [
+      0.000090,
+      "        bridge-domain member BD-s1\r\n"
+    ],
+    [
+      0.041778,
+      "        exit\r\n      epg EPG-s2\r\n"
+    ],
+    [
+      0.000053,
+      "        bridge-domain member BD-s2\r\n"
+    ],
+    [
+      0.041048,
+      "        exit\r\n      epg EPG-s3\r\n        bridge-domain member BD-s3\r\n"
+    ],
+    [
+      0.040840,
+      "        exit\r\n      exit\r\n"
+    ],
+    [
+      0.044029,
+      "    bridge-domain BD-s1\r\n"
+    ],
+    [
+      0.001172,
+      "      vrf member ctx1\r\n      exit\r\n    bridge-domain BD-s2\r\n"
+    ],
+    [
+      0.000858,
+      "      vrf member ctx1\r\n      exit\r\n    bridge-domain BD-s3\r\n"
+    ],
+    [
+      0.000732,
+      "      vrf member ctx1\r\n      exit\r\n"
+    ],
+    [
+      0.000166,
+      "    interface bridge-domain BD-s1\r\n"
+    ],
+    [
+      0.002092,
+      "\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      2.364156,
+      "\r      ip address 21.1.1.1/24 secondary\r\n      exit\r\n    interface bridge-domain BD-s2\r\n"
+    ],
+    [
+      0.000052,
+      "      ip address 21.1.2.1/24 secondary\r\n      exit\r\n    interface bridge-domain BD-s3\r\n      ip address 21.1.3.1/24 secondary"
+    ],
+    [
+      0.000037,
+      "\r\n      exit\r\n    exit\r\n  tenant basic-tenant\r\n    vrf context ctx1\r\n      exit\r\n"
+    ],
+    [
+      0.000005,
+      "    application 3Tier\r\n      epg App\r\n        bridge-domain member App\r\n        exit\r\n"
+    ],
+    [
+      0.000323,
+      "      epg DB\r\n        bridge-domain member db\r\n        exit\r\n      epg Web\r\n        bridge-domain member Web\r\n        exit\r\n      exit\r\n    external-l3 epg L3outEPG\r\n      vrf member ctx1\r\n      exit\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.911805,
+      "\r    bridge-domain App\r\n      vrf member ctx1\r\n      exit\r\n    bridge-domain Web\r\n      vrf member ctx1\r\n      exit\r\n    bridge-domain db\r\n      exit\r\n    interface bridge-domain App\r\n      ip address 13.1.2.1/24 secondary\r\n      exit\r\n    interface bridge-domain Web\r\n      ip address 13.1.1.1/24 secondary scope public\r\n      exit\r\n    interface bridge-domain db\r\n      ip address 13.1.3.1/24 secondary\r\n      exit\r\n    exit\r\n  tenant common\r\n    description 'Common'\r\n    vrf context default\r\n      contract enforce egress\r\n      exit\r\n    vrf context newvrf\r\n      exit\r\n    vrf context shared\r\n\u001b[7m--More--\u001b[27m"
+    ],
+    [
+      0.679881,
+      "\r\u001b[K"
+    ],
+    [
+      0.953059,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                   \r \r"
+    ],
+    [
+      0.001522,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[Japic1# \u001b[K"
+    ],
+    [
+      0.509719,
+      "\r\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                   \r \r"
+    ],
+    [
+      0.001537,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[Japic1# \u001b[K"
+    ],
+    [
+      1.191213,
+      "c"
+    ],
+    [
+      0.086316,
+      "\u0008co"
+    ],
+    [
+      0.080471,
+      "n"
+    ],
+    [
+      0.104013,
+      "f"
+    ],
+    [
+      0.536036,
+      " "
+    ],
+    [
+      0.087903,
+      "t"
+    ],
+    [
+      0.216480,
+      "\r\r\n"
+    ],
+    [
+      0.224227,
+      "Error: Invalid argument 't '. Please check syntax in command reference guide\r\n"
+    ],
+    [
+      0.003349,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                   \r \r"
+    ],
+    [
+      0.001520,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[Japic1# \u001b[K"
+    ],
+    [
+      0.890567,
+      "c"
+    ],
+    [
+      0.048160,
+      "\u0008co"
+    ],
+    [
+      0.056023,
+      "n"
+    ],
+    [
+      0.127780,
+      "f"
+    ],
+    [
+      0.271969,
+      "i"
+    ],
+    [
+      0.120151,
+      "g"
+    ],
+    [
+      0.416475,
+      "ure "
+    ],
+    [
+      0.431109,
+      "t"
+    ],
+    [
+      0.119243,
+      "e"
+    ],
+    [
+      0.153089,
+      "r"
+    ],
+    [
+      0.111728,
+      "m"
+    ],
+    [
+      0.136210,
+      "i"
+    ],
+    [
+      0.064299,
+      "n"
+    ],
+    [
+      0.095754,
+      "a"
+    ],
+    [
+      0.111843,
+      "l"
+    ],
+    [
+      0.208665,
+      "\r\r\n"
+    ],
+    [
+      0.226231,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                   \r \r"
+    ],
+    [
+      0.001597,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[Japic1(config)# \u001b[K"
+    ],
+    [
+      0.676008,
+      "\r\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                   \r \r"
+    ],
+    [
+      0.001505,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[Japic1(config)# \u001b[K"
+    ],
+    [
+      0.926429,
+      "t"
+    ],
+    [
+      0.063814,
+      "\u0008te"
+    ],
+    [
+      0.111854,
+      "n"
+    ],
+    [
+      0.072098,
+      "a"
+    ],
+    [
+      0.088027,
+      "n"
+    ],
+    [
+      0.119735,
+      "t"
+    ],
+    [
+      0.087881,
+      " "
+    ],
+    [
+      0.578992,
+      "c"
+    ],
+    [
+      0.061324,
+      "l"
+    ],
+    [
+      0.120036,
+      "i"
+    ],
+    [
+      0.608222,
+      "-"
+    ],
+    [
+      0.159738,
+      "e"
+    ],
+    [
+      0.449245,
+      "\u0008 \u0008"
+    ],
+    [
+      0.110948,
+      "d"
+    ],
+    [
+      0.151885,
+      "e"
+    ],
+    [
+      0.063992,
+      "m"
+    ],
+    [
+      0.055519,
+      "o"
+    ],
+    [
+      1.112911,
+      "\r\r\n"
+    ],
+    [
+      0.283112,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                   \r \r"
+    ],
+    [
+      0.001453,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[Japic1(config-tenant)# \u001b[K"
+    ],
+    [
+      0.611401,
+      "\r\r\n\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                   \r \r"
+    ],
+    [
+      0.001596,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[Japic1(config-tenant)# \u001b[K"
+    ],
+    [
+      5.167227,
+      "\r\r\n"
+    ],
+    [
+      0.003537,
+      "Connection to 172.31.217.221 closed.\r\r\n"
+    ],
+    [
+      0.040626,
+      "\u001b]133;D;0\u0007\u001b]1337;RemoteHost=tigarner@TIGARNER-M-624R\u0007\u001b]1337;CurrentDir=/Users/tigarner\u0007\u001b]133;A\u0007\u001b[0;38;2;208;208;208;48;2;88;88;88;1m ~ \u001b[0;38;2;88;88;88;49;22m \u001b[0m\u001b]133;B\u0007"
+    ],
+    [
+      1.777816,
+      "\r\n"
+    ],
+    [
+      0.002138,
+      "\u001b]133;C"
+    ],
+    [
+      0.000034,
+      "\u0007"
+    ],
+    [
+      0.040473,
+      "\u001b]133;D;0\u0007\u001b]1337;RemoteHost=tigarner@TIGARNER-M-624R\u0007\u001b]1337;CurrentDir=/Users/tigarner\u0007\u001b]133;A\u0007\u001b[0;38;2;208;208;208;48;2;88;88;88;1m ~ \u001b[0;38;2;88;88;88;49;22m \u001b[0m\u001b]133;B\u0007"
+    ],
+    [
+      0.285581,
+      "logout\r\n"
+    ]
+  ]
+}
