@@ -1,0 +1,598 @@
+{
+  "version": 1,
+  "width": 121,
+  "height": 35,
+  "duration": 231.269952,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "screen-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.225707,
+      "\u001b[01;35mmohamedbassem@mohamedbassem-Laptop ~/repos/go/src/github.com/zoobe/pushnotification \u001b[01;31m[master] \u001b[35m$\u001b[00m "
+    ],
+    [
+      0.141220,
+      "C"
+    ],
+    [
+      0.090827,
+      "O"
+    ],
+    [
+      0.123483,
+      "N"
+    ],
+    [
+      0.080615,
+      "F"
+    ],
+    [
+      0.078593,
+      "I"
+    ],
+    [
+      0.149918,
+      "G"
+    ],
+    [
+      0.090584,
+      "_"
+    ],
+    [
+      0.448643,
+      "F"
+    ],
+    [
+      0.092025,
+      "I"
+    ],
+    [
+      0.175103,
+      "L"
+    ],
+    [
+      0.102192,
+      "E"
+    ],
+    [
+      0.302220,
+      "="
+    ],
+    [
+      0.580392,
+      "c"
+    ],
+    [
+      0.077000,
+      "o"
+    ],
+    [
+      0.178909,
+      "n"
+    ],
+    [
+      0.230581,
+      "f"
+    ],
+    [
+      0.137690,
+      "i"
+    ],
+    [
+      0.148127,
+      "g"
+    ],
+    [
+      0.290197,
+      "_"
+    ],
+    [
+      0.177977,
+      "t"
+    ],
+    [
+      0.080324,
+      "e"
+    ],
+    [
+      0.058129,
+      "s"
+    ],
+    [
+      0.085126,
+      "t"
+    ],
+    [
+      0.202718,
+      "i"
+    ],
+    [
+      0.073215,
+      "n"
+    ],
+    [
+      0.159091,
+      "g \r"
+    ],
+    [
+      0.198878,
+      "."
+    ],
+    [
+      0.746625,
+      "y"
+    ],
+    [
+      0.076816,
+      "m"
+    ],
+    [
+      0.103802,
+      "l"
+    ],
+    [
+      0.061595,
+      "l"
+    ],
+    [
+      0.088608,
+      " "
+    ],
+    [
+      0.188847,
+      "g"
+    ],
+    [
+      0.281003,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.123558,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.118487,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.127490,
+      " "
+    ],
+    [
+      0.155287,
+      "g"
+    ],
+    [
+      0.150730,
+      "o"
+    ],
+    [
+      0.181055,
+      " "
+    ],
+    [
+      0.110406,
+      "t"
+    ],
+    [
+      0.072250,
+      "e"
+    ],
+    [
+      0.065837,
+      "s"
+    ],
+    [
+      0.137213,
+      " "
+    ],
+    [
+      0.245777,
+      "-"
+    ],
+    [
+      0.237166,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.132181,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.059108,
+      "t"
+    ],
+    [
+      0.092154,
+      " "
+    ],
+    [
+      0.197898,
+      "-"
+    ],
+    [
+      0.113158,
+      "v"
+    ],
+    [
+      0.190076,
+      " "
+    ],
+    [
+      0.858798,
+      "-"
+    ],
+    [
+      0.135134,
+      "-"
+    ],
+    [
+      0.100682,
+      "c"
+    ],
+    [
+      0.118257,
+      "o"
+    ],
+    [
+      0.135009,
+      "v"
+    ],
+    [
+      0.194297,
+      "e"
+    ],
+    [
+      0.062337,
+      "r"
+    ],
+    [
+      1.673220,
+      "\r\n"
+    ],
+    [
+      3.053591,
+      "=== RUN   TestRunUnitTests\r\n"
+    ],
+    [
+      0.000425,
+      "2016/01/29 10:05:34 Parsed Job : feed.yml\r\n"
+    ],
+    [
+      0.000051,
+      "2016/01/29 10:05:34 Parsed Job : follow.yml\r\n"
+    ],
+    [
+      0.000045,
+      "2016/01/29 10:05:34 Parsed Job : like.yml\r\n"
+    ],
+    [
+      0.000056,
+      "2016/01/29 10:05:34 Parsed Job : open.yml\r\n"
+    ],
+    [
+      0.000050,
+      "2016/01/29 10:05:34 Parsed Job : wavers.yml\r\n"
+    ],
+    [
+      0.000046,
+      "2016/01/29 10:05:34 Parsed Job : wavers_fixed.yml\r\n"
+    ],
+    [
+      0.002299,
+      "=== RUN   TestDummyScheduler\r\n"
+    ],
+    [
+      0.238792,
+      "--- PASS: TestDummyScheduler (0.24s)\r\n=== RUN   TestFeedGeneratorMessageTruncation\r\n"
+    ],
+    [
+      0.215628,
+      "--- PASS: TestFeedGeneratorMessageTruncation (0.22s)\r\n"
+    ],
+    [
+      0.000006,
+      "=== RUN   TestFeedGeneratorNormal\r\n"
+    ],
+    [
+      0.210878,
+      "--- PASS: TestFeedGeneratorNormal (0.21s)\r\n=== RUN   TestFeedListenerNormal"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.226810,
+      "--- PASS: TestFeedListenerNormal (0.23s)\r\n"
+    ],
+    [
+      0.000008,
+      "=== RUN   TestFeedListenerValidateMandatoryFields\r\n"
+    ],
+    [
+      0.214839,
+      "--- PASS: TestFeedListenerValidateMandatoryFields (0.21s)\r\n"
+    ],
+    [
+      0.000013,
+      "=== RUN   TestFollowGeneratorMessageTruncation\r\n"
+    ],
+    [
+      0.235179,
+      "--- PASS: TestFollowGeneratorMessageTruncation (0.24s)\r\n"
+    ],
+    [
+      0.000007,
+      "=== RUN   TestFollowGeneratorNormal\r\n"
+    ],
+    [
+      0.271177,
+      "--- PASS: TestFollowGeneratorNormal (0.27s)\r\n"
+    ],
+    [
+      0.000007,
+      "=== RUN   TestFollowListenerNormal\r\n"
+    ],
+    [
+      0.222071,
+      "--- PASS: TestFollowListenerNormal (0.22s)\r\n"
+    ],
+    [
+      0.000010,
+      "=== RUN   TestFollowListenerValidateMandatoryFields\r\n"
+    ],
+    [
+      0.207503,
+      "--- PASS: TestFollowListenerValidateMandatoryFields (0.21s)\r\n"
+    ],
+    [
+      0.000008,
+      "=== RUN   TestImmendiateScheduler\r\n"
+    ],
+    [
+      0.215051,
+      "--- PASS: TestImmendiateScheduler (0.21s)\r\n"
+    ],
+    [
+      0.000008,
+      "=== RUN   TestLikeGeneratorLocalization\r\n"
+    ],
+    [
+      0.219874,
+      "--- PASS: TestLikeGeneratorLocalization (0.22s)\r\n=== RUN   TestLikeGeneratorMessageContent"
+    ],
+    [
+      0.000008,
+      "\r\n"
+    ],
+    [
+      0.246430,
+      "--- PASS: TestLikeGeneratorMessageContent (0.25s)\r\n"
+    ],
+    [
+      0.000012,
+      "=== RUN   TestLikeGeneratorMessageTruncation\r\n"
+    ],
+    [
+      0.244992,
+      "--- PASS: TestLikeGeneratorMessageTruncation (0.24s)\r\n=== RUN   TestLikeGeneratorNormal\r\n"
+    ],
+    [
+      0.254915,
+      "--- PASS: TestLikeGeneratorNormal (0.25s)\r\n=== RUN   TestLikeListenerNormal\r\n"
+    ],
+    [
+      0.211094,
+      "--- PASS: TestLikeListenerNormal (0.21s)\r\n"
+    ],
+    [
+      0.000009,
+      "=== RUN   TestLikeListenerValidateMandatoryFields\r\n"
+    ],
+    [
+      0.222442,
+      "--- PASS: TestLikeListenerValidateMandatoryFields (0.22s)\r\n=== RUN   TestOpenListenerValidateMandatoryFields\r\n"
+    ],
+    [
+      0.203855,
+      "--- PASS: TestOpenListenerValidateMandatoryFields (0.20s)\r\n=== RUN   TestRateLimiterLimitClear\r\n"
+    ],
+    [
+      0.243778,
+      "--- PASS: TestRateLimiterLimitClear (0.24s)\r\n"
+    ],
+    [
+      0.000009,
+      "=== RUN   TestRateLimiterLimitDifferentParams\r\n"
+    ],
+    [
+      0.241154,
+      "--- PASS: TestRateLimiterLimitDifferentParams (0.24s)\r\n=== RUN   TestRateLimiterLimitTest\r\n"
+    ],
+    [
+      0.303311,
+      "--- PASS: TestRateLimiterLimitTest (0.30s)\r\n"
+    ],
+    [
+      0.000009,
+      "=== RUN   TestWaversGeneratorNormal\r\n"
+    ],
+    [
+      0.218632,
+      "--- PASS: TestWaversGeneratorNormal (0.22s)\r\n=== RUN   TestWaversListenerNormal\r\n"
+    ],
+    [
+      0.223378,
+      "--- PASS: TestWaversListenerNormal (0.22s)\r\n"
+    ],
+    [
+      0.000008,
+      "=== RUN   TestWaversListenerValidateMandatoryFields\r\n"
+    ],
+    [
+      0.203043,
+      "--- PASS: TestWaversListenerValidateMandatoryFields (0.20s)\r\n"
+    ],
+    [
+      0.000006,
+      "--- PASS: TestRunUnitTests (5.30s)\r\n=== RUN   TestRunFunctionalTests\r\n"
+    ],
+    [
+      0.003386,
+      "=== RUN   TestFeedDefaultLocalization\r\n"
+    ],
+    [
+      4.065849,
+      "--- PASS: TestFeedDefaultLocalization (4.07s)\r\n"
+    ],
+    [
+      0.000027,
+      "=== RUN   TestFeedExtensive\r\n"
+    ],
+    [
+      24.258866,
+      "--- PASS: TestFeedExtensive (24.26s)\r\n"
+    ],
+    [
+      0.000014,
+      "=== RUN   TestFeedTotalFlow\r\n"
+    ],
+    [
+      3.983560,
+      "--- PASS: TestFeedTotalFlow (3.98s)\r\n"
+    ],
+    [
+      0.000009,
+      "=== RUN   TestFollowDefaultLocalization\r\n"
+    ],
+    [
+      4.010292,
+      "--- PASS: TestFollowDefaultLocalization (4.01s)\r\n"
+    ],
+    [
+      0.000010,
+      "=== RUN   TestFollowExtensive\r\n"
+    ],
+    [
+      35.036572,
+      "--- PASS: TestFollowExtensive (35.04s)\r\n=== RUN   TestFollowMultiTotalFlow\r\n"
+    ],
+    [
+      3.980302,
+      "--- PASS: TestFollowMultiTotalFlow (3.98s)\r\n"
+    ],
+    [
+      0.000009,
+      "=== RUN   TestFollowTotalFlow\r\n"
+    ],
+    [
+      4.018885,
+      "--- PASS: TestFollowTotalFlow (4.02s)\r\n=== RUN   TestLikeDefaultLocalization\r\n"
+    ],
+    [
+      3.995296,
+      "--- PASS: TestLikeDefaultLocalization (4.00s)\r\n=== RUN   TestLikeExtensive\r\n"
+    ],
+    [
+      34.015612,
+      "--- PASS: TestLikeExtensive (34.02s)\r\n"
+    ],
+    [
+      0.000011,
+      "=== RUN   TestLikeLocalization\r\n"
+    ],
+    [
+      4.049494,
+      "--- PASS: TestLikeLocalization (4.05s)\r\n=== RUN   TestLikeOneUnknown\r\n"
+    ],
+    [
+      3.958046,
+      "--- PASS: TestLikeOneUnknown (3.96s)\r\n=== RUN   TestLikeOneUnknownAndOneKnown"
+    ],
+    [
+      0.000010,
+      "\r\n"
+    ],
+    [
+      11.006711,
+      "--- PASS: TestLikeOneUnknownAndOneKnown (11.01s)\r\n"
+    ],
+    [
+      0.000011,
+      "=== RUN   TestLikeTotalFlow\r\n"
+    ],
+    [
+      4.007998,
+      "--- PASS: TestLikeTotalFlow (4.01s)\r\n"
+    ],
+    [
+      0.000011,
+      "=== RUN   TestLikeTwoUnknown\r\n"
+    ],
+    [
+      11.008709,
+      "--- PASS: TestLikeTwoUnknown (11.01s)\r\n=== RUN   TestOpenAggregatorFlow\r\n"
+    ],
+    [
+      2.272829,
+      "--- PASS: TestOpenAggregatorFlow (2.27s)\r\n"
+    ],
+    [
+      0.000009,
+      "=== RUN   TestWaversDefaultLocalization\r\n"
+    ],
+    [
+      3.716840,
+      "--- PASS: TestWaversDefaultLocalization (3.72s)\r\n"
+    ],
+    [
+      0.000016,
+      "=== RUN   TestWaversFixedTotalFlow\r\n"
+    ],
+    [
+      4.011750,
+      "--- PASS: TestWaversFixedTotalFlow (4.01s)\r\n=== RUN   TestWaversTotalFlow\r\n"
+    ],
+    [
+      4.001958,
+      "--- PASS: TestWaversTotalFlow (4.00s)"
+    ],
+    [
+      0.003170,
+      "\r\n--- PASS: TestRunFunctionalTests (165.40s)\r\nPASS\r\ncoverage: 75.5% of statements\r\n"
+    ],
+    [
+      0.000020,
+      "ok  "
+    ],
+    [
+      0.000410,
+      "\t"
+    ],
+    [
+      0.000161,
+      "github.com/zoobe/pushnotification"
+    ],
+    [
+      0.000179,
+      "\t"
+    ],
+    [
+      0.000008,
+      "170.704s\r\n"
+    ],
+    [
+      0.008762,
+      "\u001b[01;35mmohamedbassem@mohamedbassem-Laptop ~/repos/go/src/github.com/zoobe/pushnotification \u001b[01;31m[master] \u001b[35m$\u001b[00m "
+    ],
+    [
+      45.387216,
+      "exit\r\n"
+    ]
+  ]
+}
