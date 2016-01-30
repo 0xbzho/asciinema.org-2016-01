@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 24,
+  "duration": 9.486541,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "rxvt-unicode-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.009191,
+      "\u001b]0;nihliphobe@Modlot:~/School/mbe/challenges\u0007"
+    ],
+    [
+      0.000345,
+      "[nihliphobe@Modlot challenges]$ "
+    ],
+    [
+      0.403643,
+      "."
+    ],
+    [
+      0.336967,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.577928,
+      "\r\n"
+    ],
+    [
+      0.000116,
+      "\u001b]0;nihliphobe@Modlot:~/School/mbe/challenges\u0007"
+    ],
+    [
+      0.000085,
+      "[nihliphobe@Modlot challenges]$ "
+    ],
+    [
+      0.503825,
+      "."
+    ],
+    [
+      0.102963,
+      "/"
+    ],
+    [
+      1.621112,
+      "r"
+    ],
+    [
+      0.263900,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.172997,
+      "c"
+    ],
+    [
+      0.080019,
+      "r"
+    ],
+    [
+      0.080997,
+      "a"
+    ],
+    [
+      0.109959,
+      "c"
+    ],
+    [
+      0.161450,
+      "\u0007kme0x0"
+    ],
+    [
+      1.211689,
+      "9"
+    ],
+    [
+      0.182167,
+      "\r\n"
+    ],
+    [
+      0.000430,
+      "IOLI Crackme Level 0x09\r\nPassword: "
+    ],
+    [
+      0.785307,
+      "4"
+    ],
+    [
+      0.192065,
+      "4"
+    ],
+    [
+      0.203967,
+      "4"
+    ],
+    [
+      0.203896,
+      "4"
+    ],
+    [
+      0.226113,
+      "\r\n"
+    ],
+    [
+      0.000121,
+      "Password OK!\r\n"
+    ],
+    [
+      0.000227,
+      "\u001b]0;nihliphobe@Modlot:~/School/mbe/challenges\u0007[nihliphobe@Modlot challenges]$ "
+    ],
+    [
+      1.732778,
+      "e"
+    ],
+    [
+      0.053922,
+      "x"
+    ],
+    [
+      0.067178,
+      "i"
+    ],
+    [
+      0.090873,
+      "t"
+    ],
+    [
+      0.110199,
+      "\r\nexit\r\n"
+    ]
+  ]
+}
