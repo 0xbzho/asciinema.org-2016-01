@@ -1,0 +1,438 @@
+{
+  "version": 1,
+  "width": 84,
+  "height": 24,
+  "duration": 25.727175,
+  "command": "/bin/zsh",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/zsh"
+  },
+  "stdout": [
+    [
+      0.286086,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                   \r \r"
+    ],
+    [
+      0.000044,
+      "\u001b]7;file://ur/Users/ghostbar/Code/js/temp\u0007"
+    ],
+    [
+      0.059631,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mghostbar\u001b[39m at \u001b[38;5;166mur\u001b[39m in \u001b[38;5;118m~/Code/js/temp\u001b[39m \r\n$ "
+    ],
+    [
+      0.000027,
+      "\u001b[K"
+    ],
+    [
+      0.000056,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000789,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mghostbar\u001b[39m at \u001b[38;5;166mur\u001b[39m in \u001b[38;5;118m~/Code/js/temp\u001b[39m \r\n$ \u001b[K"
+    ],
+    [
+      0.930623,
+      "\u001b[32ml\u001b[39m"
+    ],
+    [
+      0.070313,
+      "\u0008\u001b[32ml\u001b[32ms\u001b[39m"
+    ],
+    [
+      0.148121,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000743,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mghostbar\u001b[39m at \u001b[38;5;166mur\u001b[39m in \u001b[38;5;118m~/Code/js/temp\u001b[39m \r\n$ "
+    ],
+    [
+      0.000007,
+      "\u001b[32mls\u001b[39m\u001b[K"
+    ],
+    [
+      0.000100,
+      "\r\r\n"
+    ],
+    [
+      0.006926,
+      "a.js     b.js     index.js\r\n"
+    ],
+    [
+      0.000369,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                   \r \r"
+    ],
+    [
+      0.000037,
+      "\u001b]7;file://ur/Users/ghostbar/Code/js/temp\u0007"
+    ],
+    [
+      0.079339,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mghostbar\u001b[39m at \u001b[38;5;166mur\u001b[39m in \u001b[38;5;118m~/Code/js/temp\u001b[39m \r\n$ "
+    ],
+    [
+      0.000007,
+      "\u001b[K"
+    ],
+    [
+      0.000030,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000586,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mghostbar\u001b[39m at \u001b[38;5;166mur\u001b[39m in \u001b[38;5;118m~/Code/js/temp\u001b[39m \r\n$ "
+    ],
+    [
+      0.000004,
+      "\u001b[K"
+    ],
+    [
+      1.128091,
+      "\u001b[4m\u001b[33mc\u001b[24m\u001b[39m"
+    ],
+    [
+      0.123009,
+      "\u0008\u001b[4m\u001b[33mc\u001b[4m\u001b[33ma\u001b[24m\u001b[39m"
+    ],
+    [
+      0.143504,
+      "\u0008\u0008\u001b[24m\u001b[39m\u001b[44mc\u001b[24m\u001b[39m\u001b[44ma\u001b[44mt\u001b[49m"
+    ],
+    [
+      0.130777,
+      " "
+    ],
+    [
+      0.447759,
+      "\u001b[4ma\u001b[24m"
+    ],
+    [
+      0.193933,
+      "\u001b[7m.\u001b[27m"
+    ],
+    [
+      0.244756,
+      "\u0008\u0008\u001b[4ma\u001b[27m\u001b[4m.\u001b[4mj\u001b[24m"
+    ],
+    [
+      0.119016,
+      "\u0008\u001b[4mj\u001b[4ms\u001b[24m"
+    ],
+    [
+      0.219733,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000739,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mghostbar\u001b[39m at \u001b[38;5;166mur\u001b[39m in \u001b[38;5;118m~/Code/js/temp\u001b[39m \r\n$ "
+    ],
+    [
+      0.000007,
+      "\u001b[44mcat\u001b[49m \u001b[4ma.js\u001b[24m\u001b[K"
+    ],
+    [
+      0.000060,
+      "\r\r\n"
+    ],
+    [
+      0.003491,
+      "var ee = new (require('events').EventEmitter)()\r\n\r\nfunction init () {\r\n  console.log('initialize this function on require')\r\n  setTimeout(function () {\r\n    ee.emit('init', 'got called!')\r\n  }, 2000)\r\n}\r\n\r\ninit()\r\nmodule.exports = ee\r\n"
+    ],
+    [
+      0.000411,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                   \r \r"
+    ],
+    [
+      0.000032,
+      "\u001b]7;file://ur/Users/ghostbar/Code/js/temp\u0007"
+    ],
+    [
+      0.066000,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mghostbar\u001b[39m at \u001b[38;5;166mur\u001b[39m in \u001b[38;5;118m~/Code/js/temp\u001b[39m \r\n$ \u001b[K"
+    ],
+    [
+      0.000025,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000487,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mghostbar\u001b[39m at \u001b[38;5;166mur\u001b[39m in \u001b[38;5;118m~/Code/js/temp\u001b[39m \r\n$ \u001b[K"
+    ],
+    [
+      3.181551,
+      "\u001b[4m\u001b[33mc\u001b[24m\u001b[39m"
+    ],
+    [
+      0.163847,
+      "\u0008\u001b[4m\u001b[33mc\u001b[4m\u001b[33ma\u001b[24m\u001b[39m"
+    ],
+    [
+      0.149464,
+      "\u0008\u0008\u001b[24m\u001b[39m\u001b[44mc\u001b[24m\u001b[39m\u001b[44ma\u001b[44mt\u001b[49m"
+    ],
+    [
+      0.151955,
+      " "
+    ],
+    [
+      0.438288,
+      "\u001b[4mb\u001b[24m"
+    ],
+    [
+      0.219392,
+      "\u001b[7m.\u001b[27m"
+    ],
+    [
+      0.326455,
+      "\u0008\u0008\u001b[4mb\u001b[27m\u001b[4m.\u001b[4mj\u001b[24m"
+    ],
+    [
+      0.198501,
+      "\u0008\u001b[4mj\u001b[4ms\u001b[24m"
+    ],
+    [
+      0.795576,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000797,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mghostbar\u001b[39m at \u001b[38;5;166mur\u001b[39m in \u001b[38;5;118m~/Code/js/temp\u001b[39m \r\n$ "
+    ],
+    [
+      0.000007,
+      "\u001b[44mcat\u001b[49m \u001b[4mb.js\u001b[24m\u001b[K"
+    ],
+    [
+      0.000070,
+      "\r\r\n"
+    ],
+    [
+      0.003453,
+      "var a = require('./a.js')\r\n\r\nfunction init () {\r\n  a.on('init', function (string) {\r\n    console.log('from b', string)\r\n  })\r\n}\r\n\r\nmodule.exports = init\r\n"
+    ],
+    [
+      0.000402,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                   \r \r"
+    ],
+    [
+      0.000036,
+      "\u001b]7;file://ur/Users/ghostbar/Code/js/temp\u0007"
+    ],
+    [
+      0.070481,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mghostbar\u001b[39m at \u001b[38;5;166mur\u001b[39m in \u001b[38;5;118m~/Code/js/temp\u001b[39m \r\n$ \u001b[K"
+    ],
+    [
+      0.000037,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000549,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mghostbar\u001b[39m at \u001b[38;5;166mur\u001b[39m in \u001b[38;5;118m~/Code/js/temp\u001b[39m \r\n$ \u001b[K"
+    ],
+    [
+      4.137441,
+      "\u001b[4m\u001b[33mc\u001b[24m\u001b[39m"
+    ],
+    [
+      0.068540,
+      "\u0008\u001b[4m\u001b[33mc\u001b[4m\u001b[33ma\u001b[24m\u001b[39m"
+    ],
+    [
+      0.146190,
+      "\u0008\u0008\u001b[24m\u001b[39m\u001b[44mc\u001b[24m\u001b[39m\u001b[44ma\u001b[44mt\u001b[49m"
+    ],
+    [
+      0.085081,
+      " "
+    ],
+    [
+      0.180491,
+      "\u001b[4mi\u001b[24m"
+    ],
+    [
+      0.075887,
+      "\u0008\u001b[4mi\u001b[4mn\u001b[24m"
+    ],
+    [
+      0.025473,
+      "\u0008\u001b[4mn\u001b[4md\u001b[24m"
+    ],
+    [
+      0.102372,
+      "\u0008\u001b[4md\u001b[4me\u001b[24m"
+    ],
+    [
+      0.123398,
+      "\u001b[7m.\u001b[27m"
+    ],
+    [
+      0.448294,
+      "\u0008\u001b[27m \u0008"
+    ],
+    [
+      0.092263,
+      "\u0008\u001b[4me\u001b[4mx\u001b[24m"
+    ],
+    [
+      0.163608,
+      "\u001b[7m.\u001b[27m"
+    ],
+    [
+      0.124687,
+      "\u0008\u0008\u001b[4mx\u001b[27m\u001b[4m.\u001b[4mj\u001b[24m"
+    ],
+    [
+      0.113879,
+      "\u0008\u001b[4mj\u001b[4ms\u001b[24m"
+    ],
+    [
+      0.153738,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.000667,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mghostbar\u001b[39m at \u001b[38;5;166mur\u001b[39m in \u001b[38;5;118m~/Code/js/temp\u001b[39m \r\n$ "
+    ],
+    [
+      0.000007,
+      "\u001b[44mcat\u001b[49m \u001b[4mindex.js\u001b[24m\u001b[K"
+    ],
+    [
+      0.000070,
+      "\r\r\n"
+    ],
+    [
+      0.004498,
+      "var a = require('./a.js')\r\nvar b = require('./b.js')\r\n\r\nconsole.log('this is index.js')\r\nb()\r\n\r\na.on('init', function (string) {\r\n  console.log(string)\r\n})\r\n"
+    ],
+    [
+      0.000858,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                   \r \r"
+    ],
+    [
+      0.000019,
+      "\u001b]7;file://ur/Users/ghostbar/Code/js/temp\u0007"
+    ],
+    [
+      0.065587,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mghostbar\u001b[39m at \u001b[38;5;166mur\u001b[39m in \u001b[38;5;118m~/Code/js/temp\u001b[39m \r\n$ "
+    ],
+    [
+      0.000017,
+      "\u001b[K"
+    ],
+    [
+      0.000032,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000607,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mghostbar\u001b[39m at \u001b[38;5;166mur\u001b[39m in \u001b[38;5;118m~/Code/js/temp\u001b[39m \r\n$ \u001b[K"
+    ],
+    [
+      3.469185,
+      "\u001b[4m\u001b[33mn\u001b[24m\u001b[39m"
+    ],
+    [
+      0.111609,
+      "\u0008\u001b[24m\u001b[1m\u001b[31mn\u001b[1m\u001b[31mo\u001b[0m\u001b[39m"
+    ],
+    [
+      0.059214,
+      "\u0008\u0008\u001b[1m\u001b[31mn\u001b[1m\u001b[31mo\u001b[1m\u001b[31md\u001b[0m\u001b[39m"
+    ],
+    [
+      0.100118,
+      "\u0008\u0008\u0008\u001b[0m\u001b[39m\u001b[44mn\u001b[0m\u001b[39m\u001b[44mo\u001b[0m\u001b[39m\u001b[44md\u001b[44me\u001b[49m"
+    ],
+    [
+      0.123294,
+      " "
+    ],
+    [
+      0.188758,
+      "\u001b[4mi\u001b[24m"
+    ],
+    [
+      0.064110,
+      "\u0008\u001b[4mi\u001b[4mn\u001b[24m"
+    ],
+    [
+      0.072626,
+      "\u0008\u001b[4mn\u001b[4md\u001b[24m"
+    ],
+    [
+      0.150350,
+      "\u001b[33m\u001b[39m\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mghostbar\u001b[39m at \u001b[38;5;166mur\u001b[39m in \u001b[38;5;118m~/Code/js/temp\u001b[39m \r\n$ "
+    ],
+    [
+      0.000006,
+      "\u001b[44mnode\u001b[49m \u001b[4mindex.js\u001b[24m\u001b[1m \u001b[0m\u001b[K"
+    ],
+    [
+      0.673643,
+      "\u0008\u001b[0m \u0008"
+    ],
+    [
+      0.000045,
+      "\u001b[?1l\u001b\u003e"
+    ],
+    [
+      0.001366,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mghostbar\u001b[39m at \u001b[38;5;166mur\u001b[39m in \u001b[38;5;118m~/Code/js/temp\u001b[39m \r\n$ \u001b[44mnode\u001b[49m \u001b[4mindex.js\u001b[24m\u001b[K"
+    ],
+    [
+      0.000218,
+      "\r\r\n"
+    ],
+    [
+      0.081136,
+      "initialize this function on require\r\n"
+    ],
+    [
+      0.002214,
+      "this is index.js\r\n"
+    ],
+    [
+      2.003124,
+      "from b got called!\r\n"
+    ],
+    [
+      0.000077,
+      "got called!\r\n"
+    ],
+    [
+      0.002243,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                   \r \r"
+    ],
+    [
+      0.000028,
+      "\u001b]7;file://ur/Users/ghostbar/Code/js/temp\u0007"
+    ],
+    [
+      0.058386,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mghostbar\u001b[39m at \u001b[38;5;166mur\u001b[39m in \u001b[38;5;118m~/Code/js/temp\u001b[39m \r\n$ "
+    ],
+    [
+      0.000016,
+      "\u001b[K"
+    ],
+    [
+      0.000017,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      0.000557,
+      "\r\r\u001b[A\u001b[A\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[38;5;135mghostbar\u001b[39m at \u001b[38;5;166mur\u001b[39m in \u001b[38;5;118m~/Code/js/temp\u001b[39m \r\n$ \u001b[K"
+    ],
+    [
+      2.288248,
+      "\r\r\n"
+    ]
+  ]
+}
